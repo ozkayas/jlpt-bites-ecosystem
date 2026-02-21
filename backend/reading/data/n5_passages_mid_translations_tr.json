@@ -1,0 +1,85 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "sentences": {
+        "s1": {
+          "translation": "Hata yaptım",
+          "mining_text": "### Gramer & Kalıplar\n- **まちがえました (machigaemashita)**: 'Machigaeru' (hata yapmak) fiilinin nazik geçmiş zaman çekimi.\n\n### Kelimeler\n- まちがえる (machigaeru): hata yapmak / yanılmak"
+        },
+        "s2": {
+          "translation": "Chin Shun",
+          "mining_text": "### Gramer & Kalıplar\n- **チン・シュン**: Katakana ile yazılmış özel isim.\n\n### Kelimeler\n- チン・シュン: Chin Shun (İsim)"
+        },
+        "s3": {
+          "translation": "Dün, Pazar günü, arkadaşımla futbol oynadım.",
+          "mining_text": "### Gramer & Kalıplar\n- **きのうの 日曜日 (kinou no nichiyoubi)**: Dünkü Pazar.\n- **友だちと (tomodachi to)**: Arkadaş ile. 'To' edatı beraberlik bildirir.\n- **サッカーを しました (sakkaa o shimashita)**: Futbol oynadım. 'O' nesne belirtecidir.\n\n### Kelimeler\n- きのう (kinou): dün\n- 日曜日 (nichiyoubi): Pazar\n- 友だち (tomodachi): arkadaş\n- サッカー (sakkaa): futbol"
+        },
+        "s4": {
+          "translation": "Sabahtan akşama kadar oynadığım için çok yoruldum.",
+          "mining_text": "### Gramer & Kalıplar\n- **朝から ゆうがたまで (asa kara yuugata made)**: Sabahtan akşama kadar.\n- **〜から (kara)**: Fiilden sonra geldiğinde 'nedeniyle/için' anlamı katar.\n- **つかれました (tsukaremashita)**: 'Tsukareru' (yorulmak) fiilinin geçmiş zamanı.\n\n### Kelimeler\n- 朝 (asa): sabah\n- ゆうがた (yuugata): akşamüstü\n- とても (totemo): çok\n- つかれる (tsukareru): yorulmak"
+        },
+        "s5": {
+          "translation": "Dün gece akşam yemeğini yedikten sonra hemen uyudum.",
+          "mining_text": "### Gramer & Kalıplar\n- **食べた あとで (tabeta ato de)**: Yedikten sonra. [Fiil Ta-formu] + 'ato de' yapısı '-dıktan sonra' anlamına gelir.\n- **すぐに (sugu ni)**: Hemen / derhal.\n\n### Kelimeler\n- ゆうべ (yuube): dün gece\n- ばんご飯 (bangohan): akşam yemeği\n- 食べる (taberu): yemek\n- ねる (neru): uyumak"
+        },
+        "s6": {
+          "translation": "Bu yüzden, bugünkü kanji sınavına çalışamadım.",
+          "mining_text": "### Gramer & Kalıplar\n- **ですから (desu kara)**: Bu yüzden / dolayısıyla.\n- **べんきょうが できませんでした (benkyou ga dekimasen deshita)**: Çalışamadım. Yapabilirlik fiilinin olumsuz geçmiş hali.\n\n### Kelimeler\n- 今日 (kyou): bugün\n- かんじ (かんじ): kanji\n- テスト (tesuto): test/sınav\n- べんきょう (benkyou): ders çalışma"
+        },
+        "s7": {
+          "translation": "Bu sabah saat 5'te uyandım.",
+          "mining_text": "### Gramer & Kalıplar\n- **5時に (goji ni)**: Saat 5'te. 'Ni' zaman bildiren edat.\n- **起きました (okimashita)**: 'Okiru' (uyanmak) fiilinin geçmiş zamanı.\n\n### Kelimeler\n- けさ (kesa): bu sabah\n- 5時 (goji): saat 5\n- 起きる (okiru): uyanmak / kalkmak"
+        },
+        "s8": {
+          "translation": "Duş aldım ve kahvaltı yaptım.",
+          "mining_text": "### Gramer & Kalıplar\n- **あびて (abite)**: 'Abiru' fiilinin Te-formu. Eylemleri sıralamak için kullanılır.\n\n### Kelimeler\n- シャワー (shawaa): duş\n- あびる (abiru): (duş) almak\n- 朝ご飯 (asagohan): kahvaltı"
+        },
+        "s9": {
+          "translation": "Ondan sonra, hemen kanji kitabının 41. sayfasından 60. sayfasına kadar çalıştım.",
+          "mining_text": "### Gramer & Kalıplar\n- **41ページから 60ページまで (yonjuuichi peeji kara rokujuu peeji made)**: 41. sayfadan 60. sayfaya kadar.\n- **テキストの (tekisuto no)**: Ders kitabının... 'No' ilgi ekidir.\n\n### Kelimeler\n- それから (sorekara): ondan sonra\n- テキスト (tekisuto): ders kitabı\n- ページ (peeji): sayfa"
+        },
+        "s10": {
+          "translation": "Sonra okula gittim.",
+          "mining_text": "### Gramer & Kalıplar\n- **学校へ (gakkou e)**: Okula. 'E' yönelme ekidir.\n\n### Kelimeler\n- 学校 (gakkou): okul\n- 行く (iku): gitmek"
+        },
+        "s11": {
+          "translation": "Çok meşgul bir sabahtı.",
+          "mining_text": "### Gramer & Kalıplar\n- **いそがしい 朝 (isogashii asa)**: Meşgul sabah. Sıfat ismi niteler.\n- **でした (deshita)**: 'Desu'nun geçmiş zamanı.\n\n### Kelimeler\n- いそがしい (isogashii): meşgul"
+        },
+        "s12": {
+          "translation": "Ancak, sınıfta kanji çalışan hiç kimse yoktu.",
+          "mining_text": "### Gramer & Kalıplar\n- **しかし (shikashi)**: Ancak / fakat.\n- **べんきょうしている 人 (benkyou shite iru hito)**: Çalışan kişi(ler).\n- **いませんでした (imasen deshita)**: Yoktu (canlılar için).\n\n### Kelimeler\n- きょうしつ (kyoushitsu): derslik / sınıf\n- 人 (hito): kişi / insan"
+        },
+        "s13": {
+          "translation": "Hata yaptım.",
+          "mining_text": "### Gramer & Kalıplar\n- **まちがえました (machigaemashita)**: Bir şeyin yanlış anlaşıldığını ifade eder.\n\n### Kelimeler\n- まちがえる (machigaeru): yanılmak"
+        },
+        "s14": {
+          "translation": "Sınav bugün değil, yarınmış.",
+          "mining_text": "### Gramer & Kalıplar\n- **今日ではなくて (kyou dewa nakute)**: Bugün olmayıp / bugün değil de...\n- **あしたでした (ashita deshita)**: Yarındı.\n\n### Kelimeler\n- あした (ashita): yarın"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "30 Neden bu sabah saat 5'te uyandı?",
+          "options": {
+            "opt1": "Sabahtan akşama kadar futbol oynamak istediği için",
+            "opt2": "Kanji sınavına çalışmak istediği için",
+            "opt3": "Duş alıp kahvaltı yapmak istediği için",
+            "opt4": "Okula gidip ders çalışmak istediği için"
+          }
+        },
+        "q2": {
+          "text": "31 Chin-san neyi yanlış anladı (hata yaptı)?",
+          "options": {
+            "opt1": "Kanji kitabı",
+            "opt2": "Kanji kitabındaki sayfalar",
+            "opt3": "Kanji sınavının olduğu gün",
+            "opt4": "Kanji sınavının yapılacağı sınıf"
+          }
+        }
+      }
+    }
+  ]
+}

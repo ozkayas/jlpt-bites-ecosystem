@@ -1,0 +1,85 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "sentences": {
+        "s1": {
+          "translation": "Me equivoqué",
+          "mining_text": "### Gramática y Segmentos\n- **まちがえました (machigaemashita)**: Pasado cortés del verbo 'machigaeru' (equivocarse).\n\n### Vocabulario\n- まちがえる (machigaeru): equivocarse / cometer un error"
+        },
+        "s2": {
+          "translation": "Chin Shun",
+          "mining_text": "### Gramática y Segmentos\n- **チン・シュン**: Nombre propio escrito en Katakana.\n\n### Vocabulario\n- チン・シュン: Chin Shun (Nombre)"
+        },
+        "s3": {
+          "translation": "Ayer, domingo, jugué al fútbol con un amigo.",
+          "mining_text": "### Gramática y Segmentos\n- **きのうの 日曜日 (kinou no nichiyoubi)**: El domingo de ayer.\n- **友だちと (tomodachi to)**: Con un amigo. La partícula 'to' indica compañía.\n\n### Vocabulario\n- きのう (kinou): ayer\n- 日曜日 (nichiyoubi): domingo\n- 友だち (tomodachi): amigo\n- サッカー (sakkaa): fútbol"
+        },
+        "s4": {
+          "translation": "Como jugué desde la mañana hasta la tarde, estaba muy cansado.",
+          "mining_text": "### Gramática y Segmentos\n- **朝から ゆうがたまで (asa kara yuugata made)**: Desde la mañana hasta la tarde.\n- **〜から (kara)**: Porque / Debido a que (indica causa).\n\n### Vocabulario\n- 朝 (asa): mañana\n- ゆうがた (yuugata): tarde (atardecer)\n- とても (totemo): muy\n- つかれる (tsukareru): cansarse"
+        },
+        "s5": {
+          "translation": "Anoche, después de cenar, me dormí enseguida.",
+          "mining_text": "### Gramática y Segmentos\n- **食べた あとで (tabeta ato de)**: Después de comer. [Verbo forma Ta] + 'ato de' significa 'después de hacer X'.\n\n### Vocabulario\n- ゆうべ (yuube): anoche\n- ばんご飯 (bangohan): cena\n- 食べる (taberu): comer\n- ねる (neru): dormir / acostarse"
+        },
+        "s6": {
+          "translation": "Por eso, no pude estudiar para el examen de kanji de hoy.",
+          "mining_text": "### Gramática y Segmentos\n- **ですから (desu kara)**: Por eso / Por lo tanto.\n- **できませんでした (dekimasen deshita)**: No pude hacer (pasado negativo de poder).\n\n### Vocabulario\n- 今日 (kyou): hoy\n- かんじ (kanji): kanji\n- テスト (tesuto): examen / test\n- べんきょう (benkyou): estudio"
+        },
+        "s7": {
+          "translation": "Esta mañana me levanté a las 5.",
+          "mining_text": "### Gramática y Segmentos\n- **5時に (goji ni)**: A las 5 en punto. 'Ni' marca el tiempo específico.\n\n### Vocabulario\n- けさ (kesa): esta mañana\n- 5時 (goji): las 5 en punto\n- 起きる (okiru): levantarse / despertarse"
+        },
+        "s8": {
+          "translation": "Me duché y desayuné.",
+          "mining_text": "### Gramática y Segmentos\n- **あびて (abite)**: Forma Te de 'abiru'. Se usa para conectar acciones secuenciales.\n\n### Vocabulario\n- シャワー (shawaa): ducha\n- あびる (abiru): tomar (una ducha)\n- 朝ご飯 (asagohan): desayuno"
+        },
+        "s9": {
+          "translation": "Después, estudié enseguida de la página 41 a la 60 del libro de texto de kanji.",
+          "mining_text": "### Gramática y Segmentos\n- **41ページから 60ページまで**: De la página 41 a la 60.\n\n### Vocabulario\n- それから (sorekara): después / luego\n- テキスト (tekisuto): libro de texto\n- ページ (peeji): página"
+        },
+        "s10": {
+          "translation": "Luego fui a la escuela.",
+          "mining_text": "### Gramática y Segmentos\n- **学校へ (gakkou e)**: A la escuela. 'E' indica dirección.\n\n### Vocabulario\n- 学校 (gakkou): escuela\n- 行く (iku): ir"
+        },
+        "s11": {
+          "translation": "Fue una mañana muy ajetreada.",
+          "mining_text": "### Gramática y Segmentos\n- **いそがしい 朝 (isogashii asa)**: Mañana ocupada.\n\n### Vocabulario\n- いそがしい (isogashii): ocupado / ajetreado"
+        },
+        "s12": {
+          "translation": "Sin embargo, no había nadie estudiando kanji en el aula.",
+          "mining_text": "### Gramática y Segmentos\n- **しかし (shikashi)**: Sin embargo.\n- **べんきょうしている 人 (benkyou shite iru hito)**: Persona(s) que están/estaban estudiando.\n- **いませんでした (imasen deshita)**: No había (para seres vivos).\n\n### Vocabulario\n- きょうしつ (kyoushitsu): aula / salón de clases\n- 人 (hito): persona"
+        },
+        "s13": {
+          "translation": "Me equivoqué.",
+          "mining_text": "### Gramática y Segmentos\n- **まちがえました (machigaemashita)**: Se refiere al error cometido sobre el día del examen.\n\n### Vocabulario\n- まちがえる (machigaeru): equivocarse"
+        },
+        "s14": {
+          "translation": "El examen no era hoy, era mañana.",
+          "mining_text": "### Gramática y Segmentos\n- **今日ではなくて (kyou dewa nakute)**: No hoy (sino...). Forma de conexión negativa.\n\n### Vocabulario\n- あした (ashita): mañana"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "30 ¿Por qué se levantó a las 5 esta mañana?",
+          "options": {
+            "opt1": "Porque quería jugar al fútbol desde la mañana hasta la tarde.",
+            "opt2": "Porque quería estudiar para el examen de kanji.",
+            "opt3": "Porque quería ducharse y desayunar.",
+            "opt4": "Porque quería ir a la escuela y estudiar."
+          }
+        },
+        "q2": {
+          "text": "31 ¿En qué se equivocó Chin-san?",
+          "options": {
+            "opt1": "En el libro de texto de kanji.",
+            "opt2": "En las páginas del libro de texto de kanji.",
+            "opt3": "En el día en que es el examen de kanji.",
+            "opt4": "En el aula donde se hace el examen de kanji."
+          }
+        }
+      }
+    }
+  ]
+}

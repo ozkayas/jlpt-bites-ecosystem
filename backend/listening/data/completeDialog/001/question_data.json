@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Asking for directions/locations",
+        "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/completeDialog/001/audio.mp3"
+    },
+    "correct_option": 2,
+    "transcription": {
+        "intro": "すみません。さくらほてるは どこですか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "すみません。さくらほてるは どこですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "1 　きれいです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "2 　よく いきます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "3 　あの ちゃいろい びるです。"
+            }
+        ],
+        "question": "さくらほてるは どこですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "どこ",
+                "tr": "neresi / nerede",
+                "en": "where"
+            },
+            {
+                "word": "きれい",
+                "tr": "güzel / temiz",
+                "en": "beautiful / clean"
+            },
+            {
+                "word": "よく",
+                "tr": "sık sık",
+                "en": "often"
+            },
+            {
+                "word": "ちゃいろい",
+                "tr": "kahverengi",
+                "en": "brown"
+            },
+            {
+                "word": "びる",
+                "tr": "bina",
+                "en": "building"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は どこですか",
+                "tr": "... nerede? (yer sormak için kullanılır)",
+                "en": "Where is ...? (used to ask for locations)"
+            },
+            {
+                "point": "～です",
+                "tr": "...-dır/-dir (cümleyi bitiren kibar ek)",
+                "en": "is/am/are (polite copula)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek 'Sakura Oteli nerede?' diye sormaktadır. 1. seçenek otelin güzel olduğunu, 2. seçenek oraya sık gittiğini söyler. 3. seçenek ise 'O kahverengi binadır' diyerek yerini belirttiği için doğru cevaptır.",
+        "en": "The man asks 'Where is Sakura Hotel?'. Option 1 describes it as beautiful, and option 2 says the person often goes there. Option 3 is the correct answer because it identifies the location by saying 'It is that brown building'."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "なつやすみの　よてい (Summer Vacation Plans)",
+        "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/001/audio.mp3"
+    },
+    "options": [
+        "アルバイトを　します",
+        "やまに　のぼります",
+        "りょこうを　します",
+        "まいにち　はしります"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとあは　なつやすみに　なにをしますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "なつやすみは　どうしますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ずっと　アルバイトです。でも、りょこうにも　いきたいです。たなかさんは？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "かぞく　みんなで　ふじさんに　のぼります。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいですね。でも　たかいですから　きをつけてくださいね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ええ。いま　ちちとははが　まいにち　はしっていますよ。"
+            }
+        ],
+        "question": "おとこのひとは　なつやすみに　なにをしますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "なつやすみ",
+                "tr": "yaz tatili",
+                "en": "summer vacation"
+            },
+            {
+                "word": "ずっと",
+                "tr": "boyunca, sürekli",
+                "en": "all the time, throughout"
+            },
+            {
+                "word": "アルバイト",
+                "tr": "yarı zamanlı iş",
+                "en": "part-time job"
+            },
+            {
+                "word": "のぼります",
+                "tr": "tırmanmak",
+                "en": "to climb"
+            },
+            {
+                "word": "かぞく",
+                "tr": "aile",
+                "en": "family"
+            },
+            {
+                "word": "きをつけて",
+                "tr": "dikkatli ol",
+                "en": "be careful"
+            },
+            {
+                "word": "はしります",
+                "tr": "koşmak",
+                "en": "to run"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に　いきます",
+                "tr": "bir yere gitmek için kullanılan yönelme eki",
+                "en": "particle used to indicate destination/purpose of going"
+            },
+            {
+                "point": "～たいです",
+                "tr": "istek belirtir (yapmak istiyorum)",
+                "en": "expresses desire (want to do something)"
+            },
+            {
+                "point": "～ています",
+                "tr": "şimdiki zaman veya süregelen durum",
+                "en": "present continuous or ongoing state"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın tüm yaz çalışacağını söylerken, erkek (Tanaka) ailesiyle birlikte Fuji Dağı'na tırmanacağını (ふじさんに　のぼります) belirtmektedir. Bu nedenle doğru cevap 'Dağa tırmanmak' seçeneğidir. Erkeğin anne ve babasının her gün koşuyor olması hazırlık amaçlıdır, tatil planının kendisi değildir.",
+        "en": "The woman says she will work a part-time job all the time, but the man (Tanaka) explicitly states he will climb Mt. Fuji with his family (ふじさんに　のぼります). Therefore, the correct answer is 'climbing a mountain'. The fact that his parents are running every day is preparation, not the vacation activity itself."
+    }
+}

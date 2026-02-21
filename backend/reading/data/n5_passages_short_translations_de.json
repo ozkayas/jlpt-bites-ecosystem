@@ -1,0 +1,419 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_short_001",
+      "sentences": {
+        "s1": {
+          "translation": "(An der Universität)",
+          "mining_text": "### Grammatik & Chunks\n- **で (de)**: Ortspartikel, zeigt an, wo die Handlung oder Situation stattfindet.\n\n### Vokabeln\n- 大学 (だいがく): Universität"
+        },
+        "s2": {
+          "translation": "Ein Student hat diesen Zettel gesehen.",
+          "mining_text": "### Grammatik & Chunks\n- **が (ga)**: Subjektmarker, kennzeichnet den Studenten als Ausführenden.\n- **を (o)**: Objektmarker, zeigt an, dass der Zettel das Objekt der Betrachtung ist.\n- **見ました (みました - mimashita)**: Höfliche Vergangenheitsform von 見る (miru - sehen).\n\n### Vokabeln\n- 学生 (がくせい): Student\n- 紙 (かみ): Papier, Zettel\n- 見る (みる): sehen, schauen"
+        },
+        "s3": {
+          "translation": "An alle Teilnehmer der Kurse „Japanisch 1“ und „Japanisch 2“",
+          "mining_text": "### Grammatik & Chunks\n- **と (to)**: Bindewort, bedeutet 'und'.\n- **の (no)**: Genitiv-Partikel, verknüpft die Klassen mit den Personen.\n- **へ (e)**: Richtungspartikel, hier als Empfängerangabe 'an ...'.\n\n### Vokabeln\n- 日本語 (にほんご): Japanisch\n- クラス: Klasse, Kurs\n- みなさん: alle, meine Damen und Herren"
+        },
+        "s4": {
+          "translation": "Heute hat Professor Degawa bis zum Mittag frei.",
+          "mining_text": "### Grammatik & Chunks\n- **は (wa)**: Themapartikel, macht Professor Degawa zum Thema des Satzes.\n- **まで (made)**: Partikel mit der Bedeutung 'bis', zeigt den Endpunkt der Abwesenheit an.\n- **お休みです (oyasumi desu)**: Höfliche Form für 'hat frei' oder 'ist abwesend'.\n\n### Vokabeln\n- 今日 (きょう): heute\n- お昼 (おひる): Mittag\n- お休み (おやすみ): Pause, Abwesenheit, frei haben"
+        },
+        "s5": {
+          "translation": "Die „Japanisch 1“-Klasse am Vormittat fällt aus.",
+          "mining_text": "### Grammatik & Chunks\n- **ありません (arimasen)**: Höfliche negative Form von ある (aru), bedeutet 'gibt es nicht'.\n\n### Vokabeln\n- 午前 (ごぜん): Vormittag"
+        },
+        "s6": {
+          "translation": "Die „Japanisch 2“-Klasse am Nachmittag findet statt.",
+          "mining_text": "### Grammatik & Chunks\n- **あります (arimasu)**: Höfliche Form von ある (aru), bedeutet 'gibt es' oder 'findet statt'.\n\n### Vokabeln\n- 午後 (ごご): Nachmittag"
+        },
+        "s7": {
+          "translation": "Bitte geben Sie die Hausaufgaben für „Japanisch 1“ nächste Woche ab.",
+          "mining_text": "### Grammatik & Chunks\n- **出して ください (だして ください - dashite kudasai)**: Te-Form von 出す (dasu) + ください (kudasai). Diese Konstruktion wird für eine höfliche Bitte verwendet.\n\n### Vokabeln\n- しゅくだい: Hausaufgaben\n- 来週 (らいしゅう): nächste Woche\n- 出す (だす): abgeben, einreichen"
+        },
+        "s8": {
+          "translation": "2. Dezember 2016, Takami Universität",
+          "mining_text": "### Grammatik & Chunks\n- **年 (ねん), 月 (がつ), 日 (にち/か)**: Zählwörter für Jahr, Monat und Tag.\n\n### Vokabeln\n- 高見大学 (たかみだいがく): Takami Universität (Eigenname)"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Was möchte die Universität den Studenten des Kurses „Japanisch 1“ mitteilen?",
+          "options": {
+            "opt1": "Heute findet kein Kurs statt. Bitte geben Sie die Hausaufgaben am Nachmittag ab.",
+            "opt2": "Heute findet kein Kurs statt. Bitte geben Sie die Hausaufgaben nächste Woche ab.",
+            "opt3": "Heute findet der Kurs statt, aber bitte geben Sie die Hausaufgaben nächste Woche ab.",
+            "opt4": "Da heute ein Kurs stattfindet, geben Sie bitte die Hausaufgaben ab."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_002",
+      "sentences": {
+        "s1": {
+          "translation": "(In der Firma)",
+          "mining_text": "### Grammatik & Chunks\n- **で (de)**: Ortspartikel, zeigt an, wo eine Handlung oder Situation stattfindet.\n\n### Vokabeln\n- 会社 (かいしゃ): Firma, Unternehmen"
+        },
+        "s2": {
+          "translation": "Auf Herrn Bogos Schreibtisch liegen diese Notiz und ein Paket.",
+          "mining_text": "### Grammatik & Chunks\n- **の (no)**: Genitivpartikel, verbindet Bogo-san mit dem Schreibtisch und den Schreibtisch mit der Oberseite ('auf').\n- **に (ni)**: Ortspartikel der Existenz, markiert den Ort, an dem sich die Gegenstände befinden.\n- **と (to)**: Partikel für 'und', wird zum Auflisten von Nomen verwendet.\n- **あります (arimasu)**: Höfliches Verb, das die Existenz von unbelebten Objekten anzeigt.\n\n### Vokabeln\n- 机 (つくえ): Schreibtisch\n- 上 (うえ): oben, auf\n- 荷物 (にもつ): Gepäck, Paket"
+        },
+        "s3": {
+          "translation": "Herr Bogo",
+          "mining_text": "### Grammatik & Chunks\n- **さん (san)**: Höflichkeitssuffix nach Namen.\n\n### Vokabeln\n- ボゴ: Bogo (Name)"
+        },
+        "s4": {
+          "translation": "Gegen 10 Uhr kommt jemand von der Post, um dieses Paket abzuholen, also übergeben Sie bitte das Paket und das Geld.",
+          "mining_text": "### Grammatik & Chunks\n- **ごろ (goro)**: Partikel für ungefähre Zeitangaben (gegen/etwa).\n- **～に 来ます (ni kimasu)**: Zweck des Kommens; der Stamm von とる plus に bedeutet 'um zu holen'.\n- **から (kara)**: Konjunktion für 'da' oder 'weil', gibt den Grund an.\n- **～て ください (te kudasai)**: Höfliche Bitte.\n\n### Vokabeln\n- 郵便局 (ゆうびんきょく): Postamt\n- 人 (ひと): Person, Mensch\n- お金 (おかね): Geld\n- 渡す (わたす): übergeben"
+        },
+        "s5": {
+          "translation": "Was das Geld betrifft, Herr Nakanishi hat es.",
+          "mining_text": "### Grammatik & Chunks\n- **持って います (motte imasu)**: Te-Form von 持つ + います. Zeigt den Zustand des Besitzens oder Tragens an.\n\n### Vokabeln\n- 中西 (なかにし): Nakanishi (Familienname)\n- 持つ (もつ): halten, tragen, haben"
+        },
+        "s6": {
+          "translation": "Bitte gehen Sie es holen, bevor die Person vom Postamt kommt.",
+          "mining_text": "### Grammatik & Chunks\n- **～前に (mae ni)**: Bevor (Wörterbuchform des Verbs + mae ni).\n- **もらいに 行く (morai ni iku)**: Zweck des Gehens; 'gehen, um zu erhalten/abzuholen'.\n\n### Vokabeln\n- 前 (まえ): vor, bevor\n- もらう: erhalten, bekommen\n- 行く (いく): gehen"
+        },
+        "s7": {
+          "translation": "Vielen Dank im Voraus / Mit freundlichen Grüßen.",
+          "mining_text": "### Grammatik & Chunks\n- **よろしく おねがいします**: Eine feste Redewendung, die verwendet wird, wenn man um einen Gefallen bittet.\n\n### Vokabeln\n- お願いする (おねがいする): bitten, ersuchen"
+        },
+        "s8": {
+          "translation": "Tada, 30. November, 9:30 Uhr",
+          "mining_text": "### Vokabeln\n- 多田 (ただ): Tada (Familienname)\n- 11月 (じゅういちがつ): November\n- 30日 (さんじゅうにち): 30. Tag des Monats"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Was wird Herr Bogo nach dem Lesen dieser Notiz zuerst tun?",
+          "options": {
+            "opt1": "Das Geld von Herrn Nakanishi erhalten.",
+            "opt2": "Das Paket und das Geld an Herrn Nakanishi übergeben.",
+            "opt3": "Ein Paket von der Person vom Postamt erhalten.",
+            "opt4": "Das Paket und das Geld an die Person vom Postamt übergeben."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_003",
+      "sentences": {
+        "s1": {
+          "translation": "Jeden Morgen esse ich entweder Reis und Natto oder Brot und Eier und gehe dann zur Schule.",
+          "mining_text": "### Grammatik & Chunks\n- **は (wa)**: Themapartikel, markiert 'ich' als Subjekt.\n- **か (ka)**: Partikel, die hier als 'oder' verwendet wird, um zwischen zwei Frühstücksoptionen zu wählen.\n- **食べて (tabete)**: Te-Form von 食べる (taberu). Verbindet das Essen mit der nächsten Handlung (zur Schule gehen).\n- **へ (e)**: Richtungspartikel, gibt die Schule als Ziel an.\n\n### Vokabeln\n- 毎朝 (まいあさ): jeden Morgen\n- ご飯 (ごはん): Reis / Mahlzeit\n- なっとう: Natto (fermentierte Sojabohnen)\n- たまご: Ei\n- 学校 (がっこう): Schule"
+        },
+        "s2": {
+          "translation": "Aber heute Morgen habe ich nichts gegessen.",
+          "mining_text": "### Grammatik & Chunks\n- **でも (demo)**: Konjunktion mit der Bedeutung 'aber'.\n- **何も (nani mo)**: Wird mit einem negativen Verb verwendet und bedeutet 'nichts'.\n- **食べませんでした (tabemasen deshita)**: Höfliche Vergangenheitsform von 食べる in der Verneinung.\n\n### Vokabeln\n- けさ: heute Morgen\n- 何も (なにも): nichts (mit Negativ)"
+        },
+        "s3": {
+          "translation": "Ich habe eine Banane mit zur Schule genommen.",
+          "mining_text": "### Grammatik & Chunks\n- **持っていきました (motte ikimashita)**: Höfliche Vergangenheitsform von 持っていく (etwas mitnehmen).\n\n### Vokabeln\n- バナナ: Banane\n- 持っていく (もっていく): (etwas) mitnehmen"
+        },
+        "s4": {
+          "translation": "Das liegt daran, dass ich spät aufgewacht bin (die Aufwachzeit spät war).",
+          "mining_text": "### Grammatik & Chunks\n- **起きた時間 (okita jikan)**: Relativsatz; 'die Zeit, zu der ich aufgewacht bin'.\n- **おそかった (osokatta)**: Vergangenheitsform des i-Adjektivs おそい (spät/langsam).\n- **～からです (kara desu)**: Erklärende Endung mit der Bedeutung 'es liegt daran, dass...'.\n\n### Vokabeln\n- 起きる (おきる): aufwachen\n- 時間 (じかん): Zeit\n- おそい: spät / langsam"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Was hat 'ich' heute Morgen gegessen, bevor ich zur Schule ging?",
+          "options": {
+            "opt1": "Habe Reis und Natto gegessen.",
+            "opt2": "Habe Brot und Eier gegessen.",
+            "opt3": "Habe nichts gegessen.",
+            "opt4": "Habe eine Banane gegessen."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_004",
+      "sentences": {
+        "s1": {
+          "translation": "Heute Morgen bin ich zum Bahnhof gelaufen.",
+          "mining_text": "### Grammatik & Chunks\n- **は (wa)**: Themenpartikel, setzt 'heute' (きょう) als Thema des Satzes.\n- **まで (made)**: Partikel mit der Bedeutung 'bis zu', gibt das Ziel der Bewegung an.\n- **あるきました (arukimashita)**: Höfliche Vergangenheitsform von あるく (laufen/gehen). Zeigt eine abgeschlossene Handlung an.\n\n### Vokabeln\n- きょう: heute\n- あさ: Morgen\n- えき: Bahnhof\n- あるく: laufen, zu Fuß gehen"
+        },
+        "s2": {
+          "translation": "Ich bin mit dem Zug zur Firma gefahren.",
+          "mining_text": "### Grammatik & Chunks\n- **で (de)**: Instrumentalpartikel, gibt das Mittel an (mit dem Zug).\n- **へ (he/e)**: Richtungspartikel, markiert das Ziel (Firma).\n- **行きました (ikimashita)**: Höfliche Vergangenheitsform von 行く (gehen/fahren).\n\n### Vokabeln\n- でんしゃ: Zug\n- かいしゃ: Firma, Unternehmen\n- 行く (いく): gehen, fahren"
+        },
+        "s3": {
+          "translation": "Mittags habe ich Curry in einem Restaurant gegessen.",
+          "mining_text": "### Grammatik & Chunks\n- **ひるは (hiru wa)**: 'Mittag' als Thema des Satzes.\n- **で (de)**: Ortspartikel, markiert den Ort der Handlung (essen).\n- **を (o)**: Objektpartikel, markiert 'Curry' als das gegessene Objekt.\n- **たべました (tabemashita)**: Höfliche Vergangenheitsform von たべる (essen).\n\n### Vokabeln\n- ひる: Mittag, Mittagszeit\n- レストラン: Restaurant\n- カレー: Curry\n- たべる: essen"
+        },
+        "s4": {
+          "translation": "Es war sehr lecker.",
+          "mining_text": "### Grammatik & Chunks\n- **とても (totemo)**: Adverb mit der Bedeutung 'sehr', dient zur Betonung.\n- **おいしかったです (oishikatta desu)**: Höfliche Vergangenheitsform des i-Adjektivs おいしい (lecker). Bei i-Adjektiven wird das ~i zu ~katta, um die Vergangenheit zu bilden.\n\n### Vokabeln\n- とても: sehr\n- おいしい: lecker, köstlich"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Wie sind Sie heute zur Firma gefahren?",
+          "options": {
+            "opt1": "zu Fuß",
+            "opt2": "mit dem Bus",
+            "opt3": "mit dem Zug",
+            "opt4": "mit dem Fahrrad"
+          }
+        },
+        "q2": {
+          "text": "Was haben Sie zu Mittag gegessen?",
+          "options": {
+            "opt1": "Brot",
+            "opt2": "Ramen",
+            "opt3": "Curry",
+            "opt4": "Sushi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_005",
+      "sentences": {
+        "s1": {
+          "translation": "Gestern habe ich mit einem Freund einen Film gesehen.",
+          "mining_text": "### Grammatik & Chunks\n- は (wa): Themenpartikel, markiert 'gestern' als Zeitrahmen.\n- と (to): Begleitpartikel, bedeutet 'mit' (Freund).\n- を (o): Objektpartikel, markiert 'Film' als das Objekt, das gesehen wurde.\n- みました (mimashita): Höfliche Vergangenheitsform von みる (sehen/schauen).\n\n### Vokabeln\n- きのう: gestern\n- ともだち: Freund\n- えいが: Film\n- みる: sehen, schauen"
+        },
+        "s2": {
+          "translation": "Nach dem Film sind wir in ein Café gegangen.",
+          "mining_text": "### Grammatik & Chunks\n- の あとで (no ato de): Ausdruck mit der Bedeutung 'nach ~', verbindet ein Nomen mit der Sequenz.\n- に (ni): Zielpartikel, markiert das Café als das Ziel.\n- 行きました (ikimashita): Höfliche Vergangenheitsform von 行く (gehen).\n\n### Vokabeln\n- あとで: nachher, später\n- カフェ: Café\n- 行く (いく): gehen"
+        },
+        "s3": {
+          "translation": "Wir haben Kaffee getrunken und viel geredet.",
+          "mining_text": "### Grammatik & Chunks\n- のんで (nonde): Te-Form von のむ (trinken), wird hier verwendet, um zwei Handlungen nacheinander zu verbinden.\n- たくさん (takusan): Adverb mit der Bedeutung 'viel'.\n- はなしました (hanashimashita): Höfliche Vergangenheitsform von はなす (sprechen/reden).\n\n### Vokabeln\n- コーヒー: Kaffee\n- のむ: trinken\n- たくさん: viel\n- はなす: sprechen, reden"
+        },
+        "s4": {
+          "translation": "Es hat Spaß gemacht.",
+          "mining_text": "### Grammatik & Chunks\n- たのしかったです (tanoshikatta desu): Höfliche Vergangenheitsform des i-Adjektivs たのしい (lustig/angenehm).\n\n### Vokabeln\n- たのしい: lustig, angenehm"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Mit wem haben Sie gestern den Film gesehen?",
+          "options": {
+            "opt1": "Familie",
+            "opt2": "Freund",
+            "opt3": "Lehrer",
+            "opt4": "allein"
+          }
+        },
+        "q2": {
+          "text": "Was haben Sie im Café getrunken?",
+          "options": {
+            "opt1": "Saft",
+            "opt2": "Tee",
+            "opt3": "Kaffee",
+            "opt4": "Wasser"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_006",
+      "sentences": {
+        "s1": {
+          "translation": "Jeden Morgen stehe ich um 6 Uhr auf.",
+          "mining_text": "### Grammatik & Chunks\n- まいあさ (maiasa): Zeitausdruck für 'jeden Morgen'.\n- に (ni): Zeitpartikel, markiert den Zeitpunkt.\n- おきます (okimasu): Masu-Form von おきる (aufstehen), drückt eine Gewohnheit aus.\n\n### Vokabeln\n- まいあさ: jeden Morgen\n- 6じ: 6 Uhr\n- おきる: aufstehen"
+        },
+        "s2": {
+          "translation": "Ich esse Brot und Eier.",
+          "mining_text": "### Grammatik & Chunks\n- と (to): Verbindungspartikel für Nomen ('und').\n- を (o): Objektpartikel.\n- たべます (tabemasu): Masu-Form von たべる (essen).\n\n### Vokabeln\n- パン: Brot\n- たまご: Ei\n- たべる: essen"
+        },
+        "s3": {
+          "translation": "Danach gehe ich zur Schule.",
+          "mining_text": "### Grammatik & Chunks\n- そのあと (sono ato): Konjunktion für 'danach'.\n- へ (e): Richtungspartikel für das Ziel.\n- 行きます (ikimasu): Masu-Form von いく (gehen).\n\n### Vokabeln\n- そのあと: danach\n- がっこう: Schule\n- 行く (いく): gehen"
+        },
+        "s4": {
+          "translation": "Ich mag das Lernen.",
+          "mining_text": "### Grammatik & Chunks\n- が (ga): Partikel, die das Objekt der Vorliebe markiert.\n- すきです (suki desu): Höfliche Form für 'mögen'.\n\n### Vokabeln\n- べんきょう: Lernen, Studium\n- すき: gern haben, mögen"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Um wie viel Uhr stehen Sie auf?",
+          "options": {
+            "opt1": "5 Uhr",
+            "opt2": "6 Uhr",
+            "opt3": "7 Uhr",
+            "opt4": "8 Uhr"
+          }
+        },
+        "q2": {
+          "text": "Wohin gehen Sie?",
+          "options": {
+            "opt1": "Firma",
+            "opt2": "Bahnhof",
+            "opt3": "Schule",
+            "opt4": "Zuhause"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_007",
+      "sentences": {
+        "s1": {
+          "translation": "Das Wochenende verbringe ich zu Hause.",
+          "mining_text": "### Grammatik & Chunks\n- しゅうまつ は (shuumatsu wa): Das Thema des Satzes ist 'das Wochenende'.\n- うち で (uchi de): Die Partikel 'de' markiert den Ort (Zuhause), an dem die Handlung stattfindet.\n- すごします (sugoshimasu): Masu-Form von すごす (Zeit verbringen).\n\n### Vokabeln\n- しゅうまつ: Wochenende\n- うち: Zuhause/Haus\n- すごす: Zeit verbringen"
+        },
+        "s2": {
+          "translation": "Ich mache Dinge wie Fernsehen und Bücher lesen.",
+          "mining_text": "### Grammatik & Chunks\n- ～たり ～たり します (~tari ~tari shimasu): Grammatikmuster zum Auflisten von beispielhaften Handlungen.\n- みたり (mitari): Tari-Form von みる (sehen/schauen).\n- よんだり (yondari): Tari-Form von よむ (lesen).\n\n### Vokabeln\n- テレビ: Fernseher\n- 本 (ほん): Buch\n- みる: sehen, schauen\n- よむ: lesen"
+        },
+        "s3": {
+          "translation": "Mittags habe ich Ramen gegessen.",
+          "mining_text": "### Grammatik & Chunks\n- ひる は (hiru wa): Setzt 'Mittag' als Zeitrahmen.\n- たべました (tabemashita): Höfliche Vergangenheitsform von たべる (essen).\n\n### Vokabeln\n- ひる: Mittag\n- ラーメン: Ramen\n- たべる: essen"
+        },
+        "s4": {
+          "translation": "Ich habe mich entspannt.",
+          "mining_text": "### Grammatik & Chunks\n- ゆっくり (yukkuri): Adverb mit der Bedeutung 'langsam' oder 'entspannt'.\n- しました (shimashita): Höfliche Vergangenheitsform von する (machen).\n\n### Vokabeln\n- ゆっくり: langsam, entspannt\n- する: machen"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Wo verbringen Sie Ihr Wochenende?",
+          "options": {
+            "opt1": "Schule",
+            "opt2": "Firma",
+            "opt3": "Zuhause",
+            "opt4": "Restaurant"
+          }
+        },
+        "q2": {
+          "text": "Was haben Sie zu Mittag gegessen?",
+          "options": {
+            "opt1": "Curry",
+            "opt2": "Brot",
+            "opt3": "Ramen",
+            "opt4": "Sushi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_008",
+      "sentences": {
+        "s1": {
+          "translation": "Heute ist es regnerisch.",
+          "mining_text": "### Grammatik & Chunks\n- きょう は (kyou wa): Setzt 'heute' als Thema des Satzes.\n- あめ です (ame desu): Nomen + Kopula 'desu', um einen Zustand oder eine Tatsache auszudrücken.\n\n### Vokabeln\n- きょう: heute\n- あめ: Regen"
+        },
+        "s2": {
+          "translation": "Ich gehe nicht nach draußen.",
+          "mining_text": "### Grammatik & Chunks\n- そと に (soto ni): Partikel 'ni' markiert den Ort oder die Richtung der Bewegung.\n- 出ません (demasen): Höfliche negative Form von 出る (deru - hinausgehen).\n\n### Vokabeln\n- そと: draußen\n- 出る (でる): hinausgehen"
+        },
+        "s3": {
+          "translation": "Ich höre zu Hause Musik.",
+          "mining_text": "### Grammatik & Chunks\n- うち で (uchi de): 'de' markiert den Ort der Handlung (zu Hause).\n- おんがく を (ongaku o): 'o' markiert das direkte Objekt (Musik).\n- ききます (kikimasu): Masu-Form von きく (kiku - hören).\n\n### Vokabeln\n- うち: Zuhause\n- おんがく: Musik\n- きく: hören"
+        },
+        "s4": {
+          "translation": "Ich trinke auch Kaffee.",
+          "mining_text": "### Grammatik & Chunks\n- も (mo): Partikel mit der Bedeutung 'auch'.\n- のみます (nomimasu): Masu-Form von のむ (nomu - trinken).\n\n### Vokabeln\n- コーヒー: Kaffee\n- のむ: trinken"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Wie ist das Wetter heute?",
+          "options": {
+            "opt1": "sonnig",
+            "opt2": "bewölkt",
+            "opt3": "regnerisch",
+            "opt4": "verschneit"
+          }
+        },
+        "q2": {
+          "text": "Wo hören Sie Musik?",
+          "options": {
+            "opt1": "draußen",
+            "opt2": "Bahnhof",
+            "opt3": "Café",
+            "opt4": "Zuhause"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_009",
+      "sentences": {
+        "s1": {
+          "translation": "Mein Freund ist Japaner.",
+          "mining_text": "### Grammatik & Chunks\n- は (wa): Themenpartikel, zeigt an, dass 'Freund' das Thema des Satzes ist.\n- にほんじん です (nihonjin desu): Nomen + Kopula 'desu', um eine Nationalität festzustellen.\n\n### Vokabeln\n- ともだち: Freund\n- にほんじん: Japaner"
+        },
+        "s2": {
+          "translation": "Er/Sie bringt mir Japanisch bei.",
+          "mining_text": "### Grammatik & Chunks\n- を (o): Objektpartikel, markiert 'Japanisch' als das, was gelehrt wird.\n- おしえて くれます (oshiete kuremasu): Te-Form von 'lehren' + 'kuremasu'. Zeigt an, dass jemand dem Sprecher einen Gefallen tut.\n\n### Vokabeln\n- にほんご: Japanische Sprache\n- おしえる: lehren, beibringen"
+        },
+        "s3": {
+          "translation": "Manchmal lernen wir zusammen.",
+          "mining_text": "### Grammatik & Chunks\n- ときどき (tokidoki): Häufigkeitsadverb mit der Bedeutung 'manchmal'.\n- いっしょ に (issho ni): Adverbiale Wendung mit der Bedeutung 'zusammen'.\n- べんきょう します (benkyou shimasu): Höfliche Form des Verbs 'lernen'.\n\n### Vokabeln\n- いっしょに: zusammen\n- べんきょうする: lernen, studieren"
+        },
+        "s4": {
+          "translation": "Er/Sie ist sehr freundlich.",
+          "mining_text": "### Grammatik & Chunks\n- とても (totemo): Gradadverb mit der Bedeutung 'sehr'.\n- しんせつ です (shinsetsu desu): Na-Adjektiv 'shinsetsu' (freundlich) + Kopula 'desu'.\n\n### Vokabeln\n- とても: sehr\n- しんせつ: freundlich, gütig"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Woher kommt dein Freund?",
+          "options": {
+            "opt1": "Korea",
+            "opt2": "Japan",
+            "opt3": "China",
+            "opt4": "Amerika"
+          }
+        },
+        "q2": {
+          "text": "Was macht dein Freund?",
+          "options": {
+            "opt1": "Englisch lehren",
+            "opt2": "Japanisch lehren",
+            "opt3": "Kochen",
+            "opt4": "Einen Film sehen"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_010",
+      "sentences": {
+        "s1": {
+          "translation": "Gestern bin ich mit meiner Mutter zum Supermarkt gegangen.",
+          "mining_text": "### Grammatik & Strukturen\n- **と (to)**: Begleitungspartikel, bedeutet 'mit'. Zeigt an, dass man etwas zusammen mit jemandem tut.\n- **に 行きました (ni ikimashita)**: Richtungspartikel に + Vergangenheitsform von 行く (gehen). Zeigt die Bewegung zu einem Ziel an.\n\n### Vokabular\n- きのう: gestern\n- お母さん (okaasan): Mutter\n- スーパー: Supermarkt\n- 行く (iku): gehen"
+        },
+        "s2": {
+          "translation": "Wir haben Gemüse und Obst gekauft.",
+          "mining_text": "### Grammatik & Strukturen\n- **と (to)**: Aufzählungspartikel, bedeutet 'und', verbindet zwei Nomen.\n- **を 買いました (o kaimashita)**: Objektpartikel を + Vergangenheitsform von 買う (kaufen).\n\n### Vokabular\n- やさい: Gemüse\n- くだもの: Obst\n- 買う (kau): kaufen"
+        },
+        "s3": {
+          "translation": "Die Äpfel waren günstig.",
+          "mining_text": "### Grammatik & Strukturen\n- **が (ga)**: Subjektpartikel, hebt りんご als Subjekt hervor.\n- **安かったです (yasukatta desu)**: Vergangenheitsform des i-Adjektivs 安い (günstig). i-Adjektiv Vergangenheit: い weglassen → かった anhängen.\n\n### Vokabular\n- りんご: Apfel\n- 安い (yasui): günstig, billig"
+        },
+        "s4": {
+          "translation": "Wir sind nach Hause gegangen und haben zusammen Abendessen gekocht.",
+          "mining_text": "### Grammatik & Strukturen\n- **に かえって (ni kaette)**: Te-Form von 帰る (zurückkehren/nach Hause gehen), verbindet zwei Handlungen nacheinander.\n- **いっしょ に (issho ni)**: Adverbiale Wendung mit der Bedeutung 'zusammen'.\n\n### Vokabular\n- うち: Zuhause, Haus\n- かえる: zurückkehren, nach Hause gehen\n- いっしょに: zusammen\n- ばんごはん: Abendessen\n- つくる: machen, kochen"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Mit wem bist du zum Supermarkt gegangen?",
+          "options": {
+            "opt1": "Vater",
+            "opt2": "Mutter",
+            "opt3": "Freund",
+            "opt4": "Ältere Schwester"
+          }
+        },
+        "q2": {
+          "text": "Wie waren die Äpfel?",
+          "options": {
+            "opt1": "Teuer",
+            "opt2": "Groß",
+            "opt3": "Günstig",
+            "opt4": "Klein"
+          }
+        }
+      }
+    }
+  ]
+}

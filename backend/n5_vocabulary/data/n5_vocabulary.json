@@ -1,0 +1,1124 @@
+{
+  "words": [
+    {
+      "id": "n5_vocab_001",
+      "word": "学校",
+      "reading": "がっこう",
+      "romaji": "gakkou",
+      "tag": "名詞",
+      "translations": {
+        "en": "school",
+        "tr": "okul",
+        "de": "Schule",
+        "es": "escuela",
+        "fr": "école"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "毎日、学校へ行きます。",
+          "furigana": "<ruby>毎日<rt>まいにち</rt></ruby>、<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Mainichi, gakkou e ikimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I go to school every day.",
+            "tr": "Her gün okula gidiyorum.",
+            "de": "Ich gehe jeden Tag zur Schule.",
+            "es": "Voy a la escuela todos los días.",
+            "fr": "Je vais à l'école tous les jours."
+          }
+        },
+        {
+          "ja": "学校は九時に始まります。",
+          "furigana": "<ruby>学校<rt>がっこう</rt></ruby>は<ruby>九時<rt>くじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まります。",
+          "romaji": "Gakkou wa kuji ni hajimarimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "School starts at nine o'clock.",
+            "tr": "Okul saat dokuzda başlar.",
+            "de": "Die Schule beginnt um neun Uhr.",
+            "es": "La escuela empieza a las nueve.",
+            "fr": "L'école commence à neuf heures."
+          }
+        },
+        {
+          "ja": "私の学校は大きいです。",
+          "furigana": "<ruby>私<rt>わたし</rt></ruby>の<ruby>学校<rt>がっこう</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。",
+          "romaji": "Watashi no gakkou wa ookii desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "My school is big.",
+            "tr": "Benim okulom büyük.",
+            "de": "Meine Schule ist groß.",
+            "es": "Mi escuela es grande.",
+            "fr": "Mon école est grande."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_002",
+      "word": "先生",
+      "reading": "せんせい",
+      "romaji": "sensei",
+      "tag": "名詞",
+      "translations": {
+        "en": "teacher",
+        "tr": "öğretmen",
+        "de": "Lehrer/in",
+        "es": "profesor/a",
+        "fr": "professeur"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "田中先生は親切です。",
+          "furigana": "<ruby>田中<rt>たなか</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>です。",
+          "romaji": "Tanaka sensei wa shinsetsu desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Teacher Tanaka is kind.",
+            "tr": "Tanaka öğretmen naziktir.",
+            "de": "Lehrer Tanaka ist freundlich.",
+            "es": "El profesor Tanaka es amable.",
+            "fr": "Le professeur Tanaka est gentil."
+          }
+        },
+        {
+          "ja": "先生に質問しました。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>しました。",
+          "romaji": "Sensei ni shitsumon shimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I asked the teacher a question.",
+            "tr": "Öğretmene bir soru sordum.",
+            "de": "Ich habe dem Lehrer eine Frage gestellt.",
+            "es": "Le hice una pregunta al profesor.",
+            "fr": "J'ai posé une question au professeur."
+          }
+        },
+        {
+          "ja": "先生は日本語を教えます。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えます。",
+          "romaji": "Sensei wa nihongo o oshiemasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "The teacher teaches Japanese.",
+            "tr": "Öğretmen Japonca öğretiyor.",
+            "de": "Der Lehrer unterrichtet Japanisch.",
+            "es": "El profesor enseña japonés.",
+            "fr": "Le professeur enseigne le japonais."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_003",
+      "word": "友達",
+      "reading": "ともだち",
+      "romaji": "tomodachi",
+      "tag": "名詞",
+      "translations": {
+        "en": "friend",
+        "tr": "arkadaş",
+        "de": "Freund/in",
+        "es": "amigo/a",
+        "fr": "ami/e"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "友達と映画を見ました。",
+          "furigana": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+          "romaji": "Tomodachi to eiga o mimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I watched a movie with my friend.",
+            "tr": "Arkadaşımla film izledim.",
+            "de": "Ich habe mit meinem Freund einen Film gesehen.",
+            "es": "Vi una película con mi amigo.",
+            "fr": "J'ai regardé un film avec mon ami."
+          }
+        },
+        {
+          "ja": "友達は来週来ます。",
+          "furigana": "<ruby>友達<rt>ともだち</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby><ruby>来<rt>き</rt></ruby>ます。",
+          "romaji": "Tomodachi wa raishuu kimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "My friend is coming next week.",
+            "tr": "Arkadaşım gelecek hafta geliyor.",
+            "de": "Mein Freund kommt nächste Woche.",
+            "es": "Mi amigo viene la semana que viene.",
+            "fr": "Mon ami vient la semaine prochaine."
+          }
+        },
+        {
+          "ja": "友達がたくさんいます。",
+          "furigana": "<ruby>友達<rt>ともだち</rt></ruby>がたくさんいます。",
+          "romaji": "Tomodachi ga takusan imasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I have many friends.",
+            "tr": "Çok arkadaşım var.",
+            "de": "Ich habe viele Freunde.",
+            "es": "Tengo muchos amigos.",
+            "fr": "J'ai beaucoup d'amis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_004",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "romaji": "densha",
+      "tag": "名詞",
+      "translations": {
+        "en": "train",
+        "tr": "tren",
+        "de": "Zug / U-Bahn",
+        "es": "tren",
+        "fr": "train"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "電車で学校へ行きます。",
+          "furigana": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Densha de gakkou e ikimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I go to school by train.",
+            "tr": "Okula trenle gidiyorum.",
+            "de": "Ich fahre mit dem Zug zur Schule.",
+            "es": "Voy a la escuela en tren.",
+            "fr": "Je vais à l'école en train."
+          }
+        },
+        {
+          "ja": "電車は八時に来ます。",
+          "furigana": "<ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>八時<rt>はちじ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。",
+          "romaji": "Densha wa hachiji ni kimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "The train comes at eight o'clock.",
+            "tr": "Tren saat sekizde geliyor.",
+            "de": "Der Zug kommt um acht Uhr.",
+            "es": "El tren llega a las ocho.",
+            "fr": "Le train arrive à huit heures."
+          }
+        },
+        {
+          "ja": "電車の中で本を読みます。",
+          "furigana": "<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+          "romaji": "Densha no naka de hon o yomimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I read a book on the train.",
+            "tr": "Trende kitap okuyorum.",
+            "de": "Ich lese im Zug ein Buch.",
+            "es": "Leo un libro en el tren.",
+            "fr": "Je lis un livre dans le train."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_005",
+      "word": "食べる",
+      "reading": "たべる",
+      "romaji": "taberu",
+      "tag": "動詞",
+      "translations": {
+        "en": "to eat",
+        "tr": "yemek yemek",
+        "de": "essen",
+        "es": "comer",
+        "fr": "manger"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "朝ごはんを食べました。",
+          "furigana": "<ruby>朝<rt>あさ</rt></ruby>ごはんを<ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Asagohan o tabemashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I ate breakfast.",
+            "tr": "Kahvaltı yaptım.",
+            "de": "Ich habe Frühstück gegessen.",
+            "es": "Desayuné.",
+            "fr": "J'ai mangé le petit-déjeuner."
+          }
+        },
+        {
+          "ja": "寿司を食べたいです。",
+          "furigana": "<ruby>寿司<rt>すし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたいです。",
+          "romaji": "Sushi o tabetai desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I want to eat sushi.",
+            "tr": "Suşi yemek istiyorum.",
+            "de": "Ich möchte Sushi essen.",
+            "es": "Quiero comer sushi.",
+            "fr": "Je veux manger des sushis."
+          }
+        },
+        {
+          "ja": "何を食べますか。",
+          "furigana": "<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。",
+          "romaji": "Nani o tabemasu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "What will you eat?",
+            "tr": "Ne yiyeceksin?",
+            "de": "Was wirst du essen?",
+            "es": "¿Qué vas a comer?",
+            "fr": "Qu'est-ce que tu vas manger?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_006",
+      "word": "飲む",
+      "reading": "のむ",
+      "romaji": "nomu",
+      "tag": "動詞",
+      "translations": {
+        "en": "to drink",
+        "tr": "içmek",
+        "de": "trinken",
+        "es": "beber",
+        "fr": "boire"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "水を飲みます。",
+          "furigana": "<ruby>水<rt>みず</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+          "romaji": "Mizu o nomimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I drink water.",
+            "tr": "Su içiyorum.",
+            "de": "Ich trinke Wasser.",
+            "es": "Bebo agua.",
+            "fr": "Je bois de l'eau."
+          }
+        },
+        {
+          "ja": "コーヒーを飲みたいです。",
+          "furigana": "コーヒーを<ruby>飲<rt>の</rt></ruby>みたいです。",
+          "romaji": "Koohii o nomitai desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I want to drink coffee.",
+            "tr": "Kahve içmek istiyorum.",
+            "de": "Ich möchte Kaffee trinken.",
+            "es": "Quiero beber café.",
+            "fr": "Je veux boire du café."
+          }
+        },
+        {
+          "ja": "毎朝お茶を飲みます。",
+          "furigana": "<ruby>毎朝<rt>まいあさ</rt></ruby>お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。",
+          "romaji": "Maiasa ocha o nomimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I drink tea every morning.",
+            "tr": "Her sabah çay içiyorum.",
+            "de": "Ich trinke jeden Morgen Tee.",
+            "es": "Bebo té todas las mañanas.",
+            "fr": "Je bois du thé chaque matin."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_007",
+      "word": "行く",
+      "reading": "いく",
+      "romaji": "iku",
+      "tag": "動詞",
+      "translations": {
+        "en": "to go",
+        "tr": "gitmek",
+        "de": "gehen / fahren",
+        "es": "ir",
+        "fr": "aller"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "明日、東京へ行きます。",
+          "furigana": "<ruby>明日<rt>あした</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Ashita, Toukyou e ikimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I will go to Tokyo tomorrow.",
+            "tr": "Yarın Tokyo'ya gideceğim.",
+            "de": "Morgen fahre ich nach Tokio.",
+            "es": "Mañana voy a Tokio.",
+            "fr": "Demain, je vais à Tokyo."
+          }
+        },
+        {
+          "ja": "どこへ行きますか。",
+          "furigana": "どこへ<ruby>行<rt>い</rt></ruby>きますか。",
+          "romaji": "Doko e ikimasu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Where are you going?",
+            "tr": "Nereye gidiyorsun?",
+            "de": "Wohin gehst du?",
+            "es": "¿Adónde vas?",
+            "fr": "Où vas-tu?"
+          }
+        },
+        {
+          "ja": "一緒にスーパーへ行きましょう。",
+          "furigana": "<ruby>一緒<rt>いっしょ</rt></ruby>にスーパーへ<ruby>行<rt>い</rt></ruby>きましょう。",
+          "romaji": "Issho ni suupaa e ikimashou.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Let's go to the supermarket together.",
+            "tr": "Hadi birlikte markete gidelim.",
+            "de": "Lass uns zusammen in den Supermarkt gehen.",
+            "es": "Vamos juntos al supermercado.",
+            "fr": "Allons ensemble au supermarché."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_008",
+      "word": "見る",
+      "reading": "みる",
+      "romaji": "miru",
+      "tag": "動詞",
+      "translations": {
+        "en": "to see / to watch",
+        "tr": "görmek / izlemek",
+        "de": "sehen / schauen",
+        "es": "ver / mirar",
+        "fr": "voir / regarder"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "テレビを見ます。",
+          "furigana": "テレビを<ruby>見<rt>み</rt></ruby>ます。",
+          "romaji": "Terebi o mimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I watch TV.",
+            "tr": "Televizyon izliyorum.",
+            "de": "Ich schaue Fernsehen.",
+            "es": "Veo la televisión.",
+            "fr": "Je regarde la télévision."
+          }
+        },
+        {
+          "ja": "昨日、映画を見ました。",
+          "furigana": "<ruby>昨日<rt>きのう</rt></ruby>、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。",
+          "romaji": "Kinou, eiga o mimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I watched a movie yesterday.",
+            "tr": "Dün film izledim.",
+            "de": "Ich habe gestern einen Film gesehen.",
+            "es": "Ayer vi una película.",
+            "fr": "Hier, j'ai regardé un film."
+          }
+        },
+        {
+          "ja": "地図を見てください。",
+          "furigana": "<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>てください。",
+          "romaji": "Chizu o mite kudasai.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Please look at the map.",
+            "tr": "Lütfen haritaya bakın.",
+            "de": "Bitte schauen Sie auf die Karte.",
+            "es": "Por favor, mira el mapa.",
+            "fr": "Veuillez regarder la carte."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_009",
+      "word": "大きい",
+      "reading": "おおきい",
+      "romaji": "ookii",
+      "tag": "形容詞",
+      "translations": {
+        "en": "big / large",
+        "tr": "büyük",
+        "de": "groß",
+        "es": "grande",
+        "fr": "grand(e)"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "この犬は大きいです。",
+          "furigana": "この<ruby>犬<rt>いぬ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。",
+          "romaji": "Kono inu wa ookii desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "This dog is big.",
+            "tr": "Bu köpek büyük.",
+            "de": "Dieser Hund ist groß.",
+            "es": "Este perro es grande.",
+            "fr": "Ce chien est grand."
+          }
+        },
+        {
+          "ja": "大きい声で話してください。",
+          "furigana": "<ruby>大<rt>おお</rt></ruby>きい<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>してください。",
+          "romaji": "Ookii koe de hanashite kudasai.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Please speak in a loud voice.",
+            "tr": "Lütfen yüksek sesle konuşun.",
+            "de": "Bitte sprechen Sie laut.",
+            "es": "Por favor, habla en voz alta.",
+            "fr": "Parlez à voix haute, s'il vous plaît."
+          }
+        },
+        {
+          "ja": "もっと大きいサイズはありますか。",
+          "furigana": "もっと<ruby>大<rt>おお</rt></ruby>きいサイズはありますか。",
+          "romaji": "Motto ookii saizu wa arimasu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Do you have a bigger size?",
+            "tr": "Daha büyük bir beden var mı?",
+            "de": "Haben Sie eine größere Größe?",
+            "es": "¿Tienen una talla más grande?",
+            "fr": "Avez-vous une taille plus grande?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_010",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "romaji": "chiisai",
+      "tag": "形容詞",
+      "translations": {
+        "en": "small / little",
+        "tr": "küçük",
+        "de": "klein",
+        "es": "pequeño/a",
+        "fr": "petit(e)"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "この部屋は小さいです。",
+          "furigana": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さいです。",
+          "romaji": "Kono heya wa chiisai desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "This room is small.",
+            "tr": "Bu oda küçük.",
+            "de": "Dieses Zimmer ist klein.",
+            "es": "Esta habitación es pequeña.",
+            "fr": "Cette chambre est petite."
+          }
+        },
+        {
+          "ja": "小さい子供が公園で遊んでいます。",
+          "furigana": "<ruby>小<rt>ちい</rt></ruby>さい<ruby>子供<rt>こども</rt></ruby>が<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>んでいます。",
+          "romaji": "Chiisai kodomo ga kouen de asonde imasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "A small child is playing in the park.",
+            "tr": "Küçük bir çocuk parkta oynuyor.",
+            "de": "Ein kleines Kind spielt im Park.",
+            "es": "Un niño pequeño juega en el parque.",
+            "fr": "Un petit enfant joue dans le parc."
+          }
+        },
+        {
+          "ja": "もう少し小さいですか。",
+          "furigana": "もう<ruby>少<rt>すこ</rt></ruby>し<ruby>小<rt>ちい</rt></ruby>さいですか。",
+          "romaji": "Mou sukoshi chiisai desu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Is it a little smaller?",
+            "tr": "Biraz daha küçük mü?",
+            "de": "Ist es etwas kleiner?",
+            "es": "¿Es un poco más pequeño?",
+            "fr": "Est-ce un peu plus petit?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_011",
+      "word": "新しい",
+      "reading": "あたらしい",
+      "romaji": "atarashii",
+      "tag": "形容詞",
+      "translations": {
+        "en": "new",
+        "tr": "yeni",
+        "de": "neu",
+        "es": "nuevo/a",
+        "fr": "nouveau/nouvelle"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "新しい携帯を買いました。",
+          "furigana": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>携帯<rt>けいたい</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Atarashii keitai o kaimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I bought a new phone.",
+            "tr": "Yeni bir telefon aldım.",
+            "de": "Ich habe ein neues Handy gekauft.",
+            "es": "Compré un móvil nuevo.",
+            "fr": "J'ai acheté un nouveau téléphone."
+          }
+        },
+        {
+          "ja": "新しい友達ができました。",
+          "furigana": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>ができました。",
+          "romaji": "Atarashii tomodachi ga dekimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I made a new friend.",
+            "tr": "Yeni bir arkadaş edindim.",
+            "de": "Ich habe einen neuen Freund gefunden.",
+            "es": "Hice un nuevo amigo.",
+            "fr": "Je me suis fait un nouvel ami."
+          }
+        },
+        {
+          "ja": "この店は新しいです。",
+          "furigana": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいです。",
+          "romaji": "Kono mise wa atarashii desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "This shop is new.",
+            "tr": "Bu dükkan yeni.",
+            "de": "Dieser Laden ist neu.",
+            "es": "Esta tienda es nueva.",
+            "fr": "Ce magasin est nouveau."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_012",
+      "word": "古い",
+      "reading": "ふるい",
+      "romaji": "furui",
+      "tag": "形容詞",
+      "translations": {
+        "en": "old",
+        "tr": "eski",
+        "de": "alt",
+        "es": "viejo/a",
+        "fr": "vieux/vieille"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "この建物は古いです。",
+          "furigana": "この<ruby>建物<rt>たてもの</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いです。",
+          "romaji": "Kono tatemono wa furui desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "This building is old.",
+            "tr": "Bu bina eski.",
+            "de": "Dieses Gebäude ist alt.",
+            "es": "Este edificio es viejo.",
+            "fr": "Ce bâtiment est vieux."
+          }
+        },
+        {
+          "ja": "古い本を読みました。",
+          "furigana": "<ruby>古<rt>ふる</rt></ruby>い<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みました。",
+          "romaji": "Furui hon o yomimashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I read an old book.",
+            "tr": "Eski bir kitap okudum.",
+            "de": "Ich habe ein altes Buch gelesen.",
+            "es": "Leí un libro viejo.",
+            "fr": "J'ai lu un vieux livre."
+          }
+        },
+        {
+          "ja": "古いものが好きです。",
+          "furigana": "<ruby>古<rt>ふる</rt></ruby>いものが<ruby>好<rt>す</rt></ruby>きです。",
+          "romaji": "Furui mono ga suki desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I like old things.",
+            "tr": "Eski şeyleri seviyorum.",
+            "de": "Ich mag alte Sachen.",
+            "es": "Me gustan las cosas antiguas.",
+            "fr": "J'aime les vieilles choses."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_013",
+      "word": "とても",
+      "reading": "とても",
+      "romaji": "totemo",
+      "tag": "副詞",
+      "translations": {
+        "en": "very / very much",
+        "tr": "çok / çok fazla",
+        "de": "sehr",
+        "es": "muy / mucho",
+        "fr": "très / beaucoup"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "この料理はとても美味しいです。",
+          "furigana": "この<ruby>料理<rt>りょうり</rt></ruby>はとても<ruby>美味<rt>おい</rt></ruby>しいです。",
+          "romaji": "Kono ryouri wa totemo oishii desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "This dish is very delicious.",
+            "tr": "Bu yemek çok lezzetli.",
+            "de": "Dieses Gericht ist sehr lecker.",
+            "es": "Este plato está muy rico.",
+            "fr": "Ce plat est très délicieux."
+          }
+        },
+        {
+          "ja": "今日はとても暑いです。",
+          "furigana": "<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>暑<rt>あつ</rt></ruby>いです。",
+          "romaji": "Kyou wa totemo atsui desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "It is very hot today.",
+            "tr": "Bugün çok sıcak.",
+            "de": "Heute ist es sehr heiß.",
+            "es": "Hoy hace mucho calor.",
+            "fr": "Il fait très chaud aujourd'hui."
+          }
+        },
+        {
+          "ja": "彼女はとても親切です。",
+          "furigana": "<ruby>彼女<rt>かのじょ</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>です。",
+          "romaji": "Kanojo wa totemo shinsetsu desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "She is very kind.",
+            "tr": "O çok nazik.",
+            "de": "Sie ist sehr freundlich.",
+            "es": "Ella es muy amable.",
+            "fr": "Elle est très gentille."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_014",
+      "word": "もう",
+      "reading": "もう",
+      "romaji": "mou",
+      "tag": "副詞",
+      "translations": {
+        "en": "already / anymore",
+        "tr": "artık / zaten",
+        "de": "schon / nicht mehr",
+        "es": "ya / ya no",
+        "fr": "déjà / ne plus"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "もう食べました。",
+          "furigana": "もう<ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Mou tabemashita.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I already ate.",
+            "tr": "Zaten yedim.",
+            "de": "Ich habe schon gegessen.",
+            "es": "Ya comí.",
+            "fr": "J'ai déjà mangé."
+          }
+        },
+        {
+          "ja": "もう帰りましょう。",
+          "furigana": "もう<ruby>帰<rt>かえ</rt></ruby>りましょう。",
+          "romaji": "Mou kaerimashou.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Let's go home now.",
+            "tr": "Artık eve gidelim.",
+            "de": "Lass uns jetzt nach Hause gehen.",
+            "es": "Vámonos a casa ya.",
+            "fr": "Rentrons maintenant."
+          }
+        },
+        {
+          "ja": "もう大丈夫です。",
+          "furigana": "もう<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。",
+          "romaji": "Mou daijoubu desu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I'm already fine / It's okay now.",
+            "tr": "Artık iyi(yim).",
+            "de": "Es geht mir schon gut.",
+            "es": "Ya estoy bien.",
+            "fr": "Ça va déjà."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_015",
+      "word": "まだ",
+      "reading": "まだ",
+      "romaji": "mada",
+      "tag": "副詞",
+      "translations": {
+        "en": "still / not yet",
+        "tr": "henüz / hâlâ",
+        "de": "noch / noch nicht",
+        "es": "todavía / aún",
+        "fr": "encore / pas encore"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "まだ食べていません。",
+          "furigana": "まだ<ruby>食<rt>た</rt></ruby>べていません。",
+          "romaji": "Mada tabete imasen.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I haven't eaten yet.",
+            "tr": "Henüz yemedim.",
+            "de": "Ich habe noch nicht gegessen.",
+            "es": "Todavía no he comido.",
+            "fr": "Je n'ai pas encore mangé."
+          }
+        },
+        {
+          "ja": "先生はまだ来ていません。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>はまだ<ruby>来<rt>き</rt></ruby>ていません。",
+          "romaji": "Sensei wa mada kite imasen.",
+          "audioUrl": null,
+          "translations": {
+            "en": "The teacher hasn't come yet.",
+            "tr": "Öğretmen henüz gelmedi.",
+            "de": "Der Lehrer ist noch nicht gekommen.",
+            "es": "El profesor todavía no ha llegado.",
+            "fr": "Le professeur n'est pas encore arrivé."
+          }
+        },
+        {
+          "ja": "まだ時間がありますか。",
+          "furigana": "まだ<ruby>時間<rt>じかん</rt></ruby>がありますか。",
+          "romaji": "Mada jikan ga arimasu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Do you still have time?",
+            "tr": "Hâlâ zamanın var mı?",
+            "de": "Haben Sie noch Zeit?",
+            "es": "¿Todavía tienes tiempo?",
+            "fr": "Avez-vous encore du temps?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_016",
+      "word": "いつも",
+      "reading": "いつも",
+      "romaji": "itsumo",
+      "tag": "副詞",
+      "translations": {
+        "en": "always / usually",
+        "tr": "her zaman / genellikle",
+        "de": "immer / meistens",
+        "es": "siempre / normalmente",
+        "fr": "toujours / d'habitude"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "いつも早く起きます。",
+          "furigana": "いつも<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きます。",
+          "romaji": "Itsumo hayaku okimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I always wake up early.",
+            "tr": "Her zaman erken kalkarım.",
+            "de": "Ich stehe immer früh auf.",
+            "es": "Siempre me despierto temprano.",
+            "fr": "Je me lève toujours tôt."
+          }
+        },
+        {
+          "ja": "いつもありがとうございます。",
+          "furigana": "いつもありがとうございます。",
+          "romaji": "Itsumo arigatou gozaimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Thank you as always.",
+            "tr": "Her zamanki gibi teşekkürler.",
+            "de": "Wie immer, vielen Dank.",
+            "es": "Gracias como siempre.",
+            "fr": "Merci comme toujours."
+          }
+        },
+        {
+          "ja": "彼はいつも遅れます。",
+          "furigana": "<ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>遅<rt>おく</rt></ruby>れます。",
+          "romaji": "Kare wa itsumo okuremasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "He is always late.",
+            "tr": "O her zaman geç kalır.",
+            "de": "Er kommt immer zu spät.",
+            "es": "Él siempre llega tarde.",
+            "fr": "Il est toujours en retard."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_017",
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "romaji": "arigatou",
+      "tag": "表現",
+      "translations": {
+        "en": "thank you",
+        "tr": "teşekkür ederim",
+        "de": "Danke",
+        "es": "gracias",
+        "fr": "merci"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "手伝ってくれてありがとう。",
+          "furigana": "<ruby>手伝<rt>てつだ</rt></ruby>ってくれてありがとう。",
+          "romaji": "Tetsudatte kurete arigatou.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Thank you for helping me.",
+            "tr": "Yardım ettiğin için teşekkürler.",
+            "de": "Danke, dass du mir geholfen hast.",
+            "es": "Gracias por ayudarme.",
+            "fr": "Merci de m'avoir aidé."
+          }
+        },
+        {
+          "ja": "プレゼントをありがとう。",
+          "furigana": "プレゼントをありがとう。",
+          "romaji": "Purezento o arigatou.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Thank you for the gift.",
+            "tr": "Hediye için teşekkürler.",
+            "de": "Danke für das Geschenk.",
+            "es": "Gracias por el regalo.",
+            "fr": "Merci pour le cadeau."
+          }
+        },
+        {
+          "ja": "いつもありがとうございます。",
+          "furigana": "いつもありがとうございます。",
+          "romaji": "Itsumo arigatou gozaimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Thank you always.",
+            "tr": "Her zaman için teşekkür ederim.",
+            "de": "Vielen Dank, wie immer.",
+            "es": "Gracias siempre.",
+            "fr": "Merci toujours."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_018",
+      "word": "すみません",
+      "reading": "すみません",
+      "romaji": "sumimasen",
+      "tag": "表現",
+      "translations": {
+        "en": "excuse me / I'm sorry",
+        "tr": "pardon / özür dilerim",
+        "de": "Entschuldigung",
+        "es": "perdón / disculpe",
+        "fr": "excusez-moi / pardon"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "すみません、駅はどこですか。",
+          "furigana": "すみません、<ruby>駅<rt>えき</rt></ruby>はどこですか。",
+          "romaji": "Sumimasen, eki wa doko desu ka.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Excuse me, where is the station?",
+            "tr": "Pardon, istasyon nerede?",
+            "de": "Entschuldigung, wo ist der Bahnhof?",
+            "es": "Disculpe, ¿dónde está la estación?",
+            "fr": "Excusez-moi, où est la gare?"
+          }
+        },
+        {
+          "ja": "すみません、少し待ってください。",
+          "furigana": "すみません、<ruby>少<rt>すこ</rt></ruby>し<ruby>待<rt>ま</rt></ruby>ってください。",
+          "romaji": "Sumimasen, sukoshi matte kudasai.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Excuse me, please wait a moment.",
+            "tr": "Pardon, biraz bekler misiniz?",
+            "de": "Entschuldigung, bitte warten Sie einen Moment.",
+            "es": "Perdón, espere un momento por favor.",
+            "fr": "Excusez-moi, attendez un instant s'il vous plaît."
+          }
+        },
+        {
+          "ja": "遅れてすみません。",
+          "furigana": "<ruby>遅<rt>おく</rt></ruby>れてすみません。",
+          "romaji": "Okurete sumimasen.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I'm sorry for being late.",
+            "tr": "Geç kaldığım için özür dilerim.",
+            "de": "Entschuldigung, dass ich zu spät komme.",
+            "es": "Lo siento por llegar tarde.",
+            "fr": "Désolé d'être en retard."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_019",
+      "word": "おはようございます",
+      "reading": "おはようございます",
+      "romaji": "ohayou gozaimasu",
+      "tag": "表現",
+      "translations": {
+        "en": "good morning (polite)",
+        "tr": "günaydın (resmi)",
+        "de": "Guten Morgen (höflich)",
+        "es": "buenos días (formal)",
+        "fr": "bonjour (poli, le matin)"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "先生、おはようございます。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>、おはようございます。",
+          "romaji": "Sensei, ohayou gozaimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Good morning, teacher.",
+            "tr": "Günaydın, öğretmenim.",
+            "de": "Guten Morgen, Lehrer.",
+            "es": "Buenos días, profesor.",
+            "fr": "Bonjour, professeur."
+          }
+        },
+        {
+          "ja": "毎朝、おはようございますと言います。",
+          "furigana": "<ruby>毎朝<rt>まいあさ</rt></ruby>、おはようございますと<ruby>言<rt>い</rt></ruby>います。",
+          "romaji": "Maiasa, ohayou gozaimasu to iimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "I say 'good morning' every morning.",
+            "tr": "Her sabah 'günaydın' derim.",
+            "de": "Ich sage jeden Morgen 'Guten Morgen'.",
+            "es": "Digo 'buenos días' cada mañana.",
+            "fr": "Je dis 'bonjour' tous les matins."
+          }
+        },
+        {
+          "ja": "おはようございます、今日もよろしく。",
+          "furigana": "おはようございます、<ruby>今日<rt>きょう</rt></ruby>もよろしく。",
+          "romaji": "Ohayou gozaimasu, kyou mo yoroshiku.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Good morning, let's have a good day today too.",
+            "tr": "Günaydın, bugün de iyi çalışmalar.",
+            "de": "Guten Morgen, auch heute bitte ich um deine Unterstützung.",
+            "es": "Buenos días, espero tu cooperación hoy también.",
+            "fr": "Bonjour, j'espère votre coopération aujourd'hui aussi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "n5_vocab_020",
+      "word": "よろしく",
+      "reading": "よろしく",
+      "romaji": "yoroshiku",
+      "tag": "表現",
+      "translations": {
+        "en": "nice to meet you / please treat me well",
+        "tr": "memnun oldum / iyi ilişkiler dilerim",
+        "de": "schön Sie kennenzulernen / ich bitte um Ihr Wohlwollen",
+        "es": "mucho gusto / te lo encargo",
+        "fr": "enchanté / je compte sur vous"
+      },
+      "audioUrl": null,
+      "sentences": [
+        {
+          "ja": "はじめまして、よろしくお願いします。",
+          "furigana": "はじめまして、よろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
+          "romaji": "Hajimemashite, yoroshiku onegaishimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Nice to meet you, I'm in your care.",
+            "tr": "Memnun oldum, iyi ilişkiler dilerim.",
+            "de": "Schön Sie kennenzulernen, ich bitte um Ihr Wohlwollen.",
+            "es": "Mucho gusto, espero su cooperación.",
+            "fr": "Enchanté, je compte sur vous."
+          }
+        },
+        {
+          "ja": "これからもよろしくお願いします。",
+          "furigana": "これからもよろしくお<ruby>願<rt>ねが</rt></ruby>いします。",
+          "romaji": "Korekara mo yoroshiku onegaishimasu.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Please continue to treat me well.",
+            "tr": "Bundan sonra da iyi ilişkiler dilerim.",
+            "de": "Auch zukünftig bitte ich um Ihr Wohlwollen.",
+            "es": "Espero su cooperación en el futuro también.",
+            "fr": "Je compte sur vous à l'avenir aussi."
+          }
+        },
+        {
+          "ja": "田中さん、よろしく。",
+          "furigana": "<ruby>田中<rt>たなか</rt></ruby>さん、よろしく。",
+          "romaji": "Tanaka-san, yoroshiku.",
+          "audioUrl": null,
+          "translations": {
+            "en": "Tanaka, I'm counting on you.",
+            "tr": "Tanaka, sana güveniyorum.",
+            "de": "Tanaka-san, ich vertraue auf dich.",
+            "es": "Tanaka, cuento contigo.",
+            "fr": "Tanaka, je compte sur toi."
+          }
+        }
+      ]
+    }
+  ]
+}

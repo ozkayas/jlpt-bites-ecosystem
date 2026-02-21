@@ -1,0 +1,679 @@
+{
+    "questions": [
+        {
+            "id": "n5_essential_grammar_001",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "兄は　部屋（　　）掃除を　しました。",
+            "furigana": "<ruby>兄<rt>あに</rt></ruby>は　<ruby>部屋<rt>へや</rt></ruby>（　　）<ruby>掃除<rt>そうじ</rt></ruby>を　しました。",
+            "blankPosition": 2,
+            "options": [
+                "が",
+                "を",
+                "に",
+                "の"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "id": "n5_essential_grammar_002",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "私は　毎朝　コーヒー（　　）飲みます。",
+            "furigana": "<ruby>私<rt>わたし</rt></ruby>は　<ruby>毎朝<rt>まいあさ</rt></ruby>　コーヒー（　　）<ruby>飲<rt>の</rt></ruby>みます。",
+            "blankPosition": 2,
+            "options": [
+                "が",
+                "を",
+                "に",
+                "で"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_003",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "友達（　　）一緒に　映画を　見ました。",
+            "furigana": "<ruby>友達<rt>ともだち</rt></ruby>（　　）<ruby>一緒<rt>いっしょ</rt></ruby>に　<ruby>映画<rt>えいが</rt></ruby>を　<ruby>見<rt>み</rt></ruby>ました。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "を",
+                "と",
+                "に"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_004",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "図書館（　　）本を　借りました。",
+            "furigana": "<ruby>図書館<rt>としょかん</rt></ruby>（　　）<ruby>本<rt>ほん</rt></ruby>を　<ruby>借<rt>か</rt></ruby>りました。",
+            "blankPosition": 1,
+            "options": [
+                "で",
+                "に",
+                "を",
+                "へ"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": "n5_essential_grammar_005",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "明日　学校（　　）行きます。",
+            "furigana": "<ruby>明日<rt>あした</rt></ruby>　<ruby>学校<rt>がっこう</rt></ruby>（　　）<ruby>行<rt>い</rt></ruby>きます。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "を",
+                "に",
+                "で"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_006",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "駅（　　）バスに　乗りました。",
+            "furigana": "<ruby>駅<rt>えき</rt></ruby>（　　）バスに　<ruby>乗<rt>の</rt></ruby>りました。",
+            "blankPosition": 1,
+            "options": [
+                "で",
+                "に",
+                "を",
+                "が"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": "n5_essential_grammar_007",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "この　料理（　　）おいしいです。",
+            "furigana": "この　<ruby>料理<rt>りょうり</rt></ruby>（　　）おいしいです。",
+            "blankPosition": 2,
+            "options": [
+                "が",
+                "は",
+                "を",
+                "で"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_008",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "私（　　）日本語を　勉強しています。",
+            "furigana": "<ruby>私<rt>わたし</rt></ruby>（　　）<ruby>日本語<rt>にほんご</rt></ruby>を　<ruby>勉強<rt>べんきょう</rt></ruby>しています。",
+            "blankPosition": 1,
+            "options": [
+                "を",
+                "に",
+                "は",
+                "で"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_009",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "母は　スーパー（　　）野菜を　買いました。",
+            "furigana": "<ruby>母<rt>はは</rt></ruby>は　スーパー（　　）<ruby>野菜<rt>やさい</rt></ruby>を　<ruby>買<rt>か</rt></ruby>いました。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "で",
+                "を",
+                "が"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_010",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "先生（　　）手紙を　書きました。",
+            "furigana": "<ruby>先生<rt>せんせい</rt></ruby>（　　）<ruby>手紙<rt>てがみ</rt></ruby>を　<ruby>書<rt>か</rt></ruby>きました。",
+            "blankPosition": 1,
+            "options": [
+                "を",
+                "で",
+                "が",
+                "に"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "id": "n5_essential_grammar_011",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "日曜日（　　）公園で　遊びます。",
+            "furigana": "<ruby>日曜日<rt>にちようび</rt></ruby>（　　）<ruby>公園<rt>こうえん</rt></ruby>で　<ruby>遊<rt>あそ</rt></ruby>びます。",
+            "blankPosition": 1,
+            "options": [
+                "を",
+                "で",
+                "に",
+                "が"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_012",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "姉（　　）買い物に　行きました。",
+            "furigana": "<ruby>姉<rt>あね</rt></ruby>（　　）<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きました。",
+            "blankPosition": 1,
+            "options": [
+                "に",
+                "で",
+                "と",
+                "が"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_013",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "机の　上（　　）本が　あります。",
+            "furigana": "<ruby>机<rt>つくえ</rt></ruby>の　<ruby>上<rt>うえ</rt></ruby>（　　）<ruby>本<rt>ほん</rt></ruby>が　あります。",
+            "blankPosition": 2,
+            "options": [
+                "で",
+                "を",
+                "に",
+                "と"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_014",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "東京（　　）大阪まで　新幹線で　行きます。",
+            "furigana": "<ruby>東京<rt>とうきょう</rt></ruby>（　　）<ruby>大阪<rt>おおさか</rt></ruby>まで　<ruby>新幹線<rt>しんかんせん</rt></ruby>で　<ruby>行<rt>い</rt></ruby>きます。",
+            "blankPosition": 1,
+            "options": [
+                "に",
+                "で",
+                "から",
+                "を"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_015",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "弟（　　）学生です。",
+            "furigana": "<ruby>弟<rt>おとうと</rt></ruby>（　　）<ruby>学生<rt>がくせい</rt></ruby>です。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "を",
+                "は",
+                "に"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_016",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "毎日　九時（　　）五時まで　働きます。",
+            "furigana": "<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>九時<rt>くじ</rt></ruby>（　　）<ruby>五時<rt>ごじ</rt></ruby>まで　<ruby>働<rt>はたら</rt></ruby>きます。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "で",
+                "から",
+                "を"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_017",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "庭に　猫（　　）います。",
+            "furigana": "<ruby>庭<rt>にわ</rt></ruby>に　<ruby>猫<rt>ねこ</rt></ruby>（　　）います。",
+            "blankPosition": 2,
+            "options": [
+                "を",
+                "は",
+                "が",
+                "に"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_018",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "私（　　）ピアノを　弾きたいです。",
+            "furigana": "<ruby>私<rt>わたし</rt></ruby>（　　）ピアノを　<ruby>弾<rt>ひ</rt></ruby>きたいです。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "を",
+                "は",
+                "に"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_019",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "父は　車（　　）会社に　行きます。",
+            "furigana": "<ruby>父<rt>ちち</rt></ruby>は　<ruby>車<rt>くるま</rt></ruby>（　　）<ruby>会社<rt>かいしゃ</rt></ruby>に　<ruby>行<rt>い</rt></ruby>きます。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "を",
+                "で",
+                "が"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_020",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "水（　　）一つ　ください。",
+            "furigana": "<ruby>水<rt>みず</rt></ruby>（　　）<ruby>一<rt>ひと</rt></ruby>つ　ください。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "に",
+                "を",
+                "は"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_021",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "兄は　私（　　）背が　高いです。",
+            "furigana": "<ruby>兄<rt>あに</rt></ruby>は　<ruby>私<rt>わたし</rt></ruby>（　　）<ruby>背<rt>せ</rt></ruby>が　<ruby>高<rt>たか</rt></ruby>いです。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "で",
+                "より",
+                "から"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_022",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "りんご（　　）みかんを　買いました。",
+            "furigana": "りんご（　　）みかんを　<ruby>買<rt>か</rt></ruby>いました。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "を",
+                "と",
+                "に"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_023",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "田中さん（　　）明日　来ます。",
+            "furigana": "<ruby>田中<rt>たなか</rt></ruby>さん（　　）<ruby>明日<rt>あした</rt></ruby>　<ruby>来<rt>き</rt></ruby>ます。",
+            "blankPosition": 1,
+            "options": [
+                "を",
+                "に",
+                "も",
+                "で"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_024",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "夏休みに　海（　　）泳ぎました。",
+            "furigana": "<ruby>夏休<rt>なつやす</rt></ruby>みに　<ruby>海<rt>うみ</rt></ruby>（　　）<ruby>泳<rt>およ</rt></ruby>ぎました。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "で",
+                "を",
+                "が"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_025",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "この　ケーキ（　　）だけ　食べました。",
+            "furigana": "この　ケーキ（　　）だけ　<ruby>食<rt>た</rt></ruby>べました。",
+            "blankPosition": 2,
+            "options": [
+                "に",
+                "が",
+                "を",
+                "で"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_026",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "昨日　テレビを（　　）。",
+            "furigana": "<ruby>昨日<rt>きのう</rt></ruby>　テレビを（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "見ます",
+                "見ません",
+                "見ました",
+                "見ましょう"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_027",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "明日は　雨ですから、出かけ（　　）。",
+            "furigana": "<ruby>明日<rt>あした</rt></ruby>は　<ruby>雨<rt>あめ</rt></ruby>ですから、<ruby>出<rt>で</rt></ruby>かけ（　　）。",
+            "blankPosition": 3,
+            "options": [
+                "ます",
+                "ません",
+                "ました",
+                "ましょう"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_028",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "一緒に　映画を（　　）。",
+            "furigana": "<ruby>一緒<rt>いっしょ</rt></ruby>に　<ruby>映画<rt>えいが</rt></ruby>を（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "見ます",
+                "見ました",
+                "見ましょう",
+                "見ません"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_029",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "すみません、もう　一度（　　）。",
+            "furigana": "すみません、もう　<ruby>一度<rt>いちど</rt></ruby>（　　）。",
+            "blankPosition": 3,
+            "options": [
+                "言います",
+                "言いました",
+                "言ってください",
+                "言いましょう"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_030",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "姉は　今　本を（　　）。",
+            "furigana": "<ruby>姉<rt>あね</rt></ruby>は　<ruby>今<rt>いま</rt></ruby>　<ruby>本<rt>ほん</rt></ruby>を（　　）。",
+            "blankPosition": 3,
+            "options": [
+                "読みます",
+                "読みました",
+                "読んでいます",
+                "読みません"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_031",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "先週　京都に（　　）。",
+            "furigana": "<ruby>先週<rt>せんしゅう</rt></ruby>　<ruby>京都<rt>きょうと</rt></ruby>に（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "行きません",
+                "行きませんでした",
+                "行きます",
+                "行きましょう"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_032",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "この　花は（　　）です。",
+            "furigana": "この　<ruby>花<rt>はな</rt></ruby>は（　　）です。",
+            "blankPosition": 2,
+            "options": [
+                "きれい",
+                "きれいな",
+                "きれいに",
+                "きれいで"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": "n5_essential_grammar_033",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "昨日の　テストは（　　）。",
+            "furigana": "<ruby>昨日<rt>きのう</rt></ruby>の　テストは（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "難しい",
+                "難しかった",
+                "難しくない",
+                "難しいです"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_034",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "あの　店は　あまり（　　）。",
+            "furigana": "あの　<ruby>店<rt>みせ</rt></ruby>は　あまり（　　）。",
+            "blankPosition": 3,
+            "options": [
+                "おいしいです",
+                "おいしかったです",
+                "おいしくないです",
+                "おいしくなかったです"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_035",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "この　部屋は（　　）です。",
+            "furigana": "この　<ruby>部屋<rt>へや</rt></ruby>は（　　）です。",
+            "blankPosition": 2,
+            "options": [
+                "静かな",
+                "静か",
+                "静かに",
+                "静かで"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_036",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "先週の　旅行は（　　）。",
+            "furigana": "<ruby>先週<rt>せんしゅう</rt></ruby>の　<ruby>旅行<rt>りょこう</rt></ruby>は（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "楽しいです",
+                "楽しかったです",
+                "楽しくないです",
+                "楽しいでした"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_037",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "日本の　料理を（　　）です。",
+            "furigana": "<ruby>日本<rt>にほん</rt></ruby>の　<ruby>料理<rt>りょうり</rt></ruby>を（　　）です。",
+            "blankPosition": 2,
+            "options": [
+                "食べます",
+                "食べたい",
+                "食べました",
+                "食べません"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_038",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "写真を（　　）もいいですか。",
+            "furigana": "<ruby>写真<rt>しゃしん</rt></ruby>を（　　）もいいですか。",
+            "blankPosition": 1,
+            "options": [
+                "撮ります",
+                "撮って",
+                "撮りたい",
+                "撮りました"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_039",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "毎日　宿題を（　　）。",
+            "furigana": "<ruby>毎日<rt>まいにち</rt></ruby>　<ruby>宿題<rt>しゅくだい</rt></ruby>を（　　）。",
+            "blankPosition": 2,
+            "options": [
+                "しなければなりません",
+                "してもいいです",
+                "しませんか",
+                "しましょう"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": "n5_essential_grammar_040",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "寒い（　　）、窓を　閉めてください。",
+            "furigana": "<ruby>寒<rt>さむ</rt></ruby>い（　　）、<ruby>窓<rt>まど</rt></ruby>を　<ruby>閉<rt>し</rt></ruby>めてください。",
+            "blankPosition": 1,
+            "options": [
+                "が",
+                "から",
+                "ので",
+                "けど"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_041",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "明日は（　　）と　思います。",
+            "furigana": "<ruby>明日<rt>あした</rt></ruby>は（　　）と　<ruby>思<rt>おも</rt></ruby>います。",
+            "blankPosition": 1,
+            "options": [
+                "晴れる",
+                "晴れます",
+                "晴れて",
+                "晴れた"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "id": "n5_essential_grammar_042",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "一緒に　お茶を（　　）か。",
+            "furigana": "<ruby>一緒<rt>いっしょ</rt></ruby>に　お<ruby>茶<rt>ちゃ</rt></ruby>を（　　）か。",
+            "blankPosition": 2,
+            "options": [
+                "飲みます",
+                "飲みました",
+                "飲みません",
+                "飲みましょう"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_043",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "電車（　　）バスの方が　安いです。",
+            "furigana": "<ruby>電車<rt>でんしゃ</rt></ruby>（　　）バスの<ruby>方<rt>ほう</rt></ruby>が　<ruby>安<rt>やす</rt></ruby>いです。",
+            "blankPosition": 1,
+            "options": [
+                "と",
+                "から",
+                "より",
+                "まで"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "id": "n5_essential_grammar_044",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "音楽を（　　）ながら　勉強します。",
+            "furigana": "<ruby>音楽<rt>おんがく</rt></ruby>を（　　）ながら　<ruby>勉強<rt>べんきょう</rt></ruby>します。",
+            "blankPosition": 1,
+            "options": [
+                "聞いて",
+                "聞き",
+                "聞く",
+                "聞きます"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "id": "n5_essential_grammar_045",
+            "level": "n5",
+            "type": "sentenceCompletion",
+            "sentence": "この　公園は（　　）じゃなかったです。",
+            "furigana": "この　<ruby>公園<rt>こうえん</rt></ruby>は（　　）じゃなかったです。",
+            "blankPosition": 2,
+            "options": [
+                "静か",
+                "静かな",
+                "静かに",
+                "静かで"
+            ],
+            "correctAnswer": 0
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "sentences": {
+        "s1": {
+          "translation": "I made a mistake",
+          "mining_text": "### Grammar & Chunks\n- **まちがえました (machigaemashita)**: Past tense of 'machigaeru' (to make a mistake/be wrong). Polite form.\n\n### Vocabulary\n- まちがえる (machigaeru): to make a mistake"
+        },
+        "s2": {
+          "translation": "Chin Shun",
+          "mining_text": "### Grammar & Chunks\n- **チン・シュン**: Proper noun (name) written in Katakana.\n\n### Vocabulary\n- チン・シュン: Chin Shun (Name)"
+        },
+        "s3": {
+          "translation": "Yesterday, Sunday, I played soccer with my friends.",
+          "mining_text": "### Grammar & Chunks\n- **きのうの 日曜日 (kinou no nichiyoubi)**: 'Yesterday's Sunday' or 'Sunday which was yesterday'.\n- **友だちと (tomodachi to)**: 'With a friend'. The particle 'to' indicates accompaniment.\n- **サッカーを しました (sakkaa o shimashita)**: Played soccer. 'O' is the object marker.\n\n### Vocabulary\n- きのう (kinou): yesterday\n- 日曜日 (nichiyoubi): Sunday\n- 友だち (tomodachi): friend\n- サッカー (sakkaa): soccer"
+        },
+        "s4": {
+          "translation": "Because I played from morning until evening, I was very tired.",
+          "mining_text": "### Grammar & Chunks\n- **朝から ゆうがたまで (asa kara yuugata made)**: From morning until evening. 'Kara' (from) and 'made' (until).\n- **〜から (kara)**: Because. Used here as a conjunction after the verb.\n- **つかれました (tsukaremashita)**: Past tense of 'tsukareru' (to get tired).\n\n### Vocabulary\n- 朝 (asa): morning\n- ゆうがた (yuugata): evening\n- とても (totemo): very\n- つかれる (tsukareru): to get tired"
+        },
+        "s5": {
+          "translation": "Last night, after eating dinner, I went to sleep immediately.",
+          "mining_text": "### Grammar & Chunks\n- **食べた あとで (tabeta ato de)**: After eating. [Verb Ta-form] + 'ato de' expresses 'after doing X'.\n- **すぐに (sugu ni)**: Immediately/right away.\n\n### Vocabulary\n- ゆうべ (yuube): last night\n- ばんご飯 (bangohan): dinner\n- 食べる (taberu): to eat\n- ねる (neru): to sleep"
+        },
+        "s6": {
+          "translation": "Therefore, I couldn't study for today's kanji test.",
+          "mining_text": "### Grammar & Chunks\n- **ですから (desu kara)**: Therefore/So.\n- **べんきょうが できませんでした (benkyou ga dekimasen deshita)**: Could not study. Negative past potential.\n\n### Vocabulary\n- 今日 (kyou): today\n- かんじ (kanji): Chinese characters\n- テスト (tesuto): test\n- べんきょう (benkyou): study"
+        },
+        "s7": {
+          "translation": "I woke up at 5 o'clock this morning.",
+          "mining_text": "### Grammar & Chunks\n- **5時に (goji ni)**: At 5 o'clock. Particle 'ni' marks specific time.\n- **起きました (okimashita)**: Past tense of 'okiru' (to wake up/get up).\n\n### Vocabulary\n- けさ (kesa): this morning\n- 5時 (goji): 5 o'clock\n- 起きる (okiru): to wake up"
+        },
+        "s8": {
+          "translation": "I took a shower and ate breakfast.",
+          "mining_text": "### Grammar & Chunks\n- **あびて (abite)**: Te-form of 'abiru' (to shower). Used to connect actions in sequence.\n- **朝ご飯 (asagohan)**: Breakfast.\n\n### Vocabulary\n- シャワー (shawaa): shower\n- あびる (abiru): to bathe/shower\n- 朝ご飯 (asagohan): breakfast"
+        },
+        "s9": {
+          "translation": "After that, I immediately studied from page 41 to page 60 of the kanji textbook.",
+          "mining_text": "### Grammar & Chunks\n- **41ページから 60ページまで (yonjuuichi peeji kara rokujuu peeji made)**: From page 41 to page 60.\n- **テキストの (tekisuto no)**: Of the textbook. Particle 'no' indicates possession/relation.\n\n### Vocabulary\n- それから (sorekara): after that / then\n- テキスト (tekisuto): textbook\n- ページ (peeji): page"
+        },
+        "s10": {
+          "translation": "Then I went to school.",
+          "mining_text": "### Grammar & Chunks\n- **学校へ (gakkou e)**: To school. Particle 'e' indicates direction.\n- **行きました (ikimashita)**: Went. Past tense of 'iku'.\n\n### Vocabulary\n- 学校 (gakkou): school\n- 行く (iku): to go"
+        },
+        "s11": {
+          "translation": "It was a very busy morning.",
+          "mining_text": "### Grammar & Chunks\n- **いそがしい 朝 (isogashii asa)**: Busy morning. Adjective modifies noun directly.\n- **でした (deshita)**: Was. Polite past tense of 'desu'.\n\n### Vocabulary\n- いそがしい (isogashii): busy"
+        },
+        "s12": {
+          "translation": "However, there was no one studying kanji in the classroom.",
+          "mining_text": "### Grammar & Chunks\n- **しかし (shikashi)**: However.\n- **べんきょうしている 人 (benkyou shite iru hito)**: People who are/were studying. Present progressive modifying a noun.\n- **いませんでした (imasen deshita)**: There was not (for living things).\n\n### Vocabulary\n- きょうしつ (kyoushitsu): classroom\n- 人 (hito): person/people"
+        },
+        "s13": {
+          "translation": "I made a mistake.",
+          "mining_text": "### Grammar & Chunks\n- **まちがえました (machigaemashita)**: Repeating the realization of the error.\n\n### Vocabulary\n- まちがえる (machigaeru): to make a mistake"
+        },
+        "s14": {
+          "translation": "The test wasn't today; it was tomorrow.",
+          "mining_text": "### Grammar & Chunks\n- **今日ではなくて (kyou dewa nakute)**: Not today. 'Dewa nakute' is the te-form of 'dewa nai' used to connect clauses.\n- **あしたでした (ashita deshita)**: It was tomorrow.\n\n### Vocabulary\n- あした (ashita): tomorrow"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "30 Why did he wake up at 5 o'clock this morning?",
+          "options": {
+            "opt1": "Because he wanted to play soccer from morning until evening.",
+            "opt2": "Because he wanted to study for the kanji test.",
+            "opt3": "Because he wanted to take a shower and eat breakfast.",
+            "opt4": "Because he wanted to go to school and study."
+          }
+        },
+        "q2": {
+          "text": "31 What did Chin-san make a mistake about?",
+          "options": {
+            "opt1": "The kanji textbook.",
+            "opt2": "The pages in the kanji textbook.",
+            "opt3": "The day the kanji test is held.",
+            "opt4": "The classroom where the kanji test is held."
+          }
+        }
+      }
+    }
+  ]
+}

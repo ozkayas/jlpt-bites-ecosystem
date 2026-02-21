@@ -1,0 +1,419 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_short_001",
+      "sentences": {
+        "s1": {
+          "translation": "(En la universidad)",
+          "mining_text": "### Gramática & Chunks\n- **で (de)**: Partícula de lugar, indica dónde ocurre la acción o situación.\n\n### Vocabulario\n- 大学 (だいがく): universidad"
+        },
+        "s2": {
+          "translation": "Un estudiante vio este papel.",
+          "mining_text": "### Gramática & Chunks\n- **が (ga)**: Marcador de sujeto, identifica al estudiante como quien realiza la acción.\n- **を (o)**: Marcador de objeto directo, indica que el papel es lo que se vio.\n- **見ました (みました - mimashita)**: Forma cortés en pasado de 見る (miru - ver).\n\n### Vocabulario\n- 学生 (がくせい): estudiante\n- 紙 (かみ): papel\n- 見る (みる): ver, mirar"
+        },
+        "s3": {
+          "translation": "A todos los de las clases de \"Japonés 1\" y \"Japonés 2\"",
+          "mining_text": "### Gramática & Chunks\n- **と (to)**: Conjunción que significa 'y'.\n- **の (no)**: Partícula de posesión o relación.\n- **へ (e)**: Partícula de dirección, usada aquí para indicar el destinatario del aviso.\n\n### Vocabulario\n- 日本語 (にほんご): idioma japonés\n- クラス: clase\n- みなさん: todos"
+        },
+        "s4": {
+          "translation": "Hoy el profesor Degawa está de permiso hasta el mediodía.",
+          "mining_text": "### Gramática & Chunks\n- **は (wa)**: Marcador de tema, establece al profesor Degawa como el tema.\n- **まで (made)**: Partícula que significa 'hasta', marca el límite de tiempo.\n- **お休みです (oyasumi desu)**: Expresión cortés para estar ausente o de vacaciones.\n\n### Vocabulario\n- 今日 (きょう): hoy\n- お昼 (おひる): mediodía\n- お休み (おやすみ): descanso, ausencia"
+        },
+        "s5": {
+          "translation": "No hay clase de \"Japonés 1\" por la mañana.",
+          "mining_text": "### Gramática & Chunks\n- **ありません (arimasen)**: Forma negativa cortés de ある (aru), que significa 'no haber'.\n\n### Vocabulario\n- 午前 (ごぜん): mañana (AM)"
+        },
+        "s6": {
+          "translation": "Hay clase de \"Japonés 2\" por la tarde.",
+          "mining_text": "### Gramática & Chunks\n- **あります (arimasu)**: Forma cortés de ある (aru), que significa 'haber' o 'existir'.\n\n### Vocabulario\n- 午後 (ごご): tarde (PM)"
+        },
+        "s7": {
+          "translation": "Por favor, entreguen la tarea de \"Japonés 1\" la semana que viene.",
+          "mining_text": "### Gramática & Chunks\n- **出して ください (だして ください - dashite kudasai)**: Forma te de 出す (dasu) + ください (kudasai). Esta estructura se usa para realizar una petición cortés.\n\n### Vocabulario\n- しゅくだい: tarea, deberes\n- 来週 (らいしゅう): la semana que viene\n- 出す (だす): entregar, sacar"
+        },
+        "s8": {
+          "translation": "2 de diciembre de 2016, Universidad Takami",
+          "mining_text": "### Gramática & Chunks\n- **年 (ねん), 月 (がつ), 日 (にち/か)**: Sufijos contadores para año, mes y día respectivamente.\n\n### Vocabulario\n- 高見大学 (たかみだいがく): Universidad Takami (nombre propio)"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Qué quiere decir la universidad a los estudiantes de la clase de \"Japonés 1\"?",
+          "options": {
+            "opt1": "Hoy no hay clase. Por favor, entreguen la tarea por la tarde.",
+            "opt2": "Hoy no hay clase. Por favor, entreguen la tarea la semana que viene.",
+            "opt3": "Hoy hay clase, pero por favor, entreguen la tarea la semana que viene.",
+            "opt4": "Como hoy hay clase, por favor entreguen la tarea."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_002",
+      "sentences": {
+        "s1": {
+          "translation": "(En la oficina)",
+          "mining_text": "### Gramática & Chunks\n- **で (de)**: Partícula de lugar, indica dónde ocurre una acción o situación.\n\n### Vocabulario\n- 会社 (かいしゃ): empresa, oficina"
+        },
+        "s2": {
+          "translation": "Sobre el escritorio del Sr. Bogo, hay esta nota y un paquete.",
+          "mining_text": "### Gramática & Chunks\n- **の (no)**: Partícula posesiva, conecta al Sr. Bogo con el escritorio y al escritorio con la parte superior ('sobre').\n- **に (ni)**: Partícula de ubicación para existencia, marca dónde se encuentran los objetos.\n- **と (to)**: Partícula que significa 'y', usada para listar sustantivos.\n- **あります (arimasu)**: Verbo cortés que indica la existencia de objetos inanimados.\n\n### Vocabulario\n- 机 (つくえ): escritorio\n- 上 (うえ): arriba, encima, sobre\n- 荷物 (にもつ): equipaje, paquete"
+        },
+        "s3": {
+          "translation": "Sr. Bogo",
+          "mining_text": "### Gramática & Chunks\n- **さん (san)**: Sufijo honorífico añadido a los nombres.\n\n### Vocabulario\n- ボゴ: Bogo (Nombre)"
+        },
+        "s4": {
+          "translation": "Alguien de la oficina de correos vendrá a recoger este paquete alrededor de las 10, así que por favor entregue el paquete y el dinero.",
+          "mining_text": "### Gramática & Chunks\n- **ごろ (goro)**: Partícula de tiempo aproximado (alrededor de).\n- **～に 来ます (ni kimasu)**: Propósito del movimiento; la raíz de とる + に significa 'venir a recoger'.\n- **から (kara)**: Conjunción que significa 'porque' o 'por eso'.\n- **～て ください (te kudasai)**: Forma de petición cortés.\n\n### Vocabulario\n- 郵便局 (ゆうびんきょく): oficina de correos\n- 人 (ひと): persona\n- お金 (おかね): dinero\n- 渡す (わたす): entregar"
+        },
+        "s5": {
+          "translation": "En cuanto al dinero, el Sr. Nakanishi lo tiene.",
+          "mining_text": "### Gramática & Chunks\n- **持って います (motte imasu)**: Forma te de 持つ + います. Indica un estado de posesión o estar llevando algo.\n\n### Vocabulario\n- 中西 (なかにし): Nakanishi (Apellido)\n- 持つ (もつ): tener, llevar, poseer"
+        },
+        "s6": {
+          "translation": "Por favor, vaya a buscarlo antes de que llegue la persona de correos.",
+          "mining_text": "### Gramática & Chunks\n- **～前に (mae ni)**: Antes de (verbo en forma de diccionario + mae ni).\n- **もらいに 行く (morai ni iku)**: Propósito del movimiento; 'ir a recibir/buscar'.\n\n### Vocabulario\n- 前 (まえ): antes\n- もらう: recibir, obtener\n- 行く (いく): ir"
+        },
+        "s7": {
+          "translation": "Gracias de antemano / Saludos cordiales.",
+          "mining_text": "### Gramática & Chunks\n- **よろしく おねがいします**: Expresión fija utilizada al pedir un favor o cerrar una nota formal.\n\n### Vocabulario\n- お願いする (おねがいする): pedir un favor, solicitar"
+        },
+        "s8": {
+          "translation": "Tada, 30 de noviembre, 9:30",
+          "mining_text": "### Vocabulario\n- 多田 (ただ): Tada (Apellido)\n- 11月 (じゅういちがつ): Noviembre\n- 30日 (さんじゅうにち): día 30 del mes"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Después de leer esta nota, ¿qué hará primero el Sr. Bogo?",
+          "options": {
+            "opt1": "Recibir el dinero del Sr. Nakanishi.",
+            "opt2": "Entregar el paquete y el dinero al Sr. Nakanishi.",
+            "opt3": "Recibir un paquete de la persona de correos.",
+            "opt4": "Entregar el paquete y el dinero a la persona de correos."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_003",
+      "sentences": {
+        "s1": {
+          "translation": "Todas las mañanas como arroz y natto, o pan y huevos, y luego voy a la escuela.",
+          "mining_text": "### Gramática & Chunks\n- **は (wa)**: Partícula de tema, indica que 'yo' es el sujeto.\n- **か (ka)**: Partícula usada aquí como 'o' para dar a elegir entre las dos opciones de desayuno.\n- **食べて (tabete)**: Forma te de 食べる (taberu). Conecta la acción de comer con la siguiente acción (ir a la escuela).\n- **へ (e)**: Partícula de dirección, indica la escuela como destino.\n\n### Vocabulario\n- 毎朝 (まいあさ): todas las mañanas\n- ご飯 (ごはん): arroz / comida\n- なっとう: natto (soja fermentada)\n- たまご: huevo\n- 学校 (がっこう): escuela"
+        },
+        "s2": {
+          "translation": "Pero esta mañana no comí nada.",
+          "mining_text": "### Gramática & Chunks\n- **でも (demo)**: Conjunción que significa 'pero'.\n- **何も (nani mo)**: Se usa con un verbo negativo para significar 'nada'.\n- **食べませんでした (tabemasen deshita)**: Forma cortés del pasado negativo de 食べる.\n\n### Vocabulario\n- けさ: esta mañana\n- 何も (なにも): nada (con negativo)"
+        },
+        "s3": {
+          "translation": "Me llevé un plátano a la escuela.",
+          "mining_text": "### Gramática & Chunks\n- **持っていきました (motte ikimashita)**: Forma cortés del pasado de 持っていく (llevar algo).\n\n### Vocabulario\n- バナナ: plátano / banana\n- 持っていく (もっていく): llevar (algo)"
+        },
+        "s4": {
+          "translation": "Es porque la hora a la que me desperté fue tarde.",
+          "mining_text": "### Gramática & Chunks\n- **起きた時間 (okita jikan)**: Cláusula relativa; 'la hora en que me desperté'.\n- **おそかった (osokatta)**: Forma pasada del adjetivo i おそい (tarde/lento).\n- **～からです (kara desu)**: Terminación explicativa que significa 'es porque...'.\n\n### Vocabulario\n- 起きる (おきる): despertarse\n- 時間 (じかん): tiempo / hora\n- おそい: tarde / lento"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Qué comió 'yo' esta mañana antes de ir a la escuela?",
+          "options": {
+            "opt1": "Comió arroz y natto.",
+            "opt2": "Comió pan y huevos.",
+            "opt3": "No comió nada.",
+            "opt4": "Comió un plátano."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_004",
+      "sentences": {
+        "s1": {
+          "translation": "Hoy por la mañana caminé hasta la estación.",
+          "mining_text": "### Gramática & Chunks\n- **は (wa)**: Partícula de tema, establece 'hoy' (きょう) como el tema de la oración.\n- **まで (made)**: Partícula que significa 'hasta', indicando el destino del movimiento.\n- **あるきました (arukimashita)**: Forma cortés pasada de あるく (caminar). Indica una acción completada en el pasado.\n\n### Vocabulario\n- きょう: hoy\n- あさ: mañana\n- えき: estación\n- あるく: caminar"
+        },
+        "s2": {
+          "translation": "Fui a la empresa en tren.",
+          "mining_text": "### Gramática & Chunks\n- **で (de)**: Partícula de medio, indica 'por medio de' (el tren).\n- **へ (he/e)**: Partícula de dirección, marca el destino (la empresa).\n- **行きました (ikimashita)**: Forma cortés pasada de 行く (ir).\n\n### Vocabulario\n- でんしゃ: tren\n- かいしゃ: empresa, oficina\n- 行く (いく): ir"
+        },
+        "s3": {
+          "translation": "Al mediodía, comí curry en un restaurante.",
+          "mining_text": "### Gramática & Chunks\n- **ひるは (hiru wa)**: 'El mediodía' como tema de la oración.\n- **で (de)**: Partícula de lugar, marca dónde ocurrió la acción (comer).\n- **を (o)**: Partícula de objeto, marca el 'curry' como lo que se come.\n- **たべました (tabemashita)**: Forma cortés pasada de たべる (comer).\n\n### Vocabulario\n- ひる: mediodía\n- レストラン: restaurante\n- カレー: curry\n- たべる: comer"
+        },
+        "s4": {
+          "translation": "Estaba muy delicioso.",
+          "mining_text": "### Gramática & Chunks\n- **とても (totemo)**: Adverbio que significa 'muy', usado para dar énfasis.\n- **おいしかったです (oishikatta desu)**: Forma cortés pasada del adjetivo tipo -i おいしい (delicioso). Para pasar adjetivos tipo -i al pasado, se cambia el final ~i por ~katta.\n\n### Vocabulario\n- とても: muy\n- おいしい: delicioso"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Cómo fuiste hoy a la empresa?",
+          "options": {
+            "opt1": "caminando",
+            "opt2": "en autobús",
+            "opt3": "en tren",
+            "opt4": "en bicicleta"
+          }
+        },
+        "q2": {
+          "text": "¿Qué comiste al mediodía?",
+          "options": {
+            "opt1": "pan",
+            "opt2": "ramen",
+            "opt3": "curry",
+            "opt4": "sushi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_005",
+      "sentences": {
+        "s1": {
+          "translation": "Ayer vi una película con un amigo.",
+          "mining_text": "### Gramática & Chunks\n- は (wa): Partícula de tema, indicando 'ayer' como el marco temporal.\n- と (to): Partícula de compañía, que significa 'con' (amigo).\n- を (o): Partícula de objeto, marca 'película' como lo que se vio.\n- みました (mimashita): Forma cortés pasada de みる (ver/mirar).\n\n### Vocabulario\n- きのう: ayer\n- ともだち: amigo\n- えいが: película\n- みる: ver, mirar"
+        },
+        "s2": {
+          "translation": "Después de la película, fuimos a una cafetería.",
+          "mining_text": "### Gramática & Chunks\n- の あとで (no ato de): Expresión que significa 'después de ~', conecta un sustantivo a la secuencia.\n- に (ni): Partícula de destino, marca la cafetería como el lugar a donde fueron.\n- 行きました (ikimashita): Forma cortés pasada de 行く (ir).\n\n### Vocabulario\n- あとで: después\n- カフェ: cafetería\n- 行く (いく): ir"
+        },
+        "s3": {
+          "translation": "Bebimos café y hablamos mucho.",
+          "mining_text": "### Gramática & Chunks\n- のんで (nonde): Forma -te de のむ (beber), usada aquí para conectar dos acciones en secuencia.\n- たくさん (takusan): Adverbio que significa 'mucho'.\n- はなしました (hanashimashita): Forma cortés pasada de はなす (hablar).\n\n### Vocabulario\n- コーヒー: café\n- のむ: beber\n- たくさん: mucho\n- はなす: hablar"
+        },
+        "s4": {
+          "translation": "Fue divertido.",
+          "mining_text": "### Gramática & Chunks\n- たのしかったです (tanoshikatta desu): Forma cortés pasada del adjetivo tipo -i たのしい (divertido).\n\n### Vocabulario\n- たのしい: divertido"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Con quién viste la película ayer?",
+          "options": {
+            "opt1": "familia",
+            "opt2": "amigo",
+            "opt3": "profesor",
+            "opt4": "solo"
+          }
+        },
+        "q2": {
+          "text": "¿Qué bebiste en la cafetería?",
+          "options": {
+            "opt1": "jugo",
+            "opt2": "té",
+            "opt3": "café",
+            "opt4": "agua"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_006",
+      "sentences": {
+        "s1": {
+          "translation": "Me despierto a las 6 todas las mañanas.",
+          "mining_text": "### Gramática & Chunks\n- まいあさ (maiasa): Expresión temporal que significa 'cada mañana'.\n- に (ni): Partícula que marca un punto específico en el tiempo.\n- おきます (okimasu): Forma polite de おきる (despertarse).\n\n### Vocabulario\n- まいあさ: cada mañana\n- 6じ: las 6\n- おきる: despertarse"
+        },
+        "s2": {
+          "translation": "Como pan y huevo.",
+          "mining_text": "### Gramática & Chunks\n- と (to): Partícula para listar sustantivos ('y').\n- を (o): Partícula de objeto directo.\n- たべます (tabemasu): Forma polite de たべる (comer).\n\n### Vocabulario\n- パン: pan\n- たまご: huevo\n- たべる: comer"
+        },
+        "s3": {
+          "translation": "Después de eso, voy a la escuela.",
+          "mining_text": "### Gramática & Chunks\n- そのあと (sono ato): Conjunción que significa 'después de eso'.\n- へ (e): Partícula de dirección hacia un destino.\n- 行きます (ikimasu): Forma polite de いく (ir).\n\n### Vocabulario\n- そのあと: después de eso\n- がっこう: escuela\n- 行く (いく): ir"
+        },
+        "s4": {
+          "translation": "Me gusta estudiar.",
+          "mining_text": "### Gramática & Chunks\n- が (ga): Partícula que marca el objeto de gusto.\n- すきです (suki desu): Expresión de cortesía para 'gustar'.\n\n### Vocabulario\n- べんきょう: estudio\n- すき: gustar"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿A qué hora te despiertas?",
+          "options": {
+            "opt1": "las 5",
+            "opt2": "las 6",
+            "opt3": "las 7",
+            "opt4": "las 8"
+          }
+        },
+        "q2": {
+          "text": "¿A dónde vas?",
+          "options": {
+            "opt1": "empresa",
+            "opt2": "estación",
+            "opt3": "escuela",
+            "opt4": "casa"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_007",
+      "sentences": {
+        "s1": {
+          "translation": "Paso los fines de semana en casa.",
+          "mining_text": "### Gramática & Chunks\n- しゅうまつ は (shuumatsu wa): El tema de la oración es 'el fin de semana'.\n- うち で (uchi de): La partícula 'de' marca el lugar (casa) donde ocurre la acción.\n- すごします (sugoshimasu): Forma cortés de すごす (pasar el tiempo).\n\n### Vocabulario\n- しゅうまつ: fin de semana\n- うち: casa\n- すごす: pasar (tiempo)"
+        },
+        "s2": {
+          "translation": "Hago cosas como ver la tele y leer libros.",
+          "mining_text": "### Gramática & Chunks\n- ～たり ～たり します (~tari ~tari shimasu): Patrón gramatical usado para enumerar acciones representativas.\n- みたり (mitari): Forma -tari de みる (ver).\n- よんだり (yondari): Forma -tari de よむ (leer).\n\n### Vocabulario\n- テレビ: televisión\n- 本 (ほん): libro\n- みる: ver\n- よむ: leer"
+        },
+        "s3": {
+          "translation": "Comí ramen al mediodía.",
+          "mining_text": "### Gramática & Chunks\n- ひる は (hiru wa): Establece el 'mediodía' como marco temporal.\n- たべました (tabemashita): Forma cortés pasada de たべる (comer).\n\n### Vocabulario\n- ひる: mediodía\n- ラーメン: ramen\n- たべる: comer"
+        },
+        "s4": {
+          "translation": "Me relajé.",
+          "mining_text": "### Gramática & Chunks\n- ゆっくり (yukkuri): Adverbio que significa 'despacio' o 'tranquilamente'.\n- しました (shimashita): Forma cortés pasada de する (hacer).\n\n### Vocabulario\n- ゆっくり: despacio/tranquilamente\n- する: hacer"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Dónde pasas el fin de semana?",
+          "options": {
+            "opt1": "escuela",
+            "opt2": "empresa",
+            "opt3": "casa",
+            "opt4": "restaurante"
+          }
+        },
+        "q2": {
+          "text": "¿Qué comiste al mediodía?",
+          "options": {
+            "opt1": "curry",
+            "opt2": "pan",
+            "opt3": "ramen",
+            "opt4": "sushi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_008",
+      "sentences": {
+        "s1": {
+          "translation": "Hoy está lluvioso.",
+          "mining_text": "### Gramática & Chunks\n- きょう は (kyou wa): Establece 'hoy' como el tema de la oración.\n- あめ です (ame desu): Sustantivo + cópula 'desu' para declarar una condición (es lluvia).\n\n### Vocabulario\n- きょう: hoy\n- あめ: lluvia"
+        },
+        "s2": {
+          "translation": "No salgo afuera.",
+          "mining_text": "### Gramática & Chunks\n- そと に (soto ni): La partícula 'ni' marca el lugar o la dirección del movimiento.\n- 出ません (demasen): Forma negativa cortés de 出る (deru - salir).\n\n### Vocabulario\n- そと: afuera\n- 出る (でる): salir"
+        },
+        "s3": {
+          "translation": "Escucho música en casa.",
+          "mining_text": "### Gramática & Chunks\n- うち で (uchi de): 'de' marca el lugar de la acción (en casa).\n- おんがく を (ongaku o): 'o' marca el objeto directo (música).\n- ききます (kikimasu): Forma en -masu de きく (kiku - escuchar).\n\n### Vocabulario\n- うち: casa\n- おんがく: música\n- きく: escuchar"
+        },
+        "s4": {
+          "translation": "También bebo café.",
+          "mining_text": "### Gramática & Chunks\n- も (mo): Partícula que significa 'también'.\n- のみます (nomimasu): Forma en -masu de のむ (nomu - beber).\n\n### Vocabulario\n- コーヒー: café\n- のむ: beber"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Cómo está el clima hoy?",
+          "options": {
+            "opt1": "soleado",
+            "opt2": "nublado",
+            "opt3": "lluvioso",
+            "opt4": "nevado"
+          }
+        },
+        "q2": {
+          "text": "¿Dónde escuchas música?",
+          "options": {
+            "opt1": "afuera",
+            "opt2": "estación",
+            "opt3": "cafetería",
+            "opt4": "casa"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_009",
+      "sentences": {
+        "s1": {
+          "translation": "Mi amigo es japonés.",
+          "mining_text": "### Gramática & Chunks\n- は (wa): Partícula de tema, indicando que el 'amigo' es el sujeto de la oración.\n- にほんじん です (nihonjin desu): Sustantivo + cópula 'desu' para declarar una nacionalidad.\n\n### Vocabulario\n- ともだち: amigo\n- にほんじん: japonés (persona)"
+        },
+        "s2": {
+          "translation": "Él/Ella me enseña japonés.",
+          "mining_text": "### Gramática & Chunks\n- を (o): Partícula de objeto, marca el 'japonés' como lo que se enseña.\n- おしえて くれます (oshiete kuremasu): Forma -te de 'enseñar' + 'kuremasu'. Indica que alguien le hace el favor de enseñar al hablante.\n\n### Vocabulario\n- にほんご: idioma japonés\n- おしえる: enseñar"
+        },
+        "s3": {
+          "translation": "A veces estudiamos juntos.",
+          "mining_text": "### Gramática & Chunks\n- ときどき (tokidoki): Adverbio de frecuencia que significa 'a veces'.\n- いっしょ に (issho ni): Frase adverbial que significa 'juntos'.\n- べんきょう します (benkyou shimasu): Forma cortés del verbo 'estudiar'.\n\n### Vocabulario\n- いっしょに: juntos\n- べんきょうする: estudiar"
+        },
+        "s4": {
+          "translation": "Es muy amable.",
+          "mining_text": "### Gramática & Chunks\n- とても (totemo): Adverbio de grado que significa 'muy'.\n- しんせつ です (shinsetsu desu): Adjetivo tipo -na 'shinsetsu' (amable) + cópula 'desu'.\n\n### Vocabulario\n- とても: muy\n- しんせつ: amable, gentil"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿De dónde es tu amigo?",
+          "options": {
+            "opt1": "Corea",
+            "opt2": "Japón",
+            "opt3": "China",
+            "opt4": "América"
+          }
+        },
+        "q2": {
+          "text": "¿Qué hace tu amigo?",
+          "options": {
+            "opt1": "Enseñar inglés",
+            "opt2": "Enseñar japonés",
+            "opt3": "Cocinar",
+            "opt4": "Ver una película"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_010",
+      "sentences": {
+        "s1": {
+          "translation": "Ayer fui al supermercado con mi madre.",
+          "mining_text": "### Gramática & Estructuras\n- **と (to)**: Partícula de compañía que significa 'con', indica que se hace algo junto a alguien.\n- **に 行きました (ni ikimashita)**: Partícula de dirección に + pasado de 行く (ir). Indica movimiento hacia un destino.\n\n### Vocabulario\n- きのう: ayer\n- お母さん (okaasan): madre\n- スーパー: supermercado\n- 行く (iku): ir"
+        },
+        "s2": {
+          "translation": "Compramos verduras y frutas.",
+          "mining_text": "### Gramática & Estructuras\n- **と (to)**: Partícula de enumeración que significa 'y', conectando dos sustantivos.\n- **を 買いました (o kaimashita)**: Partícula de objeto を + pasado de 買う (comprar).\n\n### Vocabulario\n- やさい: verduras\n- くだもの: frutas\n- 買う (kau): comprar"
+        },
+        "s3": {
+          "translation": "Las manzanas estaban baratas.",
+          "mining_text": "### Gramática & Estructuras\n- **が (ga)**: Partícula de sujeto, resaltando りんご como sujeto.\n- **安かったです (yasukatta desu)**: Pasado del adjetivo -i 安い (barato). Pasado de adjetivos -i: quitar い → añadir かった.\n\n### Vocabulario\n- りんご: manzana\n- 安い (yasui): barato"
+        },
+        "s4": {
+          "translation": "Volvimos a casa y preparamos la cena juntos.",
+          "mining_text": "### Gramática & Estructuras\n- **に かえって (ni kaette)**: Forma -te de 帰る (volver a casa), conectando dos acciones en secuencia.\n- **いっしょ に (issho ni)**: Frase adverbial que significa 'juntos'.\n\n### Vocabulario\n- うち: casa, hogar\n- かえる: volver, regresar a casa\n- いっしょに: juntos\n- ばんごはん: cena\n- つくる: hacer, cocinar"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Con quién fuiste al supermercado?",
+          "options": {
+            "opt1": "Padre",
+            "opt2": "Madre",
+            "opt3": "Amigo/a",
+            "opt4": "Hermana mayor"
+          }
+        },
+        "q2": {
+          "text": "¿Cómo estaban las manzanas?",
+          "options": {
+            "opt1": "Caras",
+            "opt2": "Grandes",
+            "opt3": "Baratas",
+            "opt4": "Pequeñas"
+          }
+        }
+      }
+    }
+  ]
+}

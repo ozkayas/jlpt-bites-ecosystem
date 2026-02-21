@@ -1,0 +1,85 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "sentences": {
+        "s1": {
+          "translation": "Je me suis trompé",
+          "mining_text": "### Grammaire et Segments\n- **まちがえました (machigaemashita)**: Passé poli de 'machigaeru' (se tromper).\n\n### Vocabulaire\n- まちがえる (machigaeru): se tromper / faire une erreur"
+        },
+        "s2": {
+          "translation": "Chin Shun",
+          "mining_text": "### Grammaire et Segments\n- **チン・シュン**: Nom propre écrit en katakana.\n\n### Vocabulaire\n- チン・シュン: Chin Shun (Prénom/Nom)"
+        },
+        "s3": {
+          "translation": "Hier, dimanche, j'ai joué au football avec un ami.",
+          "mining_text": "### Grammaire et Segments\n- **きのうの 日曜日 (kinou no nichiyoubi)**: Le dimanche d'hier.\n- **友だちと (tomodachi to)**: Avec un ami. 'To' indique l'accompagnement.\n\n### Vocabulaire\n- きのう (kinou): hier\n- 日曜日 (nichiyoubi): dimanche\n- 友だち (tomodachi): ami\n- サッカー (sakkaa): football"
+        },
+        "s4": {
+          "translation": "Comme j'en ai fait du matin au soir, j'étais très fatigué.",
+          "mining_text": "### Grammaire et Segments\n- **朝から ゆうがたまで (asa kara yuugata made)**: Du matin au soir.\n- **〜から (kara)**: Parce que (indique la cause).\n\n### Vocabulaire\n- 朝 (asa): matin\n- ゆうがた (yuugata): soir / fin d'après-midi\n- とても (totemo): très\n- つかれる (tsukareru): se fatiguer"
+        },
+        "s5": {
+          "translation": "Hier soir, après avoir mangé le dîner, je me suis couché immédiatement.",
+          "mining_text": "### Grammaire et Segments\n- **食べた あとで (tabeta ato de)**: Après avoir mangé. [Verbe forme en Ta] + 'ato de' signifie 'après avoir fait'.\n\n### Vocabulaire\n- ゆうべ (yuube): hier soir\n- ばんご飯 (bangohan): dîner / repas du soir\n- 食べる (taberu): manger\n- ねる (neru): dormir / se coucher"
+        },
+        "s6": {
+          "translation": "C'est pourquoi je n'ai pas pu réviser pour le test de kanji d'aujourd'hui.",
+          "mining_text": "### Grammaire et Segments\n- **ですから (desu kara)**: C'est pourquoi / Par conséquent.\n- **できませんでした (dekimasen deshita)**: N'a pas pu faire (passé négatif de pouvoir).\n\n### Vocabulaire\n- 今日 (kyou): aujourd'hui\n- かんじ (kanji): kanji\n- テスト (tesuto): test\n- べんきょう (benkyou): étude / révision"
+        },
+        "s7": {
+          "translation": "Ce matin, je me suis levé à 5 heures.",
+          "mining_text": "### Grammaire et Segments\n- **5時に (goji ni)**: À 5 heures. 'Ni' marque l'heure précise.\n\n### Vocabulaire\n- けさ (kesa): ce matin\n- 5時 (goji): 5 heures\n- 起きる (okiru): se lever / se réveiller"
+        },
+        "s8": {
+          "translation": "J'ai pris une douche et j'ai pris mon petit-déjeuner.",
+          "mining_text": "### Grammaire et Segments\n- **あびて (abite)**: Forme en Te de 'abiru'. Relie deux actions successives.\n\n### Vocabulaire\n- シャワー (shawaa): douche\n- あびる (abiru): prendre (une douche)\n- 朝ご飯 (asagohan): petit-déjeuner"
+        },
+        "s9": {
+          "translation": "Ensuite, j'ai tout de suite étudié de la page 41 à la page 60 du manuel de kanji.",
+          "mining_text": "### Grammaire et Segments\n- **41ページから 60ページまで**: De la page 41 à la page 60.\n\n### Vocabulaire\n- それから (sorekara): ensuite / après cela\n- テキスト (tekisuto): manuel / texte\n- ページ (peeji): page"
+        },
+        "s10": {
+          "translation": "Puis, je suis allé à l'école.",
+          "mining_text": "### Grammaire et Segments\n- **学校へ (gakkou e)**: À l'école. 'E' indique la destination.\n\n### Vocabulaire\n- 学校 (gakkou): école\n- 行く (iku): aller"
+        },
+        "s11": {
+          "translation": "C'était un matin très chargé.",
+          "mining_text": "### Grammaire et Segments\n- **いそがしい 朝 (isogashii asa)**: Un matin occupé.\n\n### Vocabulaire\n- いそがしい (isogashii): occupé / mouvementé"
+        },
+        "s12": {
+          "translation": "Cependant, il n'y avait personne qui étudiait les kanji dans la salle de classe.",
+          "mining_text": "### Grammaire et Segments\n- **しかし (shikashi)**: Cependant / Mais.\n- **べんきょうしている 人 (benkyou shite iru hito)**: Personne qui est en train d'étudier.\n- **いませんでした (imasen deshita)**: Il n'y avait pas (êtres animés).\n\n### Vocabulaire\n- きょうしつ (kyoushitsu): salle de classe\n- 人 (hito): personne"
+        },
+        "s13": {
+          "translation": "Je me suis trompé.",
+          "mining_text": "### Grammaire et Segments\n- **まちがえました (machigaemashita)**: Expression du regret d'une erreur.\n\n### Vocabulaire\n- まちがえる (machigaeru): se tromper"
+        },
+        "s14": {
+          "translation": "Le test n'était pas aujourd'hui, c'était demain.",
+          "mining_text": "### Grammaire et Segments\n- **今日ではなくて (kyou dewa nakute)**: Pas aujourd'hui (et...). Forme de liaison négative.\n\n### Vocabulaire\n- あした (ashita): demain"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "30 Pourquoi s'est-il levé à 5 heures ce matin ?",
+          "options": {
+            "opt1": "Parce qu'il voulait jouer au football du matin au soir.",
+            "opt2": "Parce qu'il voulait étudier pour le test de kanji.",
+            "opt3": "Parce qu'il voulait prendre une douche et prendre son petit-déjeuner.",
+            "opt4": "Parce qu'il voulait aller à l'école et étudier."
+          }
+        },
+        "q2": {
+          "text": "31 Sur quoi Chin-san s'est-il trompé ?",
+          "options": {
+            "opt1": "Le manuel de kanji.",
+            "opt2": "Les pages du manuel de kanji.",
+            "opt3": "Le jour où a lieu le test de kanji.",
+            "opt4": "La salle de classe où a lieu le test de kanji."
+          }
+        }
+      }
+    }
+  ]
+}

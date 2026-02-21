@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Ordering at a Cafe",
+        "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectAudio/001/audio.mp3"
+    },
+    "image": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectAudio/001/image.png",
+    "correct_option": 0,
+    "transcription": {
+        "intro": "きっさてんで　コーヒーを　のみたいです。みせの　ひとに　なんといいますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "１　コーヒーを　おねがいします。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "２　コーヒーは　いかがですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "３　コーヒーを　のみましょう。"
+            }
+        ],
+        "question": "みせの　ひとに　なんといいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きっさてん",
+                "tr": "kafe",
+                "en": "coffee shop / cafe"
+            },
+            {
+                "word": "コーヒー",
+                "tr": "kahve",
+                "en": "coffee"
+            },
+            {
+                "word": "のみたい",
+                "tr": "içmek istemek",
+                "en": "want to drink"
+            },
+            {
+                "word": "おねがいします",
+                "tr": "lütfen",
+                "en": "please"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～を　おねがいします",
+                "tr": "Bir şey sipariş ederken kullanılır.",
+                "en": "Used when ordering something."
+            },
+            {
+                "point": "～は　いかがですか",
+                "tr": "Birine bir şey teklif ederken kullanılır (İster misiniz?).",
+                "en": "Used when offering something to someone (Would you like?)."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Müşteri kahve sipariş etmek istediği için nazikçe isteme kalıbı olan 'おねがいします' kullanılmalıdır. 'コーヒー' yabancı kökenli bir kelime olduğu için Katakana ile yazılmıştır.",
+        "en": "Since the customer wants to order coffee, the polite request pattern 'おねがいします' should be used. 'コーヒー' is written in Katakana as it is a loanword."
+    }
+}

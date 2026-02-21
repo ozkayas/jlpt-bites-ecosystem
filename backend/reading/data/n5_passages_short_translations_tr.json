@@ -1,0 +1,419 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_short_001",
+      "sentences": {
+        "s1": {
+          "translation": "(Üniversitede)",
+          "mining_text": "### Gramer & Kalıplar\n- **で (de)**: Yer belirten edat, eylemin veya durumun gerçekleştiği yeri (üniversite) belirtir.\n\n### Kelimeler\n- 大学 (だいがく): üniversite"
+        },
+        "s2": {
+          "translation": "Bir öğrenci bu kağıdı gördü.",
+          "mining_text": "### Gramer & Kalıplar\n- **が (ga)**: Özne belirteci, eylemi yapanın öğrenci olduğunu gösterir.\n- **を (o)**: Nesne belirteci, kağıdın görülen şey olduğunu gösterir.\n- **見ました (みました - mimashita)**: 見る fiilinin kibar geçmiş zaman formu.\n\n### Kelimeler\n- 学生 (がくせい): öğrenci\n- 紙 (かみ): kağıt\n- 見る (みる): bakmak, görmek"
+        },
+        "s3": {
+          "translation": "\"Japonca 1\" ve \"Japonca 2\" sınıflarındaki herkese",
+          "mining_text": "### Gramer & Kalıplar\n- **と (to)**: Bağlaç, 've' anlamına gelir.\n- **の (no)**: İlgi eki, sınıflar ile öğrencileri birbirine bağlar.\n- **へ (e)**: Yönelme eki, başlıkta '...-e/-a' (alıcı) anlamında kullanılır.\n\n### Kelimeler\n- 日本語 (にほんご): Japonca\n- クラス: sınıf\n- みなさん: herkes"
+        },
+        "s4": {
+          "translation": "Bugün Degawa-sensei öğlene kadar izinli.",
+          "mining_text": "### Gramer & Kalıplar\n- **は (wa)**: Konu belirteci, cümleyi Degawa Hoca üzerine kurar.\n- **まで (made)**: '-e kadar' anlamına gelen edat, iznin bitiş zamanını gösterir.\n- **お休みです (oyasumi desu)**: Tatil veya izinli olma durumunu belirten kibar ifade.\n\n### Kelimeler\n- 今日 (きょう): bugün\n- お昼 (おひる): öğle vakti\n- お休み (おやすみ): izin, tatil"
+        },
+        "s5": {
+          "translation": "Sabahki \"Japonca 1\" sınıfı yok.",
+          "mining_text": "### Gramer & Kalıplar\n- **ありません (arimasen)**: ある fiilinin kibar olumsuz formu, 'yok' veya 'mevcut değil' anlamına gelir.\n\n### Kelimeler\n- 午前 (ごぜん): sabah, öğleden önce"
+        },
+        "s6": {
+          "translation": "Öğleden sonraki \"Japonca 2\" sınıfı yapılacak.",
+          "mining_text": "### Gramer & Kalıplar\n- **あります (arimasu)**: ある fiilinin kibar formu, 'var' veya 'yapılacak' anlamına gelir.\n\n### Kelimeler\n- 午後 (ごご): öğleden sonra"
+        },
+        "s7": {
+          "translation": "Lütfen \"Japonca 1\" ödevini önümüzdeki hafta teslim edin.",
+          "mining_text": "### Gramer & Kalıplar\n- **出して ください (だして ください - dashite kudasai)**: 出す fiilinin Te formu + ください. Bu yapı nazik bir istek bildirmek için kullanılır.\n\n### Kelimeler\n- しゅくだい: ödev\n- 来週 (らいしゅう): gelecek hafta\n- 出す (だす): teslim etmek, çıkarmak"
+        },
+        "s8": {
+          "translation": "2 Aralık 2016, Takami Üniversitesi",
+          "mining_text": "### Gramer & Kalıplar\n- **年 (ねん), 月 (がつ), 日 (にち/か)**: Sırasıyla yıl, ay ve gün için kullanılan sayıcılar.\n\n### Kelimeler\n- 高見大学 (たかみだいがく): Takami Üniversitesi (özel isim)"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Üniversite \"Japonca 1\" sınıfı öğrencilerine ne söylemek istiyor?",
+          "options": {
+            "opt1": "Bugün sınıf yok. Lütfen ödevi öğleden sonra teslim edin.",
+            "opt2": "Bugün sınıf yok. Lütfen ödevi önümüzdeki hafta teslim edin.",
+            "opt3": "Bugün sınıf var ama lütfen ödevi önümüzdeki hafta teslim edin.",
+            "opt4": "Bugün sınıf olduğu için lütfen ödevi teslim edin."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_002",
+      "sentences": {
+        "s1": {
+          "translation": "(Şirkette)",
+          "mining_text": "### Gramer & Kalıplar\n- **で (de)**: Bulunma durum eki, bir eylemin veya durumun nerede gerçekleştiğini gösterir.\n\n### Kelimeler\n- 会社 (かいしゃ): şirket, ofis"
+        },
+        "s2": {
+          "translation": "Bogo Bey'in masasının üzerinde bu not ve bir paket var.",
+          "mining_text": "### Gramer & Kalıplar\n- **の (no)**: İyelik eki, Bogo-san ile masa ve masa ile 'üzeri' kelimelerini birbirine bağlar.\n- **に (ni)**: Bulunma eki, eşyaların nerede olduğunu işaret eder.\n- **と (to)**: 'Ve' anlamına gelen bağlaç, isimleri listeler.\n- **あります (arimasu)**: Cansız varlıkların varlığını bildiren kibar fiil.\n\n### Kelimeler\n- 机 (つくえ): masa\n- 上 (うえ): üst, üzeri\n- 荷物 (にもつ): eşya, paket, yük"
+        },
+        "s3": {
+          "translation": "Bogo Bey",
+          "mining_text": "### Gramer & Kalıplar\n- **さん (san)**: İsimlere eklenen saygı eki.\n\n### Kelimeler\n- ボゴ: Bogo (İsim)"
+        },
+        "s4": {
+          "translation": "Saat 10 sularında postaneden bir kişi bu paketi almaya gelecek, bu yüzden lütfen paketi ve parayı ona verin.",
+          "mining_text": "### Gramer & Kalıplar\n- **ごろ (goro)**: Yaklaşık zaman bildiren ek (civarında).\n- **～に 来ます (ni kimasu)**: Gelme amacı; とる fiilinin kökü ile に kullanılarak 'almaya gelmek' anlamı verilir.\n- **から (kara)**: Sebep bildiren 'çünkü' veya 'dolayısıyla' anlamına gelen bağlaç.\n- **～て ください (te kudasai)**: Nazik rica yapısı.\n\n### Kelimeler\n- 郵便局 (ゆうびんきょく): postane\n- 人 (ひと): kişi, insan\n- お金 (おかね): para\n- 渡す (わたす): teslim etmek, vermek"
+        },
+        "s5": {
+          "translation": "Paraya gelince, Nakanishi Bey'de.",
+          "mining_text": "### Gramer & Kalıplar\n- **持って います (motte imasu)**: 持つ fiilinin Te-formu + います. Bir şeye sahip olma veya taşıma durumunu belirtir.\n\n### Kelimeler\n- 中西 (なかにし): Nakanishi (Soyadı)\n- 持つ (もつ): tutmak, taşımak, sahip olmak"
+        },
+        "s6": {
+          "translation": "Postacı gelmeden önce lütfen (parayı) almaya gidin.",
+          "mining_text": "### Gramer & Kalıplar\n- **～前に (mae ni)**: ...-den önce (sözlük formu fiil + mae ni).\n- **もらいに 行く (morai ni iku)**: Gitme amacı; 'almaya gitmek'.\n\n### Kelimeler\n- 前 (まえ): önce\n- もらう: almak, teslim almak\n- 行く (いく): gitmek"
+        },
+        "s7": {
+          "translation": "Şimdiden teşekkürler / Gereğini rica ederim.",
+          "mining_text": "### Gramer & Kalıplar\n- **よろしく おねがいします**: Bir ricada bulunurken veya resmi bir notu kapatırken kullanılan kalıplaşmış ifade.\n\n### Kelimeler\n- お願いする (おねがいする): rica etmek"
+        },
+        "s8": {
+          "translation": "Tada, 30 Kasım, 9:30",
+          "mining_text": "### Kelimeler\n- 多田 (ただ): Tada (Soyadı)\n- 11月 (じゅういちがつ): Kasım\n- 30日 (さんじゅうにち): Ayın 30. günü"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Bu notu okuduktan sonra, Bogo Bey ilk olarak ne yapacak?",
+          "options": {
+            "opt1": "Nakanishi Bey'den parayı alacak.",
+            "opt2": "Paketi ve parayı Nakanishi Bey'e verecek.",
+            "opt3": "Postacıdan bir paket alacak.",
+            "opt4": "Paketi ve parayı postacıya verecek."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_003",
+      "sentences": {
+        "s1": {
+          "translation": "Her sabah ya pilav ve natto ya da ekmek ve yumurta yiyip okula giderim.",
+          "mining_text": "### Gramer & Kalıplar\n- **は (wa)**: Konu belirleyici, 'ben' kelimesini cümlenin konusu yapar.\n- **か (ka)**: Burada iki kahvaltı seçeneği arasında 'veya' anlamında kullanılmıştır.\n- **食べて (tabete)**: 食べる fiilinin Te-formu. Yemek yeme eylemini bir sonraki eyleme (okula gitmek) bağlar.\n- **へ (e)**: Yönelme durumu eki, okulun hedef olduğunu gösterir.\n\n### Kelimeler\n- 毎朝 (まいあさ): her sabah\n- ご飯 (ごはん): pirinç pilavı / yemek\n- なっとう: natto (fermente soya fasulyesi)\n- たまご: yumurta\n- 学校 (がっこう): okul"
+        },
+        "s2": {
+          "translation": "Ama bu sabah hiçbir şey yemedim.",
+          "mining_text": "### Gramer & Kalıplar\n- **でも (demo)**: 'Ama' anlamına gelen bağlaç.\n- **何も (nani mo)**: Olumsuz fiille birlikte 'hiçbir şey' anlamında kullanılır.\n- **食べませんでした (tabemasen deshita)**: 食べる fiilinin kibar geçmiş zaman olumsuz formu.\n\n### Kelimeler\n- けさ: bu sabah\n- 何も (なにも): hiçbir şey (olumsuzla)"
+        },
+        "s3": {
+          "translation": "Okula bir muz götürdüm.",
+          "mining_text": "### Gramer & Kalıplar\n- **持っていきました (motte ikimashita)**: 持っていく (beraberinde götürmek) fiilinin kibar geçmiş zaman formu.\n\n### Kelimeler\n- バナナ: muz\n- 持っていく (もっていく): (bir şeyi) götürmek"
+        },
+        "s4": {
+          "translation": "Çünkü uyandığım saat geçti.",
+          "mining_text": "### Gramer & Kalıplar\n- **起きた時間 (okita jikan)**: Sıfat fiil grubu; 'uyandığım zaman'.\n- **おそかった (osokatta)**: おそい (geç/yavaş) i-sıfatının geçmiş zaman formu.\n- **～からです (kara desu)**: '...olduğu içindir' anlamına gelen açıklayıcı bitiş.\n\n### Kelimeler\n- 起きる (おきる): uyanmak\n- 時間 (じかん): zaman / saat\n- おそい: geç / yavaş"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Bu sabah 'ben' okula gitmeden önce ne yedim?",
+          "options": {
+            "opt1": "Pilav ve natto yedim.",
+            "opt2": "Ekmek ve yumurta yedim.",
+            "opt3": "Hiçbir şey yemedim.",
+            "opt4": "Muz yedim."
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_004",
+      "sentences": {
+        "s1": {
+          "translation": "Bugün sabah istasyona yürüdüm.",
+          "mining_text": "### Gramer & Kalıplar\n- **は (wa)**: Konu belirteci, 'bugün' (きょう) kelimesini cümlenin ana konusu yapar.\n- **まで (made)**: '-e kadar' anlamına gelen partikül, hareketin varış noktasını belirtir.\n- **あるきました (arukimashita)**: あるく (yürümek) fiilinin geçmiş zaman kibar formu. Geçmişte tamamlanmış bir eylemi belirtir.\n\n### Kelimeler\n- きょう: bugün\n- あさ: sabah\n- えき: istasyon\n- あるく: yürümek"
+        },
+        "s2": {
+          "translation": "Trenle işe gittim.",
+          "mining_text": "### Gramer & Kalıplar\n- **で (de)**: Araç/Vasıta partikülü, eylemin neyle yapıldığını (trenle) gösterir.\n- **へ (he/e)**: Yönelme partikülü, varış yerini (şirket/iş) işaret eder.\n- **行きました (ikimashita)**: 行く (gitmek) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- でんしゃ: tren\n- かいしゃ: şirket/iş yeri\n- 行く (いく): gitmek"
+        },
+        "s3": {
+          "translation": "Öğlen restoranda köri yedim.",
+          "mining_text": "### Gramer & Kalıplar\n- **ひるは (hiru wa)**: 'Öğle vakti', bu cümlenin konusu olarak belirlenmiştir.\n- **で (de)**: Yer partikülü, eylemin (yemek yeme) nerede gerçekleştiğini belirtir.\n- **を (o)**: Nesne belirtme partikülü, 'köri'yi yenen nesne olarak işaretler.\n- **たべました (tabemashita)**: たべる (yemek) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- ひる: öğle\n- レストラン: restoran\n- カレー: köri\n- たべる: yemek"
+        },
+        "s4": {
+          "translation": "Çok lezzetliydi.",
+          "mining_text": "### Gramer & Kalıplar\n- **とても (totemo)**: 'Çok' anlamına gelen zarf, vurgu için kullanılır.\n- **おいしかったです (oishikatta desu)**: おいしい (lezzetli) i-sıfatının geçmiş zaman kibar formu. i-sıfatlarını geçmiş zaman yapmak için sonundaki ~i, ~katta ile değiştirilir.\n\n### Kelimeler\n- とても: çok\n- おいしい: lezzetli"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Bugün işe nasıl gittiniz?",
+          "options": {
+            "opt1": "yürüyerek",
+            "opt2": "otobüsle",
+            "opt3": "trenle",
+            "opt4": "bisikletle"
+          }
+        },
+        "q2": {
+          "text": "Öğlen ne yediniz?",
+          "options": {
+            "opt1": "ekmek",
+            "opt2": "ramen",
+            "opt3": "köri",
+            "opt4": "suşi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_005",
+      "sentences": {
+        "s1": {
+          "translation": "Dün arkadaşımla film izledim.",
+          "mining_text": "### Gramer & Kalıplar\n- は (wa): Konu belirteci, 'dün' kelimesini zaman çerçevesi olarak belirler.\n- と (to): Birliktelik partikülü, 'ile' (arkadaş) anlamına gelir.\n- を (o): Nesne belirtme partikülü, 'film' kelimesini izlenen nesne olarak işaretler.\n- みました (mimashita): みる (izlemek) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- きのう: dün\n- ともだち: arkadaş\n- えいが: film\n- みる: izlemek, bakmak"
+        },
+        "s2": {
+          "translation": "Filmden sonra kafeye gittik.",
+          "mining_text": "### Gramer & Kalıplar\n- の あとで (no ato de): '~dan sonra' anlamına gelen kalıp, bir ismi dizilişe bağlar.\n- に (ni): Yönelme partikülü, kafeyi gidilen yer olarak işaretler.\n- 行きました (ikimashita): 行く (gitmek) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- あとで: sonra\n- カフェ: kafe\n- 行く (いく): gitmek"
+        },
+        "s3": {
+          "translation": "Kahve içip çok sohbet ettik.",
+          "mining_text": "### Gramer & Kalıplar\n- のんで (nonde): のむ (içmek) fiilinin Te-formu, burada iki eylemi sırayla bağlamak için kullanılır.\n- たくさん (takusan): 'Çok' veya 'bolca' anlamına gelen zarf.\n- はなしました (hanashimashita): はなす (konuşmak) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- コーヒー: kahve\n- のむ: içmek\n- たくさん: çok, bolca\n- はなす: konuşmak"
+        },
+        "s4": {
+          "translation": "Eğlenceliydi.",
+          "mining_text": "### Gramer & Kalıplar\n- たのしかったです (tanoshikatta desu): たのしい (eğlenceli) i-sıfatının geçmiş zaman kibar formu.\n\n### Kelimeler\n- たのしい: eğlenceli"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Dün kiminle film izlediniz?",
+          "options": {
+            "opt1": "aile",
+            "opt2": "arkadaş",
+            "opt3": "öğretmen",
+            "opt4": "yalnız"
+          }
+        },
+        "q2": {
+          "text": "Kafede ne içtiniz?",
+          "options": {
+            "opt1": "meyve suyu",
+            "opt2": "çay",
+            "opt3": "kahve",
+            "opt4": "su"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_006",
+      "sentences": {
+        "s1": {
+          "translation": "Her sabah saat 6’da uyanırım.",
+          "mining_text": "### Gramer & Kalıplar\n- まいあさ (maiasa): 'Her sabah' anlamına gelen zaman ifadesi.\n- に (ni): Belirli bir zaman noktasını işaret eden ek.\n- おきます (okimasu): おきる fiilinin kibar formu, alışkanlık bildirir.\n\n### Kelimeler\n- まいあさ: her sabah\n- 6じ: saat 6\n- おきる: uyanmak"
+        },
+        "s2": {
+          "translation": "Ekmek ve yumurta yerim.",
+          "mining_text": "### Gramer & Kalıplar\n- と (to): İsimleri bağlayan 've' bağlacı.\n- を (o): Nesne belirtme eki.\n- たべます (tabemasu): たべる (yemek) fiilinin kibar formu.\n\n### Kelimeler\n- パン: ekmek\n- たまご: yumurta\n- たべる: yemek yemek"
+        },
+        "s3": {
+          "translation": "Sonra okula giderim.",
+          "mining_text": "### Gramer & Kalıplar\n- そのあと (sono ato): 'Ondan sonra' anlamına gelen bağlaç.\n- へ (e): Yönelme durumu bildiren ek.\n- 行きます (ikimasu): いく (gitmek) fiilinin kibar formu.\n\n### Kelimeler\n- そのあと: ondan sonra\n- がっこう: okul\n- 行く (いく): gitmek"
+        },
+        "s4": {
+          "translation": "Ders çalışmayı severim.",
+          "mining_text": "### Gramer & Kalıplar\n- が (ga): Sevilen/hoşlanılan şeyi işaret eden ek.\n- すきです (suki desu): 'Sevmek/hoşlanmak' ifadesinin kibar hali.\n\n### Kelimeler\n- べんきょう: ders çalışmak, çalışma\n- すき: sevilen, hoşlanılan"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Saat kaçta uyanırsınız?",
+          "options": {
+            "opt1": "saat 5",
+            "opt2": "saat 6",
+            "opt3": "saat 7",
+            "opt4": "saat 8"
+          }
+        },
+        "q2": {
+          "text": "Nereye gidersiniz?",
+          "options": {
+            "opt1": "iş yeri/şirket",
+            "opt2": "istasyon",
+            "opt3": "okul",
+            "opt4": "ev"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_007",
+      "sentences": {
+        "s1": {
+          "translation": "Hafta sonu evde vakit geçiririm.",
+          "mining_text": "### Gramer & Kalıplar\n- しゅうまつ は (shuumatsu wa): 'Hafta sonu' cümlenin konusudur.\n- うち で (uchi de): 'de' partikülü, eylemin gerçekleştiği yeri (ev) belirtir.\n- すごします (sugoshimasu): すごす (vakit geçirmek) fiilinin kibar formu. Alışılmış bir eylemi belirtir.\n\n### Kelimeler\n- しゅうまつ: hafta sonu\n- うち: ev\n- すごす: vakit geçirmek"
+        },
+        "s2": {
+          "translation": "Televizyon izler, kitap okurum.",
+          "mining_text": "### Gramer & Kalıplar\n- ～たり ～たり します (~tari ~tari shimasu): Diğerleri arasından örnek eylemleri listelemek için kullanılan gramer yapısı.\n- みたり (mitari): みる (izlemek) fiilinin tari formu.\n- よんだり (yondari): よむ (okumak) fiilinin tari formu.\n\n### Kelimeler\n- テレビ: televizyon\n- 本 (ほん): kitap\n- みる: izlemek\n- よむ: okumak"
+        },
+        "s3": {
+          "translation": "Öğlen ramen yedim.",
+          "mining_text": "### Gramer & Kalıplar\n- ひる は (hiru wa): Bu cümle için 'öğle yemeği' vaktini belirler.\n- たべました (tabemashita): たべる (yemek) fiilinin geçmiş zaman kibar formu.\n\n### Kelimeler\n- ひる: öğle\n- ラーメン: ramen\n- たべる: yemek"
+        },
+        "s4": {
+          "translation": "Dinlendim.",
+          "mining_text": "### Gramer & Kalıplar\n- ゆっくり (yukkuri): 'Yavaşça' veya 'rahatça' anlamına gelen zarf.\n- しました (shimashita): する (yapmak) fiilinin geçmiş zaman kibar formu. 'ゆっくり する' dinlenmek/rahatlamak anlamına gelir.\n\n### Kelimeler\n- ゆっくり: yavaşça/rahatça\n- する: yapmak"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Hafta sonu nerede vakit geçirirsiniz?",
+          "options": {
+            "opt1": "okul",
+            "opt2": "şirket",
+            "opt3": "ev",
+            "opt4": "restoran"
+          }
+        },
+        "q2": {
+          "text": "Öğlen ne yediniz?",
+          "options": {
+            "opt1": "köri",
+            "opt2": "ekmek",
+            "opt3": "ramen",
+            "opt4": "suşi"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_008",
+      "sentences": {
+        "s1": {
+          "translation": "Bugün yağmurlu.",
+          "mining_text": "### Gramer & Kalıplar\n- きょう は (kyou wa): 'Bugün' kelimesini cümlenin konusu yapar.\n- あめ です (ame desu): 'Yağmurdur' diyerek durumu belirten isim + bildirme eki.\n\n### Kelimeler\n- きょう: bugün\n- あめ: yağmur"
+        },
+        "s2": {
+          "translation": "Dışarı çıkmıyorum.",
+          "mining_text": "### Gramer & Kalıplar\n- そと に (soto ni): 'ni' partikülü yön veya yer belirtir.\n- 出ません (demasen): 出る (çıkmak) fiilinin olumsuz kibar formu.\n\n### Kelimeler\n- そと: dışarı\n- 出る (でる): çıkmak"
+        },
+        "s3": {
+          "translation": "Evde müzik dinliyorum.",
+          "mining_text": "### Gramer & Kalıplar\n- うち で (uchi de): 'de' eylemin gerçekleştiği yeri (evde) belirtir.\n- おんがく を (ongaku o): 'o' belirtili nesneyi (müzik) işaretler.\n- ききます (kikimasu): きく (dinlemek) fiilinin kibar formu.\n\n### Kelimeler\n- うち: ev\n- おんがく: müzik\n- きく: dinlemek"
+        },
+        "s4": {
+          "translation": "Kahve de içiyorum.",
+          "mining_text": "### Gramer & Kalıplar\n- も (mo): 'da/de' veya 'ayrıca' anlamına gelen partikül.\n- のみます (nomimasu): のむ (içmek) fiilinin kibar formu.\n\n### Kelimeler\n- コーヒー: kahve\n- のむ: içmek"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Bugün hava nasıl?",
+          "options": {
+            "opt1": "güneşli",
+            "opt2": "bulutlu",
+            "opt3": "yağmurlu",
+            "opt4": "karlı"
+          }
+        },
+        "q2": {
+          "text": "Nerede müzik dinliyorsunuz?",
+          "options": {
+            "opt1": "dışarıda",
+            "opt2": "istasyon",
+            "opt3": "kafe",
+            "opt4": "ev"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_009",
+      "sentences": {
+        "s1": {
+          "translation": "Arkadaşım Japon.",
+          "mining_text": "### Gramer & Kalıplar\n- は (wa): Konu belirteci, 'arkadaş' kelimesinin cümlenin öznesi olduğunu gösterir.\n- にほんじん です (nihonjin desu): Birinin uyruğu hakkında bilgi veren isim + bildirme eki.\n\n### Kelimeler\n- ともだち: arkadaş\n- にほんじん: Japon kişi"
+        },
+        "s2": {
+          "translation": "Bana Japonca öğretiyor.",
+          "mining_text": "### Gramer & Kalıplar\n- を (o): Nesne belirteci, 'Japonca'nın öğretilen şey olduğunu gösterir.\n- おしえて くれます (oshiete kuremasu): Fiilin Te-formu + 'kuremasu'. Bu yapı, birinin konuşmacı için öğretme iyiliğini yaptığını belirtir.\n\n### Kelimeler\n- にほんご: Japonca\n- おしえる: öğretmek"
+        },
+        "s3": {
+          "translation": "Bazen birlikte ders çalışıyoruz.",
+          "mining_text": "### Gramer & Kalıplar\n- ときどき (tokidoki): 'Bazen' anlamına gelen sıklık zarfı.\n- いっしょ に (issho ni): 'Birlikte' anlamına gelen zarf öbeği.\n- べんきょう します (benkyou shimasu): 'Ders çalışmak' fiilinin kibar formu.\n\n### Kelimeler\n- いっしょに: birlikte\n- べんきょうする: ders çalışmak"
+        },
+        "s4": {
+          "translation": "Çok nazik.",
+          "mining_text": "### Gramer & Kalıplar\n- とても (totemo): 'Çok' anlamına gelen derece zarfı.\n- しんせつ です (shinsetsu desu): 'Shinsetsu' (nazik) na-sıfatı + bildirme eki.\n\n### Kelimeler\n- とても: çok\n- しんせつ: nazik, kibar"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Arkadaşın nereli?",
+          "options": {
+            "opt1": "Kore",
+            "opt2": "Japonya",
+            "opt3": "Çin",
+            "opt4": "Amerika"
+          }
+        },
+        "q2": {
+          "text": "Arkadaşın ne yapıyor?",
+          "options": {
+            "opt1": "İngilizce öğretmek",
+            "opt2": "Japonca öğretmek",
+            "opt3": "Yemek yapmak",
+            "opt4": "Film izlemek"
+          }
+        }
+      }
+    },
+    {
+      "id": "n5_reading_short_010",
+      "sentences": {
+        "s1": {
+          "translation": "Dün annemle süpermarkete gittim.",
+          "mining_text": "### Gramer & Kalıplar\n- **と (to)**: Birliktelik edatı, birisiyle birlikte bir şey yapmayı ifade eder.\n- **に 行きました (ni ikimashita)**: Yön edatı に + 行く (gitmek) fiilinin geçmiş zaman hali. Bir hedefe doğru hareketi belirtir.\n\n### Kelimeler\n- きのう: dün\n- お母さん (okaasan): anne\n- スーパー: süpermarket\n- 行く (iku): gitmek"
+        },
+        "s2": {
+          "translation": "Sebze ve meyve aldık.",
+          "mining_text": "### Gramer & Kalıplar\n- **と (to)**: Sıralama edatı, iki ismi birbirine bağlar ('ve' anlamında).\n- **を 買いました (o kaimashita)**: Nesne edatı を + 買う (satın almak) fiilinin geçmiş zaman hali.\n\n### Kelimeler\n- やさい: sebze\n- くだもの: meyve\n- 買う (kau): satın almak"
+        },
+        "s3": {
+          "translation": "Elmalar ucuzdu.",
+          "mining_text": "### Gramer & Kalıplar\n- **が (ga)**: Özne belirteci, りんご kelimesini özne olarak vurgular.\n- **安かったです (yasukatta desu)**: 安い (ucuz) i-sıfatının geçmiş zaman hali. i-sıfat geçmiş zaman: い düşer → かった eklenir.\n\n### Kelimeler\n- りんご: elma\n- 安い (yasui): ucuz"
+        },
+        "s4": {
+          "translation": "Eve dönüp birlikte akşam yemeği yaptık.",
+          "mining_text": "### Gramer & Kalıplar\n- **に かえって (ni kaette)**: 帰る (dönmek) fiilinin te-formu, iki eylemi sırayla bağlar.\n- **いっしょ に (issho ni)**: 'Birlikte' anlamına gelen zarf öbeği.\n\n### Kelimeler\n- うち: ev\n- かえる: dönmek, eve dönmek\n- いっしょに: birlikte\n- ばんごはん: akşam yemeği\n- つくる: yapmak, pişirmek"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Süpermarkete kiminle gittiniz?",
+          "options": {
+            "opt1": "Baba",
+            "opt2": "Anne",
+            "opt3": "Arkadaş",
+            "opt4": "Abla"
+          }
+        },
+        "q2": {
+          "text": "Elmalar nasıldı?",
+          "options": {
+            "opt1": "Pahalı",
+            "opt2": "Büyük",
+            "opt3": "Ucuz",
+            "opt4": "Küçük"
+          }
+        }
+      }
+    }
+  ]
+}

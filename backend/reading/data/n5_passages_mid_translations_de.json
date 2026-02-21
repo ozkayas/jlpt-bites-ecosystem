@@ -1,0 +1,85 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "sentences": {
+        "s1": {
+          "translation": "Ich habe mich geirrt",
+          "mining_text": "### Grammatik & Abschnitte\n- **まちがえました (machigaemashita)**: Höfliche Vergangenheitsform von 'machigaeru' (einen Fehler machen).\n\n### Wortschatz\n- まちがえる (machigaeru): einen Fehler machen / sich irren"
+        },
+        "s2": {
+          "translation": "Chin Shun",
+          "mining_text": "### Grammatik & Abschnitte\n- **チン・シュン**: Eigenname in Katakana.\n\n### Wortschatz\n- チン・シュン: Chin Shun (Name)"
+        },
+        "s3": {
+          "translation": "Gestern, am Sonntag, habe ich mit einem Freund Fußball gespielt.",
+          "mining_text": "### Grammatik & Abschnitte\n- **きのうの 日曜日 (kinou no nichiyoubi)**: Der gestrige Sonntag.\n- **友だちと (tomodachi to)**: Mit einem Freund. Partikel 'to' für Begleitung.\n\n### Wortschatz\n- きのう (kinou): gestern\n- 日曜日 (nichiyoubi): Sonntag\n- 友だち (tomodachi): Freund\n- サッカー (sakkaa): Fußball"
+        },
+        "s4": {
+          "translation": "Da ich von morgens bis abends gespielt habe, war ich sehr müde.",
+          "mining_text": "### Grammatik & Abschnitte\n- **朝から ゆうがたまで (asa kara yuugata made)**: Von morgens bis abends.\n- **〜から (kara)**: Weil / Da (Satzverknüpfung).\n\n### Wortschatz\n- 朝 (asa): Morgen\n- ゆうがた (yuugata): Abend / Spätnachmittag\n- とても (totemo): sehr\n- つかれる (tsukareru): müde werden"
+        },
+        "s5": {
+          "translation": "Gestern Abend bin ich sofort nach dem Abendessen schlafen gegangen.",
+          "mining_text": "### Grammatik & Abschnitte\n- **食べた あとで (tabeta ato de)**: Nach dem Essen. [Ta-Form] + 'ato de' bedeutet 'nachdem'.\n\n### Wortschatz\n- ゆうべ (yuube): gestern Abend\n- ばんご飯 (bangohan): Abendessen\n- 食べる (taberu): essen\n- ねる (neru): schlafen"
+        },
+        "s6": {
+          "translation": "Deshalb konnte ich nicht für den heutigen Kanji-Test lernen.",
+          "mining_text": "### Grammatik & Abschnitte\n- **ですから (desu kara)**: Deshalb.\n- **できませんでした (dekimasen deshita)**: Konnte nicht (negatives Potential im Präteritum).\n\n### Wortschatz\n- 今日 (kyou): heute\n- かんじ (kanji): Kanji / Schriftzeichen\n- テスト (tesuto): Test\n- べんきょう (benkyou): Lernen"
+        },
+        "s7": {
+          "translation": "Heute Morgen bin ich um 5 Uhr aufgestanden.",
+          "mining_text": "### Grammatik & Abschnitte\n- **5時に (goji ni)**: Um 5 Uhr. 'Ni' markiert den Zeitpunkt.\n\n### Wortschatz\n- けさ (kesa): heute Morgen\n- 5時 (goji): 5 Uhr\n- 起きる (okiru): aufstehen"
+        },
+        "s8": {
+          "translation": "Ich habe geduscht und gefrühstückt.",
+          "mining_text": "### Grammatik & Abschnitte\n- **あびて (abite)**: Te-Form von 'abiru'. Verbindet Handlungen chronologisch.\n\n### Wortschatz\n- シャワー (shawaa): Dusche\n- あびる (abiru): duschen / baden\n- 朝ご飯 (asagohan): Frühstück"
+        },
+        "s9": {
+          "translation": "Danach habe ich sofort von Seite 41 bis Seite 60 im Kanji-Lehrbuch gelernt.",
+          "mining_text": "### Grammatik & Abschnitte\n- **41ページから 60ページまで**: Von Seite 41 bis Seite 60.\n\n### Wortschatz\n- それから (sorekara): danach / dann\n- テキスト (tekisuto): Lehrbuch / Text\n- ページ (peeji): Seite"
+        },
+        "s10": {
+          "translation": "Dann bin ich zur Schule gegangen.",
+          "mining_text": "### Grammatik & Abschnitte\n- **学校へ (gakkou e)**: Zur Schule.\n\n### Wortschatz\n- 学校 (gakkou): Schule\n- 行く (iku): gehen"
+        },
+        "s11": {
+          "translation": "Es war ein sehr geschäftiger Morgen.",
+          "mining_text": "### Grammatik & Abschnitte\n- **いそがしい 朝 (isogashii asa)**: Ein beschäftigter Morgen.\n\n### Wortschatz\n- いそがしい (isogashii): beschäftigt / geschäftig"
+        },
+        "s12": {
+          "translation": "Jedoch war im Klassenzimmer niemand, der Kanji lernte.",
+          "mining_text": "### Grammatik & Abschnitte\n- **しかし (shikashi)**: Jedoch.\n- **べんきょうしている 人 (benkyou shite iru hito)**: Personen, die gerade lernen.\n- **いませんでした (imasen deshita)**: Es gab niemanden (belebt).\n\n### Wortschatz\n- きょうしつ (kyoushitsu): Klassenzimmer\n- 人 (hito): Mensch / Person"
+        },
+        "s13": {
+          "translation": "Ich habe mich geirrt.",
+          "mining_text": "### Grammatik & Abschnitte\n- **まちがえました (machigaemashita)**: Wiederholung des Verbs 'irren'.\n\n### Wortschatz\n- まちがえる (machigaeru): einen Fehler machen"
+        },
+        "s14": {
+          "translation": "Der Test war nicht heute, sondern morgen.",
+          "mining_text": "### Grammatik & Abschnitte\n- **今日ではなくて (kyou dewa nakute)**: Nicht heute (und...). Te-Form der Negation.\n\n### Wortschatz\n- あした (ashita): morgen"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "30 Warum ist er heute Morgen um 5 Uhr aufgestanden?",
+          "options": {
+            "opt1": "Weil er von morgens bis abends Fußball spielen wollte.",
+            "opt2": "Weil er für den Kanji-Test lernen wollte.",
+            "opt3": "Weil er duschen und frühstücken wollte.",
+            "opt4": "Weil er zur Schule gehen und lernen wollte."
+          }
+        },
+        "q2": {
+          "text": "31 Worüber hat sich Chin-san geirrt?",
+          "options": {
+            "opt1": "Das Kanji-Lehrbuch.",
+            "opt2": "Die Seiten im Kanji-Lehrbuch.",
+            "opt3": "Der Tag, an dem der Kanji-Test stattfindet.",
+            "opt4": "Das Klassenzimmer, in dem der Kanji-Test stattfindet."
+          }
+        }
+      }
+    }
+  ]
+}

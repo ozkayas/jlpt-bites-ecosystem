@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0b369854a224a53c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4502515a24d73b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997cb82ba8bbe620",
+            "type": "leaf",
+            "state": {
+              "type": "json",
+              "state": {
+                "file": "backend/reading/data/n5_passages_short_core.json"
+              },
+              "icon": "lucide-file",
+              "title": "n5_passages_short_core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2ffdc401c7a4ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff588fda5f11e928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbff979d71cdbad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ee7587ca1b6dca14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a59e6196cda4b2e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5124969482422
+  },
+  "right": {
+    "id": "74e9721220f22dd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f329b5587a37ccbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5354c71818b77a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/reading/data/n5_passages_short_core.json",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for n5_passages_short_core"
+            }
+          },
+          {
+            "id": "0f5982d25c27954d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/reading/data/n5_passages_short_core.json",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from n5_passages_short_core"
+            }
+          },
+          {
+            "id": "6e63e0d67be4cf46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ad709b478448bbb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a050272645b75525",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/reading/data/n5_passages_short_core.json",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of n5_passages_short_core"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "997cb82ba8bbe620",
+  "lastOpenFiles": [
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/scripts/validate_text_integration.py",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/references/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/references/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/scripts",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/references",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester/SKILL.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-tester",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/references/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/references/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/scripts",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/references",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator/SKILL.md",
+    "backend/skills/jlpt-n5-grammer-text-integration-question-creator",
+    "backend/skills/skill-creator/scripts/quick_validate.py",
+    "backend/skills/skill-creator/scripts/package_skill.py",
+    "backend/skills/skill-creator/scripts/init_skill.py",
+    "backend/skills/skill-creator/references/workflows.md",
+    "backend/skills/skill-creator/references/output-patterns.md",
+    "backend/skills/skill-creator/scripts",
+    "backend/skills/skill-creator/SKILL.md",
+    "backend/skills/jlpt-reading-passage-tester/SKILL.md",
+    "backend/skills/jlpt-n5-reading-passage-creator/references/n5-reading-guidelines.md",
+    "backend/skills/jlpt-n5-reading-passage-creator/references/json-schema.md",
+    "backend/skills/jlpt-n5-reading-passage-creator/SKILL.md",
+    "backend/skills/jlpt-n5-grammer-sentence-building-question-creator/references/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-sentence-building-question-creator/references/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-sentence-building-question-creator/SKILL.md",
+    "backend/skills/jlpt-n5-grammer-essential-grammer-question-creator/references/n5-grammar-points.md",
+    "backend/skills/jlpt-n5-grammer-essential-grammer-question-creator/references/json-schema.md",
+    "backend/skills/jlpt-n5-grammer-essential-grammer-question-creator/SKILL.md",
+    "backend/skills/jlpt-grammer-sentence-building-question-tester/SKILL.md",
+    "backend/skills/jlpt-grammer-question-tester/SKILL.md",
+    "backend/listening/data/selectImage/001/images/4.png",
+    "backend/listening/data/selectImage/001/images/2.png",
+    "backend/listening/data/selectImage/001/images/3.png",
+    "backend/listening/data/selectImage/001/images/1.png",
+    "backend/listening/data/selectAudio/001/image.png",
+    "firestore/listening/data/selectImage/001/images/4.png",
+    "firestore/listening/data/selectImage/001/images/3.png",
+    "firestore/listening/data/selectImage/001/images/2.png",
+    "firestore/listening/data/selectImage/001/images/1.png",
+    "firestore/listening/data/selectAudio/001/image.png"
+  ]
+}

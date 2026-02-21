@@ -1,0 +1,380 @@
+{
+    "questions": [
+        {
+            "id": "n5_grammer_text_integration_001",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "自己紹介",
+            "textSegments": [
+                "はじめまして。ジョン・スミスです。アメリカから",
+                "。わたしは　えいがが　好きです。アメリカの　えいがは　よく　知っています。",
+                "、日本の　えいがは　あまり　知りません。日本では、日本の　えいがを　たくさん",
+                "。どうぞ　よろしく　おねがいします。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "行きます",
+                        "行きました",
+                        "来ます",
+                        "来ました"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "では",
+                        "だから",
+                        "でも",
+                        "それから"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "見ました",
+                        "見たいです",
+                        "見て　いました",
+                        "見るからです"
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_002",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "週末の予定",
+            "textSegments": [
+                "今週の　週末は　とても　楽しみです。土曜日に　友達と",
+                "。そこで　新しい　映画を　見ます。",
+                "、日曜日は　家で　ゆっくり　休みます。朝　遅くまで",
+                "、午後は　本を　読む　つもりです。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "映画館に　行きます",
+                        "映画館を　行きます",
+                        "映画館が　行きます",
+                        "映画館で　行きます"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "それで",
+                        "それから",
+                        "粉",
+                        "だから"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "寝ました",
+                        "寝ます",
+                        "寝て　います",
+                        "寝たいです"
+                    ],
+                    "correctAnswer": 3
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_003",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "私の一日",
+            "textSegments": [
+                "私は　毎朝　六時に",
+                "。朝ごはんを　食べて、七時に　家を　出ます。",
+                "、会社に　行きます. 会社で　仕事を",
+                "、夜　七時ごろ　家に　帰ります。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "起きます",
+                        "起きました",
+                        "起きて　います",
+                        "起きるでしょう"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "それで",
+                        "それから",
+                        "でも",
+                        "だから"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "します",
+                        "しました",
+                        "して　います",
+                        "するでしょう"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_004",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "わたしの　しゅみ",
+            "textSegments": [
+                "わたしの　しゅみは　テニスです。毎週　土曜日に　友達と　テニスを",
+                "。テニスは　とても　おもしろいです。",
+                "、夏は　とても　あついです。あつい　日は　あまり　テニスを",
+                "。すずしい　日に　たくさん　練習します。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "します",
+                        "しました",
+                        "して　います",
+                        "したいです"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "それで",
+                        "それから",
+                        "でも",
+                        "だから"
+                    ],
+                    "correctAnswer": 2
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "しません",
+                        "しませんでした",
+                        "したくないです",
+                        "しないでしょう"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_005",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "なつやすみの　りょこう",
+            "textSegments": [
+                "去年、わたしは　家族と　海へ",
+                "。海は　とても　きれいでした. そこで　たくさん　泳ぎました。",
+                "、さかなを　食べました。海で　食べる　さかなは　とても",
+                "。また　来年も　行きたいです。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "行きます",
+                        "行きました",
+                        "行って　います",
+                        "行くでしょう"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "それで",
+                        "それから",
+                        "でも",
+                        "だから"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "おいしいです",
+                        "おいしかったです",
+                        "おいしくないです",
+                        "おいしくなかったです"
+                    ],
+                    "correctAnswer": 1
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_006",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "わたしの　かぞく",
+            "textSegments": [
+                "わたしの　家族は　四人です。父と　母と　妹と　わたしです。父は　銀行で",
+                "。母は　小学校の　先生です。妹は　まだ　学生です。",
+                "、毎日　いっしょに　ばんごはんを　食べます。",
+                "、日曜日は　みんなで　こうえんに　行きます。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "働きます",
+                        "働いています",
+                        "働きました",
+                        "働くでしょう"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "では",
+                        "それから",
+                        "でも",
+                        "だから"
+                    ],
+                    "correctAnswer": 3
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "それから",
+                        "でも",
+                        "だから",
+                        "では"
+                    ],
+                    "correctAnswer": 0
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_007",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "日本の　きせつ",
+            "textSegments": [
+                "日本には　四つの　きせつが　あります。わたしは　春が　いちばん",
+                "。春には　さくらが　さきます. とても　きれいです。",
+                "、春は　あまり　あつくないです。",
+                "、とても　さんぽが　しやすいです。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "好きです",
+                        "好きでした",
+                        "好きじゃないです",
+                        "好きでしょう"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "そして",
+                        "でも",
+                        "だから",
+                        "では"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "それから",
+                        "でも",
+                        "だから",
+                        "では"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        },
+        {
+            "id": "n5_grammer_text_integration_008",
+            "level": "n5",
+            "type": "textFlow",
+            "title": "かいもの",
+            "textSegments": [
+                "きのう、わたしは　デパートへ　行きました。そこで　新しい　シャツを",
+                "。シャツは　三千円でした。少し　高かったです",
+                "、とても　きれいな　色でした。",
+                "、それを　買うことに　しました。"
+            ],
+            "blanks": [
+                {
+                    "blankNumber": 1,
+                    "position": 0,
+                    "options": [
+                        "見ました",
+                        "買いに行きました",
+                        "買いたいです",
+                        "買いませんでした"
+                    ],
+                    "correctAnswer": 0
+                },
+                {
+                    "blankNumber": 2,
+                    "position": 1,
+                    "options": [
+                        "그리고",
+                        "でも",
+                        "だから",
+                        "では"
+                    ],
+                    "correctAnswer": 1
+                },
+                {
+                    "blankNumber": 3,
+                    "position": 2,
+                    "options": [
+                        "それから",
+                        "でも",
+                        "だから",
+                        "では"
+                    ],
+                    "correctAnswer": 2
+                }
+            ]
+        }
+    ]
+}

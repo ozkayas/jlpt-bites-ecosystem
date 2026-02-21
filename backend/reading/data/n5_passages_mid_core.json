@@ -1,0 +1,173 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_mid_001",
+      "title": "まちがえました",
+      "visual_type": "none",
+      "type": "mid",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "まちがえました",
+          "furigana": "まちがえました",
+          "romaji": "machigaemashita"
+        },
+        {
+          "id": "s2",
+          "original": "チン・シュン",
+          "furigana": "チン・シュン",
+          "romaji": "chin shun"
+        },
+        {
+          "id": "s3",
+          "original": "わたしは きのうの 日曜日、友だちと サッカーを しました。",
+          "furigana": "わたしは きのうの <ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>友<rt>とも</rt></ruby>だちと サッカーを しました。",
+          "romaji": "watashi wa kinou no nichiyoubi, tomodachi to sakkaa o shimashita."
+        },
+        {
+          "id": "s4",
+          "original": "朝から ゆうがたまで しましたから、とても つかれました。",
+          "furigana": "<ruby>朝<rt>あさ</rt></ruby>から ゆうがたまで しましたから、とても つかれました。",
+          "romaji": "asa kara yuugata made shimashita kara, totemo tsukaremashita."
+        },
+        {
+          "id": "s5",
+          "original": "ゆうべは ばんご飯を 食べた あとで、すぐに ねました。",
+          "furigana": "ゆうべは ばんご<ruby>飯<rt>はん</rt></ruby>を <ruby>食<rt>た</rt></ruby>べた あとで、すぐに ねました。",
+          "romaji": "yuube wa bangohan o tabeta ato de, sugu ni nemashita."
+        },
+        {
+          "id": "s6",
+          "original": "ですから、今日の かんじテストの べんきょうが できませんでした。",
+          "furigana": "ですから、<ruby>今日<rt>きょう</rt></ruby>の かんじテストの べんきょうが できませんでした。",
+          "romaji": "desu kara, kyou no kanji tesuto no benkyou ga dekimasen deshita."
+        },
+        {
+          "id": "s7",
+          "original": "①けさは 5時に 起きました。",
+          "furigana": "①けさは 5<ruby>時<rt>じ</rt></ruby>に <ruby>起<rt>お</rt></ruby>きました。",
+          "romaji": "1 kesa wa goji ni okimashita."
+        },
+        {
+          "id": "s8",
+          "original": "シャワーを あびて、朝ご飯を 食べました。",
+          "furigana": "シャワーを あびて、<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を <ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "shawaa o abite, asagohan o tabemashita."
+        },
+        {
+          "id": "s9",
+          "original": "それから、すぐ かんじの テキストの 41ページから 60ページまで べんきょうしました。",
+          "furigana": "それから、すぐ かんじの テキストの 41ページから 60ページまで べんきょうしました。",
+          "romaji": "sorekara, sugu kanji no tekisuto no yonjuuichi peeji kara rokujuu peeji made benkyou shimashita."
+        },
+        {
+          "id": "s10",
+          "original": "それから 学校へ 行きました。",
+          "furigana": "それから <ruby>学校<rt>がっこう</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "sorekara gakkou e ikimashita."
+        },
+        {
+          "id": "s11",
+          "original": "とても いそがしい 朝でした。",
+          "furigana": "とても いそがしい <ruby>朝<rt>あさ</rt></ruby>でした。",
+          "romaji": "totemo isogashii asa deshita."
+        },
+        {
+          "id": "s12",
+          "original": "しかし、きょうしつで かんじを べんきょうしている 人は いませんでした。",
+          "furigana": "しかし、きょうしつで かんじを べんきょうしている <ruby>人<rt>ひと</rt></ruby>は いませんでした。",
+          "romaji": "shikashi, kyoushitsu de kanji o benkyoushite iru hito wa imasen deshita."
+        },
+        {
+          "id": "s13",
+          "original": "②まちがえました。",
+          "furigana": "②まちがえました。",
+          "romaji": "2 machigaemashita."
+        },
+        {
+          "id": "s14",
+          "original": "テストは 今日ではなくて、あしたでした。",
+          "furigana": "テストは <ruby>今日<rt>きょう</rt></ruby>ではなくて、あしたでした。",
+          "romaji": "tesuto wa kyou dewa nakute, ashita deshita."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "30 どうして けさは 5時に 起きましたか。",
+          "furigana": "30 どうして けさは 5<ruby>時<rt>じ</rt></ruby>に <ruby>起<rt>お</rt></ruby>きましたか。",
+          "romaji": "30 doushite 1 kesa wa goji ni okimashita ka.",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "朝から ゆうがたまで サッカーを したかったから",
+              "furigana": "<ruby>朝<rt>あさ</rt></ruby>から ゆうがたまで サッカーを したかったから",
+              "romaji": "asa kara yuugata made sakkaa o shitakatta kara",
+              "is_correct": false
+            },
+            {
+              "id": "opt2",
+              "text": "かんじテストの べんきょうが したかったから",
+              "furigana": "かんじテストの べんきょうが したかったから",
+              "romaji": "kanji tesuto no benkyou ga shitakatta kara",
+              "is_correct": true
+            },
+            {
+              "id": "opt3",
+              "text": "シャワーを あびて、朝ご飯を 食べたかったから",
+              "furigana": "シャワーを あびて、<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を <ruby>食<rt>た</rt></ruby>べたかったから",
+              "romaji": "shawaa o abite, asagohan o tabetakatta kara",
+              "is_correct": false
+            },
+            {
+              "id": "opt4",
+              "text": "学校へ 行って、べんきょうが したかったから",
+              "furigana": "<ruby>学校<rt>がっこう</rt></ruby>へ <ruby>行<rt>い</rt></ruby>って、べんきょうが したかったから",
+              "romaji": "gakkou e itte, benkyou ga shitakatta kara",
+              "is_correct": false
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "31 チンさんは 何を まちがえましたか。",
+          "furigana": "31 チンさんは <ruby>何<rt>なに</rt></ruby>を まちがえましたか。",
+          "romaji": "31 chin san wa nani o 2 machigaemashita ka.",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "かんじの テキスト",
+              "furigana": "かんじの テキスト",
+              "romaji": "kanji no tekisuto",
+              "is_correct": false
+            },
+            {
+              "id": "opt2",
+              "text": "かんじの テキストの ページ",
+              "furigana": "かんじの テキストの ページ",
+              "romaji": "kanji no tekisuto no peeji",
+              "is_correct": false
+            },
+            {
+              "id": "opt3",
+              "text": "かんじの テストが ある 日",
+              "furigana": "かんじの テストが ある <ruby>日<rt>ひ</rt></ruby>",
+              "romaji": "kanji no tesuto ga aru hi",
+              "is_correct": true
+            },
+            {
+              "id": "opt4",
+              "text": "かんじの テストを する きょうしつ",
+              "furigana": "かんじの テストを する きょうしつ",
+              "romaji": "kanji no tesuto o suru kyoushitsu",
+              "is_correct": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

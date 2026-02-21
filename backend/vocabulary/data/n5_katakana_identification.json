@@ -1,0 +1,1084 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "sentence": "あさごはんに<t>ぱん</t>をたべました。",
+      "options": [
+        "パン",
+        "パソ",
+        "ハン",
+        "バン"
+      ],
+      "translations": {
+        "en": "I ate bread for breakfast.",
+        "tr": "Kahvaltıda ekmek yedim.",
+        "de": "Zum Frühstück habe ich Brot gegessen.",
+        "es": "Comí pan en el desayuno.",
+        "fr": "J'ai mangé du pain au petit-déjeuner."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq1.mp3?alt=media"
+    },
+    {
+      "id": "q2",
+      "sentence": "しゅくだいを<t>のーと</t>にかきます。",
+      "options": [
+        "ノート",
+        "ノト",
+        "メート",
+        "ヌート"
+      ],
+      "translations": {
+        "en": "I write my homework in a notebook.",
+        "tr": "Ödevimi deftere yazıyorum.",
+        "de": "Ich schreibe meine Hausaufgaben in ein Notizbuch.",
+        "es": "Escribo mi tarea en un cuaderno.",
+        "fr": "J'écris mes devoirs dans un cahier."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq2.mp3?alt=media"
+    },
+    {
+      "id": "q3",
+      "sentence": "きっさてんで<t>こーひー</t>をのみます。",
+      "options": [
+        "コーヒー",
+        "コヒー",
+        "コヒ",
+        "ゴーヒー"
+      ],
+      "translations": {
+        "en": "I drink coffee at a cafe.",
+        "tr": "Cafede kahve içerim.",
+        "de": "Ich trinke Kaffee in einem Café.",
+        "es": "Tomo café en una cafetería.",
+        "fr": "Je bois du café dans un café."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq3.mp3?alt=media"
+    },
+    {
+      "id": "q4",
+      "sentence": "へやに<t>えあこん</t>があります。",
+      "options": [
+        "エアコン",
+        "エアコソ",
+        "エイコン",
+        "エラコン"
+      ],
+      "translations": {
+        "en": "There is an air conditioner in the room.",
+        "tr": "Odada klima var.",
+        "de": "Es gibt eine Klimaanlage im Zimmer.",
+        "es": "Hay un aire acondicionado en la habitación.",
+        "fr": "Il y a un climatiseur dans la chambre."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq4.mp3?alt=media"
+    },
+    {
+      "id": "q5",
+      "sentence": "わたしの<t>かめら</t>はあたらしいです。",
+      "options": [
+        "カメラ",
+        "カヌラ",
+        "ガメラ",
+        "カメイ"
+      ],
+      "translations": {
+        "en": "My camera is new.",
+        "tr": "Kameram yeni.",
+        "de": "Meine Kamera ist neu.",
+        "es": "Mi cámara es nueva.",
+        "fr": "Mon appareil photo est neuf."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq5.mp3?alt=media"
+    },
+    {
+      "id": "q6",
+      "sentence": "この<t>れすとらん</t>はおいしいです。",
+      "options": [
+        "レストラン",
+        "レストラソ",
+        "レスドラソ",
+        "レストラ"
+      ],
+      "translations": {
+        "en": "This restaurant is delicious.",
+        "tr": "Bu restoran lezzetli.",
+        "de": "Dieses Restaurant ist köstlich.",
+        "es": "Este restaurante es delicioso.",
+        "fr": "Ce restaurant est délicieux."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq6.mp3?alt=media"
+    },
+    {
+      "id": "q7",
+      "sentence": "つくえのうえに<t>ぺん</t>があります。",
+      "options": [
+        "ペン",
+        "ベソ",
+        "ペソ",
+        "ベン"
+      ],
+      "translations": {
+        "en": "There is a pen on the desk.",
+        "tr": "Masanın üzerinde bir kalem var.",
+        "de": "Auf dem Schreibtisch liegt ein Stift.",
+        "es": "Hay un bolígrafo sobre el escritorio.",
+        "fr": "Il y a un stylo sur le bureau."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq7.mp3?alt=media"
+    },
+    {
+      "id": "q8",
+      "sentence": "にちようびに<t>てにす</t>をします。",
+      "options": [
+        "テニス",
+        "テリス",
+        "デニス",
+        "テヌス"
+      ],
+      "translations": {
+        "en": "I play tennis on Sunday.",
+        "tr": "Pazar günü tenis oynarım.",
+        "de": "Am Sonntag spiele ich Tennis.",
+        "es": "Juego tenis el domingo.",
+        "fr": "Je joue au tennis dimanche."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq8.mp3?alt=media"
+    },
+    {
+      "id": "q9",
+      "sentence": "あした<t>てすと</t>があります。",
+      "options": [
+        "テスト",
+        "デスド",
+        "テヌト",
+        "テスド"
+      ],
+      "translations": {
+        "en": "I have a test tomorrow.",
+        "tr": "Yarın sınavım var.",
+        "de": "Ich habe morgen einen Test.",
+        "es": "Tengo una prueba mañana.",
+        "fr": "J'ai un test demain."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq9.mp3?alt=media"
+    },
+    {
+      "id": "q10",
+      "sentence": "これはわたしの<t>ないふ</t>です。",
+      "options": [
+        "ナイフ",
+        "ナイワ",
+        "メイフ",
+        "ナィフ"
+      ],
+      "translations": {
+        "en": "This is my knife.",
+        "tr": "Bu benim bıçağım.",
+        "de": "Das ist mein Messer.",
+        "es": "Este es mi cuchillo.",
+        "fr": "C'est mon couteau."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq10.mp3?alt=media"
+    },
+    {
+      "id": "q11",
+      "sentence": "いっしょに<t>てれび</t>をみましょう。",
+      "options": [
+        "テレビ",
+        "テレピ",
+        "テビレ",
+        "デレビ"
+      ],
+      "translations": {
+        "en": "Let's watch TV together.",
+        "tr": "Birlikte televizyon izleyelim.",
+        "de": "Lasst uns gemeinsam fernsehen.",
+        "es": "Miremos la televisión juntos.",
+        "fr": "Regardons la télévision ensemble."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq11.mp3?alt=media"
+    },
+    {
+      "id": "q12",
+      "sentence": "まどに<t>かーてん</t>がありません。",
+      "options": [
+        "カーテン",
+        "カテン",
+        "カーテソ",
+        "ガテン"
+      ],
+      "translations": {
+        "en": "There are no curtains on the windows.",
+        "tr": "Pencerelerde perde yok.",
+        "de": "An den Fenstern gibt es keine Vorhänge.",
+        "es": "No hay cortinas en las ventanas.",
+        "fr": "Il n'y a pas de rideaux aux fenêtres."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq12.mp3?alt=media"
+    },
+    {
+      "id": "q13",
+      "sentence": "でぱーとで<t>しゃつ</t>をかいました。",
+      "options": [
+        "シャツ",
+        "シセツ",
+        "シャッ",
+        "ジャツ"
+      ],
+      "translations": {
+        "en": "I bought a shirt at a department store.",
+        "tr": "Mağazadan bir gömlek aldım.",
+        "de": "Ich habe ein Hemd in einem Kaufhaus gekauft.",
+        "es": "Compré una camisa en unos grandes almacenes.",
+        "fr": "J'ai acheté une chemise dans un grand magasin."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq13.mp3?alt=media"
+    },
+    {
+      "id": "q14",
+      "sentence": "<t>といれ</t>はどこですか。",
+      "options": [
+        "トイレ",
+        "トイし",
+        "ドイレ",
+        "トイレレ"
+      ],
+      "translations": {
+        "en": "Where is the toilet?",
+        "tr": "Tuvalet nerede?",
+        "de": "Wo ist die Toilette?",
+        "es": "¿Dónde está el baño?",
+        "fr": "Où sont les toilettes ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq14.mp3?alt=media"
+    },
+    {
+      "id": "q15",
+      "sentence": "あねは<t>ぎたー</t>がじょうずです。",
+      "options": [
+        "ギター",
+        "キター",
+        "ギダー",
+        "ギタ"
+      ],
+      "translations": {
+        "en": "My older sister is good at playing guitar.",
+        "tr": "Ablam iyi gitar çalar.",
+        "de": "Meine ältere Schwester kann gut Gitarre spielen.",
+        "es": "Mi hermana mayor es buena tocando la guitarra.",
+        "fr": "Ma sœur aînée joue bien de la guitare."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq15.mp3?alt=media"
+    },
+    {
+      "id": "q16",
+      "sentence": "あついので<t>じゅうす</t>をのみます。",
+      "options": [
+        "ジュース",
+        "シユース",
+        "ジユス",
+        "ジュス"
+      ],
+      "translations": {
+        "en": "It's hot, so I will drink juice.",
+        "tr": "Hava sıcak, bu yüzden meyve suyu içeceğim.",
+        "de": "Es ist heiß, also werde ich Saft trinken.",
+        "es": "Hace calor, así que beberé jugo.",
+        "fr": "Il fait chaud, alors je vais boire du jus."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq16.mp3?alt=media"
+    },
+    {
+      "id": "q17",
+      "sentence": "<t>えれべーたー</t>にのります。",
+      "options": [
+        "エレベーター",
+        "エレヘーター",
+        "エレビーター",
+        "エレベタ"
+      ],
+      "translations": {
+        "en": "I'll take the elevator.",
+        "tr": "Asansöre bineceğim.",
+        "de": "Ich nehme den Aufzug.",
+        "es": "Tomaré el ascensor.",
+        "fr": "Je vais prendre l'ascenseur."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq17.mp3?alt=media"
+    },
+    {
+      "id": "q18",
+      "sentence": "たなかさんの<t>ねくたい</t>はあおいです。",
+      "options": [
+        "ネクタイ",
+        "ヌクタイ",
+        "ネクタィ",
+        "ネクダイ"
+      ],
+      "translations": {
+        "en": "Mr. Tanaka's tie is blue.",
+        "tr": "Tanaka Bey'in kravatı mavi.",
+        "de": "Mr. Tanakas Krawatte ist blau.",
+        "es": "La corbata del señor Tanaka es azul.",
+        "fr": "La cravate de M. Tanaka est bleue."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq18.mp3?alt=media"
+    },
+    {
+      "id": "q19",
+      "sentence": "ともだちと<t>ぱーてぃー</t>をします。",
+      "options": [
+        "パーティー",
+        "ハティー",
+        "バティー",
+        "パーチー"
+      ],
+      "translations": {
+        "en": "I'll have a party with my friends.",
+        "tr": "Arkadaşlarımla parti yapacağım.",
+        "de": "Ich werde eine Party mit meinen Freunden feiern.",
+        "es": "Haz una fiesta con tus amigos.",
+        "fr": "Je ferai une fête avec mes amis."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq19.mp3?alt=media"
+    },
+    {
+      "id": "q20",
+      "sentence": "<t>すりっぱ</t>をはいてください。",
+      "options": [
+        "スリッパ",
+        "シリッパ",
+        "スリパ",
+        "ズリッパ"
+      ],
+      "translations": {
+        "en": "Please put on the slippers.",
+        "tr": "Lütfen terlikleri giyin.",
+        "de": "Bitte ziehen Sie die Hausschuhe an.",
+        "es": "Por favor, póngase las zapatillas.",
+        "fr": "Veuillez mettre les pantoufles."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq20.mp3?alt=media"
+    },
+    {
+      "id": "q21",
+      "sentence": "あそこに<t>ばす</t>がきました。",
+      "options": [
+        "バス",
+        "パス",
+        "ハス",
+        "ダス"
+      ],
+      "translations": {
+        "en": "A bus came over there.",
+        "tr": "Şuraya bir otobüs geldi.",
+        "de": "Da kam ein Bus vorbei.",
+        "es": "Un autobús pasó por allí.",
+        "fr": "Un bus est arrivé là-bas."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq21.mp3?alt=media"
+    },
+    {
+      "id": "q22",
+      "sentence": "なつやすみに<t>ぷーる</t>へいきました。",
+      "options": [
+        "プール",
+        "フール",
+        "ブール",
+        "プーレ"
+      ],
+      "translations": {
+        "en": "I went to the pool during summer vacation.",
+        "tr": "Yaz tatilinde havuza gittim.",
+        "de": "Ich ging in den Sommerferien ins Schwimmbad.",
+        "es": "Fui a la piscina durante las vacaciones de verano.",
+        "fr": "Je suis allé à la piscine pendant les vacances d'été."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq22.mp3?alt=media"
+    },
+    {
+      "id": "q23",
+      "sentence": "つくえのうえに<t>らじお</t>があります。",
+      "options": [
+        "ラジオ",
+        "ラジオー",
+        "ラシオ",
+        "フジォ"
+      ],
+      "translations": {
+        "en": "There is a radio on the desk.",
+        "tr": "Masanın üzerinde bir radyo var.",
+        "de": "Auf dem Schreibtisch steht ein Radio.",
+        "es": "Hay una radio sobre el escritorio.",
+        "fr": "Il y a une radio sur le bureau."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq23.mp3?alt=media"
+    },
+    {
+      "id": "q24",
+      "sentence": "<t>たくしー</t>でかえりましょう。",
+      "options": [
+        "タクシー",
+        "ダクシー",
+        "ククシー",
+        "タクンー"
+      ],
+      "translations": {
+        "en": "Let's go home by taxi.",
+        "tr": "Eve taksiyle dönelim.",
+        "de": "Lass uns mit dem Taxi nach Hause fahren.",
+        "es": "Volvamos a casa en taxi.",
+        "fr": "Rentrons à la maison en taxi."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq24.mp3?alt=media"
+    },
+    {
+      "id": "q25",
+      "sentence": "この<t>かー</t>どはだれのですか。",
+      "options": [
+        "カード",
+        "カート",
+        "ガード",
+        "カド"
+      ],
+      "translations": {
+        "en": "Whose card is this?",
+        "tr": "Bu kart kimin?",
+        "de": "Wessen Karte ist das?",
+        "es": "¿De quién es esta tarjeta?",
+        "fr": "A qui est cette carte ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq25.mp3?alt=media"
+    },
+    {
+      "id": "q26",
+      "sentence": "あしたは<t>すぽーつ</t>のひです。",
+      "options": [
+        "スポーツ",
+        "スポーシ",
+        "ズポーツ",
+        "スボーツ"
+      ],
+      "translations": {
+        "en": "Tomorrow is Sports Day.",
+        "tr": "Yarın Spor Günü.",
+        "de": "Morgen ist Sporttag.",
+        "es": "Mañana es el Día del Deporte.",
+        "fr": "Demain, c'est la journée du sport."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq26.mp3?alt=media"
+    },
+    {
+      "id": "q27",
+      "sentence": "ちかくに<t>すーぱー</t>があります。",
+      "options": [
+        "スーパー",
+        "スーハ",
+        "ズーパー",
+        "スパー"
+      ],
+      "translations": {
+        "en": "There is a supermarket nearby.",
+        "tr": "Yakınlarda bir süpermarket var.",
+        "de": "In der Nähe gibt es einen Supermarkt.",
+        "es": "Hay un supermercado cerca.",
+        "fr": "Il y a un supermarché à proximité."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq27.mp3?alt=media"
+    },
+    {
+      "id": "q28",
+      "sentence": "あついので<t>しゃわー</t>をあびます。",
+      "options": [
+        "シャワー",
+        "シャワ",
+        "シヤワー",
+        "ジャワー"
+      ],
+      "translations": {
+        "en": "It's hot, so I'll take a shower.",
+        "tr": "Hava sıcak, bu yüzden duş alacağım.",
+        "de": "Es ist heiß, also gehe ich duschen.",
+        "es": "Hace calor, así que me daré una ducha.",
+        "fr": "Il fait chaud, alors je vais prendre une douche."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq28.mp3?alt=media"
+    },
+    {
+      "id": "q29",
+      "sentence": "<t>こっぷ</t>にみずをいれます。",
+      "options": [
+        "コップ",
+        "ゴップ",
+        "コツプ",
+        "コンプ"
+      ],
+      "translations": {
+        "en": "I put water in a cup.",
+        "tr": "Bardağa su koyuyorum.",
+        "de": "Ich habe Wasser in eine Tasse gegeben.",
+        "es": "Puse agua en una taza.",
+        "fr": "Je mets de l'eau dans une tasse."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq29.mp3?alt=media"
+    },
+    {
+      "id": "q30",
+      "sentence": "あねは<t>でぱーと</t>ではたらいています。",
+      "options": [
+        "デパート",
+        "テパート",
+        "デパド",
+        "デバート"
+      ],
+      "translations": {
+        "en": "My older sister works at a department store.",
+        "tr": "Ablam bir mağazada çalışıyor.",
+        "de": "Meine ältere Schwester arbeitet in einem Kaufhaus.",
+        "es": "Mi hermana mayor trabaja en unos grandes almacenes.",
+        "fr": "Ma sœur aînée travaille dans un grand magasin."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq30.mp3?alt=media"
+    },
+    {
+      "id": "q31",
+      "sentence": "なまえを<t>ぼーるぺん</t>でかいてください。",
+      "options": [
+        "ボールペン",
+        "ボールペソ",
+        "ポールペン",
+        "ポルベン"
+      ],
+      "translations": {
+        "en": "Please write your name with a ballpoint pen.",
+        "tr": "Lütfen adınızı tükenmez kalemle yazın.",
+        "de": "Bitte schreiben Sie Ihren Namen mit einem Kugelschreiber.",
+        "es": "Por favor escriba su nombre con un bolígrafo.",
+        "fr": "Merci d'écrire votre nom avec un stylo à bille."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq31.mp3?alt=media"
+    },
+    {
+      "id": "q32",
+      "sentence": "きのう、<t>きろ</t>めーとるあるきました。",
+      "options": [
+        "キロ",
+        "キロウ",
+        "ケロ",
+        "ギロ"
+      ],
+      "translations": {
+        "en": "Yesterday, I walked kilometers.",
+        "tr": "Dün kilometrelerce yürüdüm.",
+        "de": "Gestern bin ich Kilometer gelaufen.",
+        "es": "Ayer caminé kilómetros.",
+        "fr": "Hier, j'ai marché des kilomètres."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq32.mp3?alt=media"
+    },
+    {
+      "id": "q33",
+      "sentence": "あさごはんに<t>さわー</t>くりーむをたべます。",
+      "options": [
+        "サワー",
+        "ザワー",
+        "サーワ",
+        "サヮー"
+      ],
+      "translations": {
+        "en": "I eat sour cream for breakfast.",
+        "tr": "Kahvaltıda ekşi krema yerim.",
+        "de": "Zum Frühstück esse ich saure Sahne.",
+        "es": "Como crema agria en el desayuno.",
+        "fr": "Je mange de la crème sure au petit-déjeuner."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq33.mp3?alt=media"
+    },
+    {
+      "id": "q34",
+      "sentence": "わたしのいえは<t>あぱーと</t>です。",
+      "options": [
+        "アパート",
+        "アバート",
+        "ハパート",
+        "アハト"
+      ],
+      "translations": {
+        "en": "My house is an apartment.",
+        "tr": "Evim bir apartman dairesi.",
+        "de": "Mein Haus ist eine Wohnung.",
+        "es": "Mi casa es un apartamento.",
+        "fr": "Ma maison est un appartement."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq34.mp3?alt=media"
+    },
+    {
+      "id": "q35",
+      "sentence": "この<t>てーぶる</t>はひろいです。",
+      "options": [
+        "テーブル",
+        "テブル",
+        "デープル",
+        "テーフル"
+      ],
+      "translations": {
+        "en": "This table is spacious.",
+        "tr": "Bu masa geniş.",
+        "de": "Dieser Tisch ist geräumig.",
+        "es": "Esta mesa es espaciosa.",
+        "fr": "Cette table est spacieuse."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq35.mp3?alt=media"
+    },
+    {
+      "id": "q36",
+      "sentence": "<t>すとーぶ</t>をつけましょう。",
+      "options": [
+        "ストーブ",
+        "スドーブ",
+        "ストブ",
+        "スドープ"
+      ],
+      "translations": {
+        "en": "Let's turn on the heater.",
+        "tr": "Isıtıcıyı açalım.",
+        "de": "Lass uns die Heizung anmachen.",
+        "es": "Encendamos la calefacción.",
+        "fr": "Allumons le chauffage."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq36.mp3?alt=media"
+    },
+    {
+      "id": "q37",
+      "sentence": "おとうとは<t>さっかー</t>がだいすきです。",
+      "options": [
+        "サッカー",
+        "サツカー",
+        "サッガ",
+        "ザッカー"
+      ],
+      "translations": {
+        "en": "My younger brother loves soccer.",
+        "tr": "Erkek kardeşim futbolu çok sever.",
+        "de": "Mein jüngerer Bruder liebt Fußball.",
+        "es": "A mi hermano menor le encanta el fútbol.",
+        "fr": "Mon jeune frère adore le football."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq37.mp3?alt=media"
+    },
+    {
+      "id": "q38",
+      "sentence": "<t>かれー</t>はおいしいですね。",
+      "options": [
+        "カレー",
+        "ガレー",
+        "カレ",
+        "カレーー"
+      ],
+      "translations": {
+        "en": "The curry is delicious, isn't it?",
+        "tr": "Köri lezzetli, değil mi?",
+        "de": "Das Curry ist köstlich, nicht wahr?",
+        "es": "El curry está delicioso, ¿no?",
+        "fr": "Le curry est délicieux, n'est-ce pas ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq38.mp3?alt=media"
+    },
+    {
+      "id": "q39",
+      "sentence": "にもつを<t>ぽけっと</t>にいれました。",
+      "options": [
+        "ポケット",
+        "ポゲット",
+        "ホケット",
+        "ボケット"
+      ],
+      "translations": {
+        "en": "I put the belongings in my pocket.",
+        "tr": "Eşyaları cebime koydum.",
+        "de": "Ich steckte die Sachen in meine Tasche.",
+        "es": "Guardé las pertenencias en mi bolsillo.",
+        "fr": "Je mets les affaires dans ma poche."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq39.mp3?alt=media"
+    },
+    {
+      "id": "q40",
+      "sentence": "こんばん、<t>にゅーす</t>をみましたか。",
+      "options": [
+        "ニュース",
+        "ニユース",
+        "ニュス",
+        "ヌュース"
+      ],
+      "translations": {
+        "en": "Did you watch the news tonight?",
+        "tr": "Bu akşam haberleri izledin mi?",
+        "de": "Hast du heute Abend die Nachrichten gesehen?",
+        "es": "¿Viste las noticias esta noche?",
+        "fr": "Avez-vous regardé les informations ce soir ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq40.mp3?alt=media"
+    },
+    {
+      "id": "q41",
+      "sentence": "まいにち<t>じゅうす</t>をのみます。",
+      "options": [
+        "ジュース",
+        "シユース",
+        "ジユース",
+        "ジュス"
+      ],
+      "translations": {
+        "en": "I drink juice every day.",
+        "tr": "Her gün meyve suyu içerim.",
+        "de": "Ich trinke jeden Tag Saft.",
+        "es": "Tomo jugo todos los días.",
+        "fr": "Je bois du jus tous les jours."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq41.mp3?alt=media"
+    },
+    {
+      "id": "q42",
+      "sentence": "この<t>かめら</t>はとてもたかいです。",
+      "options": [
+        "カメラ",
+        "カヌラ",
+        "ガメラ",
+        "カメイ"
+      ],
+      "translations": {
+        "en": "This camera is very expensive.",
+        "tr": "Bu kamera çok pahalı.",
+        "de": "Diese Kamera ist sehr teuer.",
+        "es": "Esta cámara es muy cara.",
+        "fr": "Cette caméra est très chère."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq42.mp3?alt=media"
+    },
+    {
+      "id": "q43",
+      "sentence": "<t>えれべーたー</t>で５かいへいきます。",
+      "options": [
+        "エレベーター",
+        "エレヘーター",
+        "エレビーター",
+        "エレベタ"
+      ],
+      "translations": {
+        "en": "I'll go to the 5th floor by elevator.",
+        "tr": "Asansörle 5. kata çıkacağım.",
+        "de": "Ich fahre mit dem Aufzug in den 5. Stock.",
+        "es": "Iré al quinto piso en ascensor.",
+        "fr": "J'irai au 5ème étage par ascenseur."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq43.mp3?alt=media"
+    },
+    {
+      "id": "q44",
+      "sentence": "つくえのうえに<t>ぱそこん</t>があります。",
+      "options": [
+        "パソコン",
+        "パソコソ",
+        "ハソコン",
+        "パソコノ"
+      ],
+      "translations": {
+        "en": "There is a computer on the desk.",
+        "tr": "Masanın üzerinde bir bilgisayar var.",
+        "de": "Auf dem Schreibtisch steht ein Computer.",
+        "es": "Hay una computadora sobre el escritorio.",
+        "fr": "Il y a un ordinateur sur le bureau."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq44.mp3?alt=media"
+    },
+    {
+      "id": "q45",
+      "sentence": "なつやすみに<t>ぎたー</t>をならいました。",
+      "options": [
+        "ギター",
+        "キター",
+        "ギダー",
+        "ギタ"
+      ],
+      "translations": {
+        "en": "I learned guitar during summer vacation.",
+        "tr": "Yaz tatilinde gitar öğrendim.",
+        "de": "Ich habe in den Sommerferien Gitarre gelernt.",
+        "es": "Aprendí guitarra durante las vacaciones de verano.",
+        "fr": "J'ai appris la guitare pendant les vacances d'été."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq45.mp3?alt=media"
+    },
+    {
+      "id": "q46",
+      "sentence": "びょういんに<t>てすと</t>にいきました。",
+      "options": [
+        "テスト",
+        "デスド",
+        "テヌト",
+        "テスド"
+      ],
+      "translations": {
+        "en": "I went to the hospital for a test.",
+        "tr": "Hastaneye tahlil için gittim.",
+        "de": "Ich ging für einen Test ins Krankenhaus.",
+        "es": "Fui al hospital para hacerme una prueba.",
+        "fr": "Je suis allé à l'hôpital pour un test."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq46.mp3?alt=media"
+    },
+    {
+      "id": "q47",
+      "sentence": "<t>わいん</t>をもうすこしのみませんか。",
+      "options": [
+        "ワイン",
+        "ワセソ",
+        "ワンイ",
+        "ワィン"
+      ],
+      "translations": {
+        "en": "Won't you drink a little more wine?",
+        "tr": "Biraz daha şarap içmez misiniz?",
+        "de": "Willst du nicht noch etwas Wein trinken?",
+        "es": "¿No quieres beber un poco más de vino?",
+        "fr": "Ne bois-tu pas un peu plus de vin ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq47.mp3?alt=media"
+    },
+    {
+      "id": "q48",
+      "sentence": "あしたのあさは<t>ぱん</t>をたべます。",
+      "options": [
+        "パン",
+        "パソ",
+        "バン",
+        "ハン"
+      ],
+      "translations": {
+        "en": "I will eat bread tomorrow morning.",
+        "tr": "Yarın sabah ekmek yiyeceğim.",
+        "de": "Ich werde morgen früh Brot essen.",
+        "es": "Comeré pan mañana por la mañana.",
+        "fr": "Je mangerai du pain demain matin."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq48.mp3?alt=media"
+    },
+    {
+      "id": "q49",
+      "sentence": "<t>とらんぷ</t>であそびましょう。",
+      "options": [
+        "トランプ",
+        "ドランプ",
+        "トラソプ",
+        "トランブ"
+      ],
+      "translations": {
+        "en": "Let's play cards.",
+        "tr": "Haydi kart oynayalım.",
+        "de": "Lass uns Karten spielen.",
+        "es": "Juguemos a las cartas.",
+        "fr": "Jouons aux cartes."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq49.mp3?alt=media"
+    },
+    {
+      "id": "q50",
+      "sentence": "へやに<t>てれび</t>がありません。",
+      "options": [
+        "テレビ",
+        "テレピ",
+        "デレビ",
+        "テビレ"
+      ],
+      "translations": {
+        "en": "There is no TV in the room.",
+        "tr": "Odada televizyon yok.",
+        "de": "Es gibt keinen Fernseher im Zimmer.",
+        "es": "No hay televisión en la habitación.",
+        "fr": "Il n'y a pas de télévision dans la chambre."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq50.mp3?alt=media"
+    },
+    {
+      "id": "q51",
+      "sentence": "ぎんこうのとなりに<t>ぽすと</t>があります。",
+      "options": [
+        "ポスト",
+        "ホスト",
+        "ボスト",
+        "ポヌト"
+      ],
+      "translations": {
+        "en": "There is a mailbox next to the bank.",
+        "tr": "Bankanın yanında bir posta kutusu var.",
+        "de": "Neben der Bank befindet sich ein Briefkasten.",
+        "es": "Hay un buzón al lado del banco.",
+        "fr": "Il y a une boîte aux lettres à côté de la banque."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq51.mp3?alt=media"
+    },
+    {
+      "id": "q52",
+      "sentence": "<t>たくしー</t>にのってかえります。",
+      "options": [
+        "タクシー",
+        "ダクシー",
+        "ククシー",
+        "タクシ"
+      ],
+      "translations": {
+        "en": "I'll go home by taxi.",
+        "tr": "Taksiye binip eve döneceğim.",
+        "de": "Ich fahre mit dem Taxi nach Hause.",
+        "es": "Iré a casa en taxi.",
+        "fr": "Je rentrerai chez moi en taxi."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq52.mp3?alt=media"
+    },
+    {
+      "id": "q53",
+      "sentence": "<t>こーぴー</t>を５まいしてください。",
+      "options": [
+        "コピー",
+        "コビー",
+        "ゴピー",
+        "コピ"
+      ],
+      "translations": {
+        "en": "Please make 5 copies.",
+        "tr": "Lütfen 5 kopya çekin.",
+        "de": "Bitte fertigen Sie 5 Kopien an.",
+        "es": "Por favor haga 5 copias.",
+        "fr": "Veuillez faire 5 copies."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq53.mp3?alt=media"
+    },
+    {
+      "id": "q54",
+      "sentence": "きっさてんで<t>こーひー</t>をのみました。",
+      "options": [
+        "コーヒー",
+        "コヒー",
+        "ゴーヒー",
+        "コンヒー"
+      ],
+      "translations": {
+        "en": "I drank coffee at a cafe.",
+        "tr": "Cafede kahve içtim.",
+        "de": "Ich habe in einem Café Kaffee getrunken.",
+        "es": "Tomé café en una cafetería.",
+        "fr": "J'ai bu du café dans un café."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq54.mp3?alt=media"
+    },
+    {
+      "id": "q55",
+      "sentence": "あねは<t>れすとらん</t>でバイトをしています。",
+      "options": [
+        "レストラン",
+        "レストラソ",
+        "レヌトラン",
+        "レスドラソ"
+      ],
+      "translations": {
+        "en": "My older sister is working part-time at a restaurant.",
+        "tr": "Ablam bir restoranda yarı zamanlı çalışıyor.",
+        "de": "Meine ältere Schwester arbeitet Teilzeit in einem Restaurant.",
+        "es": "Mi hermana mayor trabaja a tiempo parcial en un restaurante.",
+        "fr": "Ma sœur aînée travaille à temps partiel dans un restaurant."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq55.mp3?alt=media"
+    },
+    {
+      "id": "q56",
+      "sentence": "<t>すぷーん</t>をかしてください。",
+      "options": [
+        "スプーン",
+        "スプーソ",
+        "スフーン",
+        "ズプーン"
+      ],
+      "translations": {
+        "en": "Please lend me a spoon.",
+        "tr": "Lütfen bir kaşık ödünç verin.",
+        "de": "Bitte leih mir einen Löffel.",
+        "es": "Por favor préstame una cuchara.",
+        "fr": "S'il vous plaît, prêtez-moi une cuillère."
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq56.mp3?alt=media"
+    },
+    {
+      "id": "q57",
+      "sentence": "この<t>しゃつ</t>はいくらですか。",
+      "options": [
+        "シャツ",
+        "シセツ",
+        "シャッ",
+        "ジャツ"
+      ],
+      "translations": {
+        "en": "How much is this shirt?",
+        "tr": "Bu gömlek ne kadar?",
+        "de": "Wie viel kostet dieses Hemd?",
+        "es": "¿Cuánto cuesta esta camisa?",
+        "fr": "Combien coûte cette chemise ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq57.mp3?alt=media"
+    },
+    {
+      "id": "q58",
+      "sentence": "あしたは<t>てにす</t>をしませんか。",
+      "options": [
+        "テニス",
+        "テリス",
+        "デニス",
+        "テヌス"
+      ],
+      "translations": {
+        "en": "Shall we play tennis tomorrow?",
+        "tr": "Yarın tenis oynayalım mı?",
+        "de": "Spielen wir morgen Tennis?",
+        "es": "¿Jugamos al tenis mañana?",
+        "fr": "On joue au tennis demain ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq58.mp3?alt=media"
+    },
+    {
+      "id": "q59",
+      "sentence": "その<t>のーと</t>はだれのですか。",
+      "options": [
+        "ノート",
+        "ノト",
+        "メート",
+        "ヌート"
+      ],
+      "translations": {
+        "en": "Whose notebook is that?",
+        "tr": "O defter kimin?",
+        "de": "Wessen Notizbuch ist das?",
+        "es": "¿De quién es ese cuaderno?",
+        "fr": "À qui est ce carnet ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq59.mp3?alt=media"
+    },
+    {
+      "id": "q60",
+      "sentence": "<t>といれ</t>はどこにありますか。",
+      "options": [
+        "トイレ",
+        "トイし",
+        "ドイレ",
+        "トィレ"
+      ],
+      "translations": {
+        "en": "Where is the toilet?",
+        "tr": "Tuvalet nerede?",
+        "de": "Wo ist die Toilette?",
+        "es": "¿Dónde está el baño?",
+        "fr": "Où sont les toilettes ?"
+      },
+      "audio_url": "https://firebasestorage.googleapis.com/v0/b/jlpt-bites.firebasestorage.app/o/sounds%2Fvocabulary%2Fkatakana_spelling%2Fq60.mp3?alt=media"
+    }
+  ]
+}

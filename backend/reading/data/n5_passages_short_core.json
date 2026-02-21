@@ -1,0 +1,1036 @@
+{
+  "passages": [
+    {
+      "id": "n5_reading_short_001",
+      "title": "日本語クラスのお知らせ",
+      "visual_type": "notice",
+      "question_count": 1,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "（大学で）",
+          "furigana": "（<ruby>大学<rt>だいがく</rt></ruby>で）",
+          "romaji": "(Daigaku de)"
+        },
+        {
+          "id": "s2",
+          "original": "学生が この 紙を 見ました。",
+          "furigana": "<ruby>学生<rt>がくせい</rt></ruby>が この <ruby>紙<rt>かみ</rt></ruby>を <ruby>見<rt>み</rt></ruby>ました。",
+          "romaji": "Gakusei ga kono kami o mimashita."
+        }
+      ],
+      "framed_sentences": [
+        {
+          "id": "s3",
+          "original": "「日本語１」と「日本語２」の クラスの みなさんへ",
+          "furigana": "「<ruby>日本語<rt>にほんご</rt></ruby>１」と「<ruby>日本語<rt>にほんご</rt></ruby>２」の クラスの みなさんへ",
+          "romaji": "\"Nihongo ichi\" to \"Nihongo ni\" no kurasu no minasan e"
+        },
+        {
+          "id": "s4",
+          "original": "今日 出川先生は お昼まで お休みです。",
+          "furigana": "<ruby>今日<rt>きょう</rt></ruby> <ruby>出川先生<rt>でがわせんせい</rt></ruby>は お<ruby>昼<rt>ひる</rt></ruby>まで お<ruby>休み<rt>やすみ</rt></ruby>です。",
+          "romaji": "Kyou Degawa-sensei wa ohiru made oyasumi desu."
+        },
+        {
+          "id": "s5",
+          "original": "午前の「日本語１」の クラスは ありません。",
+          "furigana": "<ruby>午前<rt>ごぜん</rt></ruby>の「<ruby>日本語<rt>にほんご</rt></ruby>１」の クラスは ありません。",
+          "romaji": "Gozen no \"Nihongo ichi\" no kurasu wa arimasen."
+        },
+        {
+          "id": "s6",
+          "original": "午後の「日本語２」の クラスは あります。",
+          "furigana": "<ruby>午後<rt>ごご</rt></ruby>の「<ruby>日本語<rt>にほんご</rt></ruby>２」の クラスは あります。",
+          "romaji": "Gogo no \"Nihongo ni\" no kurasu wa arimasu."
+        },
+        {
+          "id": "s7",
+          "original": "・「日本語１」の しゅくだいは 来週 出して ください。",
+          "furigana": "・「<ruby>日本語<rt>にほんご</rt></ruby>１」の しゅくだいは <ruby>来週<rt>らいしゅう</rt></ruby> <ruby>出<rt>だ</rt></ruby>して ください。",
+          "romaji": "\"Nihongo ichi\" no shukudai wa raishuu dashite kudasai."
+        },
+        {
+          "id": "s8",
+          "original": "2016年12月2日 高見大学",
+          "furigana": "2016<ruby>年<rt>ねん</rt></ruby>12<ruby>月<rt>がつ</rt></ruby>2<ruby>日<rt>ふつか</rt></ruby> <ruby>高見大学<rt>たかみだいがく</rt></ruby>",
+          "romaji": "Nisen-juurokunen juunigatsu futsuka Takami Daigaku"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "大学は 「日本語１」の クラスの 学生に 何が 言いたいですか。",
+          "furigana": "<ruby>大学<rt>だいがく</rt></ruby>は 「<ruby>日本語<rt>にほんご</rt></ruby>１」の クラスの <ruby>学生<rt>がくせい</rt></ruby>に <ruby>何<rt>なに</rt></ruby>が <ruby>言<rt>い</rt></ruby>いたいですか。",
+          "romaji": "Daigaku wa \"Nihongo ichi\" no kurasu no gakusei ni nani ga iitai desu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "今日 クラスは ありません。しゅくだいは 午後 出して ください。",
+              "furigana": "<ruby>今日<rt>きょう</rt></ruby> クラスは ありません。しゅくだいは <ruby>午後<rt>ごご</rt></ruby> <ruby>出<rt>だ</rt></ruby>して ください。",
+              "is_correct": false,
+              "romaji": "Kyou kurasu wa arimasen. Shukudai wa gogo dashite kudasai."
+            },
+            {
+              "id": "opt2",
+              "text": "今日 クラスは ありません。しゅくだいは 来週 出して ください。",
+              "furigana": "<ruby>今日<rt>きょう</rt></ruby> クラスは ありません。しゅくだいは <ruby>来週<rt>らいしゅう</rt></ruby> <ruby>出<rt>だ</rt></ruby>して ください。",
+              "is_correct": true,
+              "romaji": "Kyou kurasu wa arimasen. Shukudai wa raishuu dashite kudasai."
+            },
+            {
+              "id": "opt3",
+              "text": "今日 クラスが ありますが、しゅくだいは 来週 出して ください。",
+              "furigana": "<ruby>今日<rt>きょう</rt></ruby> クラスが ありますが、しゅくだいは <ruby>来週<rt>らいしゅう</rt></ruby> <ruby>出<rt>だ</rt></ruby>して ください。",
+              "is_correct": false,
+              "romaji": "Kyou kurasu ga arimasu ga, shukudai wa raishuu dashite kudasai."
+            },
+            {
+              "id": "opt4",
+              "text": "今日 クラスが ありますから、しゅくだいを 出して ください。",
+              "furigana": "<ruby>今日<rt>きょう</rt></ruby> クラスが ありますから、しゅくだいを <ruby>出<rt>だ</rt></ruby>して ください。",
+              "is_correct": false,
+              "romaji": "Kyou kurasu ga arimasu kara, shukudai o dashite kudasai."
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_002",
+      "title": "ボゴさんへのメモ",
+      "visual_type": "memo",
+      "question_count": 1,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "（会社で）",
+          "furigana": "（<ruby>会社<rt>かいしゃ</rt></ruby>で）",
+          "romaji": "(Kaisha de)"
+        },
+        {
+          "id": "s2",
+          "original": "ボゴさんの机の上に、このメモとにもつがあります。",
+          "furigana": "ボゴさんの<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に、このメモとにもつがあります。",
+          "romaji": "Bogo-san no tsukue no ue ni, kono memo to nimotsu ga arimasu."
+        }
+      ],
+      "framed_sentences": [
+        {
+          "id": "s3",
+          "original": "ボゴさん",
+          "furigana": "ボゴさん",
+          "romaji": "Bogo-san"
+        },
+        {
+          "id": "s4",
+          "original": "10時ごろ ゆうびんきょくの 人が この にもつを とりに 来ますから、にもつと お金を わたして ください。",
+          "furigana": "10<ruby>時<rt>じ</rt></ruby>ごろ ゆうびんきょくの <ruby>人<rt>ひと</rt></ruby>が この にもつを とりに <ruby>来<rt>き</rt></ruby>ますから、にもつと お<ruby>金<rt>かね</rt></ruby>を わたして ください。",
+          "romaji": "Juuji goro yuubinkyoku no hito ga kono nimotsu o tori ni kimasu kara, nimotsu to okane o watashite kudasai."
+        },
+        {
+          "id": "s5",
+          "original": "お金は 中西さんが 持って います。",
+          "furigana": "お<ruby>金<rt>かね</rt></ruby>は <ruby>中西<rt>なかにし</rt></ruby>さんが <ruby>持<rt>も</rt></ruby>って います。",
+          "romaji": "Okane wa Nakanishi-san ga motte imasu."
+        },
+        {
+          "id": "s6",
+          "original": "ゆうびんきょくの 人が 来る 前に もらいに 行って ください。",
+          "furigana": "ゆうびんきょくの <ruby>人<rt>ひと</rt></ruby>が <ruby>来<rt>く</rt></ruby>る <ruby>前<rt>まえ</rt></ruby>に もらいに <ruby>行<rt>い</rt></ruby>って ください。",
+          "romaji": "Yuubinkyoku no hito ga kuru mae ni morai ni itte kudasai."
+        },
+        {
+          "id": "s7",
+          "original": "よろしく おねがいします。",
+          "furigana": "よろしく おねがいします。",
+          "romaji": "Yoroshiku onegaishimasu."
+        },
+        {
+          "id": "s8",
+          "original": "多田 11月30日 9:30",
+          "furigana": "<ruby>多田<rt>ただ</rt></ruby> 11<ruby>月<rt>がつ</rt></ruby>30<ruby>日<rt>にち</rt></ruby> 9:30",
+          "romaji": "Tada Juuichigatsu sanjuunichi kuji sanjuppun"
+        }
+      ],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "この メモを 読んで、ボゴさんは はじめに 何を しますか。",
+          "furigana": "この メモを <ruby>読<rt>よ</rt></ruby>んで、ボゴさんは はじめに <ruby>何<rt>なに</rt></ruby>を しますか。",
+          "romaji": "Kono memo o yonde, Bogo-san wa hajimene nani o shimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "中西さんに お金を もらいます。",
+              "furigana": "<ruby>中西<rt>なかにし</rt></ruby>さんに お<ruby>金<rt>かね</rt></ruby>を もらいます。",
+              "is_correct": true,
+              "romaji": "Nakanishi-san ni okane o moraimasu."
+            },
+            {
+              "id": "opt2",
+              "text": "中西さんに にもつと お金を わたします。",
+              "furigana": "<ruby>中西<rt>なかにし</rt></ruby>さんに にもつと お<ruby>金<rt>かね</rt></ruby>を わたします。",
+              "is_correct": false,
+              "romaji": "Nakanishi-san ni nimotsu to okane o watashimasu."
+            },
+            {
+              "id": "opt3",
+              "text": "ゆうびんきょくの 人に にもつを もらいます。",
+              "furigana": "ゆうびんきょくの <ruby>人<rt>ひと</rt></ruby>に にもつを もらいます。",
+              "is_correct": false,
+              "romaji": "Yuubinkyoku no hito ni nimotsu o moraimasu."
+            },
+            {
+              "id": "opt4",
+              "text": "ゆうびんきょくの 人に にもつと お金を わたします。",
+              "furigana": "ゆうびんきょくの <ruby>人<rt>ひと</rt></ruby>に にもつと お<ruby>金<rt>かね</rt></ruby>を わたします。",
+              "is_correct": false,
+              "romaji": "Yuubinkyoku no hito ni nimotsu to okane o watashimasu."
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_003",
+      "title": "わたしの朝ごはん",
+      "visual_type": "none",
+      "question_count": 1,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "わたしは毎朝ご飯となっとうか、パンとたまごを食べて、学校へ行きます。",
+          "furigana": "わたしは<ruby>毎朝<rt>まいあさ</rt></ruby><ruby>ご飯<rt>ごはん</rt></ruby>となっとうか、パンとたまごを<ruby>食<rt>た</rt></ruby>べて、<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Watashi wa maiasa gohan to nattou ka, pan to tamago o tabete, gakkou e ikimasu."
+        },
+        {
+          "id": "s2",
+          "original": "でも、けさは何も食べませんでした。",
+          "furigana": "でも、けさは<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べませんでした。",
+          "romaji": "Demo, kesa wa nani mo tabemasen deshita."
+        },
+        {
+          "id": "s3",
+          "original": "バナナを学校へ持っていきました。",
+          "furigana": "バナナを<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>持<rt>も</rt></ruby>っていきました。",
+          "romaji": "Banana o gakkou e motte ikimashita."
+        },
+        {
+          "id": "s4",
+          "original": "起きた時間が おそかったからです。",
+          "furigana": "<ruby>起<rt>お</rt></ruby>きた<ruby>時間<rt>じかん</rt></ruby>が おそかったからです。",
+          "romaji": "Okita jikan ga osokatta kara desu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "けさ「わたし」は 学校へ 行く 前に、何を 食べましたか。",
+          "furigana": "けさ「わたし」は <ruby>学校<rt>がっこう</rt></ruby>へ <ruby>行<rt>い</rt></ruby>く <ruby>前<rt>まえ</rt></ruby>に、<ruby>何<rt>なに</rt></ruby>を <ruby>食<rt>た</rt></ruby>べましたか。",
+          "romaji": "Kesa 'watashi' wa gakkou e iku mae ni, nani o tabemashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "ご飯と なっとうを 食べました。",
+              "furigana": "<ruby>ご飯<rt>ごはん</rt></ruby>と なっとうを <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": false,
+              "romaji": "Gohan to nattou o tabemashita."
+            },
+            {
+              "id": "opt2",
+              "text": "パンと たまごを 食べました。",
+              "furigana": "パンと たまごを <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": false,
+              "romaji": "Pan to tamago o tabemashita."
+            },
+            {
+              "id": "opt3",
+              "text": "なにも 食べませんでした。",
+              "furigana": "なにも <ruby>食<rt>た</rt></ruby>べませんでした。",
+              "is_correct": true,
+              "romaji": "Nani mo tabemasen deshita."
+            },
+            {
+              "id": "opt4",
+              "text": "バナナを 食べました。",
+              "furigana": "バナナを <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": false,
+              "romaji": "Banana o tabemashita."
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_004",
+      "title": "ある一日の日記",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "きょうは あさ、えき まで あるきました。",
+          "furigana": "きょうは あさ、えき まで あるきました。",
+          "romaji": "Kyou wa asa, eki made arukimashita."
+        },
+        {
+          "id": "s2",
+          "original": "でんしゃで かいしゃ へ 行きました。",
+          "furigana": "でんしゃで かいしゃ へ <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Densha de kaisha he ikimashita."
+        },
+        {
+          "id": "s3",
+          "original": "ひるは レストランで カレーを たべました。",
+          "furigana": "ひるは レストランで カレーを たべました。",
+          "romaji": "Hiru wa resutoran de karee o tabemashita."
+        },
+        {
+          "id": "s4",
+          "original": "とても おいしかったです。",
+          "furigana": "とても おいしかったです。",
+          "romaji": "Totemo oishikatta desu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "きょう、どうやって かいしゃ へ 行きましたか？",
+          "furigana": "きょう、どうやって かいしゃ へ <ruby>行<rt>い</rt></ruby>きましたか？",
+          "romaji": "1 Kyou, douyatte kaisha he ikimashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "あるいて",
+              "furigana": "あるいて",
+              "is_correct": false,
+              "romaji": "aruite"
+            },
+            {
+              "id": "opt2",
+              "text": "バスで",
+              "furigana": "バスで",
+              "is_correct": false,
+              "romaji": "basu de"
+            },
+            {
+              "id": "opt3",
+              "text": "でんしゃで",
+              "furigana": "でんしゃで",
+              "is_correct": true,
+              "romaji": "densha de"
+            },
+            {
+              "id": "opt4",
+              "text": "じてんしゃで",
+              "furigana": "じてんしゃで",
+              "is_correct": false,
+              "romaji": "jitensha de"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "ひる、なにを たべましたか？",
+          "furigana": "ひる、なにを たべましたか？",
+          "romaji": "2 Hiru, nani o tabemashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "パン",
+              "furigana": "パン",
+              "is_correct": false,
+              "romaji": "pan"
+            },
+            {
+              "id": "opt2",
+              "text": "ラーメン",
+              "furigana": "ラーメン",
+              "is_correct": false,
+              "romaji": "raamen"
+            },
+            {
+              "id": "opt3",
+              "text": "カレー",
+              "furigana": "カレー",
+              "is_correct": true,
+              "romaji": "karee"
+            },
+            {
+              "id": "opt4",
+              "text": "すし",
+              "furigana": "すし",
+              "is_correct": false,
+              "romaji": "sushi"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_005",
+      "title": "休日の思い出",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "きのうは ともだち と えいが を みました。",
+          "furigana": "きのうは ともだち と えいが を みました。",
+          "romaji": "Kinou wa tomodachi to eiga o mimashita."
+        },
+        {
+          "id": "s2",
+          "original": "えいが の あとで、カフェ に 行きました。",
+          "furigana": "えいが の あとで、カフェ に <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Eiga no ato de, kafe ni ikimashita."
+        },
+        {
+          "id": "s3",
+          "original": "コーヒー を のんで、たくさん はなしました。",
+          "furigana": "コーヒー を のんで、たくさん はなしました。",
+          "romaji": "Koohii o nonde, takusan hanashimashita."
+        },
+        {
+          "id": "s4",
+          "original": "たのしかったです。",
+          "furigana": "たのしかったです。",
+          "romaji": "Tanoshikatta desu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "きのう、だれ と えいが を みましたか？",
+          "furigana": "きのう、だれ と えいが を みましたか？",
+          "romaji": "1 Kinou, dare to eiga o mimashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "かぞく",
+              "furigana": "かぞく",
+              "is_correct": false,
+              "romaji": "kazoku"
+            },
+            {
+              "id": "opt2",
+              "text": "ともだち",
+              "furigana": "ともだち",
+              "is_correct": true,
+              "romaji": "tomodachi"
+            },
+            {
+              "id": "opt3",
+              "text": "せんせい",
+              "furigana": "せんせい",
+              "is_correct": false,
+              "romaji": "sensei"
+            },
+            {
+              "id": "opt4",
+              "text": "ひとり",
+              "furigana": "ひとり",
+              "is_correct": false,
+              "romaji": "hitori"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "カフェで なにを のみましたか？",
+          "furigana": "カフェで なにを のみましたか？",
+          "romaji": "2 Kafe de nani o nomimashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "ジュース",
+              "furigana": "ジュース",
+              "is_correct": false,
+              "romaji": "juusu"
+            },
+            {
+              "id": "opt2",
+              "text": "おちゃ",
+              "furigana": "おちゃ",
+              "is_correct": false,
+              "romaji": "ocha"
+            },
+            {
+              "id": "opt3",
+              "text": "コーヒー",
+              "furigana": "コーヒー",
+              "is_correct": true,
+              "romaji": "koohii"
+            },
+            {
+              "id": "opt4",
+              "text": "みず",
+              "furigana": "みず",
+              "is_correct": false,
+              "romaji": "mizu"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_006",
+      "title": "学校のいちにち",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "まいあさ、6じ に おきます。",
+          "furigana": "まいあさ、6<ruby>時<rt>じ</rt></ruby> に おきます。",
+          "romaji": "Maiasa, rokuji ni okimasu."
+        },
+        {
+          "id": "s2",
+          "original": "パン と たまご を たべます。",
+          "furigana": "パン と たまご を たべます。",
+          "romaji": "Pan to tamago o tabemasu."
+        },
+        {
+          "id": "s3",
+          "original": "そのあと、がっこう へ 行きます。",
+          "furigana": "そのあと、がっこう へ <ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Sono ato, gakkou e ikimasu."
+        },
+        {
+          "id": "s4",
+          "original": "べんきょう が すきです。",
+          "furigana": "べんきょう が すきです。",
+          "romaji": "Benkyou ga suki desu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "なんじ に おきますか？",
+          "furigana": "なんじ に おきますか？",
+          "romaji": "Nanji ni okimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "5じ",
+              "furigana": "5<ruby>時<rt>じ</rt></ruby>",
+              "is_correct": false,
+              "romaji": "goji"
+            },
+            {
+              "id": "opt2",
+              "text": "6じ",
+              "furigana": "6<ruby>時<rt>じ</rt></ruby>",
+              "is_correct": true,
+              "romaji": "rokuji"
+            },
+            {
+              "id": "opt3",
+              "text": "7じ",
+              "furigana": "7<ruby>時<rt>じ</rt></ruby>",
+              "is_correct": false,
+              "romaji": "shichiji"
+            },
+            {
+              "id": "opt4",
+              "text": "8じ",
+              "furigana": "8<ruby>時<rt>じ</rt></ruby>",
+              "is_correct": false,
+              "romaji": "hachiji"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "どこ へ 行きますか？",
+          "furigana": "どこ へ <ruby>行<rt>い</rt></ruby>きますか？",
+          "romaji": "Doko e ikimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "かいしゃ",
+              "furigana": "かいしゃ",
+              "is_correct": false,
+              "romaji": "kaisha"
+            },
+            {
+              "id": "opt2",
+              "text": "えき",
+              "furigana": "えき",
+              "is_correct": false,
+              "romaji": "eki"
+            },
+            {
+              "id": "opt3",
+              "text": "がっこう",
+              "furigana": "がっこう",
+              "is_correct": true,
+              "romaji": "gakkou"
+            },
+            {
+              "id": "opt4",
+              "text": "うち",
+              "furigana": "うち",
+              "is_correct": false,
+              "romaji": "uchi"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_007",
+      "title": "しゅうまつのすごしかた",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "しゅうまつ は うち で すごします。",
+          "furigana": "しゅうまつ は うち で すごします。",
+          "romaji": "Shuumatsu wa uchi de sugoshimasu."
+        },
+        {
+          "id": "s2",
+          "original": "テレビ を みたり、本 を よんだり します。",
+          "furigana": "テレビ を みたり、<ruby>本<rt>ほん</rt></ruby> を よんだり します。",
+          "romaji": "Terebi o mitari, hon o yondari shimasu."
+        },
+        {
+          "id": "s3",
+          "original": "ひる は ラーメン を たべました。",
+          "furigana": "ひる は ラーメン を たべました。",
+          "romaji": "Hiru wa raamen o tabemashita."
+        },
+        {
+          "id": "s4",
+          "original": "ゆっくり しました。",
+          "furigana": "ゆっくり しました。",
+          "romaji": "Yukkuri shimashita."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "しゅうまつ、どこ ですごしますか？",
+          "furigana": "しゅうまつ、どこ ですごしますか？",
+          "romaji": "1 Shuumatsu, doko de sugoshimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "がっこう",
+              "furigana": "がっこう",
+              "is_correct": false,
+              "romaji": "gakkou"
+            },
+            {
+              "id": "opt2",
+              "text": "かいしゃ",
+              "furigana": "かいしゃ",
+              "is_correct": false,
+              "romaji": "kaisha"
+            },
+            {
+              "id": "opt3",
+              "text": "うち",
+              "furigana": "うち",
+              "is_correct": true,
+              "romaji": "uchi"
+            },
+            {
+              "id": "opt4",
+              "text": "レストラン",
+              "furigana": "レストラン",
+              "is_correct": false,
+              "romaji": "resutoran"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "ひる、なにを たべましたか？",
+          "furigana": "ひる、なにを たべましたか？",
+          "romaji": "2 Hiru, nani o tabemashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "カレー",
+              "furigana": "カレー",
+              "is_correct": false,
+              "romaji": "karee"
+            },
+            {
+              "id": "opt2",
+              "text": "パン",
+              "furigana": "パン",
+              "is_correct": false,
+              "romaji": "pan"
+            },
+            {
+              "id": "opt3",
+              "text": "ラーメン",
+              "furigana": "ラーメン",
+              "is_correct": true,
+              "romaji": "raamen"
+            },
+            {
+              "id": "opt4",
+              "text": "すし",
+              "furigana": "すし",
+              "is_correct": false,
+              "romaji": "sushi"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_008",
+      "title": "あめ の ひ",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "きょう は あめ です。",
+          "furigana": "きょう は あめ です。",
+          "romaji": "Kyou wa ame desu."
+        },
+        {
+          "id": "s2",
+          "original": "そと に 出ません。",
+          "furigana": "そと に <ruby>出<rt>で</rt></ruby>ません。",
+          "romaji": "Soto ni demasen."
+        },
+        {
+          "id": "s3",
+          "original": "うち で おんがく を ききます。",
+          "furigana": "うち で おんがく を ききます。",
+          "romaji": "Uchi de ongaku o kikimasu."
+        },
+        {
+          "id": "s4",
+          "original": "コーヒー も のみます。",
+          "furigana": "コーヒー も のみます。",
+          "romaji": "Koohii mo nomimasu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "きょう の てんき は どうですか？",
+          "furigana": "きょう の てんき は どうですか？",
+          "romaji": "1 Kyou no tenki wa dou desu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "はれ",
+              "furigana": "はれ",
+              "is_correct": false,
+              "romaji": "hare"
+            },
+            {
+              "id": "opt2",
+              "text": "くもり",
+              "furigana": "くもり",
+              "is_correct": false,
+              "romaji": "kumori"
+            },
+            {
+              "id": "opt3",
+              "text": "あめ",
+              "furigana": "あめ",
+              "is_correct": true,
+              "romaji": "ame"
+            },
+            {
+              "id": "opt4",
+              "text": "ゆき",
+              "furigana": "ゆき",
+              "is_correct": false,
+              "romaji": "yuki"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "どこ で おんがく を ききますか？",
+          "furigana": "どこ で おんがく を ききますか？",
+          "romaji": "2 Doko de ongaku o kikimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "そと",
+              "furigana": "そと",
+              "is_correct": false,
+              "romaji": "soto"
+            },
+            {
+              "id": "opt2",
+              "text": "えき",
+              "furigana": "えき",
+              "is_correct": false,
+              "romaji": "eki"
+            },
+            {
+              "id": "opt3",
+              "text": "カフェ",
+              "furigana": "カフェ",
+              "is_correct": false,
+              "romaji": "kafe"
+            },
+            {
+              "id": "opt4",
+              "text": "うち",
+              "furigana": "うち",
+              "is_correct": true,
+              "romaji": "uchi"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_009",
+      "title": "わたしの ともだち",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-03T18:41:48Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "ともだち は にほんじん です。",
+          "furigana": "ともだち は <ruby>日本人<rt>にほんじん</rt></ruby> です。",
+          "romaji": "Tomodachi wa nihonjin desu."
+        },
+        {
+          "id": "s2",
+          "original": "にほんご を おしえて くれます。",
+          "furigana": "にほんご を おしえて くれます。",
+          "romaji": "Nihongo o oshiete kuremasu."
+        },
+        {
+          "id": "s3",
+          "original": "ときどき いっしょ に べんきょう します。",
+          "furigana": "ときどき いっしょ に べんきょう します。",
+          "romaji": "Tokidoki issho ni benkyou shimasu."
+        },
+        {
+          "id": "s4",
+          "original": "とても しんせつ です。",
+          "furigana": "とても しんせつ です。",
+          "romaji": "Totemo shinsetsu desu."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "ともだち は どこ の ひと ですか？",
+          "furigana": "ともだち は どこ の <ruby>人<rt>ひと</rt></ruby> ですか？",
+          "romaji": "1 Tomodachi wa doko no hito desu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "かんこく",
+              "furigana": "かんこく",
+              "is_correct": false,
+              "romaji": "kankoku"
+            },
+            {
+              "id": "opt2",
+              "text": "にほん",
+              "furigana": "にほん",
+              "is_correct": true,
+              "romaji": "nihon"
+            },
+            {
+              "id": "opt3",
+              "text": "ちゅうごく",
+              "furigana": "ちゅうごく",
+              "is_correct": false,
+              "romaji": "chuugoku"
+            },
+            {
+              "id": "opt4",
+              "text": "アメリカ",
+              "furigana": "アメリカ",
+              "is_correct": false,
+              "romaji": "amerika"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "ともだち は なに を しますか？",
+          "furigana": "ともだち は なに を しますか？",
+          "romaji": "2 Tomodachi wa nani o shimasu ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "えいご を おしえる",
+              "furigana": "えいご を おしえる",
+              "is_correct": false,
+              "romaji": "eigo o oshieru"
+            },
+            {
+              "id": "opt2",
+              "text": "にほんご を おしえる",
+              "furigana": "にほんご を おしえる",
+              "is_correct": true,
+              "romaji": "nihongo o oshieru"
+            },
+            {
+              "id": "opt3",
+              "text": "りょうり を する",
+              "furigana": "りょうり を する",
+              "is_correct": false,
+              "romaji": "ryouri o suru"
+            },
+            {
+              "id": "opt4",
+              "text": "えいが を みる",
+              "furigana": "えいが を みる",
+              "is_correct": false,
+              "romaji": "eiga o miru"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    },
+    {
+      "id": "n5_reading_short_010",
+      "title": "スーパーでかいもの",
+      "visual_type": "none",
+      "question_count": 2,
+      "created_at": "2026-02-21T00:00:00Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "きのう、お母さん と スーパー に 行きました。",
+          "furigana": "きのう、お<ruby>母<rt>かあ</rt></ruby>さん と スーパー に <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Kinou, okaasan to suupaa ni ikimashita."
+        },
+        {
+          "id": "s2",
+          "original": "やさい と くだもの を 買いました。",
+          "furigana": "やさい と くだもの を <ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Yasai to kudamono o kaimashita."
+        },
+        {
+          "id": "s3",
+          "original": "りんご が 安かったです。",
+          "furigana": "りんご が <ruby>安<rt>やす</rt></ruby>かったです。",
+          "romaji": "Ringo ga yasukatta desu."
+        },
+        {
+          "id": "s4",
+          "original": "うち に かえって、いっしょ に ばんごはん を つくりました。",
+          "furigana": "うち に かえって、いっしょ に ばんごはん を つくりました。",
+          "romaji": "Uchi ni kaette, issho ni bangohan o tsukurimashita."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "だれ と スーパー に 行きましたか？",
+          "furigana": "だれ と スーパー に <ruby>行<rt>い</rt></ruby>きましたか？",
+          "romaji": "1 Dare to suupaa ni ikimashita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "お父さん",
+              "furigana": "お<ruby>父<rt>とう</rt></ruby>さん",
+              "is_correct": false,
+              "romaji": "otousan"
+            },
+            {
+              "id": "opt2",
+              "text": "お母さん",
+              "furigana": "お<ruby>母<rt>かあ</rt></ruby>さん",
+              "is_correct": true,
+              "romaji": "okaasan"
+            },
+            {
+              "id": "opt3",
+              "text": "ともだち",
+              "furigana": "ともだち",
+              "is_correct": false,
+              "romaji": "tomodachi"
+            },
+            {
+              "id": "opt4",
+              "text": "おねえさん",
+              "furigana": "おねえさん",
+              "is_correct": false,
+              "romaji": "oneesan"
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "りんご は どうでしたか？",
+          "furigana": "りんご は どうでしたか？",
+          "romaji": "2 Ringo wa dou deshita ka?",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "高かった",
+              "furigana": "<ruby>高<rt>たか</rt></ruby>かった",
+              "is_correct": false,
+              "romaji": "takakatta"
+            },
+            {
+              "id": "opt2",
+              "text": "大きかった",
+              "furigana": "<ruby>大<rt>おお</rt></ruby>きかった",
+              "is_correct": false,
+              "romaji": "ookikatta"
+            },
+            {
+              "id": "opt3",
+              "text": "安かった",
+              "furigana": "<ruby>安<rt>やす</rt></ruby>かった",
+              "is_correct": true,
+              "romaji": "yasukatta"
+            },
+            {
+              "id": "opt4",
+              "text": "小さかった",
+              "furigana": "<ruby>小<rt>ちい</rt></ruby>さかった",
+              "is_correct": false,
+              "romaji": "chiisakatta"
+            }
+          ]
+        }
+      ],
+      "type": "short"
+    }
+  ]
+}
