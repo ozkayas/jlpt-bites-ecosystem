@@ -15,3 +15,7 @@ skills/.DS_Store
 
 # Node
 node_modules/
+
+# Generated audio files (large binaries, not versioned)
+*.wav
+*.mp3

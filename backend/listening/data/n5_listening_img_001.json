@@ -1,0 +1,103 @@
+{
+  "id": "n5_listening_img_001",
+  "metadata": {
+    "level": "n5",
+    "topic": "Preparing for a picnic",
+    "pattern_used": "Shortage"
+  },
+  "visual_prompts": {
+    "master_style": "Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome vector art, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text",
+    "options": [
+      {
+        "id": 0,
+        "prompt": "A minimalist black and white line art illustration of two onigiri rice balls on a simple plate, in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast.",
+        "logic_role": "Distractor_A"
+      },
+      {
+        "id": 1,
+        "prompt": "A minimalist black and white line art illustration of three apples grouped together, in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast.",
+        "logic_role": "Correct"
+      },
+      {
+        "id": 2,
+        "prompt": "A minimalist black and white line art illustration of two pet bottles of tea, in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast.",
+        "logic_role": "Distractor_B"
+      },
+      {
+        "id": 3,
+        "prompt": "A minimalist black and white line art illustration of two onigiri rice balls and two pet bottles of tea together on a tray, in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast.",
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 1,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おとこのひとと おんなのひとが はなしています。ふたりは なにを かいますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "あしたの ピクニック、なにが ありますか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "おにぎりと おちゃが あります。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "くだものは ありますか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "くだものは ありません。りんごを かいましょう。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "いいですね。りんごを かいましょう。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ふたりは なにを かいますか。" }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと おんなのひとが はなしています。ふたりは なにを かいますか。",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "あしたの ピクニック、なにが ありますか。" },
+      { "speaker": "Female_1", "text": "おにぎりと おちゃが あります。" },
+      { "speaker": "Male_1", "text": "くだものは ありますか。" },
+      { "speaker": "Female_1", "text": "くだものは ありません。りんごを かいましょう。" },
+      { "speaker": "Male_1", "text": "いいですね。りんごを かいましょう。" }
+    ],
+    "question": "ふたりは なにを かいますか。"
+  },
+  "translations": {
+    "en": {
+      "intro": "A man and a woman are talking. What will they buy?",
+      "dialogue": [
+        { "speaker": "Male_1", "text": "What do we have for tomorrow's picnic?" },
+        { "speaker": "Female_1", "text": "We have rice balls and tea." },
+        { "speaker": "Male_1", "text": "Do we have fruit?" },
+        { "speaker": "Female_1", "text": "We don't have fruit. Let's buy apples." },
+        { "speaker": "Male_1", "text": "Good idea. Let's buy apples." }
+      ],
+      "question": "What will they buy?"
+    },
+    "tr": {
+      "intro": "Bir erkek ve bir kadin konusuyor. Ikisi ne satin alacak?",
+      "dialogue": [
+        { "speaker": "Male_1", "text": "Yarinin piknigi icin nelerimiz var?" },
+        { "speaker": "Female_1", "text": "Onigiri ve cayi var." },
+        { "speaker": "Male_1", "text": "Meyve var mi?" },
+        { "speaker": "Female_1", "text": "Meyve yok. Elma alalim." },
+        { "speaker": "Male_1", "text": "Iyi fikir. Elma alalim." }
+      ],
+      "question": "Ikisi ne satin alacak?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "ピクニック", "reading": "ぴくにっく", "tr": "piknik", "en": "picnic" },
+      { "word": "おにぎり", "reading": "おにぎり", "tr": "pirinc toplari", "en": "rice balls" },
+      { "word": "おちゃ", "reading": "おちゃ", "tr": "cay", "en": "tea" },
+      { "word": "くだもの", "reading": "くだもの", "tr": "meyve", "en": "fruit" },
+      { "word": "りんご", "reading": "りんご", "tr": "elma", "en": "apple" },
+      { "word": "かいます", "reading": "かいます", "tr": "satin almak", "en": "to buy" }
+    ],
+    "grammar": [
+      { "point": "〜が あります", "tr": "~var (cansiiz nesneler icin)", "en": "there is ~ (for inanimate objects)" },
+      { "point": "〜は ありません", "tr": "~yok (olumsuz)", "en": "there is no ~ (negative)" },
+      { "point": "〜ましょう", "tr": "~yapalim (teklif)", "en": "let's ~ (suggestion)" }
+    ]
+  },
+  "logic": {
+    "tr": "Dogru cevap: Elma (Secenek 1). Diyalogda erkek piknige ne hazirlandi diye soruyor. Kadin onigiri ve cay oldugunu soyluyor. Erkek meyve var mi diye sorunca kadin meyve olmadigini belirtiyor ve elma almaya karar veriyorlar. Tuzaklar: Secenek 0 (onigiri) ve Secenek 2 (cay) zaten sahip olduklari seyler. Secenek 3 (onigiri + cay) her ikisini de gosteriyor ama bunlar almaya gerek olmayan seyler.",
+    "en": "Correct answer: Apples (Option 1). In the dialogue, the man asks what they have for the picnic. The woman says they have rice balls and tea. When the man asks about fruit, the woman says they don't have any and suggests buying apples. Traps: Option 0 (rice balls) and Option 2 (tea) are items they already have. Option 3 (rice balls + tea) shows both items they already own — none of these need to be purchased."
+  }
+}
