@@ -80,6 +80,63 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "sentences": {
+        "s1": {
+          "translation": "Geçen Pazar ailemle denize gittim.",
+          "mining_text": "### Gramer & Kalıplar\n- **と (to)**: ...ile (birliktelik bildiren edat).\n- **～へ 行きました (e ikimashita)**: ...'ya/ye gitti (yönelme ve eylem).\n\n### Kelimeler\n- 先週 (せんしゅう): geçen hafta\n- 日曜日 (にちようび): Pazar\n- 家族 (かぞく): aile\n- 海 (うみ): deniz"
+        },
+        "s2": {
+          "translation": "Hava çok güzeldi ve gökyüzü tertemizdi (güzeldi).",
+          "mining_text": "### Gramer & Kalıplar\n- **～くて (kute)**: Sıfatları bağlamak için kullanılan te-formu (yoi → yokute).\n- **～でした (deshita)**: ...idi (geçmiş zaman).\n\n### Kelimeler\n- 天気 (てんき): hava durumu\n- 空 (そら): gökyüzü\n- きれいな: güzel / temiz"
+        },
+        "s3": {
+          "translation": "Denizde çok insan vardı.",
+          "mining_text": "### Gramer & Kalıplar\n- **には (ni wa)**: ...'da/de (bulunma ve vurgu).\n- **たくさん (takusan)**: Çok / Bir hayli (zarf).\n\n### Kelimeler\n- 人 (ひと): kişi / insanlar"
+        },
+        "s4": {
+          "translation": "Erkek kardeşimle birlikte denizde yüzdük.",
+          "mining_text": "### Gramer & Kalıplar\n- **と いっしょに (to issho ni)**: ...ile birlikte.\n- **で (de)**: ...'da/de (eylemin yapıldığı yer).\n\n### Kelimeler\n- 弟 (おとうと): erkek kardeş\n- 泳ぐ (およぐ): yüzmek"
+        },
+        "s5": {
+          "translation": "Su biraz soğuktu ama çok iyi hissettirdi.",
+          "mining_text": "### Gramer & Kalıplar\n- **～かった (katta)**: Sıfatların geçmiş zamanı (tsumetai → tsumetakatta).\n- **～ですが (desu ga)**: ...ama / ...fakat (zıtlık).\n\n### Kelimeler\n- 水 (みず): su\n- 少し (すこし): biraz\n- つめたい: soğuk (nesne/su için)\n- 気持ちがいい (きもちがいい): iyi hissetmek / keyifli olmak"
+        },
+        "s6": {
+          "translation": "Öğle yemeğinde, denize bakarak bento (öğle yemeği kutusu) yedik.",
+          "mining_text": "### Gramer & Kalıplar\n- **～ながら (nagara)**: ...-arak / ...-erek (aynı anda yapılan eylem).\n\n### Kelimeler\n- お昼ごはん (おひるごはん): öğle yemeği\n- お弁当 (おべんとう): bento / yemek kutusu"
+        },
+        "s7": {
+          "translation": "Dönüşte istasyonun yakınındaki bir dükkandan dondurma aldım.",
+          "mining_text": "### Gramer & Kalıplar\n- **帰りに (kaeri ni)**: Dönüşte / Geri dönerken.\n- **の 近くの (no chikaku no)**: ...'nın yakınındaki.\n\n### Kelimeler\n- 駅 (えき): istasyon\n- 店 (みせ): dükkan / mağaza"
+        },
+        "s8": {
+          "translation": "Çok eğlenceli bir gündü.",
+          "mining_text": "### Gramer & Kalıplar\n- **楽しい (tanoshii)**: Eğlenceli.\n\n### Kelimeler\n- 一日 (いちにch): bir gün / gün boyunca"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Denizde ne yaptım?",
+          "options": {
+            "opt1": "Erkek kardeşimle yüzdüm.",
+            "opt2": "Dondurma yedim.",
+            "opt3": "Yalnız başıma bento yedim.",
+            "opt4": "Ailemle dondurma satın aldım."
+          }
+        },
+        "q2": {
+          "text": "Hangisi doğrudur?",
+          "options": {
+            "opt1": "Hava pek iyi değildi.",
+            "opt2": "Denizde hiç insan yoktu.",
+            "opt3": "İstasyon dükkanından bento aldım.",
+            "opt4": "Denize bakarak öğle yemeği yedim."
+          }
+        }
+      }
     }
   ]
 }

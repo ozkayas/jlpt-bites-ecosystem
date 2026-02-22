@@ -414,6 +414,38 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_short_011",
+      "sentences": {
+        "s1": {
+          "translation": "Je suis allé à la bibliothèque hier après-midi.",
+          "mining_text": "### Grammaire & Structures\n- **～へ 行きました (e ikimashita)**: Est allé à (direction/destination).\n\n### Vocabulaire\n- 図書館 (としょかん): bibliothèque\n- きのう: hier\n- ごご: après-midi"
+        },
+        "s2": {
+          "translation": "La bibliothèque était très calme.",
+          "mining_text": "### Grammaire & Structures\n- **とても (totemo)**: Très (adverbe d'intensité).\n- **～でした (deshita)**: Était (passé poli de desu).\n\n### Vocabulaire\n- しずかな: calme / tranquille"
+        },
+        "s3": {
+          "translation": "J'ai étudié là-bas pendant deux heures.",
+          "mining_text": "### Grammaire & Structures\n- **で (de)**: À / Dans (particule de lieu d'action).\n- **～時間 (jikan)**: Heures (compteur de durée).\n\n### Vocabulaire\n- 勉強 (べんきょう): étude"
+        },
+        "s4": {
+          "translation": "Ensuite, j'ai emprunté un livre intéressant.",
+          "mining_text": "### Grammaire & Structures\n- **それから (sorekara)**: Ensuite / Après cela.\n- **～さつ (satsu)**: Compteur pour les livres.\n\n### Vocabulaire\n- おもしろい: intéressant\n- 借りる (かりる): emprunter"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Qu'ai-je fait à la bibliothèque ?",
+          "options": {
+            "opt1": "J'ai acheté deux livres.",
+            "opt2": "J'ai étudié avec un ami.",
+            "opt3": "J'ai étudié et emprunté un livre.",
+            "opt4": "J'ai lu un livre calme."
+          }
+        }
+      }
     }
   ]
 }

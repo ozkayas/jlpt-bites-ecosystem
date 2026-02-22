@@ -168,6 +168,139 @@
           ]
         }
       ]
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "title": "海へ 行きました",
+      "visual_type": "none",
+      "type": "mid",
+      "question_count": 2,
+      "created_at": "2026-02-21T00:00:00Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "わたしは 先週の 日曜日、家族と 海へ 行きました。",
+          "furigana": "わたしは <ruby>先週<rt>せんしゅう</rt></ruby>の <ruby>日曜日<rt>にちようび</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>と <ruby>海<rt>うみ</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Watashi wa senshuu no nichiyoubi, kazoku to umi e ikimashita."
+        },
+        {
+          "id": "s2",
+          "original": "天気は とても よくて、空が きれいでした。",
+          "furigana": "<ruby>天気<rt>てんき</rt></ruby>は とても よくて、<ruby>空<rt>そら</rt></ruby>が きれいでした。",
+          "romaji": "Tenki wa totemo yokute, sora ga kireideshita."
+        },
+        {
+          "id": "s3",
+          "original": "海には 人が たくさん いました。",
+          "furigana": "<ruby>海<rt>うみ</rt></ruby>には <ruby>人<rt>ひと</rt></ruby>が たくさん いました。",
+          "romaji": "Umi ni wa hito ga takusan imashita."
+        },
+        {
+          "id": "s4",
+          "original": "弟と いっしょに 海で 泳ぎました。",
+          "furigana": "<ruby>弟<rt>おとうと</rt></ruby>と いっしょに <ruby>海<rt>うみ</rt></ruby>で <ruby>泳<rt>およ</rt></ruby>ぎました。",
+          "romaji": "Otouto to issho ni umi de oyogimashita."
+        },
+        {
+          "id": "s5",
+          "original": "水は 少し つめたかったですが、とても 気持ちが よかったです。",
+          "furigana": "<ruby>水<rt>みず</rt></ruby>は <ruby>少<rt>すこ</rt></ruby>し つめたかったですが、とても <ruby>気持<rt>きも</rt></ruby>ちが よかったです。",
+          "romaji": "Mizu wa sukoshi tsumetakattadesu ga, totemo kimochi ga yokattadesu."
+        },
+        {
+          "id": "s6",
+          "original": "お昼ごはんは、海を 見ながら お弁当を 食べました。",
+          "furigana": "お<ruby>昼<rt>ひる</rt></ruby>ごはんは、<ruby>海<rt>うみ</rt></ruby>を <ruby>見<rt>み</rt></ruby>ながら お<ruby>弁当<rt>べんとう</rt></ruby>を <ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Ohirugohan wa, umi o minagara obentou o tabemashita."
+        },
+        {
+          "id": "s7",
+          "original": "帰りに 駅の 近くの 店で アイスクリームを 買いました。",
+          "furigana": "<ruby>帰<rt>かえ</rt></ruby>りに <ruby>駅<rt>えき</rt></ruby>の <ruby>近<rt>ちか</rt></ruby>くの <ruby>店<rt>みせ</rt></ruby>で アイスクリームを <ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Kaeri ni eki no chikaku no mise de aisukuriimu o kaimashita."
+        },
+        {
+          "id": "s8",
+          "original": "とても 楽しい 一日でした。",
+          "furigana": "とても <ruby>楽<rt>たの</rt></ruby>しい <ruby>一日<rt>いちにち</rt></ruby>でした。",
+          "romaji": "Totemo tanoshii ichinichideshita."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "海で 何を しましたか。",
+          "furigana": "<ruby>海<rt>うみ</rt></ruby>で <ruby>何<rt>なに</rt></ruby>を しましたか。",
+          "romaji": "Umi de nani o shimashita ka.",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "弟と 泳ぎました。",
+              "furigana": "<ruby>弟<rt>おとうと</rt></ruby>と <ruby>泳<rt>およ</rt></ruby>ぎました。",
+              "is_correct": true,
+              "romaji": "Otouto to oyogimashita."
+            },
+            {
+              "id": "opt2",
+              "text": "アイスクリームを 食べました。",
+              "furigana": "アイスクリームを <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": false,
+              "romaji": "Aisukuriimu o tabemashita."
+            },
+            {
+              "id": "opt3",
+              "text": "一人で 弁当を 食べました。",
+              "furigana": "<ruby>一人<rt>ひとり</rt></ruby>で <ruby>弁当<rt>べんとう</rt></ruby>を <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": false,
+              "romaji": "Hitori de bentou o tabemashita."
+            },
+            {
+              "id": "opt4",
+              "text": "家族と アイスクリームを 買いました。",
+              "furigana": "<ruby>家族<rt>かぞく</rt></ruby>と アイスクリームを <ruby>買<rt>か</rt></ruby>いました。",
+              "is_correct": false,
+              "romaji": "Kazoku to aisukuriimu o kaimashita."
+            }
+          ]
+        },
+        {
+          "id": "q2",
+          "text": "正しい ものは どれですか。",
+          "furigana": "<ruby>正<rt>ただ</rt></ruby>しい ものは どれですか。",
+          "romaji": "Tadashii mono wa dore desu ka.",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "天気は あまり よくなかったです。",
+              "furigana": "<ruby>天気<rt>てんき</rt></ruby>は あまり よくなかったです。",
+              "is_correct": false,
+              "romaji": "Tenki wa amari yokunakattadesu."
+            },
+            {
+              "id": "opt2",
+              "text": "海に 人は いませんでした。",
+              "furigana": "<ruby>海<rt>うみ</rt></ruby>に <ruby>人<rt>ひと</rt></ruby>は いませんでした。",
+              "is_correct": false,
+              "romaji": "Umi ni hito wa imasendeshita."
+            },
+            {
+              "id": "opt3",
+              "text": "駅の 店で 弁当を 買いました。",
+              "furigana": "<ruby>駅<rt>えき</rt></ruby>の <ruby>店<rt>みせ</rt></ruby>で <ruby>弁当<rt>べんとう</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。",
+              "is_correct": false,
+              "romaji": "Eki no mise de bentou o kaimashita."
+            },
+            {
+              "id": "opt4",
+              "text": "海を 見ながら お昼ごはんを 食べました。",
+              "furigana": "<ruby>海<rt>うみ</rt></ruby>を <ruby>見<rt>み</rt></ruby>ながら お<ruby>昼<rt>ひる</rt></ruby>ごはんを <ruby>食<rt>た</rt></ruby>べました。",
+              "is_correct": true,
+              "romaji": "Umi o minagara ohirugohan o tabemashita."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -414,6 +414,38 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_short_011",
+      "sentences": {
+        "s1": {
+          "translation": "Dün öğleden sonra kütüphaneye gittim.",
+          "mining_text": "### Gramer & Kalıplar\n- **～へ 行きました (e ikimashita)**: ...'ya/ye gitti (yönelme ve eylem).\n\n### Kelimeler\n- 図書館 (としょかん): kütüphane\n- きのう: dün\n- ごご: öğleden sonra"
+        },
+        "s2": {
+          "translation": "Kütüphane çok sessizdi.",
+          "mining_text": "### Gramer & Kalıplar\n- **とても (totemo)**: Çok (zarf).\n- **～でした (deshita)**: ...idi (geçmiş zaman).\n\n### Kelimeler\n- しずかな: sessiz"
+        },
+        "s3": {
+          "translation": "Orada iki saat ders çalıştım.",
+          "mining_text": "### Gramer & Kalıplar\n- **で (de)**: ...'da/de (eylemin gerçekleştiği yer eki).\n- **～時間 (jikan)**: Saat (süre belirten sayaç).\n\n### Kelimeler\n- 勉強 (べんきょう): ders çalışma"
+        },
+        "s4": {
+          "translation": "Ondan sonra bir tane ilginç kitap ödünç aldım.",
+          "mining_text": "### Gramer & Kalıplar\n- **それから (sorekara)**: Ondan sonra / Daha sonra.\n- **～さつ (satsu)**: Kitaplar için kullanılan sayaç.\n\n### Kelimeler\n- おもしろい: ilginç\n- 借りる (かりる): ödünç almak"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Kütüphanede ne yaptım?",
+          "options": {
+            "opt1": "İki tane kitap satın aldım.",
+            "opt2": "Bir arkadaşımla ders çalıştım.",
+            "opt3": "Ders çalışıp kitap ödünç aldım.",
+            "opt4": "Sessiz bir kitap okudum."
+          }
+        }
+      }
     }
   ]
 }

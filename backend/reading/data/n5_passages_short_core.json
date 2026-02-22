@@ -1031,6 +1031,79 @@
         }
       ],
       "type": "short"
+    },
+    {
+      "id": "n5_reading_short_011",
+      "title": "図書館で 勉強します",
+      "visual_type": "none",
+      "type": "short",
+      "question_count": 1,
+      "created_at": "2026-02-21T00:00:00Z",
+      "sentences": [
+        {
+          "id": "s1",
+          "original": "わたしは きのうの ごご、図書館へ 行きました。",
+          "furigana": "わたしは きのうの ごご、<ruby>図書館<rt>としょかん</rt></ruby>へ <ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Watashi wa kinou no gogo, toshokan e ikimashita."
+        },
+        {
+          "id": "s2",
+          "original": "図書館は とても しずかでした。",
+          "furigana": "<ruby>図書館<rt>としょかん</rt></ruby>は とても しずかでした。",
+          "romaji": "Toshokan wa totemo shizukadeshita."
+        },
+        {
+          "id": "s3",
+          "original": "わたしは そこで ２時間 勉強しました。",
+          "furigana": "わたしは そこで <ruby>２時間<rt>にじかん</rt></ruby> <ruby>勉強<rt>べんきょう</rt></ruby>しました。",
+          "romaji": "Watashi wa soko de nijikan benkyou shimashita."
+        },
+        {
+          "id": "s4",
+          "original": "それから、おもしろい 本を １さつ かりました。",
+          "furigana": "それから、おもしろい <ruby>本<rt>ほん</rt></ruby>を <ruby>１さつ<rt>いっさつ</rt></ruby> かりました。",
+          "romaji": "Sorekara, omoshiroi hon o issatsu karimashita."
+        }
+      ],
+      "framed_sentences": [],
+      "questions": [
+        {
+          "id": "q1",
+          "text": "わたしは 図書館で 何を しましたか。",
+          "furigana": "わたしは <ruby>図書館<rt>としょかん</rt></ruby>で <ruby>何<rt>なに</rt></ruby>を しましたか。",
+          "romaji": "Watashi wa toshokan de nani o shimashita ka.",
+          "options": [
+            {
+              "id": "opt1",
+              "text": "本を ２さつ かいました。",
+              "furigana": "<ruby>本<rt>ほん</rt></ruby>を <ruby>２さつ<rt>にさつ</rt></ruby> かいました。",
+              "is_correct": false,
+              "romaji": "Hon o nisatsu kaimashita."
+            },
+            {
+              "id": "opt2",
+              "text": "友達と 勉強しました。",
+              "furigana": "<ruby>友達<rt>ともだち</rt></ruby>と <ruby>勉強<rt>べんきょう</rt></ruby>しました。",
+              "is_correct": false,
+              "romaji": "Tomodachi to benkyou shimashita."
+            },
+            {
+              "id": "opt3",
+              "text": "勉強を して、本を かりました。",
+              "furigana": "<ruby>勉強<rt>べんきょう</rt></ruby>を して、<ruby>本<rt>ほん</rt></ruby>を かりました。",
+              "is_correct": true,
+              "romaji": "Benkyou o shite, hon o karimashita."
+            },
+            {
+              "id": "opt4",
+              "text": "静かな 本を 読みました。",
+              "furigana": "<ruby>静<rt>しず</rt></ruby>かな <ruby>本<rt>ほん</rt></ruby>を <ruby>読<rt>よ</rt></ruby>みました。",
+              "is_correct": false,
+              "romaji": "Shizukana hon o yomimashita."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

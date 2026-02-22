@@ -80,6 +80,63 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "sentences": {
+        "s1": {
+          "translation": "Last Sunday, I went to the sea with my family.",
+          "mining_text": "### Grammar & Chunks\n- **と (to)**: With (particle used to indicate a person you do an action with).\n- **～へ 行きました (e ikimashita)**: Went to (direction/destination).\n\n### Vocabulary\n- 先週 (せんしゅう): last week\n- 日曜日 (にちようび): Sunday\n- 家族 (かぞく): family\n- 海 (うみ): sea / ocean"
+        },
+        "s2": {
+          "translation": "The weather was very good, and the sky was beautiful.",
+          "mining_text": "### Grammar & Chunks\n- **～くて (kute)**: Te-form of i-adjective (yoi → yokute), used to connect sentences or reasons.\n- **～でした (deshita)**: Was (polite past tense).\n\n### Vocabulary\n- 天気 (てんき): weather\n- 空 (そら): sky\n- きれいな: beautiful / clean"
+        },
+        "s3": {
+          "translation": "There were many people at the sea.",
+          "mining_text": "### Grammar & Chunks\n- **には (ni wa)**: Indicates the location of existence (with emphasis).\n- **たくさん (takusan)**: Many / A lot (adverb).\n\n### Vocabulary\n- 人 (ひと): person / people"
+        },
+        "s4": {
+          "translation": "I swam in the sea together with my younger brother.",
+          "mining_text": "### Grammar & Chunks\n- **と いっしょに (to issho ni)**: Together with.\n- **で (de)**: At/In (location of action).\n\n### Vocabulary\n- 弟 (おとうto): younger brother\n- 泳ぐ (およぐ): to swim"
+        },
+        "s5": {
+          "translation": "The water was a little cold, but it felt very good.",
+          "mining_text": "### Grammar & Chunks\n- **～かった (katta)**: Past tense of i-adjectives (tsumetai → tsumetakatta).\n- **～ですが (desu ga)**: ..., but (used for contrast).\n\n### Vocabulary\n- 水 (みず): water\n- 少し (すこし): a little\n- つめたい: cold (to the touch)\n- 気持ちがいい (きもちがいい): to feel good"
+        },
+        "s6": {
+          "translation": "For lunch, I ate a boxed lunch while looking at the sea.",
+          "mining_text": "### Grammar & Chunks\n- **～ながら (nagara)**: While doing (secondary action).\n\n### Vocabulary\n- お昼ごはん (おひるごはん): lunch\n- お弁当 (おべんとう): boxed lunch / bento"
+        },
+        "s7": {
+          "translation": "On the way back, I bought ice cream at a shop near the station.",
+          "mining_text": "### Grammar & Chunks\n- **帰りに (kaeri ni)**: On the way back.\n- **の 近くの (no chikaku no)**: Near / In the vicinity of.\n\n### Vocabulary\n- 駅 (えき): station\n- 店 (みせ): shop / store"
+        },
+        "s8": {
+          "translation": "It was a very fun day.",
+          "mining_text": "### Grammar & Chunks\n- **楽しい (tanoshii)**: Fun (i-adjective).\n\n### Vocabulary\n- 一日 (いちにち): one day / throughout the day"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "What did you do at the sea?",
+          "options": {
+            "opt1": "Swam with my younger brother.",
+            "opt2": "Ate ice cream.",
+            "opt3": "Ate lunch alone.",
+            "opt4": "Bought ice cream with my family."
+          }
+        },
+        "q2": {
+          "text": "Which one is correct?",
+          "options": {
+            "opt1": "The weather was not very good.",
+            "opt2": "There were no people at the sea.",
+            "opt3": "I bought lunch at a shop at the station.",
+            "opt4": "I ate lunch while looking at the sea."
+          }
+        }
+      }
     }
   ]
 }

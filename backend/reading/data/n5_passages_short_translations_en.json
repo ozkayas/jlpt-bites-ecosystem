@@ -414,6 +414,38 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_short_011",
+      "sentences": {
+        "s1": {
+          "translation": "I went to the library yesterday afternoon.",
+          "mining_text": "### Grammar & Chunks\n- **～へ 行きました (e ikimashita)**: Went to (direction/destination).\n\n### Vocabulary\n- 図書館 (としょかん): library\n- きのう: yesterday\n- ごご: afternoon"
+        },
+        "s2": {
+          "translation": "The library was very quiet.",
+          "mining_text": "### Grammar & Chunks\n- **とても (totemo)**: Very (adverb used for emphasis).\n- **～でした (deshita)**: Was (polite past tense of desu).\n\n### Vocabulary\n- しずかな: quiet"
+        },
+        "s3": {
+          "translation": "I studied there for two hours.",
+          "mining_text": "### Grammar & Chunks\n- **で (de)**: At (particle indicating location of action).\n- **～時間 (jikan)**: Duration counter for hours.\n\n### Vocabulary\n- 勉強 (べんきょう): study"
+        },
+        "s4": {
+          "translation": "After that, I borrowed one interesting book.",
+          "mining_text": "### Grammar & Chunks\n- **それから (sorekara)**: After that / And then.\n- **～さつ (satsu)**: Counter for books/magazines.\n\n### Vocabulary\n- おもしろい: interesting\n- 借りる (かりる): to borrow"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "What did I do at the library?",
+          "options": {
+            "opt1": "I bought two books.",
+            "opt2": "I studied with a friend.",
+            "opt3": "I studied and borrowed a book.",
+            "opt4": "I read a quiet book."
+          }
+        }
+      }
     }
   ]
 }

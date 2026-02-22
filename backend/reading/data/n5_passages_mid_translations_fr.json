@@ -80,6 +80,63 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "sentences": {
+        "s1": {
+          "translation": "Dimanche dernier, je suis allé à la mer avec ma famille.",
+          "mining_text": "### Grammaire & Structures\n- **と (to)**: Avec (particule d'accompagnement).\n- **～へ 行きました (e ikimashita)**: Est allé à (direction).\n\n### Vocabulaire\n- 先週 (せんしゅう): la semaine dernière\n- 日曜日 (にちようび): dimanche\n- 家族 (かぞく): famille\n- 海 (うみ): mer / océan"
+        },
+        "s2": {
+          "translation": "Le temps était très beau, et le ciel était magnifique.",
+          "mining_text": "### Grammaire & Structures\n- **～くて (kute)**: Forme en te des adjectifs en i pour lier des phrases.\n- **～でした (deshita)**: Était (passé poli).\n\n### Vocabulaire\n- 天気 (てんき): temps / météo\n- 空 (そら): ciel\n- きれいな: beau / propre"
+        },
+        "s3": {
+          "translation": "Il y avait beaucoup de monde à la mer.",
+          "mining_text": "### Grammaire & Structures\n- **には (ni wa)**: À / Dans (lieu d'existence).\n- **たくさん (takusan)**: Beaucoup / De nombreux.\n\n### Vocabulaire\n- 人 (ひと): personne / gens"
+        },
+        "s4": {
+          "translation": "J'ai nagé dans la mer avec mon petit frère.",
+          "mining_text": "### Grammaire & Structures\n- **と いっしょに (to issho ni)**: Ensemble avec.\n- **で (de)**: À / Dans (lieu de l'action).\n\n### Vocabulaire\n- 弟 (おとうと): petit frère\n- 泳ぐ (およぐ): nager"
+        },
+        "s5": {
+          "translation": "L'eau était un peu froide, mais c'était très agréable.",
+          "mining_text": "### Grammaire & Structures\n- **～かった (katta)**: Passé des adjectifs en i.\n- **～ですが (desu ga)**: ..., mais (opposition).\n\n### Vocabulaire\n- 水 (みず): eau\n- 少し (すこし): un peu\n- つめたい: froid (au toucher)\n- 気持ちがいい (きもちがいい): être agréable / se sentir bien"
+        },
+        "s6": {
+          "translation": "Pour le déjeuner, j'ai mangé un bento tout en regardant la mer.",
+          "mining_text": "### Grammaire & Structures\n- **～ながら (nagara)**: Tout en faisant (action simultanée).\n\n### Vocabulaire\n- お昼ごはん (おひるごはん): déjeuner\n- お弁当 (おべんとう): bento / panier-repas"
+        },
+        "s7": {
+          "translation": "Sur le chemin du retour, j'ai acheté une glace dans un magasin près de la gare.",
+          "mining_text": "### Grammaire & Structures\n- **帰りに (kaeri ni)**: Sur le chemin du retour.\n- **の 近くの (no chikaku no)**: Près de / À proximité de.\n\n### Vocabulaire\n- 駅 (えき): gare\n- 店 (みせ): magasin / boutique"
+        },
+        "s8": {
+          "translation": "C'était une journée très amusante.",
+          "mining_text": "### Grammaire & Structures\n- **楽しい (tanoshii)**: Amusant / Plaisant.\n\n### Vocabulaire\n- 一日 (いちにち): une journée / toute la journée"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Qu'as-tu fait à la mer ?",
+          "options": {
+            "opt1": "J'ai nagé avec mon frère.",
+            "opt2": "J'ai mangé une glace.",
+            "opt3": "J'ai mangé un bento seul.",
+            "opt4": "J'ai acheté une glace avec ma famille."
+          }
+        },
+        "q2": {
+          "text": "Qu'est-ce qui est correct ?",
+          "options": {
+            "opt1": "Le temps n'était pas très beau.",
+            "opt2": "Il n'y avait personne à la mer.",
+            "opt3": "J'ai acheté un bento dans un magasin à la gare.",
+            "opt4": "J'ai mangé mon déjeuner en regardant la mer."
+          }
+        }
+      }
     }
   ]
 }

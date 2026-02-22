@@ -80,6 +80,63 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "sentences": {
+        "s1": {
+          "translation": "El domingo pasado fui al mar con mi familia.",
+          "mining_text": "### Gramática & Estructuras\n- **と (to)**: Con (partícula de compañía).\n- **～へ 行きました (e ikimashita)**: Fui a (dirección).\n\n### Vocabulario\n- 先週 (せんしゅう): la semana pasada\n- 日曜日 (にchiyoubi): domingo\n- 家族 (かぞく): familia\n- 海 (うみ): mar"
+        },
+        "s2": {
+          "translation": "Hizo muy buen tiempo y el cielo estaba hermoso.",
+          "mining_text": "### Gramática & Estructuras\n- **～くて (kute)**: Forma te de los adjetivos tipo i para conectar frases.\n- **～でした (deshita)**: Era / Estaba (pasado cortés).\n\n### Vocabulario\n- 天気 (てんき): tiempo / clima\n- 空 (そら): cielo\n- きれいな: hermoso / limpio"
+        },
+        "s3": {
+          "translation": "Había mucha gente en el mar.",
+          "mining_text": "### Gramática & Estructuras\n- **には (ni wa)**: En (lugar de existencia).\n- **たくさん (takusan)**: Mucho / Mucha gente.\n\n### Vocabulario\n- 人 (ひと): persona / gente"
+        },
+        "s4": {
+          "translation": "Nadé en el mar junto con mi hermano menor.",
+          "mining_text": "### Gramática & Estructuras\n- **と いっしょに (to issho ni)**: Junto con.\n- **で (de)**: En (lugar de la acción).\n\n### Vocabulario\n- 弟 (おとうと): hermano menor\n- 泳ぐ (およぐ): nadar"
+        },
+        "s5": {
+          "translation": "El agua estaba un poco fría, pero se sentía muy bien.",
+          "mining_text": "### Gramática & Estructuras\n- **～かった (katta)**: Pasado de los adjetivos tipo i.\n- **～ですが (desu ga)**: ..., pero (contraste).\n\n### Vocabulario\n- 水 (みず): agua\n- 少し (すこし): un poco\n- つめたい: frío (al tacto)\n- 気持ちがいい (きもちがいい): sentirse bien"
+        },
+        "s6": {
+          "translation": "Para el almuerzo, comí un bento mientras miraba el mar.",
+          "mining_text": "### Gramática & Estructuras\n- **～ながら (nagara)**: Mientras (acción simultánea).\n\n### Vocabulario\n- お昼ごはん (おひるごはん): almuerzo\n- お弁当 (おべんとう): bento / fiambrera"
+        },
+        "s7": {
+          "translation": "Al regresar, compré helado en una tienda cerca de la estación.",
+          "mining_text": "### Gramática & Estructuras\n- **帰りに (kaeri ni)**: Al regresar / De vuelta.\n- **の 近くの (no chikaku no)**: Cerca de.\n\n### Vocabulario\n- 駅 (えき): estación\n- 店 (みせ): tienda"
+        },
+        "s8": {
+          "translation": "Fue un día muy divertido.",
+          "mining_text": "### Gramática & Estructuras\n- **楽しい (tanoshii)**: Divertido.\n\n### Vocabulario\n- 一日 (いちにち): un día / todo el día"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Qué hiciste en el mar?",
+          "options": {
+            "opt1": "Nadé con mi hermano.",
+            "opt2": "Comí helado.",
+            "opt3": "Comí un bento solo.",
+            "opt4": "Compré helado con mi familia."
+          }
+        },
+        "q2": {
+          "text": "¿Cuál es correcto?",
+          "options": {
+            "opt1": "No hizo muy buen tiempo.",
+            "opt2": "No había gente en el mar.",
+            "opt3": "Compré un bento en una tienda en la estación.",
+            "opt4": "Almorcé mientras miraba el mar."
+          }
+        }
+      }
     }
   ]
 }

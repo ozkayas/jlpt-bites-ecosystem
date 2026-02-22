@@ -414,6 +414,38 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_short_011",
+      "sentences": {
+        "s1": {
+          "translation": "Ayer por la tarde fui a la biblioteca.",
+          "mining_text": "### Gramática & Estructuras\n- **～へ 行きました (e ikimashita)**: Fui a (dirección/destino).\n\n### Vocabulario\n- 図書館 (としょかん): biblioteca\n- きのう: ayer\n- ごご: tarde"
+        },
+        "s2": {
+          "translation": "La biblioteca estaba muy tranquila.",
+          "mining_text": "### Gramática & Estructuras\n- **とても (totemo)**: Muy (adverbio de intensidad).\n- **～でした (deshita)**: Era / Estaba (pasado cortés de desu).\n\n### Vocabulario\n- しずかな: tranquilo / silencioso"
+        },
+        "s3": {
+          "translation": "Estudié allí durante dos horas.",
+          "mining_text": "### Gramática & Estructuras\n- **で (de)**: En (partícula que indica lugar de acción).\n- **～時間 (jikan)**: Horas (contador de duración).\n\n### Vocabulario\n- 勉強 (べんきょう): estudio"
+        },
+        "s4": {
+          "translation": "Después de eso, tomé prestado un libro interesante.",
+          "mining_text": "### Gramática & Estructuras\n- **それから (sorekara)**: Después de eso / Luego.\n- **～さつ (satsu)**: Contador para libros.\n\n### Vocabulario\n- おもしろい: interesante\n- 借りる (かりる): tomar prestado"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "¿Qué hice en la biblioteca?",
+          "options": {
+            "opt1": "Compré dos libros.",
+            "opt2": "Estudié con un amigo.",
+            "opt3": "Estudié y tomé prestado un libro.",
+            "opt4": "Leí un libro tranquilo."
+          }
+        }
+      }
     }
   ]
 }

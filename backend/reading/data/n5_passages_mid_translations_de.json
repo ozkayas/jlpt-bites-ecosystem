@@ -80,6 +80,63 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_mid_002",
+      "sentences": {
+        "s1": {
+          "translation": "Letzten Sonntag bin ich mit meiner Familie ans Meer gegangen.",
+          "mining_text": "### Grammatik & Strukturen\n- **と (to)**: Mit (Begleitpartikel).\n- **～へ 行きました (e ikimashita)**: Ging nach (Richtung).\n\n### Vokabular\n- 先週 (せんしゅう): letzte Woche\n- 日曜日 (にちようび): Sonntag\n- 家族 (かぞく): Familie\n- 海 (うみ): Meer / Ozean"
+        },
+        "s2": {
+          "translation": "Das Wetter war sehr gut und der Himmel war wunderschön.",
+          "mining_text": "### Grammatik & Strukturen\n- **～くて (kute)**: Te-Form von Adjektiven zur Verbindung.\n- **～でした (deshita)**: War (Vergangenheit).\n\n### Vokabular\n- 天気 (てんき): Wetter\n- 空 (そら): Himmel\n- きれいな: schön / sauber"
+        },
+        "s3": {
+          "translation": "Am Meer waren viele Menschen.",
+          "mining_text": "### Grammatik & Strukturen\n- **には (ni wa)**: An / In (Ort der Existenz).\n- **たくさん (takusan)**: Viele / Viel.\n\n### Vokabular\n- 人 (ひと): Mensch / Leute"
+        },
+        "s4": {
+          "translation": "Ich bin zusammen mit meinem jüngeren Bruder im Meer geschwommen.",
+          "mining_text": "### Grammatik & Strukturen\n- **と いっしょに (to issho ni)**: Zusammen mit.\n- **で (de)**: In / An (Ort der Handlung).\n\n### Vokabular\n- 弟 (おとうと): jüngerer Bruder\n- 泳ぐ (およぐ): schwimmen"
+        },
+        "s5": {
+          "translation": "Das Wasser war ein bisschen kalt, aber es fühlte sich sehr gut ein.",
+          "mining_text": "### Grammatik & Strukturen\n- **～かった (katta)**: Vergangenheit von i-Adjektiven.\n- **～ですが (desu ga)**: ..., aber (Gegensatz).\n\n### Vokabular\n- 水 (みず): Wasser\n- 少し (すこし): ein bisschen\n- つめたい: kalt (Berührung)\n- 気持ちがいい (きもちがいい): sich gut fühlen"
+        },
+        "s6": {
+          "translation": "Zum Mittagessen habe ich ein Bento gegessen, während ich auf das Meer blickte.",
+          "mining_text": "### Grammatik & Strukturen\n- **～ながら (nagara)**: Während / Gleichzeitig.\n\n### Vokabular\n- お昼ごはん (おひるごはん): Mittagessen\n- お弁当 (おべんとう): Bento / Lunchbox"
+        },
+        "s7": {
+          "translation": "Auf dem Rückweg habe ich in einem Laden in der Nähe des Bahnhofs Eis gekauft.",
+          "mining_text": "### Grammatik & Strukturen\n- **帰りに (kaeri ni)**: Auf dem Rückweg.\n- **の 近くの (no chikaku no)**: In der Nähe von.\n\n### Vokabular\n- 駅 (えき): Bahnhof\n- 店 (みせ): Laden / Geschäft"
+        },
+        "s8": {
+          "translation": "Es war ein sehr schöner Tag.",
+          "mining_text": "### Grammatik & Strukturen\n- **楽しい (tanoshii)**: Schön / Lustig / Angenehm.\n\n### Vokabular\n- 一日 (いちにち): ein Tag / den ganzen Tag"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Was hast du am Meer gemacht?",
+          "options": {
+            "opt1": "Mit meinem Bruder geschwommen.",
+            "opt2": "Eis gegessen.",
+            "opt3": "Alleine Bento gegessen.",
+            "opt4": "Mit meiner Familie Eis gekauft."
+          }
+        },
+        "q2": {
+          "text": "Was ist richtig?",
+          "options": {
+            "opt1": "Das Wetter war nicht so gut.",
+            "opt2": "Es waren keine Menschen am Meer.",
+            "opt3": "Ich habe ein Bento im Laden am Bahnhof gekauft.",
+            "opt4": "Ich habe Mittagessen gegessen, während ich auf das Meer blickte."
+          }
+        }
+      }
     }
   ]
 }

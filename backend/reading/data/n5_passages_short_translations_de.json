@@ -414,6 +414,38 @@
           }
         }
       }
+    },
+    {
+      "id": "n5_reading_short_011",
+      "sentences": {
+        "s1": {
+          "translation": "Gestern Nachmittag bin ich in die Bibliothek gegangen.",
+          "mining_text": "### Grammatik & Strukturen\n- **～へ 行きました (e ikimashita)**: Ging nach (Richtung).\n\n### Vokabular\n- 図書館 (としょかん): Bibliothek\n- きのう: gestern\n- ごご: Nachmittag"
+        },
+        "s2": {
+          "translation": "Die Bibliothek war sehr ruhig.",
+          "mining_text": "### Grammatik & Strukturen\n- **とても (totemo)**: Sehr (Adverb).\n- **～でした (deshita)**: War (höfliche Vergangenheitsform).\n\n### Vokabular\n- しずかな: ruhig"
+        },
+        "s3": {
+          "translation": "Ich habe dort zwei Stunden lang gelernt.",
+          "mining_text": "### Grammatik & Strukturen\n- **で (de)**: In / Bei (Ort der Handlung).\n- **～時間 (jikan)**: Stunden (Zähler für Zeitdauer).\n\n### Vokabular\n- 勉強 (べんきょう): Lernen / Studium"
+        },
+        "s4": {
+          "translation": "Danach habe ich ein interessantes Buch ausgeliehen.",
+          "mining_text": "### Grammatik & Strukturen\n- **それから (sorekara)**: Danach / Dann.\n- **～さつ (satsu)**: Zähler für Bücher.\n\n### Vokabular\n- おもしろい: interessant\n- 借りる (かりる): ausleihen"
+        }
+      },
+      "questions": {
+        "q1": {
+          "text": "Was habe ich in der Bibliothek gemacht?",
+          "options": {
+            "opt1": "Ich habe zwei Bücher gekauft.",
+            "opt2": "Ich habe mit einem Freund gelernt.",
+            "opt3": "Ich habe gelernt und ein Buch ausgeliehen.",
+            "opt4": "Ich habe ein ruhiges Buch gelesen."
+          }
+        }
+      }
     }
   ]
 }
