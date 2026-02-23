@@ -1,0 +1,1249 @@
+{
+    "level": "N5",
+    "total": 113,
+    "data": [
+        {
+            "id": 1,
+            "kanji": "日",
+            "meaning": {
+                "tr": "gün, güneş",
+                "en": "day, sun",
+                "de": "Tag, Sonne",
+                "es": "día, sol",
+                "fr": "jour, soleil"
+            }
+        },
+        {
+            "id": 2,
+            "kanji": "一",
+            "meaning": {
+                "tr": "bir",
+                "en": "one",
+                "de": "eins",
+                "es": "uno",
+                "fr": "un"
+            }
+        },
+        {
+            "id": 3,
+            "kanji": "国",
+            "meaning": {
+                "tr": "ülke",
+                "en": "country",
+                "de": "Land",
+                "es": "país",
+                "fr": "pays"
+            }
+        },
+        {
+            "id": 4,
+            "kanji": "人",
+            "meaning": {
+                "tr": "kişi, insan",
+                "en": "person, human",
+                "de": "Person, Mensch",
+                "es": "persona, humano",
+                "fr": "personne, humain"
+            }
+        },
+        {
+            "id": 5,
+            "kanji": "年",
+            "meaning": {
+                "tr": "yıl",
+                "en": "year",
+                "de": "Jahr",
+                "es": "año",
+                "fr": "année"
+            }
+        },
+        {
+            "id": 6,
+            "kanji": "大",
+            "meaning": {
+                "tr": "büyük",
+                "en": "big, large",
+                "de": "groß",
+                "es": "grande",
+                "fr": "grand"
+            }
+        },
+        {
+            "id": 7,
+            "kanji": "十",
+            "meaning": {
+                "tr": "on",
+                "en": "ten",
+                "de": "zehn",
+                "es": "diez",
+                "fr": "dix"
+            }
+        },
+        {
+            "id": 8,
+            "kanji": "二",
+            "meaning": {
+                "tr": "iki",
+                "en": "two",
+                "de": "zwei",
+                "es": "dos",
+                "fr": "deux"
+            }
+        },
+        {
+            "id": 9,
+            "kanji": "本",
+            "meaning": {
+                "tr": "kitap, asıl",
+                "en": "book, origin",
+                "de": "Buch, Ursprung",
+                "es": "libro, origen",
+                "fr": "livre, origine"
+            }
+        },
+        {
+            "id": 10,
+            "kanji": "中",
+            "meaning": {
+                "tr": "iç, orta",
+                "en": "inside, middle",
+                "de": "innen, Mitte",
+                "es": "dentro, medio",
+                "fr": "intérieur, milieu"
+            }
+        },
+        {
+            "id": 11,
+            "kanji": "長",
+            "meaning": {
+                "tr": "uzun, lider",
+                "en": "long, leader",
+                "de": "lang, Leiter",
+                "es": "largo, líder",
+                "fr": "long, chef"
+            }
+        },
+        {
+            "id": 12,
+            "kanji": "出",
+            "meaning": {
+                "tr": "çıkış, ayrılmak",
+                "en": "exit, leave",
+                "de": "Ausgang, verlassen",
+                "es": "salir, salida",
+                "fr": "sortir, quitter"
+            }
+        },
+        {
+            "id": 13,
+            "kanji": "三",
+            "meaning": {
+                "tr": "üç",
+                "en": "three",
+                "de": "drei",
+                "es": "tres",
+                "fr": "trois"
+            }
+        },
+        {
+            "id": 14,
+            "kanji": "時",
+            "meaning": {
+                "tr": "zaman, saat",
+                "en": "time, hour",
+                "de": "Zeit, Stunde",
+                "es": "tiempo, hora",
+                "fr": "temps, heure"
+            }
+        },
+        {
+            "id": 15,
+            "kanji": "行",
+            "meaning": {
+                "tr": "gitmek, yolculuk",
+                "en": "go, journey",
+                "de": "gehen, Reise",
+                "es": "ir, viaje",
+                "fr": "aller, voyage"
+            }
+        },
+        {
+            "id": 16,
+            "kanji": "見",
+            "meaning": {
+                "tr": "görmek, bakmak",
+                "en": "see, look at",
+                "de": "sehen, schauen",
+                "es": "ver, mirar",
+                "fr": "voir, regarder"
+            }
+        },
+        {
+            "id": 17,
+            "kanji": "月",
+            "meaning": {
+                "tr": "ay, ay ışığı",
+                "en": "month, moon",
+                "de": "Monat, Mond",
+                "es": "mes, luna",
+                "fr": "mois, lune"
+            }
+        },
+        {
+            "id": 18,
+            "kanji": "分",
+            "meaning": {
+                "tr": "dakika, parça",
+                "en": "minute, part",
+                "de": "Minute, Teil",
+                "es": "minuto, parte",
+                "fr": "minute, partie"
+            }
+        },
+        {
+            "id": 19,
+            "kanji": "後",
+            "meaning": {
+                "tr": "sonra, arka",
+                "en": "after, behind",
+                "de": "nach, hinten",
+                "es": "después, detrás",
+                "fr": "après, derrière"
+            }
+        },
+        {
+            "id": 20,
+            "kanji": "前",
+            "meaning": {
+                "tr": "ön, önce",
+                "en": "front, before",
+                "de": "vor, vorne",
+                "es": "delante, antes",
+                "fr": "devant, avant"
+            }
+        },
+        {
+            "id": 21,
+            "kanji": "生",
+            "meaning": {
+                "tr": "hayat, doğum",
+                "en": "life, birth",
+                "de": "Leben, Geburt",
+                "es": "vida, nacimiento",
+                "fr": "vie, naissance"
+            }
+        },
+        {
+            "id": 22,
+            "kanji": "五",
+            "meaning": {
+                "tr": "beş",
+                "en": "five",
+                "de": "fünf",
+                "es": "cinco",
+                "fr": "cinq"
+            }
+        },
+        {
+            "id": 23,
+            "kanji": "間",
+            "meaning": {
+                "tr": "ara, boşluk",
+                "en": "interval, space",
+                "de": "Intervall, Raum",
+                "es": "intervalo, espacio",
+                "fr": "intervalle, espace"
+            }
+        },
+        {
+            "id": 24,
+            "kanji": "上",
+            "meaning": {
+                "tr": "üst, yukarı",
+                "en": "above, up",
+                "de": "oben, auf",
+                "es": "arriba, encima",
+                "fr": "dessus, haut"
+            }
+        },
+        {
+            "id": 25,
+            "kanji": "東",
+            "meaning": {
+                "tr": "doğu",
+                "en": "east",
+                "de": "Osten",
+                "es": "este",
+                "fr": "est"
+            }
+        },
+        {
+            "id": 26,
+            "kanji": "四",
+            "meaning": {
+                "tr": "dört",
+                "en": "four",
+                "de": "vier",
+                "es": "cuatro",
+                "fr": "quatre"
+            }
+        },
+        {
+            "id": 27,
+            "kanji": "今",
+            "meaning": {
+                "tr": "şimdi, şu an",
+                "en": "now, present",
+                "de": "jetzt, heute",
+                "es": "ahora, presente",
+                "fr": "maintenant, présent"
+            }
+        },
+        {
+            "id": 28,
+            "kanji": "金",
+            "meaning": {
+                "tr": "altın, para",
+                "en": "gold, money",
+                "de": "Gold, Geld",
+                "es": "oro, dinero",
+                "fr": "or, argent"
+            }
+        },
+        {
+            "id": 29,
+            "kanji": "九",
+            "meaning": {
+                "tr": "dokuz",
+                "en": "nine",
+                "de": "neun",
+                "es": "nueve",
+                "fr": "neuf"
+            }
+        },
+        {
+            "id": 30,
+            "kanji": "入",
+            "meaning": {
+                "tr": "girmek, takmak",
+                "en": "enter, insert",
+                "de": "eintreten, einfügen",
+                "es": "entrar, insertar",
+                "fr": "entrer, insérer"
+            }
+        },
+        {
+            "id": 31,
+            "kanji": "学",
+            "meaning": {
+                "tr": "çalışma, bilim",
+                "en": "study, science",
+                "de": "studieren, Wissenschaft",
+                "es": "estudiar, ciencia",
+                "fr": "étudier, science"
+            }
+        },
+        {
+            "id": 32,
+            "kanji": "高",
+            "meaning": {
+                "tr": "yüksek, pahalı",
+                "en": "high, expensive",
+                "de": "hoch, teuer",
+                "es": "alto, caro",
+                "fr": "haut, cher"
+            }
+        },
+        {
+            "id": 33,
+            "kanji": "円",
+            "meaning": {
+                "tr": "yen, daire",
+                "en": "yen, circle",
+                "de": "Yen, Kreis",
+                "es": "yen, círculo",
+                "fr": "yen, cercle"
+            }
+        },
+        {
+            "id": 34,
+            "kanji": "子",
+            "meaning": {
+                "tr": "çocuk",
+                "en": "child",
+                "de": "Kind",
+                "es": "niño",
+                "fr": "enfant"
+            }
+        },
+        {
+            "id": 35,
+            "kanji": "外",
+            "meaning": {
+                "tr": "dışarı, dış",
+                "en": "outside, exterior",
+                "de": "außen, draußen",
+                "es": "fuera, exterior",
+                "fr": "dehors, extérieur"
+            }
+        },
+        {
+            "id": 36,
+            "kanji": "八",
+            "meaning": {
+                "tr": "sekiz",
+                "en": "eight",
+                "de": "acht",
+                "es": "ocho",
+                "fr": "huit"
+            }
+        },
+        {
+            "id": 37,
+            "kanji": "六",
+            "meaning": {
+                "tr": "altı",
+                "en": "six",
+                "de": "sechs",
+                "es": "seis",
+                "fr": "six"
+            }
+        },
+        {
+            "id": 38,
+            "kanji": "下",
+            "meaning": {
+                "tr": "alt, aşağı",
+                "en": "below, down",
+                "de": "unten, unterhalb",
+                "es": "debajo, bajo",
+                "fr": "bas, dessous"
+            }
+        },
+        {
+            "id": 39,
+            "kanji": "来",
+            "meaning": {
+                "tr": "gelmek, gelecek",
+                "en": "come, next",
+                "de": "kommen, nächste",
+                "es": "venir, próximo",
+                "fr": "venir, prochain"
+            }
+        },
+        {
+            "id": 40,
+            "kanji": "気",
+            "meaning": {
+                "tr": "ruh, hava",
+                "en": "spirit, air",
+                "de": "Geist, Luft",
+                "es": "espíritu, aire",
+                "fr": "esprit, air"
+            }
+        },
+        {
+            "id": 41,
+            "kanji": "小",
+            "meaning": {
+                "tr": "küçük, ufak",
+                "en": "small, little",
+                "de": "klein",
+                "es": "pequeño, poco",
+                "fr": "petit"
+            }
+        },
+        {
+            "id": 42,
+            "kanji": "七",
+            "meaning": {
+                "tr": "yedi",
+                "en": "seven",
+                "de": "sieben",
+                "es": "siete",
+                "fr": "sept"
+            }
+        },
+        {
+            "id": 43,
+            "kanji": "山",
+            "meaning": {
+                "tr": "dağ",
+                "en": "mountain",
+                "de": "Berg",
+                "es": "montaña",
+                "fr": "montagne"
+            }
+        },
+        {
+            "id": 44,
+            "kanji": "話",
+            "meaning": {
+                "tr": "konuşma, hikaye",
+                "en": "talk, story",
+                "de": "reden, Geschichte",
+                "es": "hablar, historia",
+                "fr": "parler, histoire"
+            }
+        },
+        {
+            "id": 45,
+            "kanji": "女",
+            "meaning": {
+                "tr": "kadın, dişi",
+                "en": "woman, female",
+                "de": "Frau, weiblich",
+                "es": "mujer, femenino",
+                "fr": "femme, femelle"
+            }
+        },
+        {
+            "id": 46,
+            "kanji": "北",
+            "meaning": {
+                "tr": "kuzey",
+                "en": "north",
+                "de": "Norden",
+                "es": "norte",
+                "fr": "nord"
+            }
+        },
+        {
+            "id": 47,
+            "kanji": "午",
+            "meaning": {
+                "tr": "öğle",
+                "en": "noon",
+                "de": "Mittag",
+                "es": "mediodía",
+                "fr": "midi"
+            }
+        },
+        {
+            "id": 48,
+            "kanji": "百",
+            "meaning": {
+                "tr": "yüz",
+                "en": "hundred",
+                "de": "hundert",
+                "es": "cien",
+                "fr": "cent"
+            }
+        },
+        {
+            "id": 49,
+            "kanji": "書",
+            "meaning": {
+                "tr": "yazmak",
+                "en": "write",
+                "de": "schreiben",
+                "es": "escribir",
+                "fr": "écrire"
+            }
+        },
+        {
+            "id": 50,
+            "kanji": "先",
+            "meaning": {
+                "tr": "önce, ön",
+                "en": "before, ahead",
+                "de": "früher, voraus",
+                "es": "antes, delante",
+                "fr": "avant, devant"
+            }
+        },
+        {
+            "id": 51,
+            "kanji": "名",
+            "meaning": {
+                "tr": "isim, ün",
+                "en": "name, reputation",
+                "de": "Name, Ruf",
+                "es": "nombre, fama",
+                "fr": "nom, réputation"
+            }
+        },
+        {
+            "id": 52,
+            "kanji": "川",
+            "meaning": {
+                "tr": "nehir, akarsu",
+                "en": "river, stream",
+                "de": "Fluss",
+                "es": "río",
+                "fr": "rivière"
+            }
+        },
+        {
+            "id": 53,
+            "kanji": "千",
+            "meaning": {
+                "tr": "bin",
+                "en": "thousand",
+                "de": "tausend",
+                "es": "mil",
+                "fr": "mille"
+            }
+        },
+        {
+            "id": 54,
+            "kanji": "水",
+            "meaning": {
+                "tr": "su",
+                "en": "water",
+                "de": "Wasser",
+                "es": "agua",
+                "fr": "eau"
+            }
+        },
+        {
+            "id": 55,
+            "kanji": "半",
+            "meaning": {
+                "tr": "yarım, buçuk",
+                "en": "half, semi",
+                "de": "halb",
+                "es": "mitad, medio",
+                "fr": "moitié"
+            }
+        },
+        {
+            "id": 56,
+            "kanji": "男",
+            "meaning": {
+                "tr": "erkek",
+                "en": "male, man",
+                "de": "Mann, männlich",
+                "es": "hombre, masculino",
+                "fr": "homme, mâle"
+            }
+        },
+        {
+            "id": 57,
+            "kanji": "西",
+            "meaning": {
+                "tr": "batı",
+                "en": "west",
+                "de": "Westen",
+                "es": "oeste",
+                "fr": "ouest"
+            }
+        },
+        {
+            "id": 58,
+            "kanji": "電",
+            "meaning": {
+                "tr": "elektrik",
+                "en": "electricity",
+                "de": "Elektrizität",
+                "es": "electricidad",
+                "fr": "électricité"
+            }
+        },
+        {
+            "id": 59,
+            "kanji": "校",
+            "meaning": {
+                "tr": "okul, sınav",
+                "en": "school, exam",
+                "de": "Schule, Prüfung",
+                "es": "escuela, examen",
+                "fr": "école, examen"
+            }
+        },
+        {
+            "id": 60,
+            "kanji": "語",
+            "meaning": {
+                "tr": "dil, kelime",
+                "en": "language, word",
+                "de": "Sprache, Wort",
+                "es": "idioma, palabra",
+                "fr": "langue, mot"
+            }
+        },
+        {
+            "id": 61,
+            "kanji": "土",
+            "meaning": {
+                "tr": "toprak, yer",
+                "en": "soil, ground",
+                "de": "Erde, Boden",
+                "es": "tierra, suelo",
+                "fr": "sol, terre"
+            }
+        },
+        {
+            "id": 62,
+            "kanji": "木",
+            "meaning": {
+                "tr": "ağaç, odun",
+                "en": "tree, wood",
+                "de": "Baum, Holz",
+                "es": "árbol, madera",
+                "fr": "arbre, bois"
+            }
+        },
+        {
+            "id": 63,
+            "kanji": "聞",
+            "meaning": {
+                "tr": "duymak, dinlemek",
+                "en": "hear, listen",
+                "de": "hören, zuhören",
+                "es": "oír, escuchar",
+                "fr": "entendre, écouter"
+            }
+        },
+        {
+            "id": 64,
+            "kanji": "食",
+            "meaning": {
+                "tr": "yemek, gıda",
+                "en": "eat, food",
+                "de": "essen, Nahrung",
+                "es": "comer, comida",
+                "fr": "manger, nourriture"
+            }
+        },
+        {
+            "id": 65,
+            "kanji": "車",
+            "meaning": {
+                "tr": "araba, tekerlek",
+                "en": "car, wheel",
+                "de": "Auto, Rad",
+                "es": "coche, rueda",
+                "fr": "voiture, roue"
+            }
+        },
+        {
+            "id": 66,
+            "kanji": "何",
+            "meaning": {
+                "tr": "ne",
+                "en": "what",
+                "de": "was",
+                "es": "qué",
+                "fr": "quoi"
+            }
+        },
+        {
+            "id": 67,
+            "kanji": "南",
+            "meaning": {
+                "tr": "güney",
+                "en": "south",
+                "de": "Süden",
+                "es": "sur",
+                "fr": "sud"
+            }
+        },
+        {
+            "id": 68,
+            "kanji": "万",
+            "meaning": {
+                "tr": "on bin",
+                "en": "ten thousand",
+                "de": "zehntausend",
+                "es": "diez mil",
+                "fr": "dix mille"
+            }
+        },
+        {
+            "id": 69,
+            "kanji": "毎",
+            "meaning": {
+                "tr": "her",
+                "en": "every",
+                "de": "jeder",
+                "es": "cada",
+                "fr": "chaque"
+            }
+        },
+        {
+            "id": 70,
+            "kanji": "白",
+            "meaning": {
+                "tr": "beyaz",
+                "en": "white",
+                "de": "weiß",
+                "es": "blanco",
+                "fr": "blanc"
+            }
+        },
+        {
+            "id": 71,
+            "kanji": "天",
+            "meaning": {
+                "tr": "gökyüzü, cennet",
+                "en": "sky, heaven",
+                "de": "Himmel, Paradies",
+                "es": "cielo, paraíso",
+                "fr": "ciel, paradis"
+            }
+        },
+        {
+            "id": 72,
+            "kanji": "母",
+            "meaning": {
+                "tr": "anne",
+                "en": "mother",
+                "de": "Mutter",
+                "es": "madre",
+                "fr": "mère"
+            }
+        },
+        {
+            "id": 73,
+            "kanji": "火",
+            "meaning": {
+                "tr": "ateş",
+                "en": "fire",
+                "de": "Feuer",
+                "es": "fuego",
+                "fr": "feu"
+            }
+        },
+        {
+            "id": 74,
+            "kanji": "右",
+            "meaning": {
+                "tr": "sağ",
+                "en": "right",
+                "de": "rechts",
+                "es": "derecha",
+                "fr": "droite"
+            }
+        },
+        {
+            "id": 75,
+            "kanji": "読",
+            "meaning": {
+                "tr": "okumak",
+                "en": "read",
+                "de": "lesen",
+                "es": "leer",
+                "fr": "lire"
+            }
+        },
+        {
+            "id": 76,
+            "kanji": "友",
+            "meaning": {
+                "tr": "arkadaş",
+                "en": "friend",
+                "de": "Freund",
+                "es": "amigo",
+                "fr": "ami"
+            }
+        },
+        {
+            "id": 77,
+            "kanji": "左",
+            "meaning": {
+                "tr": "sol",
+                "en": "left",
+                "de": "links",
+                "es": "izquierda",
+                "fr": "gauche"
+            }
+        },
+        {
+            "id": 78,
+            "kanji": "休",
+            "meaning": {
+                "tr": "dinlenmek, tatil",
+                "en": "rest, holiday",
+                "de": "ruhen, Urlaub",
+                "es": "descansar, vacaciones",
+                "fr": "reposer, vacances"
+            }
+        },
+        {
+            "id": 79,
+            "kanji": "父",
+            "meaning": {
+                "tr": "baba",
+                "en": "father",
+                "de": "Vater",
+                "es": "padre",
+                "fr": "père"
+            }
+        },
+        {
+            "id": 80,
+            "kanji": "雨",
+            "meaning": {
+                "tr": "yağmur",
+                "en": "rain",
+                "de": "Regen",
+                "es": "lluvia",
+                "fr": "pluie"
+            }
+        },
+        {
+            "id": 81,
+            "kanji": "会",
+            "meaning": {
+                "tr": "buluşmak, toplantı",
+                "en": "meet, meeting",
+                "de": "treffen, Versammlung",
+                "es": "encontrarse, reunión",
+                "fr": "rencontrer, réunion"
+            }
+        },
+        {
+            "id": 82,
+            "kanji": "社",
+            "meaning": {
+                "tr": "şirket, tapınak",
+                "en": "company, shrine",
+                "de": "Firma, Schrein",
+                "es": "empresa, santuario",
+                "fr": "entreprise, sanctuaire"
+            }
+        },
+        {
+            "id": 83,
+            "kanji": "言",
+            "meaning": {
+                "tr": "söylemek, kelime",
+                "en": "say, word",
+                "de": "sagen, Wort",
+                "es": "decir, palabra",
+                "fr": "dire, mot"
+            }
+        },
+        {
+            "id": 84,
+            "kanji": "買",
+            "meaning": {
+                "tr": "satın almak",
+                "en": "buy",
+                "de": "kaufen",
+                "es": "comprar",
+                "fr": "acheter"
+            }
+        },
+        {
+            "id": 85,
+            "kanji": "立",
+            "meaning": {
+                "tr": "ayakta durmak, kurmak",
+                "en": "stand, establish",
+                "de": "stehen, errichten",
+                "es": "estar de pie, establecer",
+                "fr": "se tenir debout, établir"
+            }
+        },
+        {
+            "id": 86,
+            "kanji": "多",
+            "meaning": {
+                "tr": "çok, fazla",
+                "en": "many, much",
+                "de": "viel",
+                "es": "mucho",
+                "fr": "beaucoup"
+            }
+        },
+        {
+            "id": 87,
+            "kanji": "少",
+            "meaning": {
+                "tr": "az, biraz",
+                "en": "few, little",
+                "de": "wenig, ein bisschen",
+                "es": "poco, un poco",
+                "fr": "peu, un peu"
+            }
+        },
+        {
+            "id": 88,
+            "kanji": "古",
+            "meaning": {
+                "tr": "eski",
+                "en": "old",
+                "de": "alt",
+                "es": "viejo",
+                "fr": "vieux, ancien"
+            }
+        },
+        {
+            "id": 89,
+            "kanji": "新",
+            "meaning": {
+                "tr": "yeni",
+                "en": "new",
+                "de": "neu",
+                "es": "nuevo",
+                "fr": "nouveau"
+            }
+        },
+        {
+            "id": 90,
+            "kanji": "安",
+            "meaning": {
+                "tr": "ucuz, huzurlu",
+                "en": "cheap, peaceful",
+                "de": "billig, friedlich",
+                "es": "barato, pacífico",
+                "fr": "bon marché, paisible"
+            }
+        },
+        {
+            "id": 91,
+            "kanji": "耳",
+            "meaning": {
+                "tr": "kulak",
+                "en": "ear",
+                "de": "Ohr",
+                "es": "oreja",
+                "fr": "oreille"
+            }
+        },
+        {
+            "id": 92,
+            "kanji": "目",
+            "meaning": {
+                "tr": "göz",
+                "en": "eye",
+                "de": "Auge",
+                "es": "ojo",
+                "fr": "œil"
+            }
+        },
+        {
+            "id": 93,
+            "kanji": "手",
+            "meaning": {
+                "tr": "el",
+                "en": "hand",
+                "de": "Hand",
+                "es": "mano",
+                "fr": "main"
+            }
+        },
+        {
+            "id": 94,
+            "kanji": "足",
+            "meaning": {
+                "tr": "ayak, bacak",
+                "en": "foot, leg",
+                "de": "Fuß, Bein",
+                "es": "pie, pierna",
+                "fr": "pied, jambe"
+            }
+        },
+        {
+            "id": 95,
+            "kanji": "店",
+            "meaning": {
+                "tr": "dükkan, mağaza",
+                "en": "shop, store",
+                "de": "Laden, Geschäft",
+                "es": "tienda",
+                "fr": "magasin, boutique"
+            }
+        },
+        {
+            "id": 96,
+            "kanji": "駅",
+            "meaning": {
+                "tr": "istasyon",
+                "en": "station",
+                "de": "Bahnhof",
+                "es": "estación",
+                "fr": "gare, station"
+            }
+        },
+        {
+            "id": 97,
+            "kanji": "飲",
+            "meaning": {
+                "tr": "içmek",
+                "en": "drink",
+                "de": "trinken",
+                "es": "beber",
+                "fr": "boire"
+            }
+        },
+        {
+            "id": 98,
+            "kanji": "魚",
+            "meaning": {
+                "tr": "balık",
+                "en": "fish",
+                "de": "Fisch",
+                "es": "pez, pescado",
+                "fr": "poisson"
+            }
+        },
+        {
+            "id": 99,
+            "kanji": "道",
+            "meaning": {
+                "tr": "yol, cadde",
+                "en": "road, way",
+                "de": "Weg, Straße",
+                "es": "camino, calle",
+                "fr": "route, chemin"
+            }
+        },
+        {
+            "id": 100,
+            "kanji": "口",
+            "meaning": {
+                "tr": "ağız, giriş",
+                "en": "mouth, entrance",
+                "de": "Mund, Eingang",
+                "es": "boca, entrada",
+                "fr": "bouche, entrée"
+            }
+        },
+        {
+            "id": 101,
+            "kanji": "週",
+            "meaning": {
+                "tr": "hafta",
+                "en": "week",
+                "de": "Woche",
+                "es": "semana",
+                "fr": "semaine"
+            }
+        },
+        {
+            "id": 102,
+            "kanji": "空",
+            "meaning": {
+                "tr": "gökyüzü, boş",
+                "en": "sky, empty",
+                "de": "Himmel, leer",
+                "es": "cielo, vacío",
+                "fr": "ciel, vide"
+            }
+        },
+        {
+            "id": 103,
+            "kanji": "花",
+            "meaning": {
+                "tr": "çiçek",
+                "en": "flower",
+                "de": "Blume",
+                "es": "flor",
+                "fr": "fleur"
+            }
+        },
+        {
+            "id": 104,
+            "kanji": "兄",
+            "meaning": {
+                "tr": "ağabey",
+                "en": "older brother",
+                "de": "älterer Bruder",
+                "es": "hermano mayor",
+                "fr": "frère aîné"
+            }
+        },
+        {
+            "id": 105,
+            "kanji": "弟",
+            "meaning": {
+                "tr": "erkek kardeş",
+                "en": "younger brother",
+                "de": "jüngerer Bruder",
+                "es": "hermano menor",
+                "fr": "frère cadet"
+            }
+        },
+        {
+            "id": 106,
+            "kanji": "姉",
+            "meaning": {
+                "tr": "abla",
+                "en": "older sister",
+                "de": "ältere Schwester",
+                "es": "hermana mayor",
+                "fr": "sœur aînée"
+            }
+        },
+        {
+            "id": 107,
+            "kanji": "妹",
+            "meaning": {
+                "tr": "kız kardeş",
+                "en": "younger sister",
+                "de": "jüngere Schwester",
+                "es": "hermana menor",
+                "fr": "sœur cadette"
+            }
+        },
+        {
+            "id": 108,
+            "kanji": "私",
+            "meaning": {
+                "tr": "ben, özel",
+                "en": "I, private",
+                "de": "ich, privat",
+                "es": "yo, privado",
+                "fr": "je, moi, privé"
+            }
+        },
+        {
+            "id": 109,
+            "kanji": "田",
+            "meaning": {
+                "tr": "pirinç tarlası",
+                "en": "rice field",
+                "de": "Reisfeld",
+                "es": "campo de arroz",
+                "fr": "rizière"
+            }
+        },
+        {
+            "id": 110,
+            "kanji": "門",
+            "meaning": {
+                "tr": "kapı, geçit",
+                "en": "gate",
+                "de": "Tor",
+                "es": "puerta, portón",
+                "fr": "porte, portail"
+            }
+        },
+        {
+            "id": 111,
+            "kanji": "体",
+            "meaning": {
+                "tr": "vücut, beden",
+                "en": "body",
+                "de": "Körper",
+                "es": "cuerpo",
+                "fr": "corps"
+            }
+        },
+        {
+            "id": 112,
+            "kanji": "夕",
+            "meaning": {
+                "tr": "akşam",
+                "en": "evening",
+                "de": "Abend",
+                "es": "tarde/noche",
+                "fr": "soir"
+            }
+        },
+        {
+            "id": 113,
+            "kanji": "力",
+            "meaning": {
+                "tr": "güç, kuvvet",
+                "en": "power, strength",
+                "de": "Kraft, Stärke",
+                "es": "poder, fuerza",
+                "fr": "pouvoir, force"
+            }
+        }
+    ]
+}
