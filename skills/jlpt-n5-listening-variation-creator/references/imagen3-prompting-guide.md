@@ -8,8 +8,8 @@ This guide defines how to write image generation prompts for the 4 visual option
 
 - **Natural language:** Responds to flowing descriptive sentences, not tag lists.
 - **Typography:** If text must appear in the image, specify it in quotes inside the prompt.
-- **Photorealism:** Responds well to lighting sources, camera angles, and texture descriptions.
-- **Color:** Full-color output — use color as a distinguishing attribute when appropriate.
+- **Line art:** Responds well to explicit monochrome and illustration style descriptors.
+- **Style anchoring:** A strong style suffix at the end of the prompt locks the visual output.
 
 ---
 
@@ -29,9 +29,9 @@ Every prompt must follow this 5-part order:
 
 - **Do NOT use comma-separated tag lists.** Write fluent, descriptive sentences instead.
 - **If text must appear in the image**, write it as: `a sign reading "..."` or `a label saying "..."`.
-- **Keep scene context consistent across all 4 options** — only the delta element should change.
+- **Keep scene context consistent across all 4 panels** — only the delta element should change.
 - **Match JLPT context:** Scenes should depict ordinary Japanese daily life (café, classroom, station, market, home, etc.).
-- **Color is fully usable** as a distinguishing attribute between options.
+- **No color references:** Style is monochrome. Differentiate panels by shape, size, quantity, position, or presence/absence of objects — never by color.
 
 ---
 
@@ -52,28 +52,27 @@ All 4 options are generated in a **single Imagen 3 call** as a 2×2 grid image. 
 
 The `panel_map` in `derived-data.json` records which panel holds which `logic_role`. The correct panel position should be varied across questions (do not always place Correct in Panel 1).
 
-### Delta Table Example (Attribute Filter — size × color)
+### Delta Table Example (Attribute Filter — size × quantity)
 
 | Panel | Role | Delta |
 |-------|------|-------|
-| Panel 1 | Correct | Large + red |
-| Panel 2 | Distractor_A | Small + red |
-| Panel 3 | Distractor_B | Large + blue |
-| Panel 4 | Distractor_C | Small + blue |
+| Panel 1 | Correct | Large + single item |
+| Panel 2 | Distractor_A | Small + single item |
+| Panel 3 | Distractor_B | Large + two items |
+| Panel 4 | Distractor_C | Small + two items |
 
 ---
 
 ## Composite Prompt Template
 
 ```
-A 2×2 grid image divided into four equal square panels with a thin white border between them.
-Each panel has a bold number in the top-left corner (1, 2, 3, 4).
-[Shared scene context — e.g., "Japanese clothing store, retail shelves in background."]
-Panel 1 (top-left): [item/scene description]
-Panel 2 (top-right): [item/scene description]
-Panel 3 (bottom-left): [item/scene description]
-Panel 4 (bottom-right): [item/scene description]
-Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+A 2×2 grid image divided into four equal square panels with thin white borders between them.
+[Shared subject context — keep background minimal or white.]
+Top-left panel: [item/scene — shape, size, quantity, or presence/absence delta]
+Top-right panel: [item/scene]
+Bottom-left panel: [item/scene]
+Bottom-right panel: [item/scene]
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
 ---
@@ -84,14 +83,13 @@ Clean illustration style, soft even lighting, muted warm tones, no text other th
 **Correct answer:** Panel 1 (hot coffee) → `correct_option: 0`
 
 ```
-A 2×2 grid image divided into four equal square panels with a thin white border between them.
-Each panel has a bold number in the top-left corner (1, 2, 3, 4).
-Japanese café table setting, wooden surface, warm ambient light, blurred café shelves in background.
-Panel 1 (top-left): A ceramic mug of hot coffee, steam rising from the surface.
-Panel 2 (top-right): A glass of orange juice with ice cubes, condensation on the glass.
-Panel 3 (bottom-left): A tall glass of iced coffee with a straw, ice cubes visible through the glass.
-Panel 4 (bottom-right): A glass of cold green tea with ice cubes.
-Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+A 2×2 grid image divided into four equal square panels with thin white borders between them.
+Japanese café setting, simple white background, line art objects on a table surface.
+Top-left panel: A ceramic mug of hot coffee with steam rising from the surface.
+Top-right panel: A tall glass with a straw, ice cubes, and a lemon slice on the rim.
+Bottom-left panel: A tall glass with a straw and ice cubes, a cherry on top.
+Bottom-right panel: A glass with a straw and ice cubes, no garnish.
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
 **Corresponding panel_map:**

@@ -15,7 +15,7 @@ This file documents the exact structure of `derived-data.json` — the output pr
     "pattern_used": "Reconsideration | Shortage | Attribute | Negative | Sequential | Location"
   },
   "visual_prompts": {
-    "image_prompt": "A 2×2 grid image divided into four equal square panels with a thin white border between them. Each panel has a bold number in the top-left corner (1, 2, 3, 4). [Shared scene context]. Panel 1 (top-left): [...]. Panel 2 (top-right): [...]. Panel 3 (bottom-left): [...]. Panel 4 (bottom-right): [...]. Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.",
+    "image_prompt": "A 2×2 grid image divided into four equal square panels with thin white borders between them. [Shared subject context]. Top-left panel: [...]. Top-right panel: [...]. Bottom-left panel: [...]. Bottom-right panel: [...]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
     "panel_map": [
       { "panel": 1, "logic_role": "Correct" },
       { "panel": 2, "logic_role": "Distractor_A" },

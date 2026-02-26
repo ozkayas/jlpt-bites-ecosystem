@@ -20,17 +20,23 @@ You are an expert JLPT N5 examiner specializing in **Listening Mondai 1 (Select 
 
 All questions use a **single composite image** with 4 numbered panels arranged in a 2×2 grid — matching the JLPT exam format. The image is generated in one Imagen 3 call.
 
+### Fixed Style — JLPT Textbook Monochrome
+
+All prompts MUST end with this fixed style suffix (do not change):
+```
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than panel numbers.
+```
+
 ### Composite Prompt Structure
 
 ```
-A 2×2 grid image divided into four equal square panels with a thin white border between them.
-Each panel has a bold number in the top-left corner (1, 2, 3, 4).
-[Shared scene context — e.g., "Japanese clothing store, retail shelves in background."]
-Panel 1 (top-left): [item/scene description]
-Panel 2 (top-right): [item/scene description]
-Panel 3 (bottom-left): [item/scene description]
-Panel 4 (bottom-right): [item/scene description]
-Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+A 2×2 grid image divided into four equal square panels with thin white borders between them.
+[Shared subject context — keep background minimal or white.]
+Top-left panel: [item/scene description — shape, size, quantity, or presence/absence only]
+Top-right panel: [item/scene description]
+Bottom-left panel: [item/scene description]
+Bottom-right panel: [item/scene description]
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
 ### Panel Assignment
@@ -39,26 +45,26 @@ Clean illustration style, soft even lighting, muted warm tones, no text other th
 - The correct panel may be placed in any position — vary it across questions.
 
 ### Writing Rules
-1. **Shared scene context first:** Establish the setting once (location, background, lighting) before describing panels.
-2. **Delta per panel:** Each panel description states only the distinguishing element(s) — the delta that makes it correct or a trap.
-3. **Color is usable:** Imagen 3 generates full-color output; use color as a distinguishing attribute when appropriate.
-4. **Keep subjects simple:** Clear, recognizable objects. Avoid complex multi-character scenes.
+1. **Shared subject context first:** Name the object category and minimal setting. Keep backgrounds simple or white.
+2. **Delta per panel:** Each panel description states only the distinguishing element(s) — shape, size, quantity, position, or presence/absence of objects.
+3. **No color references:** Style is monochrome. Never describe items by color. Differentiate by shape, size, quantity, position, or presence/absence only.
+4. **Keep subjects simple:** Clear, recognizable outlines. Avoid complex multi-character scenes.
 5. **No text in panels** except the bold panel numbers (1–4).
 
 ### Example Prompt (Reconsideration Pattern — drinks)
 ```
-A 2×2 grid image divided into four equal square panels with a thin white border between them.
-Each panel has a bold number in the top-left corner (1, 2, 3, 4).
-Japanese café table setting, wooden surface, warm ambient light, blurred café shelves in background.
-Panel 1 (top-left): A ceramic mug of hot coffee, steam rising from the surface.
-Panel 2 (top-right): A glass of orange juice with ice cubes, condensation on the glass.
-Panel 3 (bottom-left): A tall glass of iced coffee with a straw, ice cubes visible.
-Panel 4 (bottom-right): A glass of cold green tea with ice cubes.
-Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+A 2×2 grid image divided into four equal square panels with thin white borders between them.
+Japanese café, white background, simple line art objects on a table surface.
+Top-left panel: A ceramic mug of hot coffee with steam rising from the surface.
+Top-right panel: A tall glass with a straw and ice cubes, a lemon slice on the rim.
+Bottom-left panel: A tall glass with a straw and ice cubes, a cherry on top.
+Bottom-right panel: A glass with a straw and ice cubes, no garnish.
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
 ### Avoid
-- Photorealistic, 3D rendered, or anime-colored styles.
+- Any color, shading, photorealism, gradients, or 3D rendering.
+- Color-based deltas (e.g., "red hat" vs. "blue hat" — use shape/size instead).
 - Complex backgrounds or textures that compete with panel content.
 - Any text labels inside panels (only the bold numbers 1–4 are allowed).
 
