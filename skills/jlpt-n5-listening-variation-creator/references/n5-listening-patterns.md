@@ -24,7 +24,7 @@ To create authentic N5 listening questions, use one of these 6 primary distracto
 - **Concept:** Multiple similar objects are discussed, but only one fits all criteria (size, pattern, quantity, shape).
 - **Logic:** Criteria 1 (Size: Small/Large) + Criteria 2 (Pattern: Fish/Flower) -> Only one matches both.
 - **Trap Design:** Each distractor matches only one criterion, not both.
-- **Important:** Since visuals are monochrome line art, do NOT use color as a distinguishing attribute. Use size, shape, pattern, quantity, or position instead.
+- **Note:** Renk (color) de geçerli bir attribute'dür — Imagen 3 renkli görüntü üretir. Size, shape, pattern, quantity, position, ve color hepsi kullanılabilir.
 - **Example:**
   - "The fish plate is nice but small. The flower one is large. Let's take the large one."
   - Correct: Large Flower Plate. Traps: Small Fish, Large Fish, Small Flower.
@@ -57,11 +57,11 @@ To create authentic N5 listening questions, use one of these 6 primary distracto
 
 ## Pattern Selection Tips
 
-| Pattern | Best For | Visual Delta (monochrome) |
-|---------|----------|--------------------------|
+| Pattern | Best For | Visual Delta |
+|---------|----------|-------------|
 | Reconsideration | Food, activities, plans | Different objects/activities |
 | Shortage | Shopping, cooking, packing | Presence/absence of items |
-| Attribute Filter | Clothing, objects, gifts | Size, pattern, shape, quantity (NO color) |
+| Attribute Filter | Clothing, objects, gifts | Size, pattern, shape, quantity, color |
 | Negative Condition | Weather, daily routines | Missing accessory/item |
 | Sequential Action | Travel, daily schedule | Different locations/states |
 | Location/Direction | Maps, room layouts | Spatial arrangement |
