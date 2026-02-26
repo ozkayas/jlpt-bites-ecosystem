@@ -52,7 +52,7 @@ All questions use a **single image** with 4 options. All prompts must follow JLP
 4 separate equal panels in a 2×2 grid. No numbers inside panels.
 
 ```
-A 2×2 grid image divided into four equal square panels with thin white borders between them.
+A 2×2 grid image with four equal square panels, no borders or dividing lines between panels.
 [Shared subject context — keep background minimal or white.]
 Top-left panel: [item/scene description — shape, size, quantity, or presence/absence only]
 Top-right panel: [item/scene description]
@@ -63,7 +63,7 @@ Minimalist black and white line art, Japanese language textbook illustration sty
 
 **Example (Reconsideration Pattern — drinks):**
 ```
-A 2×2 grid image divided into four equal square panels with thin white borders between them.
+A 2×2 grid image with four equal square panels, no borders or dividing lines between panels.
 Japanese café, white background, simple line art objects on a table surface.
 Top-left panel: A ceramic mug of hot coffee with steam rising from the surface.
 Top-right panel: A tall glass with a straw and ice cubes, a lemon slice on the rim.

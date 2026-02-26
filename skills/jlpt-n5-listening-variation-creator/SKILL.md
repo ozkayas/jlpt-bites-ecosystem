@@ -106,7 +106,17 @@ backend/listening/listening-youtube-data/processed/
 - Write `derived-data.json` to the clip folder inside `tobeprocessed/`.
 - Follow the schema in `references/derived-data-schema.md` exactly.
 
-### Step 8 — MOVE FOLDER
+### Step 8 — GENERATE IMAGE
+
+- Run the image generation script to call the Gemini API and create `image.png` in the clip folder:
+  ```bash
+  python skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py <clip_folder_name>
+  ```
+- The script reads `visual_prompts.image_prompt` from `derived-data.json`, calls `gemini-2.5-flash-image`, and saves `image.png` inside the clip folder.
+- Requires `JLPT_IMAGE_GEMINI_API_KEY` to be set in the environment.
+- Wait for confirmation that `image.png` was saved successfully.
+
+### Step 9 — MOVE FOLDER
 
 - Move the entire clip folder from `tobeprocessed/` to `processed/`.
 - Report what was processed and where it was moved.
@@ -123,3 +133,4 @@ backend/listening/listening-youtube-data/processed/
 | `references/n5-listening-patterns.md` | 6 logic patterns with trap design rules |
 | `references/tts-guidelines.md` | TTS voice/break formatting rules |
 | `references/n5-grammar-points.md` | N5 grammar reference |
+| `scripts/generate_image.py` | Calls Gemini API to generate `image.png` from `image_prompt` |

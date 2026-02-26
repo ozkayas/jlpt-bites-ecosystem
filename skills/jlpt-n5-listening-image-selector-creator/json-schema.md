@@ -22,7 +22,7 @@ The AI must output a single JSON object following this structure. All index valu
   },
   "visual_prompts": {
     "image_type": "four_panel_grid",
-    "image_prompt": "A 2×2 grid image divided into four equal square panels with thin white borders between them. [Shared subject context]. Top-left panel: [item/scene — shape/size/quantity/position delta]. Top-right panel: [item/scene]. Bottom-left panel: [item/scene]. Bottom-right panel: [item/scene]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. [Shared subject context]. Top-left panel: [item/scene — shape/size/quantity/position delta]. Top-right panel: [item/scene]. Bottom-left panel: [item/scene]. Bottom-right panel: [item/scene]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
     "panel_map": [
       { "panel": 1, "logic_role": "Correct" },
       { "panel": 2, "logic_role": "Distractor_A" },

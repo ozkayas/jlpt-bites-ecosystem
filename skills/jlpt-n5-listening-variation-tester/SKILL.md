@@ -1,16 +1,16 @@
 ---
 name: jlpt-n5-listening-variation-tester
-description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then generate TTS audio if validation passes. Use this skill when the user asks to test, validate, check, or verify a listening variation JSON. Performs three passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) Gemini TTS audio generation. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
+description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then verify the generated image.png, then generate TTS audio. Use this skill when the user asks to test, validate, check, or verify a listening variation. Performs four passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) visual image check by Claude reading image.png, (4) Gemini TTS audio generation. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
 ---
 
 # JLPT N5 Listening Variation Tester
 
-Validate a `derived-data.json` file using a three-pass approach: mechanical schema check, semantic/linguistic review, then Gemini TTS audio generation.
+Validate a `derived-data.json` file using a four-pass approach: mechanical schema check, semantic/linguistic review, visual image check, then Gemini TTS audio generation.
 
 ## Workflow
 
-1. Identify the JSON to validate — file path provided by user, or content in context.
-2. If JSON is in context (not a file), write it to a temporary file first.
+1. Identify the clip folder — file path provided by user, or derive it from context.
+2. If JSON is provided as inline content (not a file path), write it to a temporary file first.
 3. Run **Pass 1 — Mechanical Validation:**
 
 ```bash
@@ -32,7 +32,17 @@ EOF
    - The variation is meaningfully different from what a source clip would typically contain (not a trivial rename).
    - `analysis.vocabulary[].reading` fields are hiragana (not romaji).
 6. If Pass 2 finds failures, report them and stop — do not proceed to Pass 3.
-7. Run **Pass 3 — Audio Generation** (only if a real file path was provided):
+7. Run **Pass 3 — Image Validation** (Claude reads `image.png` from the clip folder):
+   - Check that `image.png` exists in the clip folder. If missing, stop and instruct user to run `generate_image.py` first.
+   - Read the image and verify the `image_type` matches what is actually shown:
+     - `four_panel_grid`: exactly 4 equal panels in a 2×2 grid, no numbers inside panels
+     - `numbered_scene`: single continuous scene with small position numbers 1–4 visible
+     - `map_diagram`: top-down street or area map with small position numbers 1–4 on buildings/locations
+   - Verify the correct panel (identified by `panel_map` + `correct_option`) visually depicts the answer the dialogue leads to.
+   - Verify each distractor panel visually depicts a plausible but wrong alternative.
+   - Verify overall style: monochrome line art, no shading, white background.
+8. If Pass 3 finds failures, report them and stop — do not proceed to Pass 4.
+9. Run **Pass 4 — Audio Generation** (only if a real file path was provided):
 
 ```bash
 python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> \
@@ -41,9 +51,9 @@ python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.js
 ```
 
    - Output file is always named `variation.wav` (distinguishes it from the original `audio.mp3`).
-   - If JSON was provided as inline content (no real file path), skip Pass 3 and print the manual command for the user to run.
+   - If JSON was provided as inline content (no real file path), skip Pass 4 and print the manual command for the user to run.
    - Requires `GEMINI_API_KEY` or `GEMINI_API_KEYS` environment variable.
-8. Report final results — all three passes.
+10. Report final results — all four passes.
 
 ---
 
@@ -78,7 +88,27 @@ python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.js
 
 ---
 
-## Pass 3 — Audio Generation
+## Pass 3 — Image Validation
+
+Claude reads `image.png` from the clip folder and verifies:
+
+| Check | What to look for |
+|-------|-----------------|
+| File exists | `image.png` present in clip folder |
+| `image_type` match | Layout matches declared type (`four_panel_grid` / `numbered_scene` / `map_diagram`) |
+| Correct panel content | Panel identified by `panel_map` + `correct_option` shows the dialogue's answer |
+| Distractor panel content | Each distractor panel shows a plausible but wrong alternative |
+| Style | Monochrome line art, no shading, white background |
+
+**Missing image:** If `image.png` does not exist, stop and print:
+```
+✗ image.png not found in <clip_folder>
+  Run: python3 skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py <clip_name>
+```
+
+---
+
+## Pass 4 — Audio Generation
 
 Runs `generate_tts_audio.py` which:
 - Sends `Intro_Voice` lines to Gemini as single-speaker calls (Kore voice)
@@ -121,10 +151,20 @@ Pass 2 — Semantic Review
   ✓ Variation novelty: significantly different from typical cafe/drink source clips
   PASS — All semantic checks passed
 
-Pass 3 — Audio Generation
+Pass 3 — Image Validation
+  ✓ image.png found in clip folder
+  ✓ image_type: four_panel_grid confirmed (4 equal panels, no numbers inside)
+  ✓ Correct panel (Panel 1): shows warm bowl of rice — matches dialogue answer
+  ✓ Distractor_A (Panel 2): shows sandwich — plausible wrong choice
+  ✓ Distractor_B (Panel 3): shows salad — plausible wrong choice
+  ✓ Distractor_C (Panel 4): shows cold noodles — plausible wrong choice
+  ✓ Style: monochrome line art, white background confirmed
+  PASS — Image valid
+
+Pass 4 — Audio Generation
   Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation.wav
-  ✓ Audio generated: variation.wav (12.3s | 591 KB)
+  ✓ Audio generated: variation.wav (37.8s | 1773 KB)
   PASS — Audio ready
 ```
 
-If anything fails in Pass 1 or Pass 2, report the specific field or criterion and what was found vs. what was expected. Pass 3 is only attempted after both Pass 1 and Pass 2 succeed.
+If anything fails in any pass, report the specific field or criterion and what was found vs. what was expected. Each subsequent pass is only attempted after the previous one succeeds.

@@ -6,38 +6,99 @@
     "pattern_used": "Reconsideration"
   },
   "visual_prompts": {
-    "image_prompt": "A 2×2 grid image divided into four equal square panels with thin white borders between them. Japanese restaurant setting, simple white background, line art food items on a table surface. Top-left panel: A sandwich on a plate, sliced in half to show layered filling. Top-right panel: A bowl of soup with steam rising from the surface, a spoon resting beside it. Bottom-left panel: A salad in a bowl with a fork beside it. Bottom-right panel: Two rice balls on a plate, each wrapped with a strip of nori seaweed. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Japanese restaurant setting, simple white background, line art food items on a table surface. Top-left panel: A sandwich on a plate, sliced in half to show layered filling. Top-right panel: A bowl of soup with steam rising from the surface, a spoon resting beside it. Bottom-left panel: A salad in a bowl with a fork beside it. Bottom-right panel: Two rice balls on a plate, each wrapped with a strip of nori seaweed. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
     "panel_map": [
-      { "panel": 1, "logic_role": "Distractor_A" },
-      { "panel": 2, "logic_role": "Correct" },
-      { "panel": 3, "logic_role": "Distractor_B" },
-      { "panel": 4, "logic_role": "Distractor_C" }
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
     ]
   },
   "correct_option": 1,
   "tts_script": [
-    { "voice": "Intro_Voice", "text": "おんなのひとと　おとこのひとが　レストランで　はなしています。おんなのひとは　なにを　たべますか？" },
-    { "break": "1s" },
-    { "voice": "Male_1", "text": "このレストランは　いいですね。ぼくは　サンドイッチに　します。" },
-    { "break": "0.5s" },
-    { "voice": "Female_1", "text": "ああ、いいですね。でも、わたしは　けさ　パンを　たべましたから、ほかの　たべものに　します。" },
-    { "break": "0.5s" },
-    { "voice": "Male_1", "text": "じゃあ、サラダは　どうですか？ここのは　おいしいですよ。" },
-    { "break": "0.5s" },
-    { "voice": "Female_1", "text": "ええ、しっています。でも、ひるに　つめたい　ものを　たべましたから、あたたかい　ほうに　します。" },
-    { "break": "0.5s" },
-    { "voice": "Male_1", "text": "そうですか。" },
-    { "break": "1s" },
-    { "voice": "Intro_Voice", "text": "おんなのひとは　なにを　たべますか？" }
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとと　おとこのひとが　レストランで　はなしています。おんなのひとは　なにを　たべますか？"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "このレストランは　いいですね。ぼくは　サンドイッチに　します。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "ああ、いいですね。でも、わたしは　けさ　パンを　たべましたから、ほかの　たべものに　します。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "じゃあ、サラダは　どうですか？ここのは　おいしいですよ。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "ええ、しっています。でも、ひるに　つめたい　ものを　たべましたから、あたたかい　ほうに　します。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "そうですか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとは　なにを　たべますか？"
+    }
   ],
   "transcription": {
     "intro": "おんなのひとと　おとこのひとが　レストランで　はなしています。おんなのひとは　なにを　たべますか？",
     "dialogue": [
-      { "speaker": "Male_1", "text": "このレストランは　いいですね。ぼくは　サンドイッチに　します。" },
-      { "speaker": "Female_1", "text": "ああ、いいですね。でも、わたしは　けさ　パンを　たべましたから、ほかの　たべものに　します。" },
-      { "speaker": "Male_1", "text": "じゃあ、サラダは　どうですか？ここのは　おいしいですよ。" },
-      { "speaker": "Female_1", "text": "ええ、しっています。でも、ひるに　つめたい　ものを　たべましたから、あたたかい　ほうに　します。" },
-      { "speaker": "Male_1", "text": "そうですか。" }
+      {
+        "speaker": "Male_1",
+        "text": "このレストランは　いいですね。ぼくは　サンドイッチに　します。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "ああ、いいですね。でも、わたしは　けさ　パンを　たべましたから、ほかの　たべものに　します。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "じゃあ、サラダは　どうですか？ここのは　おいしいですよ。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "ええ、しっています。でも、ひるに　つめたい　ものを　たべましたから、あたたかい　ほうに　します。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "そうですか。"
+      }
     ],
     "question": "おんなのひとは　なにを　たべますか？"
   },
@@ -45,44 +106,140 @@
     "tr": {
       "intro": "Bir kadın ve bir adam restoranda konuşuyor. Kadın ne yiyecek?",
       "dialogue": [
-        { "speaker": "Male_1", "text": "Bu restoran çok güzel. Ben sandviç alacağım." },
-        { "speaker": "Female_1", "text": "Ah, iyi. Ama ben bu sabah ekmek yediğim için başka bir şey alacağım." },
-        { "speaker": "Male_1", "text": "O zaman salata nasıl? Buranınki çok lezzetli." },
-        { "speaker": "Female_1", "text": "Evet, biliyorum. Ama öğle yemeğinde soğuk bir şey yediğim için sıcak bir şey alacağım." },
-        { "speaker": "Male_1", "text": "Öyle mi." }
+        {
+          "speaker": "Male_1",
+          "text": "Bu restoran çok güzel. Ben sandviç alacağım."
+        },
+        {
+          "speaker": "Female_1",
+          "text": "Ah, iyi. Ama ben bu sabah ekmek yediğim için başka bir şey alacağım."
+        },
+        {
+          "speaker": "Male_1",
+          "text": "O zaman salata nasıl? Buranınki çok lezzetli."
+        },
+        {
+          "speaker": "Female_1",
+          "text": "Evet, biliyorum. Ama öğle yemeğinde soğuk bir şey yediğim için sıcak bir şey alacağım."
+        },
+        {
+          "speaker": "Male_1",
+          "text": "Öyle mi."
+        }
       ],
       "question": "Kadın ne yiyecek?"
     },
     "en": {
       "intro": "A woman and a man are talking at a restaurant. What will the woman eat?",
       "dialogue": [
-        { "speaker": "Male_1", "text": "This restaurant is great. I'll have a sandwich." },
-        { "speaker": "Female_1", "text": "Oh, nice. But I had bread this morning, so I'll have something else." },
-        { "speaker": "Male_1", "text": "Then how about a salad? The one here is delicious." },
-        { "speaker": "Female_1", "text": "Yes, I know. But I had something cold at lunch, so I'll go with something warm." },
-        { "speaker": "Male_1", "text": "I see." }
+        {
+          "speaker": "Male_1",
+          "text": "This restaurant is great. I'll have a sandwich."
+        },
+        {
+          "speaker": "Female_1",
+          "text": "Oh, nice. But I had bread this morning, so I'll have something else."
+        },
+        {
+          "speaker": "Male_1",
+          "text": "Then how about a salad? The one here is delicious."
+        },
+        {
+          "speaker": "Female_1",
+          "text": "Yes, I know. But I had something cold at lunch, so I'll go with something warm."
+        },
+        {
+          "speaker": "Male_1",
+          "text": "I see."
+        }
       ],
       "question": "What will the woman eat?"
     }
   },
   "analysis": {
     "vocabulary": [
-      { "word": "レストラン", "reading": "れすとらん", "tr": "restoran", "en": "restaurant" },
-      { "word": "サンドイッチ", "reading": "さんどいっち", "tr": "sandviç", "en": "sandwich" },
-      { "word": "パン", "reading": "ぱん", "tr": "ekmek", "en": "bread" },
-      { "word": "たべもの", "reading": "たべもの", "tr": "yiyecek", "en": "food" },
-      { "word": "サラダ", "reading": "さらだ", "tr": "salata", "en": "salad" },
-      { "word": "つめたい", "reading": "つめたい", "tr": "soğuk (dokunma/yiyecekler için)", "en": "cold (to the touch / for food)" },
-      { "word": "あたたかい", "reading": "あたたかい", "tr": "sıcak / ılık", "en": "warm" },
-      { "word": "ほかの", "reading": "ほかの", "tr": "diğer / başka", "en": "other / another" },
-      { "word": "けさ", "reading": "けさ", "tr": "bu sabah", "en": "this morning" },
-      { "word": "ひる", "reading": "ひる", "tr": "öğle", "en": "noon / lunchtime" }
+      {
+        "word": "レストラン",
+        "reading": "れすとらん",
+        "tr": "restoran",
+        "en": "restaurant"
+      },
+      {
+        "word": "サンドイッチ",
+        "reading": "さんどいっち",
+        "tr": "sandviç",
+        "en": "sandwich"
+      },
+      {
+        "word": "パン",
+        "reading": "ぱん",
+        "tr": "ekmek",
+        "en": "bread"
+      },
+      {
+        "word": "たべもの",
+        "reading": "たべもの",
+        "tr": "yiyecek",
+        "en": "food"
+      },
+      {
+        "word": "サラダ",
+        "reading": "さらだ",
+        "tr": "salata",
+        "en": "salad"
+      },
+      {
+        "word": "つめたい",
+        "reading": "つめたい",
+        "tr": "soğuk (dokunma/yiyecekler için)",
+        "en": "cold (to the touch / for food)"
+      },
+      {
+        "word": "あたたかい",
+        "reading": "あたたかい",
+        "tr": "sıcak / ılık",
+        "en": "warm"
+      },
+      {
+        "word": "ほかの",
+        "reading": "ほかの",
+        "tr": "diğer / başka",
+        "en": "other / another"
+      },
+      {
+        "word": "けさ",
+        "reading": "けさ",
+        "tr": "bu sabah",
+        "en": "this morning"
+      },
+      {
+        "word": "ひる",
+        "reading": "ひる",
+        "tr": "öğle",
+        "en": "noon / lunchtime"
+      }
     ],
     "grammar": [
-      { "point": "～にする", "tr": "bir şeye karar vermek / seçmek", "en": "to decide on / to choose" },
-      { "point": "～から", "tr": "çünkü / -den dolayı", "en": "because / since" },
-      { "point": "～はどうですか", "tr": "... nasıl? / ... ne dersiniz?", "en": "how about...?" },
-      { "point": "～ほう", "tr": "... tarafı / olanı (tercih belirtirken)", "en": "the one that is... (used when choosing between options)" }
+      {
+        "point": "～にする",
+        "tr": "bir şeye karar vermek / seçmek",
+        "en": "to decide on / to choose"
+      },
+      {
+        "point": "～から",
+        "tr": "çünkü / -den dolayı",
+        "en": "because / since"
+      },
+      {
+        "point": "～はどうですか",
+        "tr": "... nasıl? / ... ne dersiniz?",
+        "en": "how about...?"
+      },
+      {
+        "point": "～ほう",
+        "tr": "... tarafı / olanı (tercih belirtirken)",
+        "en": "the one that is... (used when choosing between options)"
+      }
     ]
   },
   "logic": {
