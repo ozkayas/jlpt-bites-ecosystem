@@ -15,6 +15,7 @@ This file documents the exact structure of `derived-data.json` — the output pr
     "pattern_used": "Reconsideration | Shortage | Attribute | Negative | Sequential | Location"
   },
   "visual_prompts": {
+    "image_type": "four_panel_grid",
     "image_prompt": "A 2×2 grid image divided into four equal square panels with thin white borders between them. [Shared subject context]. Top-left panel: [...]. Top-right panel: [...]. Bottom-left panel: [...]. Bottom-right panel: [...]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
     "panel_map": [
       { "panel": 1, "logic_role": "Correct" },
@@ -85,7 +86,8 @@ This file documents the exact structure of `derived-data.json` — the output pr
 | `source_clip` | Exact folder name from `tobeprocessed/` |
 | `metadata.level` | Always `"n5"` (lowercase) |
 | `metadata.pattern_used` | Must be one of: `Reconsideration`, `Shortage`, `Attribute`, `Negative`, `Sequential`, `Location` |
-| `visual_prompts.image_prompt` | Single composite 2×2 grid prompt string for Imagen 3 |
+| `visual_prompts.image_type` | Must be one of: `"four_panel_grid"`, `"numbered_scene"`, `"map_diagram"` |
+| `visual_prompts.image_prompt` | Imagen 3 prompt string; template depends on `image_type` (see `imagen3-prompting-guide.md`) |
 | `visual_prompts.panel_map` | Exactly 4 items; panels 1–4 each with a `logic_role` |
 | `logic_role` values | Exactly one `"Correct"`, three distinct `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"` |
 | `correct_option` | Integer 0–3 (Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3) |

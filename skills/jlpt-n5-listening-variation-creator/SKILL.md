@@ -64,7 +64,11 @@ backend/listening/listening-youtube-data/processed/
 
 - Identify which of the 6 logic patterns this question uses (see `references/n5-listening-patterns.md`).
 - Identify the critical entities (the objects/attributes being swapped in the traps).
-- If PNG was read, note the spatial layout (number of items, positions, arrangement style).
+- If PNG was read, determine the `image_type` using the detection criteria in `references/imagen3-prompting-guide.md`:
+  - `four_panel_grid` — 4 separate equal panels in a 2×2 grid, no numbers inside panels
+  - `numbered_scene` — single scene with small position numbers 1–4 inside it
+  - `map_diagram` — top-down street/area map with position numbers 1–4 on buildings
+  - Default to `four_panel_grid` if no PNG is present.
 
 ### Step 3 — SUBSTITUTE (Surgical Swap)
 
@@ -83,8 +87,11 @@ backend/listening/listening-youtube-data/processed/
 ### Step 5 — GENERATE IMAGE PROMPT (Imagen 3 / Nano Banana)
 
 - Follow `references/imagen3-prompting-guide.md` rules strictly.
-- Generate a **single composite 2×2 grid prompt** containing all 4 panels in one Imagen 3 call.
-- Use the Delta Principle: shared scene context first, then per-panel description of the distinguishing element.
+- Use the `image_type` determined in Step 2 to select the correct prompt template:
+  - `four_panel_grid` → composite 2×2 grid prompt, no numbers in panels
+  - `numbered_scene` → single scene prompt with position numbers 1–4
+  - `map_diagram` → top-down map prompt with position numbers 1–4
+- Record `image_type` in `visual_prompts.image_type`.
 - Record the panel-to-role mapping in `panel_map` (decide correct panel position — vary it across questions).
 
 ### Step 6 — WRITE TTS SCRIPT

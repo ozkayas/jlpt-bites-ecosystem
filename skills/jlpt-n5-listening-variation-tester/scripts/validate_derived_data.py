@@ -9,6 +9,7 @@ import sys
 import argparse
 
 VALID_PATTERNS = {"Reconsideration", "Shortage", "Attribute", "Negative", "Sequential", "Location"}
+VALID_IMAGE_TYPES = {"four_panel_grid", "numbered_scene", "map_diagram"}
 VALID_LOGIC_ROLES = {"Correct", "Distractor_A", "Distractor_B", "Distractor_C"}
 
 
@@ -49,8 +50,16 @@ def validate(data):
         f"got {metadata.get('pattern_used')!r}"
     ))
 
-    # visual_prompts.image_prompt: present and non-empty string
+    # visual_prompts.image_type: one of valid values
     visual_prompts = data.get("visual_prompts", {})
+    image_type = visual_prompts.get("image_type")
+    results.append(check(
+        f"visual_prompts.image_type: one of {sorted(VALID_IMAGE_TYPES)}",
+        image_type in VALID_IMAGE_TYPES,
+        f"got {image_type!r}"
+    ))
+
+    # visual_prompts.image_prompt: present and non-empty string
     image_prompt = visual_prompts.get("image_prompt")
     results.append(check(
         "visual_prompts.image_prompt: present and non-empty string",

@@ -21,6 +21,7 @@ The AI must output a single JSON object following this structure. All index valu
     "pattern_used": "string (Reconsideration | Shortage | Attribute | Negative | Sequential | Location)"
   },
   "visual_prompts": {
+    "image_type": "four_panel_grid",
     "image_prompt": "A 2×2 grid image divided into four equal square panels with thin white borders between them. [Shared subject context]. Top-left panel: [item/scene — shape/size/quantity/position delta]. Top-right panel: [item/scene]. Bottom-left panel: [item/scene]. Bottom-right panel: [item/scene]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
     "panel_map": [
       { "panel": 1, "logic_role": "Correct" },
@@ -85,7 +86,8 @@ The AI must output a single JSON object following this structure. All index valu
 | `metadata.level` | string | Always `"n5"` (lowercase) |
 | `metadata.topic` | string | Short topic description |
 | `metadata.pattern_used` | string | One of: `Reconsideration`, `Shortage`, `Attribute`, `Negative`, `Sequential`, `Location` |
-| `visual_prompts.image_prompt` | string | Single composite 2×2 grid prompt for Imagen 3; monochrome JLPT textbook style; panels differentiated by shape/size/quantity/position — never by color |
+| `visual_prompts.image_type` | string | One of: `"four_panel_grid"`, `"numbered_scene"`, `"map_diagram"` |
+| `visual_prompts.image_prompt` | string | Imagen 3 prompt string; template depends on `image_type`; monochrome JLPT textbook style |
 | `visual_prompts.panel_map[].panel` | number | Panel number 1–4 (1=top-left, 2=top-right, 3=bottom-left, 4=bottom-right) |
 | `visual_prompts.panel_map[].logic_role` | string | `Correct` or `Distractor_A/B/C` |
 | `correct_option` | number | 0-indexed (Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3) |

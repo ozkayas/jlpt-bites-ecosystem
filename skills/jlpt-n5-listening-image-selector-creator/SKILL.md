@@ -16,18 +16,40 @@ You are an expert JLPT N5 examiner specializing in **Listening Mondai 1 (Select 
     *   Use specific Voice IDs: `Male_1`, `Female_1`, `Intro_Voice`.
     *   Ensure the "Intro -> Dialogue -> Question" flow is natural.
 
-## Visual Style Guide (Imagen 3 Composite 2×2 Grid)
+## Image Type Selection
 
-All questions use a **single composite image** with 4 numbered panels arranged in a 2×2 grid — matching the JLPT exam format. The image is generated in one Imagen 3 call.
+Choose `image_type` based on the logic pattern:
 
-### Fixed Style — JLPT Textbook Monochrome
+| Logic Pattern | Recommended `image_type` |
+|---|---|
+| Reconsideration, Shortage, Attribute, Negative, Sequential | `four_panel_grid` |
+| Location/Direction | `map_diagram` |
+| Attribute (object position / room interior) | `numbered_scene` |
 
-All prompts MUST end with this fixed style suffix (do not change):
-```
-Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than panel numbers.
-```
+Record `image_type` in `visual_prompts.image_type`. Use it to select the correct prompt template below.
 
-### Composite Prompt Structure
+---
+
+## Visual Style Guide (Imagen 3)
+
+All questions use a **single image** with 4 options. All prompts must follow JLPT textbook monochrome style:
+
+- Minimalist black and white line art
+- Thick clean outlines, no shading, white background
+- No color references — differentiate panels by shape, size, quantity, position, or presence/absence only
+
+### Panel Assignment
+- `correct_option` is 0-indexed: Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3.
+- `panel_map` records the `logic_role` of each panel (Correct / Distractor_A / Distractor_B / Distractor_C).
+- The correct panel may be placed in any position — vary it across questions.
+
+---
+
+## Prompt Templates
+
+### `four_panel_grid`
+
+4 separate equal panels in a 2×2 grid. No numbers inside panels.
 
 ```
 A 2×2 grid image divided into four equal square panels with thin white borders between them.
@@ -39,19 +61,7 @@ Bottom-right panel: [item/scene description]
 Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
-### Panel Assignment
-- `correct_option` is 0-indexed: Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3.
-- `panel_map` records the `logic_role` of each panel (Correct / Distractor_A / Distractor_B / Distractor_C).
-- The correct panel may be placed in any position — vary it across questions.
-
-### Writing Rules
-1. **Shared subject context first:** Name the object category and minimal setting. Keep backgrounds simple or white.
-2. **Delta per panel:** Each panel description states only the distinguishing element(s) — shape, size, quantity, position, or presence/absence of objects.
-3. **No color references:** Style is monochrome. Never describe items by color. Differentiate by shape, size, quantity, position, or presence/absence only.
-4. **Keep subjects simple:** Clear, recognizable outlines. Avoid complex multi-character scenes.
-5. **No text in panels** except the bold panel numbers (1–4).
-
-### Example Prompt (Reconsideration Pattern — drinks)
+**Example (Reconsideration Pattern — drinks):**
 ```
 A 2×2 grid image divided into four equal square panels with thin white borders between them.
 Japanese café, white background, simple line art objects on a table surface.
@@ -62,11 +72,41 @@ Bottom-right panel: A glass with a straw and ice cubes, no garnish.
 Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
 ```
 
-### Avoid
+### `numbered_scene`
+
+Single scene (room, shop, park, etc.) with small position numbers 1–4 inside it.
+
+```
+A single [room/shop/venue type] illustration, isometric line art view.
+[Scene description: furniture, shelves, layout.]
+Four small number labels (1, 2, 3, 4) mark specific positions within the scene.
+Position 1: [what occupies / what is at this location]
+Position 2: [...]
+Position 3: [...]
+Position 4: [...]
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the position numbers 1, 2, 3, 4.
+```
+
+### `map_diagram`
+
+Top-down street or area map with small position numbers 1–4 on buildings/locations.
+
+```
+A simple top-down street map illustration.
+[Street/block layout description: main road, intersection, directions.]
+Four small number labels (1, 2, 3, 4) mark building or location positions on the map.
+Position 1: [building or location]
+Position 2: [...]
+Position 3: [...]
+Position 4: [...]
+Two simple line-art characters stand at the starting point looking at the map.
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the position numbers 1, 2, 3, 4.
+```
+
+### Avoid (all types)
 - Any color, shading, photorealism, gradients, or 3D rendering.
 - Color-based deltas (e.g., "red hat" vs. "blue hat" — use shape/size instead).
 - Complex backgrounds or textures that compete with panel content.
-- Any text labels inside panels (only the bold numbers 1–4 are allowed).
 
 ## Question Generation Workflow
 

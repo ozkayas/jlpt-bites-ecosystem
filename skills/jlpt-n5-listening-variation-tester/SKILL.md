@@ -42,6 +42,7 @@ EOF
 | `source_clip` | Present and non-empty string |
 | `metadata.level` | Must be `"n5"` (lowercase) |
 | `metadata.pattern_used` | Must be one of: `Reconsideration`, `Shortage`, `Attribute`, `Negative`, `Sequential`, `Location` |
+| `visual_prompts.image_type` | Must be one of: `"four_panel_grid"`, `"numbered_scene"`, `"map_diagram"` |
 | `visual_prompts.image_prompt` | Present and non-empty string |
 | `visual_prompts.panel_map` | Exactly 4 items |
 | `logic_role` values (via `panel_map`) | Exactly one `"Correct"`, one each of `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"` |
@@ -72,6 +73,7 @@ Pass 1 — Mechanical Validation
   ✓ source_clip: present
   ✓ metadata.level: "n5"
   ✓ metadata.pattern_used: "Reconsideration"
+  ✓ visual_prompts.image_type: "four_panel_grid"
   ✓ visual_prompts.image_prompt: present and non-empty string
   ✓ visual_prompts.panel_map: 4 items
   ✓ logic_role distribution: 1 Correct + 3 Distractors
@@ -79,7 +81,7 @@ Pass 1 — Mechanical Validation
   ✓ tts_script: all entries valid
   ✓ transcription.dialogue: non-empty
   ✓ translations: tr + en present
-  PASS — 11/11 checks passed
+  PASS — 12/12 checks passed
 
 Pass 2 — Semantic Review
   ✓ Japanese dialogue: N5 level confirmed

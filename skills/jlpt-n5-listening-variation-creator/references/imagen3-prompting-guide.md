@@ -35,6 +35,20 @@ Every prompt must follow this 5-part order:
 
 ---
 
+## Image Type Detection
+
+When a source PNG is available, read it and determine the `image_type` before writing the prompt. Use these criteria:
+
+| PNG characteristic | `image_type` |
+|---|---|
+| 4 separate equal panels arranged in a 2×2 grid with dividing lines | `four_panel_grid` |
+| Single scene (room, shop, venue interior) with small numbers 1–4 marking positions | `numbered_scene` |
+| Top-down street or area map with small numbers 1–4 on buildings or locations | `map_diagram` |
+
+**Key distinction:** `four_panel_grid` has no numbers inside panels. `numbered_scene` and `map_diagram` require position numbers (1, 2, 3, 4) in the image to mark locations.
+
+---
+
 ## Composite 2×2 Grid Structure (Delta Principle)
 
 All 4 options are generated in a **single Imagen 3 call** as a 2×2 grid image. Each panel contains one option. Only the distinguishing element(s) differ between panels.
@@ -63,7 +77,11 @@ The `panel_map` in `derived-data.json` records which panel holds which `logic_ro
 
 ---
 
-## Composite Prompt Template
+## Prompt Templates by Image Type
+
+### `four_panel_grid`
+
+Use when the question has 4 independent panels, each showing one option. No numbers inside panels.
 
 ```
 A 2×2 grid image divided into four equal square panels with thin white borders between them.
@@ -73,6 +91,37 @@ Top-right panel: [item/scene]
 Bottom-left panel: [item/scene]
 Bottom-right panel: [item/scene]
 Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
+```
+
+### `numbered_scene`
+
+Use when the question shows a single scene (room, shop, park, etc.) with numbered position markers.
+
+```
+A single [room/shop/venue type] illustration, isometric line art view.
+[Scene description: furniture, shelves, layout.]
+Four small number labels (1, 2, 3, 4) mark specific positions within the scene.
+Position 1: [what occupies / what is at this location]
+Position 2: [...]
+Position 3: [...]
+Position 4: [...]
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the position numbers 1, 2, 3, 4.
+```
+
+### `map_diagram`
+
+Use when the question shows a top-down street or area map with numbered building/location markers.
+
+```
+A simple top-down street map illustration.
+[Street/block layout description: main road, intersection, directions.]
+Four small number labels (1, 2, 3, 4) mark building or location positions on the map.
+Position 1: [building or location]
+Position 2: [...]
+Position 3: [...]
+Position 4: [...]
+Two simple line-art characters stand at the starting point looking at the map.
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the position numbers 1, 2, 3, 4.
 ```
 
 ---
