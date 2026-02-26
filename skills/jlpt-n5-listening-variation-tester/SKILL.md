@@ -1,11 +1,11 @@
 ---
 name: jlpt-n5-listening-variation-tester
-description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator. Use this skill when the user asks to test, validate, check, or verify a listening variation JSON. Performs two passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
+description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then generate TTS audio if validation passes. Use this skill when the user asks to test, validate, check, or verify a listening variation JSON. Performs three passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) Gemini TTS audio generation. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
 ---
 
 # JLPT N5 Listening Variation Tester
 
-Validate a `derived-data.json` file using a two-pass approach: mechanical schema check first, then semantic/linguistic review.
+Validate a `derived-data.json` file using a three-pass approach: mechanical schema check, semantic/linguistic review, then Gemini TTS audio generation.
 
 ## Workflow
 
@@ -31,7 +31,19 @@ EOF
    - `image_prompt` matches the scene logic (panel descriptions align with each panel's `logic_role` — correct panel depicts the right answer, distractor panels depict the wrong options).
    - The variation is meaningfully different from what a source clip would typically contain (not a trivial rename).
    - `analysis.vocabulary[].reading` fields are hiragana (not romaji).
-6. Report final results — Pass 1 script summary + Pass 2 semantic findings.
+6. If Pass 2 finds failures, report them and stop — do not proceed to Pass 3.
+7. Run **Pass 3 — Audio Generation** (only if a real file path was provided):
+
+```bash
+python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> \
+  --output <clip_folder>/variation.wav
+# Output: variation.wav in the same folder as derived-data.json
+```
+
+   - Output file is always named `variation.wav` (distinguishes it from the original `audio.mp3`).
+   - If JSON was provided as inline content (no real file path), skip Pass 3 and print the manual command for the user to run.
+   - Requires `GEMINI_API_KEY` or `GEMINI_API_KEYS` environment variable.
+8. Report final results — all three passes.
 
 ---
 
@@ -66,6 +78,24 @@ EOF
 
 ---
 
+## Pass 3 — Audio Generation
+
+Runs `generate_tts_audio.py` which:
+- Sends `Intro_Voice` lines to Gemini as single-speaker calls (Kore voice)
+- Sends all `Male_1` / `Female_1` dialogue lines as one multi-speaker call (Puck + Zephyr voices)
+- Generates silence segments for `break` entries
+- Stitches all segments into a final `.wav` file
+
+**Output:** `variation.wav` saved next to `derived-data.json` (named to distinguish from the original `audio.mp3` in the same folder)
+
+**Skip condition:** If JSON was provided inline (not from a file path), print this command and ask the user to run it manually:
+```bash
+python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> \
+  --output <clip_folder>/variation.wav
+```
+
+---
+
 ## Output Format
 
 ```
@@ -90,6 +120,11 @@ Pass 2 — Semantic Review
   ✓ Image prompt: all 4 panel descriptions match their panel_map logic roles
   ✓ Variation novelty: significantly different from typical cafe/drink source clips
   PASS — All semantic checks passed
+
+Pass 3 — Audio Generation
+  Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation.wav
+  ✓ Audio generated: variation.wav (12.3s | 591 KB)
+  PASS — Audio ready
 ```
 
-If anything fails, report the specific field or criterion and what was found vs. what was expected.
+If anything fails in Pass 1 or Pass 2, report the specific field or criterion and what was found vs. what was expected. Pass 3 is only attempted after both Pass 1 and Pass 2 succeed.
