@@ -79,7 +79,7 @@ Pass 1 — Mechanical Validation
   ✓ tts_script: all entries valid
   ✓ transcription.dialogue: non-empty
   ✓ translations: tr + en present
-  PASS — 9/9 checks passed
+  PASS — 11/11 checks passed
 
 Pass 2 — Semantic Review
   ✓ Japanese dialogue: N5 level confirmed
