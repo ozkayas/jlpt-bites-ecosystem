@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "ぱーてぃーの　じゅんび (Party Preparation)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとは　なにを　かいますか？",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "たいへん！　もうすぐ　ぱーてぃーが　はじまりますが、ぱんが　ありません。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "じゃあ、いまから　かって　きますよ。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "ありがとうございます。ばたーも　すくないですから、おねがいします。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "じゅーすは　もっと　いりますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ、じゅーすは　だいじょうぶです。"
+      }
+    ],
+    "question": "おとこのひとは　なにを　かいますか？"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "たいへん",
+        "tr": "eyvah / zor durum",
+        "en": "oh no / trouble"
+      },
+      {
+        "word": "もうすぐ",
+        "tr": "yakında / birazdan",
+        "en": "soon"
+      },
+      {
+        "word": "ぱん",
+        "tr": "ekmek",
+        "en": "bread"
+      },
+      {
+        "word": "ばたー",
+        "tr": "tereyağı",
+        "en": "butter"
+      },
+      {
+        "word": "すくない",
+        "tr": "az",
+        "en": "few / little"
+      },
+      {
+        "word": "じゅーす",
+        "tr": "meyve suyu",
+        "en": "juice"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜が　ありません",
+        "tr": "...yok / bulunmuyor",
+        "en": "there is no..."
+      },
+      {
+        "point": "〜て　きます",
+        "tr": "bir şey yapıp gelmek (hareket bildirir)",
+        "en": "to go do something and come back"
+      },
+      {
+        "point": "〜ですから",
+        "tr": "...olduğu için (neden belirtir)",
+        "en": "because... (indicates reason)"
+      },
+      {
+        "point": "〜は　だいじょうぶです",
+        "tr": "...gerek yok / sorun yok",
+        "en": "...is fine / not needed"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın ekmeğin (pan) olmadığını ve tereyağının (bata-) azaldığını söylüyor. Erkek meyve suyu (ju-su) alıp almayacağını sorduğunda kadın meyve suyunun yeterli olduğunu (daijoubu) belirterek reddediyor. Bu nedenle erkek ekmek ve tereyağı alacaktır.",
+    "en": "The woman says there is no bread (pan) and that the butter (bata-) is low. When the man asks if more juice (ju-su) is needed, the woman says juice is fine (daijoubu), indicating it's not needed. Therefore, the man will buy bread and butter."
+  }
+}

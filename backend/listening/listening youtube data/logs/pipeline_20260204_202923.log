@@ -1,0 +1,23 @@
+2026-02-04 20:29:23,248 - INFO - Loading Whisper model (this may take a moment on first run)...
+2026-02-04 20:29:23,679 - INFO - Whisper model loaded
+2026-02-04 20:29:23,680 - INFO - Loaded 111 N5 kanji
+2026-02-04 20:29:23,934 - INFO - ============================================================
+2026-02-04 20:29:23,934 - INFO - PIPELINE START
+2026-02-04 20:29:23,934 - INFO - ============================================================
+2026-02-04 20:29:23,934 - INFO - YouTube URL: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:29:23,934 - INFO - Ranges: [{'start': 65, 'end': 120}, {'start': 136, 'end': 190}]
+2026-02-04 20:29:23,934 - INFO - Target Languages: ['en', 'tr']
+2026-02-04 20:29:23,934 - INFO - ------------------------------------------------------------
+2026-02-04 20:29:23,934 - INFO - Node 1: Download
+2026-02-04 20:29:23,934 - INFO - ------------------------------------------------------------
+2026-02-04 20:29:23,934 - INFO - Attempt 1: Trying without authentication
+2026-02-04 20:29:23,934 - INFO - Downloading audio from: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:29:31,093 - WARNING - ✗ Attempt 1 failed: 403 Forbidden
+2026-02-04 20:29:31,094 - INFO - Attempt 2: Trying to extract cookies from Chrome
+2026-02-04 20:29:31,094 - INFO - Downloading audio from: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:30:08,823 - WARNING - ✗ Attempt 2 failed: 403 Forbidden
+2026-02-04 20:30:08,831 - INFO - Attempt 3: Trying to extract cookies from Safari
+2026-02-04 20:30:08,831 - INFO - Downloading audio from: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:30:08,888 - ERROR - ERROR in download: [0;31mERROR:[0m [Errno 1] Operation not permitted: '/Users/suatozkaya/Library/Containers/com.apple.Safari/Data/Library/Cookies/Cookies.binarycookies'
+2026-02-04 20:30:08,889 - ERROR - Download failed: [0;31mERROR:[0m [Errno 1] Operation not permitted: '/Users/suatozkaya/Library/Containers/com.apple.Safari/Data/Library/Cookies/Cookies.binarycookies'
+2026-02-04 20:30:08,889 - ERROR - Pipeline aborted

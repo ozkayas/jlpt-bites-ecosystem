@@ -1,0 +1,31 @@
+2026-02-23 16:42:47,753 - INFO - ============================================================
+2026-02-23 16:42:47,753 - INFO - AUDIO SLICER PIPELINE START
+2026-02-23 16:42:47,753 - INFO - ============================================================
+2026-02-23 16:42:47,753 - INFO - YouTube URL: https://www.youtube.com/watch?v=YBAJDQ_zDJg
+2026-02-23 16:42:47,753 - INFO - Ranges: [{'start': '1:06', 'end': '2:06'}, {'start': '2:21', 'end': '3:13'}, {'start': '3:29', 'end': '4:14'}, {'start': '4:29', 'end': '5:17'}, {'start': '5:33', 'end': '6:26'}, {'start': '7:58', 'end': '8:52'}]
+2026-02-23 16:42:47,753 - INFO - ------------------------------------------------------------
+2026-02-23 16:42:47,753 - INFO - Node 1: Download
+2026-02-23 16:42:47,753 - INFO - ------------------------------------------------------------
+2026-02-23 16:42:49,801 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-02-23 16:44:53,168 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-02-23 16:44:53,168 - INFO - Saved to: source_audio/YBAJDQ_zDJg.mp3
+2026-02-23 16:44:53,169 - INFO - ------------------------------------------------------------
+2026-02-23 16:44:53,169 - INFO - Node 2: Slice
+2026-02-23 16:44:53,169 - INFO - ------------------------------------------------------------
+2026-02-23 16:44:53,169 - INFO - clip_01_01m06s_02m06s: Slicing audio...
+2026-02-23 16:44:53,209 - INFO - clip_01_01m06s_02m06s: Sliced successfully
+2026-02-23 16:44:53,209 - INFO - clip_02_02m21s_03m13s: Slicing audio...
+2026-02-23 16:44:53,244 - INFO - clip_02_02m21s_03m13s: Sliced successfully
+2026-02-23 16:44:53,245 - INFO - clip_03_03m29s_04m14s: Slicing audio...
+2026-02-23 16:44:53,280 - INFO - clip_03_03m29s_04m14s: Sliced successfully
+2026-02-23 16:44:53,280 - INFO - clip_04_04m29s_05m17s: Slicing audio...
+2026-02-23 16:44:53,317 - INFO - clip_04_04m29s_05m17s: Sliced successfully
+2026-02-23 16:44:53,317 - INFO - clip_05_05m33s_06m26s: Slicing audio...
+2026-02-23 16:44:53,354 - INFO - clip_05_05m33s_06m26s: Sliced successfully
+2026-02-23 16:44:53,354 - INFO - clip_06_07m58s_08m52s: Slicing audio...
+2026-02-23 16:44:53,394 - INFO - clip_06_07m58s_08m52s: Sliced successfully
+2026-02-23 16:44:53,394 - INFO - ============================================================
+2026-02-23 16:44:53,394 - INFO - PIPELINE COMPLETE
+2026-02-23 16:44:53,394 - INFO - ============================================================
+2026-02-23 16:44:53,394 - INFO - Output: 6 audio clips generated
+2026-02-23 16:44:53,394 - INFO - Location: clips/

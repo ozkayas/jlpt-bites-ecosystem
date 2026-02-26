@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "きっさてんで　のみものを　ちゅうもんする (Ordering drinks at a cafe)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　きっさてんで　はなしています。おんなのひとは　なにを　のみますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "おみせのなかは　すずしいですね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ええ。じゃあ、ぼくは　おれんじじゅうすに　します。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、いいですね。でも、わたしは　けさ　のみましたから、ほかの　のみものに　します。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "じゃあ、あいすこーひーは　どうですか？ここのは、おいしいですよ。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ええ、しっています。でも、ひるにも　つめたい　のみものを　のみましたから、あたたかい　ほうに　します。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですか。"
+            }
+        ],
+        "question": "おんなのひとは　なにを　のみますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きっさてん",
+                "tr": "kafe",
+                "en": "cafe"
+            },
+            {
+                "word": "すずしい",
+                "tr": "serin",
+                "en": "cool"
+            },
+            {
+                "word": "けさ",
+                "tr": "bu sabah",
+                "en": "this morning"
+            },
+            {
+                "word": "ほかの",
+                "tr": "diğer / başka",
+                "en": "other"
+            },
+            {
+                "word": "つめたい",
+                "tr": "soğuk (dokunma hissi/içecekler için)",
+                "en": "cold (to the touch/for drinks)"
+            },
+            {
+                "word": "あたたかい",
+                "tr": "sıcak / ılık",
+                "en": "warm / hot"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にする",
+                "tr": "bir şeye karar vermek / seçmek",
+                "en": "to decide on / to choose"
+            },
+            {
+                "point": "～から",
+                "tr": "çünkü / -den dolayı",
+                "en": "because / since"
+            },
+            {
+                "point": "～はどうですか",
+                "tr": "... nasıl? / ... ne dersiniz?",
+                "en": "how about...?"
+            },
+            {
+                "point": "～ほう",
+                "tr": "... tarafı / ... olanı (tercih belirtirken)",
+                "en": "the one (used when making a choice between options)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın, sabah portakal suyu içtiği için erkek arkadaşının portakal suyu önerisini kabul etmez. Ardından, öğle yemeğinde de soğuk bir içecek içtiği için buzlu kahve yerine sıcak bir içecek (あたたかい　ほう) içmeye karar verir.",
+        "en": "The woman rejects the man's suggestion of orange juice because she already drank it this morning. Then, she rejects the iced coffee because she already had a cold drink at lunch, deciding instead to have a warm drink (あたたかい　ほう)."
+    }
+}

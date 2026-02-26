@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "しゃしんを　みて　かぞくに　ついて　はなす (Talking about family while looking at a photo)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。おとこのひとの　いもうとは　どの　ひとですか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "これは　かぞくの　しゃしんですか？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "この　かみの　ながい　ひとは　いもうとさんですか？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いいえ、それは　あねです。いもうとは　こっちです。めがねを　かけて　います。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ああ、これが　いもうとさんですか。"
+            }
+        ],
+        "question": "おとこのひとの　いもうとは　どの　ひとですか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゃしん",
+                "tr": "fotoğraf",
+                "en": "photo"
+            },
+            {
+                "word": "かぞく",
+                "tr": "aile",
+                "en": "family"
+            },
+            {
+                "word": "かみ",
+                "tr": "saç",
+                "en": "hair"
+            },
+            {
+                "word": "ながい",
+                "tr": "uzun",
+                "en": "long"
+            },
+            {
+                "word": "いもうと",
+                "tr": "kız kardeş (küçük)",
+                "en": "younger sister"
+            },
+            {
+                "word": "あね",
+                "tr": "abla (büyük kız kardeş)",
+                "en": "older sister"
+            },
+            {
+                "word": "めがね",
+                "tr": "gözlük",
+                "en": "glasses"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "どの　ひと",
+                "tr": "hangi kişi",
+                "en": "which person"
+            },
+            {
+                "point": "～を　かけて　います",
+                "tr": "(gözlük) takıyor / takmış durumda",
+                "en": "wearing (glasses)"
+            },
+            {
+                "point": "～さん",
+                "tr": "başkalarının aile üyelerinden bahsederken kullanılan saygı eki",
+                "en": "polite suffix used when referring to someone else's family members"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın, fotoğraftaki uzun saçlı kişinin kız kardeş olup olmadığını sorar. Erkek, uzun saçlı kişinin ablası (あね) olduğunu, kız kardeşinin (いもうと) ise gözlük takan (めがねを　かけて　います) kişi olduğunu belirterek durumu açıklar.",
+        "en": "The woman asks if the person with long hair is the younger sister. The man clarifies that the long-haired person is his older sister (あね) and that his younger sister (いもうと) is the one wearing glasses (めがねを　かけて　います)."
+    }
+}

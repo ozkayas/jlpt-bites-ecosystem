@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Days of the week and making a reservation",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "でんわで れすとらんのひとと おとこのひとが はなしています。おとこのひとは いつ れすとらんへ いきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "おでんわ ありがとうございます。さくられすとらんです。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あの、あしたの しちじに さんにんで よやくを したいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "もうしわけありません。まいしゅう げつようびは おやすみです。かようびか すいようびは どうですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "うーん。すいようびは ちょっと……。あさっての しちじは どうですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、だいじょうぶです。あさっての しちじですね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、よろしく おねがいします。"
+            }
+        ],
+        "question": "おとこのひとは いつ れすとらんへ いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "よやく",
+                "tr": "rezervasyon",
+                "en": "reservation"
+            },
+            {
+                "word": "まいしゅう",
+                "tr": "her hafta",
+                "en": "every week"
+            },
+            {
+                "word": "げつようび",
+                "tr": "Pazartesi",
+                "en": "Monday"
+            },
+            {
+                "word": "かようび",
+                "tr": "Salı",
+                "en": "Tuesday"
+            },
+            {
+                "word": "すいようび",
+                "tr": "Çarşamba",
+                "en": "Wednesday"
+            },
+            {
+                "word": "あした",
+                "tr": "yarın",
+                "en": "tomorrow"
+            },
+            {
+                "word": "あさって",
+                "tr": "yarından sonraki gün",
+                "en": "the day after tomorrow"
+            },
+            {
+                "word": "おやすみ",
+                "tr": "tatil / kapalı",
+                "en": "holiday / closed"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たいんですが",
+                "tr": "... yapmak istiyorum ama (yardımcı olabilir misiniz?)",
+                "en": "I'd like to ..., but (would you help?)"
+            },
+            {
+                "point": "～は どうですか",
+                "tr": "... ne dersiniz? / ... nasıl?",
+                "en": "How about ...?"
+            },
+            {
+                "point": "～は ちょっと",
+                "tr": "... biraz zor / uygun değil (nezaketen reddetme)",
+                "en": "is a bit... (polite refusal/inconvenience)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam başlangıçta 'yarın' (あした) için rezervasyon yaptırmak istiyor. Kadın, yarın Pazartesi (げつようび) olduğu için kapalı olduklarını söylüyor ve Salı veya Çarşamba'yı öneriyor. Adam Çarşamba'nın uygun olmadığını belirtip 'yarından sonraki gün' (あさって) için soruyor. Kadın onaylıyor. Yarın Pazartesi olduğuna göre, yarından sonraki gün Salı'dır.",
+        "en": "The man initially wants a reservation for 'tomorrow' (あした). The woman says they are closed tomorrow because it's Monday (げつようび) and suggests Tuesday or Wednesday. The man says Wednesday is inconvenient and asks for 'the day after tomorrow' (あさって). The woman agrees. Since tomorrow is Monday, the day after tomorrow is Tuesday."
+    }
+}

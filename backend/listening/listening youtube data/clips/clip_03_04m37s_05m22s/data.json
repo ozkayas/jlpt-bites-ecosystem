@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ゆうびんきょくの　ばしょを　きく (Asking for the location of the post office)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　どこへ　いきますか？",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "すみません、ちかくに　ゆうびんきょくは　ありますか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あの　おおきい　ぎんこう　みえますか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あそこの　こうさてんを　ひだりに　まがって、すこし　あるきます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ゆうびんきょくは　こんびにの　となりですよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はあ、ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは　どこへ　いきますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "こうさてん",
+                "tr": "kavşak",
+                "en": "intersection"
+            },
+            {
+                "word": "ひだり",
+                "tr": "sol",
+                "en": "left"
+            },
+            {
+                "word": "まがる",
+                "tr": "dönmek",
+                "en": "to turn"
+            },
+            {
+                "word": "となり",
+                "tr": "yan / bitişik",
+                "en": "next to"
+            },
+            {
+                "word": "こんびに",
+                "tr": "market (konbini)",
+                "en": "convenience store"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　ありますか",
+                "tr": "... var mı?",
+                "en": "Is there ...?"
+            },
+            {
+                "point": "～を　まがって",
+                "tr": "...-den dönüp (te-formu ile sıralı eylem)",
+                "en": "turn at ... (using te-form for sequence of actions)"
+            },
+            {
+                "point": "～の　となり",
+                "tr": "...-nın yanında",
+                "en": "next to ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam postaneye gitmek istiyor. Kadın ona büyük bankanın oradaki kavşaktan sola dönmesini ve biraz yürümesini söyler. Postanenin marketin (konbini) hemen yanında olduğunu belirtir.",
+        "en": "The man wants to go to the post office. The woman tells him to turn left at the intersection where the big bank is and walk a little. She notes that the post office is located right next to the convenience store."
+    }
+}

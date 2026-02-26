@@ -1,0 +1,1950 @@
+{
+  "v": 1,
+  "items": [
+    [
+      "00001",
+      "<t>四月</t>に、わたしはにほんにいきたいです。",
+      {
+        "tr": "Nisan ayında Japonya'ya gitmek istiyorum.",
+        "en": "I want to go to Japan in April.",
+        "de": "Ich möchte im April nach Japan reisen.",
+        "es": "Quiero ir a Japón en abril."
+      },
+      [
+        "しがつ",
+        "よんがつ",
+        "よがつ",
+        "よっがつ"
+      ]
+    ],
+    [
+      "00002",
+      "<t>質問</t>があります。",
+      {
+        "tr": "Bir sorum var.",
+        "en": "I have a question.",
+        "de": "Ich habe eine Frage.",
+        "es": "Tengo una pregunta."
+      },
+      [
+        "しつもん",
+        "こたえ",
+        "もんく",
+        "しすもん"
+      ]
+    ],
+    [
+      "00003",
+      "このカバンは<t>三千円</t>です。",
+      {
+        "tr": "Bu çanta 3.000 yen.",
+        "en": "This bag costs 3,000 yen.",
+        "de": "Diese Tasche kostet 3.000 Yen.",
+        "es": "Este bolso cuesta 3.000 yenes."
+      },
+      [
+        "さんぜんえん",
+        "さんまんえん",
+        "さんびゃくえん",
+        "さんせんえん"
+      ]
+    ],
+    [
+      "00004",
+      "<t>毎日</t>、がっこうへいきます。",
+      {
+        "tr": "Her gün okula giderim.",
+        "en": "I go to school every day.",
+        "de": "Ich gehe jeden Tag zur Schule.",
+        "es": "Voy a la escuela todos los días."
+      },
+      [
+        "まいにち",
+        "うみにち",
+        "まいしゅう",
+        "まいばん"
+      ]
+    ],
+    [
+      "00005",
+      "<t>外国語</t>をべんきょうしたいです。",
+      {
+        "tr": "Yabancı diller öğrenmek istiyorum.",
+        "en": "I want to study foreign languages.",
+        "de": "Ich möchte Fremdsprachen lernen.",
+        "es": "Quiero estudiar idiomas extranjeros."
+      },
+      [
+        "がいこくご",
+        "そとこくご",
+        "そとくにご",
+        "がいこくこ"
+      ]
+    ],
+    [
+      "00006",
+      "きょうは<t>休み</t>です。",
+      {
+        "tr": "Bugün tatil.",
+        "en": "Today is a holiday.",
+        "de": "Heute ist ein Feiertag.",
+        "es": "Hoy es feriado."
+      },
+      [
+        "やすみ",
+        "からだみ",
+        "きみ",
+        "やみ"
+      ]
+    ],
+    [
+      "00007",
+      "まいばん、ぎゅうにゅうを<t>飲みます</t>。",
+      {
+        "tr": "Her akşam süt içerim.",
+        "en": "I drink milk every night.",
+        "de": "Ich trinke jeden Abend Milch.",
+        "es": "Tomo leche todas las noches."
+      },
+      [
+        "のみます",
+        "たべます",
+        "きみます",
+        "みみます"
+      ]
+    ],
+    [
+      "00008",
+      "あしたは<t>月よう日</t>です。",
+      {
+        "tr": "Yarın pazartesi.",
+        "en": "Tomorrow is Monday.",
+        "de": "Morgen ist Montag.",
+        "es": "Mañana es lunes."
+      },
+      [
+        "げつようび",
+        "かようび",
+        "もくようび",
+        "どようび"
+      ]
+    ],
+    [
+      "00009",
+      "わたしは<t>日本人</t>です。",
+      {
+        "tr": "Ben Japonum.",
+        "en": "I am Japanese.",
+        "de": "Ich bin Japaner.",
+        "es": "Soy japonés."
+      },
+      [
+        "にほんじん",
+        "にほんひと",
+        "にほんびと",
+        "びほんびと"
+      ]
+    ],
+    [
+      "00010",
+      "<t>今年</t>２５さいです。",
+      {
+        "tr": "Bu yıl 25 yaşındayım.",
+        "en": "I am 25 years old this year.",
+        "de": "Ich werde dieses Jahr 25 Jahre alt.",
+        "es": "Este año cumplo 25 años."
+      },
+      [
+        "ことし",
+        "こんねん",
+        "きょねん",
+        "らいねん"
+      ]
+    ],
+    [
+      "00011",
+      "このへやは<t>大きい</t>ですね。",
+      {
+        "tr": "Bu oda büyük, değil mi?",
+        "en": "This room is big, isn't it?",
+        "de": "Dieser Raum ist groß, nicht wahr?",
+        "es": "Esta habitación es grande, ¿no?"
+      },
+      [
+        "おおきい",
+        "だいきい",
+        "おきい",
+        "おいきい"
+      ]
+    ],
+    [
+      "00012",
+      "このなかに<t>水</t>をいれてください。",
+      {
+        "tr": "Lütfen bunun içine su koyun.",
+        "en": "Please put water in this.",
+        "de": "Bitte geben Sie Wasser hinein.",
+        "es": "Por favor, pon agua en esto."
+      },
+      [
+        "みず",
+        "すい",
+        "すえ",
+        "よっ"
+      ]
+    ],
+    [
+      "00013",
+      "きのう、<t>本</t>をかいました。",
+      {
+        "tr": "Dün bir kitap aldım.",
+        "en": "I bought a book yesterday.",
+        "de": "Ich habe gestern ein Buch gekauft.",
+        "es": "Compré un libro ayer."
+      },
+      [
+        "ほん",
+        "き",
+        "ぼん",
+        "ぽん"
+      ]
+    ],
+    [
+      "00014",
+      "この<t>花</t>のなまえをしっていますか。",
+      {
+        "tr": "Bu çiçeğin adını biliyor musun?",
+        "en": "Do you know the name of this flower?",
+        "de": "Kennen Sie den Namen dieser Blume?",
+        "es": "¿Sabes el nombre de esta flor?"
+      },
+      [
+        "はな",
+        "ばな",
+        "き",
+        "くさ"
+      ]
+    ],
+    [
+      "00015",
+      "<t>先月</t>、いえへかえりました。",
+      {
+        "tr": "Geçen ay eve döndüm.",
+        "en": "I returned home last month.",
+        "de": "Ich bin letzten Monat nach Hause zurückgekehrt.",
+        "es": "Regresé a casa el mes pasado."
+      },
+      [
+        "せんげつ",
+        "せんがつ",
+        "せんつき",
+        "らいつき"
+      ]
+    ],
+    [
+      "00016",
+      "りょうりを<t>作って</t>います。",
+      {
+        "tr": "Yemek yapıyorum.",
+        "en": "I am cooking.",
+        "de": "Ich koche.",
+        "es": "Estoy cocinando."
+      },
+      [
+        "つくって",
+        "さくって",
+        "ざくって",
+        "きって"
+      ]
+    ],
+    [
+      "00017",
+      "えきの<t>出口</t>はどちらですか。",
+      {
+        "tr": "İstasyonun çıkışı nerede?",
+        "en": "Where is the station exit?",
+        "de": "Wo ist der Bahnhofsausgang?",
+        "es": "¿Dónde está la salida de la estación?"
+      },
+      [
+        "でぐち",
+        "でくち",
+        "でこう",
+        "てくち"
+      ]
+    ],
+    [
+      "00018",
+      "アイスクリームを<t>四つ</t>ください。",
+      {
+        "tr": "Lütfen dört dondurma verin.",
+        "en": "Please give me four ice creams.",
+        "de": "Bitte gib mir vier Eis.",
+        "es": "Por favor dame cuatro helados."
+      },
+      [
+        "よっつ",
+        "よんつ",
+        "よつ",
+        "ふたつ"
+      ]
+    ],
+    [
+      "00019",
+      "きのうのよるから<t>手</t>がいたいです。",
+      {
+        "tr": "Dün geceden beri elim ağrıyor.",
+        "en": "My hand has been hurting since last night.",
+        "de": "Meine Hand tut seit letzter Nacht weh.",
+        "es": "Me duele la mano desde anoche."
+      },
+      [
+        "て",
+        "あし",
+        "おなか",
+        "あたま"
+      ]
+    ],
+    [
+      "00020",
+      "がっこうは<t>何時</t>からですか。",
+      {
+        "tr": "Okul saat kaçta başlıyor?",
+        "en": "What time does school start?",
+        "de": "Wann beginnt die Schule?",
+        "es": "¿A qué hora empieza la escuela?"
+      },
+      [
+        "なんじ",
+        "なにじかん",
+        "ばんし",
+        "なにじ"
+      ]
+    ],
+    [
+      "00021",
+      "としょかんでにほんごのほんを<t>読みます</t>。",
+      {
+        "tr": "Kütüphanede Japonca kitap okurum.",
+        "en": "I read Japanese books at the library.",
+        "de": "Ich lese japanische Bücher in der Bibliothek.",
+        "es": "Leo libros japoneses en la biblioteca."
+      },
+      [
+        "よみます",
+        "やみます",
+        "やすみます",
+        "よすみます"
+      ]
+    ],
+    [
+      "00022",
+      "あのひとはとても<t>有名</t>です。",
+      {
+        "tr": "O kişi çok ünlü.",
+        "en": "That person is very famous.",
+        "de": "Diese Person ist sehr berühmt."
+      },
+      [
+        "ゆうめい",
+        "ゆうな",
+        "みぎめい",
+        "ゆうめ"
+      ]
+    ],
+    [
+      "00023",
+      "つくえの<t>下</t>にねこがいます。",
+      {
+        "tr": "Masanın altında bir kedi var.",
+        "en": "There is a cat under the desk.",
+        "de": "Unter dem Schreibtisch ist eine Katze.",
+        "es": "Hay un gato debajo del escritorio."
+      },
+      [
+        "した",
+        "うえ",
+        "そと",
+        "なか"
+      ]
+    ],
+    [
+      "00024",
+      "このうわぎは<t>八千円</t>です。",
+      {
+        "tr": "Bu ceket 8000 yen.",
+        "en": "This jacket is 8000 yen.",
+        "de": "Diese Jacke kostet 8000 Yen.",
+        "es": "Esta chaqueta cuesta 8000 yenes."
+      },
+      [
+        "はっせんえん",
+        "はちせんえん",
+        "はちまんえん",
+        "はちぜんえん"
+      ]
+    ],
+    [
+      "00025",
+      "このホテルはへやが<t>多い</t>です。",
+      {
+        "tr": "Bu otelde birçok oda var.",
+        "en": "This hotel has many rooms.",
+        "de": "Dieses Hotel verfügt über viele Zimmer.",
+        "es": "Este hotel tiene muchas habitaciones."
+      },
+      [
+        "おおい",
+        "すくない",
+        "せまい",
+        "ひろい"
+      ]
+    ],
+    [
+      "00026",
+      "ごはんの<t>後</t>でさんぽします。",
+      {
+        "tr": "Yemekten sonra yürüyüş yaparım.",
+        "en": "I take a walk after meals.",
+        "de": "Nach dem Essen mache ich einen Spaziergang.",
+        "es": "Salgo a caminar después de las comidas."
+      },
+      [
+        "あと",
+        "まえ",
+        "うしろ",
+        "うみ"
+      ]
+    ],
+    [
+      "00027",
+      "ちかくに<t>山</t>があります。",
+      {
+        "tr": "Yakınlarda bir dağ var.",
+        "en": "There is a mountain nearby.",
+        "de": "In der Nähe ist ein Berg.",
+        "es": "Hay una montaña cerca."
+      },
+      [
+        "やま",
+        "うみ",
+        "かわ",
+        "しま"
+      ]
+    ],
+    [
+      "00028",
+      "ともだちといっしょに<t>学校</t>にいきます。",
+      {
+        "tr": "Arkadaşımla birlikte okula giderim.",
+        "en": "I go to school with my friend.",
+        "de": "Ich gehe mit meinem Freund zur Schule."
+      },
+      [
+        "がっこう",
+        "がくこう",
+        "がこう",
+        "がっこ"
+      ]
+    ],
+    [
+      "00029",
+      "この<t>新聞</t>はいくらですか。",
+      {
+        "tr": "Bu gazetenin fiyatı nedir?",
+        "en": "How much is this newspaper?",
+        "de": "Wie viel kostet diese Zeitung?",
+        "es": "¿Cuánto cuesta este periódico?"
+      },
+      [
+        "しんぶん",
+        "ざっし",
+        "しむん",
+        "しぶん"
+      ]
+    ],
+    [
+      "00030",
+      "このカメラは<t>安い</t>です。",
+      {
+        "tr": "Bu kamera ucuz.",
+        "en": "This camera is cheap.",
+        "de": "Diese Kamera ist günstig.",
+        "es": "Esta cámara es barata."
+      },
+      [
+        "やすい",
+        "たかい",
+        "あんい",
+        "おなのい"
+      ]
+    ],
+    [
+      "00031",
+      "あの<t>先生</t>はわかいです。",
+      {
+        "tr": "O öğretmen gençtir.",
+        "en": "That teacher is young.",
+        "de": "Dieser Lehrer ist jung.",
+        "es": "Ese maestro es joven."
+      },
+      [
+        "せんせい",
+        "がくせい",
+        "さきせい",
+        "さきなま"
+      ]
+    ],
+    [
+      "00032",
+      "すみません、<t>お金</t>をわすれました。",
+      {
+        "tr": "Afedersiniz, paramı unuttum.",
+        "en": "Excuse me, I forgot my money.",
+        "de": "Entschuldigung, ich habe mein Geld vergessen.",
+        "es": "Disculpe, olvidé mi dinero."
+      },
+      [
+        "おかね",
+        "おきん",
+        "おぎん",
+        "おがね"
+      ]
+    ],
+    [
+      "00033",
+      "<t>右</t>がわにとしょかんがあります。",
+      {
+        "tr": "Sağ tarafta bir kütüphane var.",
+        "en": "There is a library on the right side.",
+        "de": "Auf der rechten Seite befindet sich eine Bibliothek.",
+        "es": "Hay una biblioteca en el lado derecho."
+      },
+      [
+        "みぎ",
+        "ひだり",
+        "みき",
+        "ひたり"
+      ]
+    ],
+    [
+      "00034",
+      "まいにち、<t>電車</t>でがっこうへいきます。",
+      {
+        "tr": "Her gün trenle okula giderim.",
+        "en": "I go to school by train every day.",
+        "de": "Ich fahre jeden Tag mit dem Zug zur Schule.",
+        "es": "Voy a la escuela en tren todos los días."
+      },
+      [
+        "でんしゃ",
+        "しんかんせん",
+        "じどうしゃ",
+        "でんじゃ"
+      ]
+    ],
+    [
+      "00035",
+      "このクラスは<t>女の子</t>がおおいです。",
+      {
+        "tr": "Bu sınıfta çok kız öğrenci var.",
+        "en": "There are many girls in this class.",
+        "de": "In dieser Klasse sind viele Mädchen.",
+        "es": "Hay muchas chicas en esta clase."
+      },
+      [
+        "おんなのこ",
+        "おとこのこ",
+        "おなのこう",
+        "こども"
+      ]
+    ],
+    [
+      "00036",
+      "すみません、もっと<t>長い</t>コートはありませんか。",
+      {
+        "tr": "Afedersiniz, daha uzun bir palto yok mu?",
+        "en": "Excuse me, do you have a longer coat?",
+        "de": "Entschuldigung, haben Sie einen längeren Mantel?",
+        "es": "Disculpe, ¿tiene un abrigo más largo?"
+      },
+      [
+        "ながい",
+        "みじかい",
+        "たかい",
+        "ひろい"
+      ]
+    ],
+    [
+      "00037",
+      "にほんでは、しがつに<t>入学</t>します。",
+      {
+        "tr": "Japonya’da Nisan ayında okula başlanır.",
+        "en": "In Japan, the school year starts in April.",
+        "de": "In Japan beginnt das Schuljahr im April.",
+        "es": "En Japón, el año escolar comienza en abril."
+      },
+      [
+        "にゅうがく",
+        "はいがく",
+        "いりがく",
+        "おとおさん"
+      ]
+    ],
+    [
+      "00038",
+      "<t>来週</t>、わたしはアメリカへしゅっちょうします。",
+      {
+        "tr": "Gelecek hafta Amerika’ya iş seyahatine gideceğim.",
+        "en": "Next week, I will go on a business trip to America.",
+        "de": "Nächste Woche werde ich eine Geschäftsreise nach Amerika unternehmen.",
+        "es": "La semana que viene haré un viaje de negocios a Estados Unidos."
+      },
+      [
+        "らいしゅう",
+        "しょうらい",
+        "こんしゅう",
+        "せんしゅう"
+      ]
+    ],
+    [
+      "00039",
+      "にほんごを<t>話します</t>。",
+      {
+        "tr": "Japonca konuşurum.",
+        "en": "I speak Japanese.",
+        "de": "Ich spreche Japanisch."
+      },
+      [
+        "はなします",
+        "わします",
+        "かいわします",
+        "でんわします"
+      ]
+    ],
+    [
+      "00040",
+      "このしごとは<t>時間</t>がかかります。",
+      {
+        "tr": "Bu iş zaman alır.",
+        "en": "This job takes time.",
+        "de": "Dieser Job braucht Zeit.",
+        "es": "Este trabajo lleva tiempo."
+      },
+      [
+        "じかん",
+        "じがん",
+        "しかん",
+        "じっかん"
+      ]
+    ],
+    [
+      "00041",
+      "<t>心配</t>しないでください。",
+      {
+        "tr": "Endişelenmeyin lütfen.",
+        "en": "Please don’t worry.",
+        "de": "Bitte machen Sie sich keine Sorgen.",
+        "es": "Por favor no te preocupes."
+      },
+      [
+        "しんぱい",
+        "しんばい",
+        "こころぱい",
+        "こころばい"
+      ]
+    ],
+    [
+      "00042",
+      "<t>景色</t>のいいところへいきたい。",
+      {
+        "tr": "Manzarası güzel bir yere gitmek istiyorum.",
+        "en": "I want to go to a place with a nice view.",
+        "de": "Ich möchte an einen Ort mit einer schönen Aussicht gehen.",
+        "es": "Quiero ir a un lugar con una linda vista."
+      },
+      [
+        "けしき",
+        "けいしき",
+        "けいいろ",
+        "けいいいろ"
+      ]
+    ],
+    [
+      "00043",
+      "あした、<t>雨</t>がふります。",
+      {
+        "tr": "Yarın yağmur yağacak.",
+        "en": "It will rain tomorrow.",
+        "de": "Morgen wird es regnen.",
+        "es": "Mañana lloverá."
+      },
+      [
+        "あめ",
+        "かさ",
+        "ゆき",
+        "うみ"
+      ]
+    ],
+    [
+      "00044",
+      "わたしは<t>医者</t>になりたいです。",
+      {
+        "tr": "Doktor olmak istiyorum.",
+        "en": "I want to become a doctor.",
+        "de": "Ich möchte Arzt werden.",
+        "es": "Quiero ser médico."
+      },
+      [
+        "いしゃ",
+        "いさ",
+        "はいしゃ",
+        "いじゃ"
+      ]
+    ],
+    [
+      "00045",
+      "<t>去年</t>、わたしはとうきょうへいきました。",
+      {
+        "tr": "Geçen yıl Tokyo’ya gittim.",
+        "en": "Last year, I went to Tokyo.",
+        "de": "Letztes Jahr war ich in Tokio.",
+        "es": "El año pasado fui a Tokio."
+      },
+      [
+        "きょねん",
+        "ことし",
+        "らいねん",
+        "きょうねん"
+      ]
+    ],
+    [
+      "00046",
+      "さいきん、<t>目</t>がわるくなりました。",
+      {
+        "tr": "Son zamanlarda gözlerim kötüleşti.",
+        "en": "Recently, my eyesight has gotten worse.",
+        "de": "In letzter Zeit hat sich mein Sehvermögen verschlechtert.",
+        "es": "Recientemente, mi vista ha empeorado."
+      },
+      [
+        "め",
+        "て",
+        "あし",
+        "くち"
+      ]
+    ],
+    [
+      "00047",
+      "<t>今朝</t>、6じにおきました。",
+      {
+        "tr": "Bu sabah saat altıda uyandım.",
+        "en": "I woke up at six this morning.",
+        "de": "Ich bin heute Morgen um sechs aufgewacht.",
+        "es": "Me desperté a las seis de la mañana."
+      },
+      [
+        "けさ",
+        "きょう",
+        "あした",
+        "こんさ"
+      ]
+    ],
+    [
+      "00048",
+      "なにを<t>食べます</t>か。",
+      {
+        "tr": "Ne yiyeceksin?",
+        "en": "What will you eat?",
+        "de": "Was wirst du essen?",
+        "es": "¿Qué comerás?"
+      },
+      [
+        "たべます",
+        "のみます",
+        "しょくべます",
+        "だべます"
+      ]
+    ],
+    [
+      "00049",
+      "らいげつ、<t>友だち</t>がにほんにあそびに来ます。",
+      {
+        "tr": "Gelecek ay arkadaşım Japonya’ya ziyarete gelecek.",
+        "en": "Next month, my friend will come to Japan to visit.",
+        "de": "Nächsten Monat wird mein Freund zu Besuch nach Japan kommen.",
+        "es": "El mes que viene, mi amigo vendrá a Japón de visita."
+      },
+      [
+        "ともだち",
+        "とむだち",
+        "とみだち",
+        "とびだち"
+      ]
+    ],
+    [
+      "00050",
+      "がっこうは<t>九月八日</t>からです。",
+      {
+        "tr": "Okul 8 Eylül’de başlıyor.",
+        "en": "School starts on September 8th.",
+        "de": "Die Schule beginnt am 8. September.",
+        "es": "La escuela comienza el 8 de septiembre."
+      },
+      [
+        "くがつようか",
+        "くがつはちか",
+        "きゅうがつよっか",
+        "きゅうがつはちか"
+      ]
+    ],
+    [
+      "00051",
+      "<t>今晩</t>いっしょにビールを飲みませんか。",
+      {
+        "tr": "Bu akşam birlikte bira içmez misin?",
+        "en": "Would you like to have a beer together tonight?",
+        "de": "Habt ihr heute Abend Lust auf ein gemeinsames Bier?",
+        "es": "¿Te gustaría tomar una cerveza juntos esta noche?"
+      },
+      [
+        "こんばん",
+        "こんよる",
+        "いまばん",
+        "いまよる"
+      ]
+    ],
+    [
+      "00052",
+      "<t>四月二日</t>ににゅうがくします。",
+      {
+        "tr": "Nisan’ın ikisinde okula başlayacağım.",
+        "en": "I will enter school on April 2nd.",
+        "de": "Ich werde am 2. April in die Schule gehen.",
+        "es": "Entraré a la escuela el 2 de abril."
+      },
+      [
+        "しがつふつか",
+        "よがつにか",
+        "よがつふつか",
+        "しがつにか"
+      ]
+    ],
+    [
+      "00053",
+      "がっこうは<t>午前</t>八時からです。",
+      {
+        "tr": "Okul sabah saat sekizde başlar.",
+        "en": "School starts at 8 a.m.",
+        "de": "Die Schule beginnt um 8 Uhr.",
+        "es": "La escuela comienza a las 8 a.m."
+      },
+      [
+        "ごぜん",
+        "ごご",
+        "ごべん",
+        "ごまえ"
+      ]
+    ],
+    [
+      "00054",
+      "あの<t>店</t>でやさいをかいました。",
+      {
+        "tr": "O dükkanda sebze aldım.",
+        "en": "I bought vegetables at that store.",
+        "de": "Ich habe in diesem Laden Gemüse gekauft.",
+        "es": "Compré verduras en esa tienda."
+      },
+      [
+        "みせ",
+        "かみ",
+        "はな",
+        "てん"
+      ]
+    ],
+    [
+      "00055",
+      "よるときどきビデオを<t>見ます</t>。",
+      {
+        "tr": "Akşamları bazen video izlerim.",
+        "en": "I sometimes watch videos at night.",
+        "de": "Manchmal schaue ich mir nachts Videos an.",
+        "es": "A veces veo vídeos por la noche."
+      },
+      [
+        "みます",
+        "けんます",
+        "よみます",
+        "きます"
+      ]
+    ],
+    [
+      "00056",
+      "<t>お母さん</t>に電話をかけます。",
+      {
+        "tr": "Annemi arayacağım.",
+        "en": "I will call my mother.",
+        "de": "Ich werde meine Mutter anrufen.",
+        "es": "Llamaré a mi madre."
+      },
+      [
+        "おかあさん",
+        "おばあさん",
+        "おとうさん",
+        "おねえさん"
+      ]
+    ],
+    [
+      "00057",
+      "もう<t>昼ご飯</t>をたべましたか。",
+      {
+        "tr": "Öğle yemeğini zaten yedin mi?",
+        "en": "Have you already eaten lunch?",
+        "de": "Hast du schon zu Mittag gegessen?",
+        "es": "¿Ya almorzaste?"
+      },
+      [
+        "ひるごはん",
+        "あさごはん",
+        "ばんごはん",
+        "よるごはん"
+      ]
+    ],
+    [
+      "00058",
+      "このまちは<t>夜</t>とてもにぎやかです。",
+      {
+        "tr": "Bu şehir geceleri çok canlıdır.",
+        "en": "This town is very lively at night.",
+        "de": "Diese Stadt ist nachts sehr lebhaft.",
+        "es": "Este pueblo es muy animado por la noche."
+      },
+      [
+        "よる",
+        "よなか",
+        "ばん",
+        "ばんか"
+      ]
+    ],
+    [
+      "00059",
+      "毎朝、<t>九時半</t>におきます。",
+      {
+        "tr": "Her sabah saat dokuz buçukta kalkarım.",
+        "en": "I wake up at 9:30 every morning.",
+        "de": "Ich wache jeden Morgen um 9:30 Uhr auf.",
+        "es": "Me despierto a las 9:30 todas las mañanas."
+      },
+      [
+        "くじはん",
+        "よじはん",
+        "よんじはん",
+        "きゅうじはん"
+      ]
+    ],
+    [
+      "00060",
+      "<t>生まれた</t>ところはならけんです。",
+      {
+        "tr": "Doğduğum yer Nara eyaletidir.",
+        "en": "The place where I was born is Nara Prefecture.",
+        "de": "Der Ort, an dem ich geboren wurde, ist die Präfektur Nara.",
+        "es": "El lugar donde nací es la prefectura de Nara."
+      },
+      [
+        "うまれた",
+        "せいまれた",
+        "なまれた",
+        "いまれた"
+      ]
+    ],
+    [
+      "00061",
+      "このカバンは<t>八千円</t>です。",
+      {
+        "tr": "Bu çanta 8000 yen.",
+        "en": "This bag costs 8,000 yen.",
+        "de": "Diese Tasche kostet 8.000 Yen.",
+        "es": "Este bolso cuesta 8.000 yenes."
+      },
+      [
+        "はっせんえん",
+        "はちせんえん",
+        "はちぜんえん",
+        "はっぜんえん"
+      ]
+    ],
+    [
+      "00062",
+      "ともだちに<t>会いました</t>。",
+      {
+        "tr": "Arkadaşımla buluştum.",
+        "en": "I met my friend.",
+        "de": "Ich habe meinen Freund getroffen."
+      },
+      [
+        "あいました",
+        "まいました",
+        "しゃいました",
+        "かいました"
+      ]
+    ],
+    [
+      "00063",
+      "<t>時計</t>がうごかない。",
+      {
+        "tr": "Saat çalışmıyor.",
+        "en": "The clock isn’t working.",
+        "de": "Die Uhr funktioniert nicht.",
+        "es": "El reloj no funciona."
+      },
+      [
+        "とけい",
+        "じけい",
+        "とかく",
+        "じかく"
+      ]
+    ],
+    [
+      "00064",
+      "五時に仕事が<t>終わります</t>。",
+      {
+        "tr": "İşim saat beşte biter.",
+        "en": "Work finishes at five o’clock.",
+        "de": "Die Arbeit endet um fünf Uhr.",
+        "es": "El trabajo termina a las cinco en punto."
+      },
+      [
+        "おわります",
+        "ふわります",
+        "あわります",
+        "きわります"
+      ]
+    ],
+    [
+      "00065",
+      "けっこんしきは<t>六日</t>です。",
+      {
+        "tr": "Düğün 6’sında.",
+        "en": "The wedding is on the 6th.",
+        "de": "Die Hochzeit ist am 6.",
+        "es": "La boda es el día 6."
+      },
+      [
+        "むいか",
+        "ろくにち",
+        "ろくか",
+        "むいにち"
+      ]
+    ],
+    [
+      "00066",
+      "<t>海</t>であそびたいです。",
+      {
+        "tr": "Denizde oynamak istiyorum.",
+        "en": "I want to play at the sea.",
+        "de": "Ich möchte am Meer spielen.",
+        "es": "Quiero jugar en el mar."
+      },
+      [
+        "うみ",
+        "かわ",
+        "いけ",
+        "まい"
+      ]
+    ],
+    [
+      "00067",
+      "ミラーさんのあしは<t>長い</t>です。",
+      {
+        "tr": "Bay Miller’in bacakları uzun.",
+        "en": "Mr. Miller’s legs are long.",
+        "de": "Mr. Millers Beine sind lang.",
+        "es": "Las piernas del señor Miller son largas."
+      },
+      [
+        "ながい",
+        "ながあい",
+        "みじかい",
+        "みじかあい"
+      ]
+    ],
+    [
+      "00068",
+      "にほんりょうりを<t>作ります</t>。",
+      {
+        "tr": "Japon yemeği yaparım.",
+        "en": "I make Japanese food.",
+        "de": "Ich mache japanisches Essen.",
+        "es": "Hago comida japonesa."
+      },
+      [
+        "つくります",
+        "さくります",
+        "つきります",
+        "つまります"
+      ]
+    ],
+    [
+      "00069",
+      "<t>切手</t>はいくらですか。",
+      {
+        "tr": "Pul ne kadar?",
+        "en": "How much is the stamp?",
+        "de": "Wie viel kostet die Briefmarke?",
+        "es": "¿Cuanto cuesta el sello?"
+      },
+      [
+        "きって",
+        "きりてい",
+        "きりて",
+        "きってい"
+      ]
+    ],
+    [
+      "00070",
+      "せまい<t>道</t>をとおります。",
+      {
+        "tr": "Dar yoldan geçiyorum.",
+        "en": "I pass through a narrow road.",
+        "de": "Ich gehe durch eine schmale Straße.",
+        "es": "Paso por un camino estrecho."
+      },
+      [
+        "みち",
+        "まち",
+        "ひゃく",
+        "かわ"
+      ]
+    ],
+    [
+      "00071",
+      "<t>お兄さん</t>はなんさいですか。",
+      {
+        "tr": "Ağabeyin kaç yaşında?",
+        "en": "How old is your older brother?",
+        "de": "Wie alt ist dein älterer Bruder?",
+        "es": "¿Cuántos años tiene tu hermano mayor?"
+      },
+      [
+        "おにいさん",
+        "おねさん",
+        "おねえさん",
+        "おにさん"
+      ]
+    ],
+    [
+      "00072",
+      "<t>外国</t>へりょこうしたいです。",
+      {
+        "tr": "Yurtdışına seyahat etmek istiyorum.",
+        "en": "I want to travel abroad.",
+        "de": "Ich möchte ins Ausland reisen.",
+        "es": "Quiero viajar al extranjero."
+      },
+      [
+        "がいこく",
+        "がいくに",
+        "そとこく",
+        "そとくに"
+      ]
+    ],
+    [
+      "00073",
+      "きっさてんに<t>入ります</t>。",
+      {
+        "tr": "Kafeye giriyorum.",
+        "en": "I enter a café.",
+        "de": "Ich betrete ein Café.",
+        "es": "Entro a un café."
+      },
+      [
+        "はいります",
+        "いります",
+        "うります",
+        "にゅうります"
+      ]
+    ],
+    [
+      "00074",
+      "<t>食事</t>します。",
+      {
+        "tr": "Yemek yerim.",
+        "en": "I have a meal.",
+        "de": "Ich esse etwas.",
+        "es": "Tengo una comida."
+      },
+      [
+        "しょくじ",
+        "しょくこと",
+        "たべじ",
+        "たべこと"
+      ]
+    ],
+    [
+      "00075",
+      "だいがくを<t>出ます</t>。",
+      {
+        "tr": "Üniversiteden mezun olurum.",
+        "en": "I graduate from university.",
+        "de": "Ich mache meinen Universitätsabschluss.",
+        "es": "Me gradúo de la universidad."
+      },
+      [
+        "でます",
+        "だします",
+        "だます",
+        "しゅゆします"
+      ]
+    ],
+    [
+      "00076",
+      "<t>体</t>がわるいです。",
+      {
+        "tr": "Kendimi kötü hissediyorum (vücudum kötü).",
+        "en": "I feel sick (my body is bad).",
+        "de": "Mir ist schlecht (meinem Körper geht es schlecht)."
+      },
+      [
+        "からだ",
+        "かだら",
+        "ほん",
+        "き"
+      ]
+    ],
+    [
+      "00077",
+      "めがよく<t>見えない</t>。",
+      {
+        "tr": "Gözlerim iyi görmüyor.",
+        "en": "I can't see well.",
+        "de": "Ich kann nicht gut sehen.",
+        "es": "No puedo ver bien."
+      },
+      [
+        "みえない",
+        "けんえない",
+        "きえない",
+        "もえない"
+      ]
+    ],
+    [
+      "00078",
+      "せんせいが<t>大好き</t>です。",
+      {
+        "tr": "Öğretmenimi çok severim.",
+        "en": "I love my teacher very much.",
+        "de": "Ich liebe meinen Lehrer sehr.",
+        "es": "Amo mucho a mi maestro."
+      },
+      [
+        "だいすき",
+        "だいずき",
+        "おおずき",
+        "おおすき"
+      ]
+    ],
+    [
+      "00079",
+      "ちばさんは<t>高校</t>いちねんせいだ。",
+      {
+        "tr": "Bay Chiba lise birinci sınıf öğrencisidir.",
+        "en": "Mr. Chiba is a first-year high school student.",
+        "de": "Herr Chiba ist ein Oberstufenschüler im ersten Jahr.",
+        "es": "El Sr. Chiba es un estudiante de primer año de secundaria."
+      },
+      [
+        "こうこう",
+        "こうごう",
+        "たかこう",
+        "たかごう"
+      ]
+    ],
+    [
+      "00080",
+      "<t>八百円</t>でございます。",
+      {
+        "tr": "800 yen tutuyor.",
+        "en": "It costs 800 yen.",
+        "de": "Es kostet 800 Yen.",
+        "es": "Cuesta 800 yenes."
+      },
+      [
+        "はっぴゃくえん",
+        "はちひゃくえん",
+        "はちびゃくえん",
+        "はっびゃくえん"
+      ]
+    ],
+    [
+      "00081",
+      "<t>昼休み</t>は12じからです。",
+      {
+        "tr": "Öğle arası saat 12’den başlar.",
+        "en": "Lunch break starts at 12 o’clock.",
+        "de": "Die Mittagspause beginnt um 12 Uhr.",
+        "es": "La pausa para el almuerzo comienza a las 12 en punto."
+      },
+      [
+        "ひるやすみ",
+        "あさやすみ",
+        "よるやすみ",
+        "よなかやす"
+      ]
+    ],
+    [
+      "00082",
+      "たんじょうびは<t>二十日</t>です。",
+      {
+        "tr": "Doğum günüm ayın 20’si.",
+        "en": "My birthday is on the 20th.",
+        "de": "Mein Geburtstag ist am 20.",
+        "es": "Mi cumpleaños es el día 20."
+      },
+      [
+        "はつか",
+        "にじゅにち",
+        "にじっにち",
+        "はつうか"
+      ]
+    ],
+    [
+      "00083",
+      "つくえの<t>上</t>にカバンがある。",
+      {
+        "tr": "Masanın üstünde bir çanta var.",
+        "en": "There is a bag on the desk.",
+        "de": "Auf dem Schreibtisch liegt eine Tasche.",
+        "es": "Hay una bolsa sobre el escritorio."
+      },
+      [
+        "うえ",
+        "みぎ",
+        "みき",
+        "した"
+      ]
+    ],
+    [
+      "00084",
+      "<t>東南</t>アジアはあついです。",
+      {
+        "tr": "Güneydoğu Asya sıcaktır.",
+        "en": "Southeast Asia is hot.",
+        "de": "Südostasien ist heiß.",
+        "es": "El Sudeste Asiático hace calor."
+      },
+      [
+        "とうなん",
+        "とうみなみ",
+        "ひがしなん",
+        "ひがしみなみ"
+      ]
+    ],
+    [
+      "00085",
+      "りんごを<t>四つ</t>ください。",
+      {
+        "tr": "Lütfen dört elma verin.",
+        "en": "Please give me four apples.",
+        "de": "Bitte gib mir vier Äpfel.",
+        "es": "Por favor dame cuatro manzanas."
+      },
+      [
+        "よっつ",
+        "よんつ",
+        "ようつ",
+        "ようっつ"
+      ]
+    ],
+    [
+      "00086",
+      "<t>会話</t>をべんきょうしましょう。",
+      {
+        "tr": "Konuşmayı çalışalım.",
+        "en": "Let's study conversation.",
+        "de": "Lasst uns Konversation studieren.",
+        "es": "Estudiemos la conversación."
+      },
+      [
+        "かいわ",
+        "あいわ",
+        "あいはなし",
+        "かいはなし"
+      ]
+    ],
+    [
+      "00087",
+      "<t>昨日</t>、かじがありました。",
+      {
+        "tr": "Dün yangın çıktı.",
+        "en": "There was a fire yesterday.",
+        "de": "Gestern gab es einen Brand.",
+        "es": "Ayer hubo un incendio."
+      },
+      [
+        "きのう",
+        "きの",
+        "きょう",
+        "きょお"
+      ]
+    ],
+    [
+      "00088",
+      "<t>月</t>がきれいですね。",
+      {
+        "tr": "Ay ne güzel değil mi?",
+        "en": "The moon is beautiful, isn’t it?",
+        "de": "Der Mond ist wunderschön, nicht wahr?",
+        "es": "La luna es hermosa, ¿no?"
+      },
+      [
+        "つき",
+        "がつ",
+        "げつ",
+        "つけ"
+      ]
+    ],
+    [
+      "00089",
+      "<t>生</t>ものを食べられない。",
+      {
+        "tr": "Çiğ şeyleri yiyemem.",
+        "en": "I can’t eat raw food.",
+        "de": "Ich kann keine Rohkost essen.",
+        "es": "No puedo comer alimentos crudos."
+      },
+      [
+        "なま",
+        "いき",
+        "せい",
+        "まな"
+      ]
+    ],
+    [
+      "00090",
+      "お<t>名前</t>は？",
+      {
+        "tr": "Adınız nedir?",
+        "en": "What is your name?",
+        "de": "Wie heißt du?",
+        "es": "¿Cómo te llamas?"
+      },
+      [
+        "なまえ",
+        "なぜん",
+        "めいまえ",
+        "めいぜん"
+      ]
+    ],
+    [
+      "00091",
+      "えいごを<t>学びます</t>。",
+      {
+        "tr": "İngilizce öğrenirim.",
+        "en": "I study English.",
+        "de": "Ich lerne Englisch.",
+        "es": "Yo estudio ingles."
+      },
+      [
+        "まなびます",
+        "がくびます",
+        "かけびます",
+        "まめびます"
+      ]
+    ],
+    [
+      "00093",
+      "あのひとはわたしの<t>友人</t>です。",
+      {
+        "tr": "O kişi benim arkadaşımdır.",
+        "en": "That person is my friend.",
+        "de": "Diese Person ist mein Freund."
+      },
+      [
+        "ゆうじん",
+        "ともひと",
+        "ともじん",
+        "ゆうひと"
+      ]
+    ],
+    [
+      "00094",
+      "<t>土よう日</t>はやすみです。",
+      {
+        "tr": "Cumartesi tatildir.",
+        "en": "Saturday is a holiday.",
+        "de": "Samstag ist ein Feiertag.",
+        "es": "El sábado es feriado."
+      },
+      [
+        "どようび",
+        "どうようひ",
+        "どうようび",
+        "どようひ"
+      ]
+    ],
+    [
+      "00095",
+      "<t>九月</t>にアメリカへいきます。",
+      {
+        "tr": "Eylülde Amerika’ya gideceğim.",
+        "en": "I will go to America in September.",
+        "de": "Ich werde im September nach Amerika gehen.",
+        "es": "Iré a Estados Unidos en septiembre."
+      },
+      [
+        "くがつ",
+        "きゅうがつ",
+        "きゅうげつ",
+        "くげつ"
+      ]
+    ],
+    [
+      "00096",
+      "あのねこは<t>白い</t>です。",
+      {
+        "tr": "O kedi beyazdır.",
+        "en": "That cat is white.",
+        "de": "Diese Katze ist weiß.",
+        "es": "Ese gato es blanco."
+      },
+      [
+        "しろい",
+        "ひゃくい",
+        "ししろい",
+        "はくろい"
+      ]
+    ],
+    [
+      "00097",
+      "かぞくは<t>何人</t>がいますか。",
+      {
+        "tr": "Ailende kaç kişi var?",
+        "en": "How many people are in your family?",
+        "de": "Wie viele Personen sind in Ihrer Familie?",
+        "es": "¿Cuántas personas hay en tu familia?"
+      },
+      [
+        "なんにん",
+        "なにじん",
+        "なににん",
+        "なんじん"
+      ]
+    ],
+    [
+      "00098",
+      "日本の<t>人口</t>はなんにんですか。",
+      {
+        "tr": "Japonya’nın nüfusu kaçtır?",
+        "en": "What is the population of Japan?",
+        "de": "Wie viele Einwohner hat Japan?",
+        "es": "¿Cuál es la población de Japón?"
+      },
+      [
+        "じんこう",
+        "にんくち",
+        "じんくち",
+        "にんこう"
+      ]
+    ],
+    [
+      "00099",
+      "このほんは<t>三千円</t>です。",
+      {
+        "tr": "Bu kitap 3000 yen.",
+        "en": "This book costs 3000 yen.",
+        "de": "Dieses Buch kostet 3000 Yen.",
+        "es": "Este libro cuesta 3000 yenes."
+      },
+      [
+        "さんぜんえん",
+        "さんせんえん",
+        "さんひゃくえん",
+        "さんびゃくえん"
+      ]
+    ],
+    [
+      "00100",
+      "<t>今</t>、なんじですか。",
+      {
+        "tr": "Şu anda saat kaç?",
+        "en": "What time is it now?",
+        "de": "Wie spät ist es jetzt?",
+        "es": "¿Qué hora es ahora?"
+      },
+      [
+        "いま",
+        "こん",
+        "こま",
+        "いう"
+      ]
+    ],
+    [
+      "00111",
+      "にほんの<t>北</t>にいきます。",
+      {
+        "tr": "Japonya'nın kuzeyine gideceğim.",
+        "en": "I will go to the north of Japan.",
+        "de": "Ich werde in den Norden Japans reisen.",
+        "es": "Iré al norte de Japón."
+      },
+      [
+        "きた",
+        "ひがし",
+        "みなみ",
+        "にし"
+      ]
+    ],
+    [
+      "00112",
+      "ふじ<t>山</t>はとてもきれいです。",
+      {
+        "tr": "Fuji dağı çok güzel.",
+        "en": "Mt. Fuji is very beautiful.",
+        "de": "Der Berg Fuji ist sehr schön."
+      },
+      [
+        "さん",
+        "やま",
+        "かわ",
+        "がわ"
+      ]
+    ],
+    [
+      "00113",
+      "これは<t>1000円</t>です。",
+      {
+        "tr": "Bu 1000 yen.",
+        "en": "This is 1000 yen.",
+        "de": "Das sind 1000 Yen.",
+        "es": "Esto son 1000 yenes."
+      },
+      [
+        "せんえん",
+        "いちせんえん",
+        "いちまんえん",
+        "まんえん"
+      ]
+    ],
+    [
+      "00114",
+      "わたしのいえはまちの<t>南</t>にあります。",
+      {
+        "tr": "Evim şehrin güneyinde.",
+        "en": "My house is in the south of the town.",
+        "de": "Mein Haus liegt im Süden der Stadt.",
+        "es": "Mi casa está en el sur del pueblo."
+      },
+      [
+        "みなみ",
+        "ひがし",
+        "きた",
+        "にし"
+      ]
+    ],
+    [
+      "00115",
+      "これは<t>何</t>ですか？",
+      {
+        "tr": "Bu nedir?",
+        "en": "What is this?",
+        "de": "Was ist das?",
+        "es": "¿Qué es esto?"
+      },
+      [
+        "なん",
+        "なに",
+        "だれ",
+        "どこ"
+      ]
+    ],
+    [
+      "00117",
+      "がくせいが<t>百人</t>います。",
+      {
+        "tr": "Yüz öğrenci var.",
+        "en": "There are one hundred students.",
+        "de": "Es gibt einhundert Studenten.",
+        "es": "Hay cien estudiantes."
+      },
+      [
+        "ひゃくにん",
+        "はくにん",
+        "びゃくにん",
+        "ぴゃくにん"
+      ]
+    ],
+    [
+      "00120",
+      "このカバンは<t>三千</t>円です。",
+      {
+        "tr": "Bu çanta 3000 yen.",
+        "en": "This bag is 3000 yen.",
+        "de": "Diese Tasche kostet 3000 Yen.",
+        "es": "Esta bolsa cuesta 3000 yenes."
+      },
+      [
+        "さんぜん",
+        "さんせん",
+        "さんひゃく",
+        "さんびゃく"
+      ]
+    ],
+    [
+      "00122",
+      "学校は<t>午後</t>一時五十分からです。",
+      {
+        "tr": "Okul öğleden sonra saat 1:50'de başlar.",
+        "en": "School starts at 1:50 PM.",
+        "de": "Die Schule beginnt um 13:50 Uhr.",
+        "es": "La escuela comienza a las 13:50."
+      },
+      [
+        "ごご",
+        "ごぜん",
+        "ごあと",
+        "ごこ"
+      ]
+    ],
+    [
+      "00123",
+      "来月<t>一人</t>で日本へいきます。",
+      {
+        "tr": "Gelecek ay Japonya'ya yalnız gideceğim.",
+        "en": "Next month I will go to Japan alone.",
+        "de": "Nächsten Monat werde ich alleine nach Japan reisen.",
+        "es": "El mes que viene iré solo a Japón."
+      },
+      [
+        "ひとり",
+        "いちにん",
+        "いちじん",
+        "ひとにん"
+      ]
+    ],
+    [
+      "00125",
+      "あの<t>赤い</t>かばんはだれのですか。",
+      {
+        "tr": "O kırmızı çanta kimin?",
+        "en": "Whose is that red bag?",
+        "de": "Wem gehört diese rote Tasche?",
+        "es": "¿De quién es esa bolsa roja?"
+      },
+      [
+        "あかい",
+        "くろい",
+        "あおい",
+        "しろい"
+      ]
+    ],
+    [
+      "00126",
+      "あの<t>黒い</t>かさはいくらですか。",
+      {
+        "tr": "Şu siyah şemsiye ne kadar?",
+        "en": "How much is that black umbrella?",
+        "de": "Wie viel kostet dieser schwarze Regenschirm?",
+        "es": "¿Cuánto cuesta ese paraguas negro?"
+      },
+      [
+        "くろい",
+        "あかい",
+        "あおい",
+        "しろい"
+      ]
+    ],
+    [
+      "00131",
+      "<t>荷物</t>を おくります。",
+      {
+        "tr": "Kargoyu/paketi gönderiyorum.",
+        "en": "I will send the package.",
+        "de": "Ich werde das Paket verschicken.",
+        "es": "Enviaré el paquete."
+      },
+      [
+        "にもつ",
+        "なんもの",
+        "なにもの",
+        "につか"
+      ]
+    ],
+    [
+      "00134",
+      "マリアさんは ダンスが <t>上手</t>です。",
+      {
+        "tr": "Maria dans konusunda iyidir.",
+        "en": "Maria is good at dancing.",
+        "de": "Maria kann gut tanzen.",
+        "es": "María es buena bailando."
+      },
+      [
+        "じょうず",
+        "ぞず",
+        "じょず",
+        "ぞうず"
+      ]
+    ],
+    [
+      "00135",
+      "エレベーターの <t>左</t>に とけい売り場があります。",
+      {
+        "tr": "Asansörün solunda saat satış bölümü var.",
+        "en": "There is a watch section to the left of the elevator.",
+        "de": "Links vom Aufzug befindet sich ein Wachbereich.",
+        "es": "Hay una sección de vigilancia a la izquierda del ascensor."
+      },
+      [
+        "ひだり",
+        "みぎ",
+        "となり",
+        "なか"
+      ]
+    ],
+    [
+      "00137",
+      "すみませんが、 ちょっと <t>立って</t>ください。",
+      {
+        "tr": "Afedersiniz, biraz ayağa kalkar mısınız?",
+        "en": "Excuse me, could you stand up a little?",
+        "de": "Entschuldigung, könnten Sie ein wenig aufstehen?",
+        "es": "Disculpe, ¿podría levantarse un poco?"
+      },
+      [
+        "たって",
+        "すわって",
+        "いって",
+        "あらって"
+      ]
+    ],
+    [
+      "00138",
+      "イーさんは 肉や <t>魚</t>が 好きですか。",
+      {
+        "tr": "Bay İ balık ve et sever mi?",
+        "en": "Does Mr. Yi like meat and fish?",
+        "de": "Mag Herr Yi Fleisch und Fisch?",
+        "es": "¿Al Sr. Yi le gusta la carne y el pescado?"
+      },
+      [
+        "さかな",
+        "やさい",
+        "くだもの",
+        "えび"
+      ]
+    ],
+    [
+      "00139",
+      "この じしょを <t>使って</t>もいいですか。",
+      {
+        "tr": "Bu sözlüğü kullanabilir miyim?",
+        "en": "May I use this dictionary?",
+        "de": "Darf ich dieses Wörterbuch benutzen?",
+        "es": "¿Puedo usar este diccionario?"
+      },
+      [
+        "つかって",
+        "しって",
+        "かって",
+        "たって"
+      ]
+    ],
+    [
+      "00142",
+      "姉にお金を<t>借ります</t>。",
+      {
+        "tr": "Ablamdan para borç alacağım.",
+        "en": "I will borrow money from my older sister.",
+        "de": "Ich werde mir Geld von meiner älteren Schwester leihen.",
+        "es": "Le pediré dinero prestado a mi hermana mayor."
+      },
+      [
+        "かります",
+        "はしります",
+        "うります",
+        "たります"
+      ]
+    ],
+    [
+      "00144",
+      "<t>彼女</t>は だいがくに 入りたい と いいました。",
+      {
+        "tr": "Kız arkadaşı üniversiteye girmek istediğini söyledi.",
+        "en": "She said she wants to enter university.",
+        "de": "Sie sagte, sie wolle an die Universität gehen.",
+        "es": "Dijo que quiere ingresar a la universidad."
+      },
+      [
+        "かのじょ",
+        "かのじょう",
+        "かのぞう",
+        "かのぞ"
+      ]
+    ],
+    [
+      "00145",
+      "<t>半年</t>前に、 アメリカへ 行きました。",
+      {
+        "tr": "Altı ay önce Amerika'ya gittim.",
+        "en": "I went to America six months ago.",
+        "de": "Ich bin vor sechs Monaten nach Amerika gegangen.",
+        "es": "Fui a Estados Unidos hace seis meses."
+      },
+      [
+        "はんとし",
+        "まいとし",
+        "まいねん",
+        "はんねん"
+      ]
+    ],
+    [
+      "00146",
+      "この かいしゃでは<t>男性</t>が おおいです。",
+      {
+        "tr": "Bu şirkette erkek çalışan çoktur.",
+        "en": "There are many male employees in this company.",
+        "de": "In diesem Unternehmen gibt es viele männliche Mitarbeiter.",
+        "es": "Hay muchos empleados varones en esta empresa."
+      },
+      [
+        "だんせい",
+        "おとこせい",
+        "おとこせ",
+        "だんせ"
+      ]
+    ],
+    [
+      "00147",
+      "この えいがは<t>女性</t>に 人気が あります。",
+      {
+        "tr": "Bu film kadınlar arasında popülerdir.",
+        "en": "This movie is popular among women.",
+        "de": "Dieser Film ist bei Frauen beliebt.",
+        "es": "Esta película es popular entre las mujeres."
+      },
+      [
+        "じょせい",
+        "じょうせい",
+        "ぞせい",
+        "ぞうせい"
+      ]
+    ],
+    [
+      "00148",
+      "つめたい<t>お茶</t>が のみたいです。",
+      {
+        "tr": "Soğuk çay içmek istiyorum.",
+        "en": "I want to drink cold tea.",
+        "de": "Ich möchte kalten Tee trinken.",
+        "es": "Quiero tomar té frío."
+      },
+      [
+        "おちゃ",
+        "おぼん",
+        "おなか",
+        "おまっちゃ"
+      ]
+    ]
+  ]
+}

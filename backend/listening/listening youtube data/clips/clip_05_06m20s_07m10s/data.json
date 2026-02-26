@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Directions and Locations",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが はなしています。 おとこのひとは どこへ いきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "すみません。 ぎんこうに いきたいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ぎんこうですか。 まず このみちを まっすぐ いってください。 あそこに でぱーと（デパート）が ありますね。 あの みちを みぎに まがってください。 はなやの となりに ありますよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。 ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは どこへ いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぎんこう",
+                "tr": "banka",
+                "en": "bank"
+            },
+            {
+                "word": "みち",
+                "tr": "yol / cadde",
+                "en": "road / street"
+            },
+            {
+                "word": "まっすぐ",
+                "tr": "düz / dosdoğru",
+                "en": "straight"
+            },
+            {
+                "word": "でぱーと",
+                "tr": "tekstil mağazası / departmanlı mağaza",
+                "en": "department store"
+            },
+            {
+                "word": "みぎ",
+                "tr": "sağ",
+                "en": "right"
+            },
+            {
+                "word": "はなや",
+                "tr": "çiçekçi",
+                "en": "flower shop"
+            },
+            {
+                "word": "となり",
+                "tr": "yanında / komşu",
+                "en": "next to"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に いきたい",
+                "tr": "-e gitmek istemek",
+                "en": "want to go to"
+            },
+            {
+                "point": "～て ください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            },
+            {
+                "point": "～に まがる",
+                "tr": "-e sapmak / dönmek",
+                "en": "to turn (direction)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam bankaya gitmek istediğini söylüyor. Kadın ise ona yolu tarif ediyor: önce yolu dümdüz gitmesini, mağazanın oradan sağa dönmesini söylüyor. Bankanın ise çiçekçinin hemen yanında olduğunu belirtiyor. Bu yüzden doğru cevap bankadır.",
+        "en": "The man says he wants to go to the bank. The woman provides directions: walk straight, turn right at the department store, and mentions that the bank is next to the flower shop. Therefore, the destination is the bank."
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ぱすぽーとの　てつづき (Passport application procedures)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　はじめに　なにを　しますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません。ぱすぽーとを　つくりたいんですが。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "では、この　かみに　なまえと　じゅうしょなどを　かいてください。それから、さんかいの　うけつけに　いってください。しゃしんを　もってきましたか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、いえに　わすれました。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "では、かくまえに　にかいで　しゃしんを　とってください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "おんなのひとは　はじめに　なにを　しますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぱすぽーと",
+                "tr": "pasaport",
+                "en": "passport"
+            },
+            {
+                "word": "つくる",
+                "tr": "yapmak / hazırlamak",
+                "en": "to make / to create"
+            },
+            {
+                "word": "じゅうしょ",
+                "tr": "adres",
+                "en": "address"
+            },
+            {
+                "word": "うけつけ",
+                "tr": "resepsiyon / danışma",
+                "en": "reception desk"
+            },
+            {
+                "word": "わすれる",
+                "tr": "unutmak",
+                "en": "to forget"
+            },
+            {
+                "word": "しゃしんを　とる",
+                "tr": "fotoğraf çekmek",
+                "en": "to take a photo"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たい",
+                "tr": "istemek (fiil çekimi)",
+                "en": "want to (verb form)"
+            },
+            {
+                "point": "～まえに",
+                "tr": "...-den önce",
+                "en": "before doing ..."
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam başlangıçta kadına formu doldurmasını söyler, ancak kadının fotoğrafını evde unuttuğu anlaşıldığında, adam formu doldurmadan önce (かくまえに) ikinci katta fotoğraf çektirmesi gerektiğini belirtir. Bu nedenle kadının yapacağı ilk iş fotoğraf çektirmektir.",
+        "en": "The man initially tells the woman to fill out the form, but when it is revealed that she forgot her photo at home, he instructs her to take a photo on the second floor before writing (かくまえに) on the form. Therefore, the first thing she will do is take a photo."
+    }
+}

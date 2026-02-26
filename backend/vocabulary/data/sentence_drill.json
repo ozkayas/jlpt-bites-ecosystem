@@ -1,0 +1,1684 @@
+{
+  "v": 1,
+  "items": [
+    [
+      "vocabulary-sentence-drill-001",
+      "わたしは<t>かんこく</t>からきました。",
+      {
+        "tr": "Ben Güney Kore'den geldim.",
+        "en": "I came from South Korea.",
+        "de": "Ich komme aus Südkorea.",
+        "es": "Yo vine de Corea del Sur.",
+        "fr": "Je viens de Corée du Sud."
+      },
+      [
+        "かんこく",
+        "かぞく",
+        "おとな",
+        "ちず"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-002",
+      "A：なんにんですか。 B：<t>よにん</t>です。",
+      {
+        "tr": "A: Kaç kişi? B: Dört kişi.",
+        "en": "A: How many people? B: Four people.",
+        "de": "A: Wie viele Personen?B: Vier Personen.",
+        "es": "A: ¿Cuántas personas? B: Cuatro personas.",
+        "fr": "A : Combien de personnes ? B : Quatre personnes."
+      },
+      [
+        "よにん",
+        "よんにん",
+        "しにん",
+        "しんにん"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-003",
+      "A：おくには。 B：<t>トルコ</t>です。",
+      {
+        "tr": "A: Ülken neresi? B: Türkiye.",
+        "en": "A: Your country? B: Turkey.",
+        "de": "A: Ihr Land?B: Türkei.",
+        "es": "A: ¿Tu país? B: Turquía.",
+        "fr": "A : Votre pays ? B : La Turquie."
+      },
+      [
+        "トルコ",
+        "やまだ",
+        "ホアン",
+        "どちら"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-004",
+      "A：トムさんですか。 B：ええ、<t>そうです</t>。",
+      {
+        "tr": "A: Tom musun? B: Evet, doğru.",
+        "en": "A: Is it Tom? B: Yes, that's right.",
+        "de": "A: Ist es Tom?B: Ja, das stimmt.",
+        "es": "A: ¿Es Tom? B: Sí, es cierto.",
+        "fr": "A : Est-ce Tom ? B : Oui, c'est ça."
+      },
+      [
+        "そうです",
+        "ちがいます",
+        "です",
+        "どうぞ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-005",
+      "A：（あなたは）ホアンさんですか。 B：はい、<t>ホアンです</t>。",
+      {
+        "tr": "A: Sen Huong musun? B: Evet, Huong'um.",
+        "en": "A: Are you Huong? B: Yes, I am Huong.",
+        "de": "A: Sind Sie Huong?B: Ja, ich bin Huong.",
+        "es": "A: ¿Eres Huong? B: Sí, soy Huong.",
+        "fr": "A : Êtes-vous Huong ? B : Oui, je suis Huong."
+      },
+      [
+        "ホアンです",
+        "あなたです",
+        "ホアンさんです",
+        "ちがいます"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-006",
+      "なまえは<t>ホアンです</t>。",
+      {
+        "tr": "Adım Huong.",
+        "en": "My name is Huong.",
+        "de": "Mein Name ist Huong.",
+        "es": "Mi nombre es Huong.",
+        "fr": "Je m'appelle Huong."
+      },
+      [
+        "ホアンです",
+        "わたしです",
+        "おとうとです",
+        "そうです"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-007",
+      "わたしは<t>にほんじん</t>です。",
+      {
+        "tr": "Ben Japonum.",
+        "en": "I am Japanese.",
+        "de": "Ich bin Japaner.",
+        "es": "Soy japonés.",
+        "fr": "Je suis japonais."
+      },
+      [
+        "にほんじん",
+        "にほん",
+        "くに",
+        "なまえ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-008",
+      "うちに ねこが<t>います</t>。",
+      {
+        "tr": "Evde bir kedim var.",
+        "en": "I have a cat at home.",
+        "de": "Ich habe eine Katze zu Hause.",
+        "es": "Tengo un gato en casa.",
+        "fr": "J'ai un chat à la maison."
+      },
+      [
+        "います",
+        "あります",
+        "ちがいます",
+        "です"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-009",
+      "A：さようなら。 B：<t>じゃ、また</t>。",
+      {
+        "tr": "A: Hoşça kal. B: Görüşürüz.",
+        "en": "A: Goodbye. B: Well then, see you later.",
+        "de": "A: Auf Wiedersehen.B: Na dann, bis später.",
+        "es": "A: Adiós. B: Bueno, hasta luego.",
+        "fr": "A : Au revoir. B : Eh bien, à plus tard."
+      },
+      [
+        "じゃ、また",
+        "こんにちは",
+        "こんばんは",
+        "おはよう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-010",
+      "きょうは すいようびです。 あしたは<t>もくようび</t>です。",
+      {
+        "tr": "Bugün çarşamba. Yarın perşembe.",
+        "en": "Today is Wednesday. Tomorrow is Thursday.",
+        "de": "Heute ist Mittwoch.Morgen ist Donnerstag.",
+        "es": "Hoy es miércoles.Mañana es jueves.",
+        "fr": "Aujourd'hui c'est mercredi. Demain, c'est jeudi."
+      },
+      [
+        "もくようび",
+        "げつようび",
+        "かようび",
+        "きんようび"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-011",
+      "<t>じしょ</t>で ことばの いみを しらべます。",
+      {
+        "tr": "Sözlüğe bakarak kelimenin anlamına bakacağım.",
+        "en": "I will look up the meaning of words in the dictionary.",
+        "de": "Ich werde die Bedeutung von Wörtern im Wörterbuch nachschlagen.",
+        "es": "Buscaré el significado de las palabras en el diccionario.",
+        "fr": "Je vais chercher la signification des mots dans le dictionnaire."
+      },
+      [
+        "じしょ",
+        "シーディー",
+        "レポート",
+        "こたえ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-012",
+      "きのう がっこうで<t>スピーチ</t>を しました。",
+      {
+        "tr": "Dün okulda bir konuşma yaptım.",
+        "en": "Yesterday, I gave a speech at school.",
+        "de": "Gestern habe ich in der Schule eine Rede gehalten.",
+        "es": "Ayer di un discurso en la escuela.",
+        "fr": "Hier, j'ai fait un discours à l'école."
+      },
+      [
+        "スピーチ",
+        "ゼロ",
+        "クラス",
+        "シーディー"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-013",
+      "わかりません。 <t>もういちど</t>おねがいします。",
+      {
+        "tr": "Anlamadım. Lütfen bir kez daha söyleyin.",
+        "en": "I don't understand. Please ask again.",
+        "de": "Ich verstehe nicht.Bitte fragen Sie noch einmal.",
+        "es": "No entiendo.Por favor pregunta de nuevo.",
+        "fr": "Je ne comprends pas. S'il vous plaît, demandez à nouveau."
+      },
+      [
+        "もういちど",
+        "ぜんぜん",
+        "だいたい",
+        "まいにち"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-014",
+      "もうすこし<t>ゆっくり</t>はなしてください。",
+      {
+        "tr": "Lütfen biraz daha yavaş konuşun.",
+        "en": "Please speak a little slower.",
+        "de": "Bitte sprechen Sie etwas langsamer.",
+        "fr": "S'il vous plaît, parlez un peu plus lentement."
+      },
+      [
+        "ゆっくり",
+        "よく",
+        "いっかい",
+        "どうぞ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-015",
+      "<t>しがつ</t>に にほんへ きました。",
+      {
+        "tr": "Nisan ayında Japonya'ya geldim.",
+        "en": "I came to Japan in April.",
+        "de": "Ich kam im April nach Japan.",
+        "es": "Llegué a Japón en abril.",
+        "fr": "Je suis venu au Japon en avril."
+      },
+      [
+        "しがつ",
+        "あした",
+        "らいねん",
+        "いっかげつ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-016",
+      "トムさんの おとうさんは だいがくの <t>せんせい</t>です。",
+      {
+        "tr": "Tom’un babası üniversitede öğretmendir.",
+        "en": "Tom's father is a university professor.",
+        "de": "Toms Vater ist Universitätsprofessor.",
+        "es": "El padre de Tom es profesor universitario.",
+        "fr": "Le père de Tom est professeur d'université."
+      },
+      [
+        "せんせい",
+        "きょうしつ",
+        "がっこう",
+        "べんきょう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-017",
+      "あした せんせいが うちへ <t>きます</t>。",
+      {
+        "tr": "Yarın öğretmen evime gelecek.",
+        "en": "The teacher will come to my house tomorrow.",
+        "de": "Der Lehrer kommt morgen zu mir nach Hause.",
+        "fr": "Le professeur viendra chez moi demain."
+      },
+      [
+        "きます",
+        "います",
+        "あります",
+        "します"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-018",
+      "<t>きのう</t>は きんようびでした。",
+      {
+        "tr": "Dün cuma günüydü.",
+        "en": "Yesterday was Friday.",
+        "de": "Gestern war Freitag.",
+        "es": "Ayer fue viernes.",
+        "fr": "Hier, c'était vendredi."
+      },
+      [
+        "きのう",
+        "にがつ",
+        "あした",
+        "まいにち"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-019",
+      "いっしゅうかんに <t>３かい</t> アルバイトを します。",
+      {
+        "tr": "Haftada üç kez yarı zamanlı iş yaparım.",
+        "en": "I work part-time three times a week.",
+        "de": "Ich arbeite dreimal pro Woche in Teilzeit.",
+        "es": "Trabajo a tiempo parcial tres veces por semana.",
+        "fr": "Je travaille à temps partiel trois fois par semaine."
+      },
+      [
+        "３かい",
+        "１ねん",
+        "５にん",
+        "７かげつ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-020",
+      "あには ぎんこうで <t>はたらいて</t> います。",
+      {
+        "tr": "Ağabeyim bankada çalışıyor.",
+        "en": "My older brother works at a bank.",
+        "de": "Mein älterer Bruder arbeitet bei einer Bank.",
+        "es": "Mi hermano mayor trabaja en un banco.",
+        "fr": "Mon frère aîné travaille dans une banque."
+      },
+      [
+        "はたらいて",
+        "れんしゅうして",
+        "べんきょうして",
+        "やすんで"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-021",
+      "けしごむが <t>２こ</t> あります。",
+      {
+        "tr": "İki tane silgi var.",
+        "en": "There are two erasers.",
+        "de": "Es gibt zwei Radiergummis.",
+        "es": "Hay dos borradores.",
+        "fr": "Il y a deux gommes."
+      },
+      [
+        "２こ",
+        "２だい",
+        "２まい",
+        "２さつ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-022",
+      "あしたは かいしゃへ いきません。 <t>ひま</t>です。",
+      {
+        "tr": "Yarın işe gitmeyeceğim. Boş vaktim var.",
+        "en": "I won't go to the office tomorrow. I have free time.",
+        "de": "Ich werde morgen nicht ins Büro gehen.Ich habe Freizeit.",
+        "es": "No iré a la oficina mañana.Tengo tiempo libre.",
+        "fr": "Je n'irai pas au bureau demain. J'ai du temps libre."
+      },
+      [
+        "ひま",
+        "がくせい",
+        "せんせい",
+        "いそがしい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-023",
+      "かいぎしつは どこですか。 <t>うけつけ</t>で ききます。",
+      {
+        "tr": "Toplantı odası nerede? Resepsiyona soracağım.",
+        "en": "Where is the meeting room? I will ask at the reception desk.",
+        "de": "Wo ist der Besprechungsraum?Ich werde an der Rezeption nachfragen.",
+        "es": "¿Dónde está la sala de reuniones?Preguntaré en recepción.",
+        "fr": "Où est la salle de réunion ? Je demanderai à la réception."
+      },
+      [
+        "うけつけ",
+        "こうこう",
+        "としょかん",
+        "ほんや"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-024",
+      "ははは <t>かんごし</t>です。 びょういんで はたらいています。",
+      {
+        "tr": "Annem hemşiredir. Hastanede çalışıyor.",
+        "en": "My mother is a nurse. She works at a hospital.",
+        "de": "Meine Mutter ist Krankenschwester.Sie arbeitet in einem Krankenhaus.",
+        "es": "Mi madre es enfermera.Ella trabaja en un hospital.",
+        "fr": "Ma mère est infirmière. Elle travaille dans un hôpital."
+      },
+      [
+        "かんごし",
+        "ぎんこういん",
+        "きょうし",
+        "えきいん"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-025",
+      "アンさんに でんわを <t>かけます</t>。",
+      {
+        "tr": "Bay An’ı arayacağım.",
+        "en": "I will call Mr. An.",
+        "de": "Ich werde Herrn An anrufen.",
+        "es": "Llamaré al Sr. An.",
+        "fr": "Je vais appeler M. An."
+      },
+      [
+        "かけます",
+        "きります",
+        "つかいます",
+        "つくります"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-026",
+      "まいばん <t>ざんぎょう</t>します。",
+      {
+        "tr": "Her gece fazla mesai yaparım.",
+        "en": "I work overtime every night.",
+        "de": "Ich mache jede Nacht Überstunden.",
+        "es": "Trabajo horas extras todas las noches.",
+        "fr": "Je fais des heures supplémentaires tous les soirs."
+      },
+      [
+        "ざんぎょう",
+        "フランスへ",
+        "うちで",
+        "がっこうで"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-027",
+      "いそがしいです。 <t>てつだって</t>ください。",
+      {
+        "tr": "Meşgulüm. Lütfen yardım edin.",
+        "en": "I'm busy. Please help me.",
+        "de": "Ich bin beschäftigt.Bitte hilf mir.",
+        "es": "I'm busy.Por favor, ayúdame.",
+        "fr": "Je suis occupé. S'il vous plaît, aidez-moi."
+      },
+      [
+        "てつだって",
+        "しつもんして",
+        "がんばって",
+        "やすんで"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-028",
+      "やまださんの でんわばんごうを <t>しりません</t>。",
+      {
+        "tr": "Yamada'nın telefon numarasını bilmiyorum.",
+        "en": "I don't know Yamada-san's phone number.",
+        "de": "Ich kenne die Telefonnummer von Yamada-san nicht.",
+        "es": "No sé el número de teléfono de Yamada-san.",
+        "fr": "Je ne connais pas le numéro de téléphone de M. Yamada."
+      },
+      [
+        "しりません",
+        "おぼえません",
+        "かいません",
+        "つくりません"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-029",
+      "A： <t>おしごと</t>は。 B：かいごしです。",
+      {
+        "tr": "A: Mesleğiniz nedir? B: Ben bakıcıyım.",
+        "en": "A: What is your occupation? B: I am a caregiver.",
+        "de": "A: Was ist Ihr Beruf?B: Ich bin eine Pflegekraft.",
+        "es": "A: ¿Cuál es tu ocupación? B: Soy un cuidador.",
+        "fr": "A : Quelle est votre profession ? B : Je suis soignant."
+      },
+      [
+        "おしごと",
+        "おなまえ",
+        "おくに",
+        "おとな"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-030",
+      "どうぶつえんに パンダが <t>います</t>。",
+      {
+        "tr": "Hayvanat bahçesinde panda var.",
+        "en": "There is a panda at the zoo.",
+        "de": "Im Zoo gibt es einen Panda.",
+        "es": "Hay un panda en el zoológico.",
+        "fr": "Il y a un panda au zoo."
+      },
+      [
+        "います",
+        "がっこう",
+        "じんじゃ",
+        "ロビー"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-031",
+      "ハインさんは <t>かみ</t>が ながいです。",
+      {
+        "tr": "Hein’in saçları uzundur.",
+        "en": "Mr. Hein has long hair.",
+        "de": "Herr Hein hat lange Haare.",
+        "es": "El señor Hein tiene el pelo largo.",
+        "fr": "M. Hein a les cheveux longs."
+      },
+      [
+        "かみ",
+        "くるま",
+        "せ",
+        "はさみ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-032",
+      "ホアンさんは <t>ハンサム</t>です。",
+      {
+        "tr": "Hoan yakışıklıdır.",
+        "en": "Mr. Hoan is handsome.",
+        "de": "Herr Hoan ist gutaussehend.",
+        "es": "El señor Hoan es guapo.",
+        "fr": "M. Hoan est beau."
+      },
+      [
+        "ハンサム",
+        "シャツ",
+        "ユーモア",
+        "パソコン"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-033",
+      "きょうとの ホテルに <t>とまり</t>たいです。",
+      {
+        "tr": "Kyoto’da bir otelde kalmak istiyorum.",
+        "en": "I want to stay at a hotel in Kyoto.",
+        "de": "Ich möchte in einem Hotel in Kyoto übernachten.",
+        "es": "Quiero quedarme en un hotel en Kioto.",
+        "fr": "Je veux séjourner dans un hôtel à Kyoto."
+      },
+      [
+        "とまり",
+        "あそび",
+        "かぶり",
+        "じゅんび"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-034",
+      "おくさまで かぞくに <t>おみやげ</t>を かいました。",
+      {
+        "tr": "Ailem için hediyelik eşya aldım.",
+        "en": "I bought souvenirs for my family.",
+        "de": "Ich habe Souvenirs für meine Familie gekauft.",
+        "es": "Compré souvenirs para mi familia.",
+        "fr": "J'ai acheté des souvenirs pour ma famille."
+      },
+      [
+        "おみやげ",
+        "おてら",
+        "おまつり",
+        "おとうと"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-035",
+      "きのう <t>すてきな</t>コートを かいました。",
+      {
+        "tr": "Dün güzel bir mont aldım.",
+        "en": "Yesterday I bought a lovely coat.",
+        "de": "Gestern habe ich einen schönen Mantel gekauft.",
+        "es": "Ayer compré un abrigo precioso.",
+        "fr": "Hier, j'ai acheté un beau manteau."
+      },
+      [
+        "すてきな",
+        "どんな",
+        "げんきな",
+        "しんせつな"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-036",
+      "やまださんは くろいセーターを <t>きて</t>います。",
+      {
+        "tr": "Yamada siyah bir kazak giyiyor.",
+        "en": "Yamada-san is wearing a black sweater.",
+        "de": "Yamada-san trägt einen schwarzen Pullover.",
+        "es": "Yamada-san lleva un suéter negro.",
+        "fr": "M. Yamada porte un pull noir."
+      },
+      [
+        "きて",
+        "きます",
+        "まって",
+        "きります"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-037",
+      "ランアインさんは あかいぼうしを <t>かぶって</t>います。",
+      {
+        "tr": "Ryan kırmızı şapka takıyor.",
+        "en": "Mr. Ryan is wearing a red hat.",
+        "de": "Herr Ryan trägt einen roten Hut.",
+        "es": "El señor Ryan lleva un sombrero rojo.",
+        "fr": "M. Ryan porte un chapeau rouge."
+      },
+      [
+        "かぶって",
+        "かけて",
+        "きて",
+        "はいて"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-038",
+      "きょうは うちで あそびます。 いもうとが ともだちを <t>つれてき</t>ました。",
+      {
+        "tr": "Bugün evde oynayacağım. Kız kardeşim arkadaşlarını getirdi.",
+        "en": "Today I will play at home. My younger sister brought her friends.",
+        "de": "Heute werde ich zu Hause spielen.Meine jüngere Schwester brachte ihre Freunde mit.",
+        "es": "Hoy jugaré en casa.Mi hermana menor trajo a sus amigos.",
+        "fr": "Aujourd'hui, je vais jouer à la maison. Ma petite sœur a amené ses amis."
+      },
+      [
+        "つれてき",
+        "よんでき",
+        "あんないし",
+        "つれていき"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-039",
+      "やすみに <t>ホームステイ</t>しました。",
+      {
+        "tr": "Tatilimde homestay yaptım.",
+        "en": "I stayed on a homestay during my vacation.",
+        "de": "Ich habe während meines Urlaubs bei einer Gastfamilie übernachtet.",
+        "es": "Me quedé en una casa de familia durante mis vacaciones.",
+        "fr": "J'ai séjourné dans une famille d'accueil pendant mes vacances."
+      },
+      [
+        "ホームステイ",
+        "ホテル",
+        "ゼロテープ",
+        "ボールペン"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-040",
+      "かがみで かおを <t>みます</t>。",
+      {
+        "tr": "Aynaya bakıp yüzüme bakarım.",
+        "en": "I look at my face in the mirror.",
+        "de": "Ich betrachte mein Gesicht im Spiegel.",
+        "es": "Miro mi cara en el espejo.",
+        "fr": "Je regarde mon visage dans le miroir."
+      },
+      [
+        "みます",
+        "ほん",
+        "シャワー",
+        "さら"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-041",
+      "しょくどうで <t>ていしょく</t>を たべます。",
+      {
+        "tr": "Yemekhanede set menü yerim.",
+        "en": "I eat a set meal in the dining room.",
+        "de": "Ich esse ein festes Menü im Esszimmer.",
+        "es": "Tomo un menú fijo en el comedor.",
+        "fr": "Je prends un repas complet dans la salle à manger."
+      },
+      [
+        "ていしょく",
+        "はし",
+        "レストラン",
+        "さとう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-042",
+      "コップで みずを <t>のみます</t>。",
+      {
+        "tr": "Bardaktan su içerim.",
+        "en": "I drink water from a cup.",
+        "de": "Ich trinke Wasser aus einer Tasse.",
+        "es": "Bebo agua de una taza.",
+        "fr": "Je bois de l'eau dans une tasse."
+      },
+      [
+        "のみます",
+        "スプーン",
+        "じどうはんばいき",
+        "スーパー"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-043",
+      "まいあさ シャワーを <t>あびます</t>。",
+      {
+        "tr": "Her sabah duş alırım.",
+        "en": "I take a shower every morning.",
+        "de": "Ich dusche jeden Morgen.",
+        "es": "Me ducho todas las mañanas.",
+        "fr": "Je prends une douche tous les matins."
+      },
+      [
+        "あびます",
+        "はいります",
+        "あらいます",
+        "します"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-044",
+      "いちにちに ２かい、 はを <t>みがきます</t>。",
+      {
+        "tr": "Günde iki kez dişlerimi fırçalarım.",
+        "en": "I brush my teeth twice a day.",
+        "de": "Ich putze meine Zähne zweimal täglich.",
+        "es": "Me cepillo los dientes dos veces al día.",
+        "fr": "Je me brosse les dents deux fois par jour."
+      },
+      [
+        "みがきます",
+        "とります",
+        "おきます",
+        "あらいます"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-045",
+      "のどが <t>かわきました</t>",
+      {
+        "tr": "Susadım.",
+        "en": "I'm thirsty.",
+        "de": "Ich habe Durst.",
+        "es": "Tengo sed.",
+        "fr": "J'ai soif."
+      },
+      [
+        "かわきました",
+        "いっぱいです",
+        "けっこうです",
+        "すぎました"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-046",
+      "すみません。しおを <t>とって</t>ください。",
+      {
+        "tr": "Affedersiniz, lütfen tuzu uzatın.",
+        "en": "Excuse me, please pass me the salt.",
+        "de": "Entschuldigung, reichen Sie mir bitte das Salz.",
+        "es": "Disculpe, por favor pásame la sal.",
+        "fr": "Excusez-moi, s'il vous plaît passez-moi le sel."
+      },
+      [
+        "とって",
+        "たべて",
+        "たって",
+        "もって"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-047",
+      "<t>スプーン</t>で カレーライスを たべます",
+      {
+        "tr": "Kare pilavını kaşıkla yerim.",
+        "en": "I eat curry rice with a spoon.",
+        "de": "Ich esse Curryreis mit einem Löffel.",
+        "es": "Como arroz al curry con una cuchara.",
+        "fr": "Je mange du riz au curry avec une cuillère."
+      },
+      [
+        "スプーン",
+        "スマホ",
+        "パスタ",
+        "ナイフ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-048",
+      "レストランで ともだちと <t>しょくじ</t>しました",
+      {
+        "tr": "Arkadaşımla restoranda yemek yedim.",
+        "en": "I had a meal at a restaurant with my friend.",
+        "de": "Ich habe mit meinem Freund in einem Restaurant gegessen.",
+        "es": "Comí en un restaurante con mi amigo.",
+        "fr": "J'ai mangé dans un restaurant avec mon ami."
+      },
+      [
+        "しょくじ",
+        "りょこう",
+        "ていしょく",
+        "べつべつに"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-049",
+      "<t>おなか</t>が すきました",
+      {
+        "tr": "Acıktım.",
+        "en": "I'm hungry.",
+        "de": "Ich habe Hunger.",
+        "es": "Tengo hambre.",
+        "fr": "J'ai faim."
+      },
+      [
+        "おなか",
+        "おべんとう",
+        "おちゃ",
+        "おふろ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-050",
+      "<t>びじゅつかん</t>で えを みました",
+      {
+        "tr": "Sanat müzesinde resim gördüm.",
+        "en": "I saw paintings at the art museum.",
+        "de": "Ich habe Gemälde im Kunstmuseum gesehen.",
+        "es": "Vi pinturas en el museo de arte.",
+        "fr": "J'ai vu des peintures au musée d'art."
+      },
+      [
+        "びじゅつかん",
+        "えいがかん",
+        "スカート",
+        "コンサート"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-051",
+      "ギターを <t>ひいて</t>もいいですか",
+      {
+        "tr": "Gitar çalabilir miyim?",
+        "en": "Can I play the guitar?",
+        "de": "Kann ich Gitarre spielen?",
+        "es": "¿Puedo tocar la guitarra?",
+        "fr": "Puis-je jouer de la guitare ?"
+      },
+      [
+        "ひいて",
+        "かいて",
+        "あそんで",
+        "して"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-052",
+      "<t>おんがく</t>は ジャズが すきです",
+      {
+        "tr": "Müzikte jazz severim.",
+        "en": "I like jazz music.",
+        "de": "Ich mag Jazzmusik.",
+        "es": "Me gusta la música jazz.",
+        "fr": "J'aime la musique jazz."
+      },
+      [
+        "おんがく",
+        "えいが",
+        "ロック",
+        "アニメ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-053",
+      "にほんの <t>きせつ</t>は ４つ あります",
+      {
+        "tr": "Japonya’nın dört mevsimi vardır.",
+        "en": "There are four seasons in Japan.",
+        "de": "In Japan gibt es vier Jahreszeiten.",
+        "es": "Hay cuatro estaciones en Japón.",
+        "fr": "Il y a quatre saisons au Japon."
+      },
+      [
+        "きせつ",
+        "はる",
+        "つき",
+        "てんき"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-054",
+      "<t>あつい</t>ですね。つめたい みずが のみたいです。",
+      {
+        "tr": "Hava sıcak. Soğuk su içmek istiyorum.",
+        "en": "It's hot. I want to drink cold water.",
+        "de": "Es ist heiß.Ich möchte kaltes Wasser trinken.",
+        "es": "Hace calor.Quiero beber agua fría.",
+        "fr": "Il fait chaud. Je veux boire de l'eau froide."
+      },
+      [
+        "あつい",
+        "さむい",
+        "いそがしい",
+        "ひま"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-055",
+      "ごごから あめが ふります。 <t>かさ</t>を もっていきます。",
+      {
+        "tr": "Öğleden sonra yağmur yağacak. Şemsiye götüreceğim.",
+        "en": "It will rain from the afternoon. I will bring an umbrella.",
+        "de": "Ab dem Nachmittag wird es regnen.Ich werde einen Regenschirm mitbringen.",
+        "es": "Lloverá a partir de la tarde.Traeré un paraguas.",
+        "fr": "Il va pleuvoir à partir de l'après-midi. J'apporterai un parapluie."
+      },
+      [
+        "かさ",
+        "ほん",
+        "ゆき",
+        "あき"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-056",
+      "<t>しゅみ</t>は カラオケです。",
+      {
+        "tr": "Hobim karaoke.",
+        "en": "My hobby is karaoke.",
+        "de": "Mein Hobby ist Karaoke.",
+        "es": "Mi hobby es el karaoke.",
+        "fr": "Mon hobby est le karaoké."
+      },
+      [
+        "しゅみ",
+        "しごと",
+        "かいしゃ",
+        "きせつ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-057",
+      "やまださんに にほんの うたを <t>ならい</t>ました",
+      {
+        "tr": "Yamada’dan Japon şarkıları öğrendim.",
+        "en": "I learned Japanese songs from Yamada-san.",
+        "de": "Ich habe japanische Lieder von Yamada-san gelernt.",
+        "es": "Aprendí canciones japonesas de Yamada-san.",
+        "fr": "J'ai appris des chansons japonaises de M. Yamada."
+      },
+      [
+        "ならい",
+        "おどり",
+        "あそび",
+        "ひき"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-058",
+      "おきなわの うみで <t>およぎ</t>ました",
+      {
+        "tr": "Okinawa denizinde yüzdüm.",
+        "en": "I swam in the sea in Okinawa.",
+        "de": "Ich bin in Okinawa im Meer geschwommen.",
+        "es": "Nadé en el mar en Okinawa.",
+        "fr": "J'ai nagé dans la mer à Okinawa."
+      },
+      [
+        "およぎ",
+        "のぼり",
+        "はいり",
+        "はじめ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-059",
+      "きょうから ４がつです。 <t>あたたかく</t> なりました",
+      {
+        "tr": "Bugün itibariyle Nisan. Hava ısındı.",
+        "en": "Today is April, and it has become warmer.",
+        "de": "Heute ist April und es ist wärmer geworden.",
+        "es": "Hoy es abril y hace más calor.",
+        "fr": "Aujourd'hui, c'est avril, et il fait plus chaud."
+      },
+      [
+        "あたたかく",
+        "さむく",
+        "すずしく",
+        "つよく"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-060",
+      "いもうとに <t>プレゼント</t>を あげました",
+      {
+        "tr": "Kız kardeşime bir hediye verdim.",
+        "en": "I gave a present to my younger sister.",
+        "de": "Ich habe meiner jüngeren Schwester ein Geschenk gemacht.",
+        "es": "Le di un regalo a mi hermana menor.",
+        "fr": "J'ai offert un cadeau à ma petite sœur."
+      },
+      [
+        "プレゼント",
+        "レポート",
+        "クリスマス",
+        "パーティー"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-061",
+      "やまださんに こどもが <t>うまれ</t>ました",
+      {
+        "tr": "Yamada'nın çocuğu oldu.",
+        "en": "Yamada-san had a child.",
+        "de": "Yamada-san hatte ein Kind.",
+        "es": "Yamada-san tuvo un hijo.",
+        "fr": "M. Yamada a eu un enfant."
+      },
+      [
+        "うまれ",
+        "はじめ",
+        "おくり",
+        "はらい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-062",
+      "ふうとうに てがみを <t>いれ</t>ます",
+      {
+        "tr": "Zarfın içine mektup koyarım.",
+        "en": "I put the letter in an envelope.",
+        "de": "Ich habe den Brief in einen Umschlag gesteckt.",
+        "es": "Puse la carta en un sobre.",
+        "fr": "Je mets la lettre dans une enveloppe."
+      },
+      [
+        "いれ",
+        "ふうとう",
+        "はがき",
+        "きって"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-063",
+      "コンビニで チケットの よやくが <t>できます</t>",
+      {
+        "tr": "Konbini'de bilet rezervasyonu yapabilirsiniz.",
+        "en": "You can make a ticket reservation at the convenience store.",
+        "de": "Sie können eine Ticketreservierung im Supermarkt vornehmen.",
+        "es": "Puede hacer una reserva de boletos en la tienda de conveniencia.",
+        "fr": "Vous pouvez faire une réservation de billets à l'épicerie (konbini)."
+      },
+      [
+        "できます",
+        "します",
+        "ほしいです",
+        "すんでいます"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-064",
+      "みせのひと：はい、<t>かしこまりました</t>。",
+      {
+        "tr": "Mağaza görevlisi: Elbette, hemen bakıyorum.",
+        "en": "Store employee: Certainly.",
+        "de": "Filialmitarbeiter: Auf jeden Fall.",
+        "es": "Empleado de la tienda: Por supuesto.",
+        "fr": "Employé de magasin : Certainement."
+      },
+      [
+        "かしこまりました",
+        "えんりょございます",
+        "おおきですか",
+        "おひさしです"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-065",
+      "ATMで おかねを <t>おろします</t>",
+      {
+        "tr": "ATM’den para çekerim.",
+        "en": "I withdraw money from the ATM.",
+        "de": "Ich hebe Geld am Geldautomaten ab.",
+        "es": "Saco dinero del cajero automático.",
+        "fr": "Je retire de l'argent au distributeur."
+      },
+      [
+        "おろします",
+        "もらいます",
+        "あげます",
+        "でます"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-066",
+      "にくの <t>うりば</t>は あそこです",
+      {
+        "tr": "Et reyonu şurada.",
+        "en": "The meat section is over there.",
+        "de": "Die Fleischabteilung ist da drüben.",
+        "es": "La sección de carnes está ahí.",
+        "fr": "Le rayon viande est là-bas."
+      },
+      [
+        "うりば",
+        "ぶっか",
+        "うるば",
+        "ふとう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-067",
+      "みかん３つで <t>９００えん</t>です",
+      {
+        "tr": "Üç mandalina 900 yen eder.",
+        "en": "Three mandarins cost 900 yen.",
+        "de": "Drei Mandarinen kosten 900 Yen.",
+        "es": "Tres mandarinas cuestan 900 yenes.",
+        "fr": "Trois mandarines coûtent 900 yens."
+      },
+      [
+        "９００えん",
+        "いっしょに",
+        "２べつべつに",
+        "げんきん"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-068",
+      "コンビニで <t>にもつ</t>を おくります",
+      {
+        "tr": "Konbini’den paket gönderirim.",
+        "en": "I send packages at the convenience store.",
+        "de": "Ich verschicke Pakete im Supermarkt.",
+        "es": "Envío paquetes en la tienda de conveniencia.",
+        "fr": "J'envoie des colis à l'épicerie."
+      },
+      [
+        "にもつ",
+        "ぶっか",
+        "ボタン",
+        "ばんごう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-069",
+      "とうきょうは <t>ぶっか</t>が たかいです",
+      {
+        "tr": "Tokyo’nun hayat pahalılığı yüksektir.",
+        "en": "Tokyo has high prices.",
+        "de": "Tokio hat hohe Preise.",
+        "es": "Tokio tiene precios altos.",
+        "fr": "Les prix sont élevés à Tokyo."
+      },
+      [
+        "ぶっか",
+        "げんきん",
+        "かいもの",
+        "おかね"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-070",
+      "A：いってらっしゃい。 B：<t>いってきます</t>。",
+      {
+        "tr": "A: Güle güle. B: Gidip geleceğim.",
+        "en": "A: Take care. B: I'll be back.",
+        "de": "A: Seien Sie vorsichtig.B: Ich komme wieder.",
+        "es": "A: Cuídate. B: volveré.",
+        "fr": "A : Prends soin de toi. B : Je reviens."
+      },
+      [
+        "いってきます",
+        "ただいま",
+        "いただきます",
+        "おやすみなさい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-071",
+      "じかんが ありませんから、<t>いそぎ</t>ましょう",
+      {
+        "tr": "Vaktimiz yok, acele edelim.",
+        "en": "We don't have much time, so let's hurry.",
+        "de": "Wir haben nicht viel Zeit, also beeilen wir uns.",
+        "es": "No tenemos mucho tiempo, así que apurémonos.",
+        "fr": "Nous n'avons pas beaucoup de temps, alors dépêchons-nous."
+      },
+      [
+        "いそぎ",
+        "いく",
+        "かかり",
+        "ゆっくり"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-072",
+      "こうさてんを みぎに <t>まがります</t>",
+      {
+        "tr": "Kavşaktan sağa dönerim.",
+        "en": "I turn right at the intersection.",
+        "de": "An der Kreuzung biege ich rechts ab.",
+        "es": "Giro a la derecha en el cruce.",
+        "fr": "Je tourne à droite à l'intersection."
+      },
+      [
+        "まがります",
+        "とめます",
+        "でかけます",
+        "わたります"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-073",
+      "くるまで ともだちを えきまで <t>おくります</t>",
+      {
+        "tr": "Arkadaşımı arabayla istasyona götürürüm.",
+        "en": "I accompany my friend to the station by car.",
+        "de": "Ich begleite meinen Freund mit dem Auto zum Bahnhof.",
+        "fr": "J'accompagne mon ami à la gare en voiture."
+      },
+      [
+        "おくります",
+        "あるきます",
+        "のります",
+        "のりかえります"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-074",
+      "しぶやで でんしゃを <t>おります</t>",
+      {
+        "tr": "Shibuya’da trenden inerim.",
+        "en": "I get off the train at Shibuya.",
+        "de": "Ich steige in Shibuya aus dem Zug.",
+        "es": "Me bajo del tren en Shibuya.",
+        "fr": "Je descends du train à Shibuya."
+      },
+      [
+        "おります",
+        "おくります",
+        "おきます",
+        "おろします"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-075",
+      "8じに うちを でたら、9じに かいしゃに <t>つきます</t>",
+      {
+        "tr": "Saat 8’de evden çıkarsan, saat 9’da şirkete varırsın.",
+        "en": "If you leave home at 8 o'clock, you'll arrive at the office at 9.",
+        "de": "Wenn Sie um 8 Uhr das Haus verlassen, kommen Sie um 9 Uhr im Büro an.",
+        "es": "Si sales de casa a las 8, llegarás a la oficina a las 9.",
+        "fr": "Si vous partez de chez vous à 8 heures, vous arriverez au bureau à 9 heures."
+      },
+      [
+        "つきます",
+        "つくります",
+        "でかけます",
+        "かかります"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-076",
+      "いっかい <t>だけ</t> ホームステイしたことがあります",
+      {
+        "tr": "Sadece bir kez homestay yaptım.",
+        "en": "I have only done homestay once.",
+        "de": "Ich habe nur einmal bei einer Gastfamilie übernachtet.",
+        "es": "Sólo he hecho estancia en casa de familia una vez.",
+        "fr": "Je n'ai fait un séjour en famille d'accueil qu'une seule fois."
+      },
+      [
+        "だけ",
+        "から",
+        "も",
+        "まで"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-077",
+      "A: くうこうまで <t>どうやって</t> いきますか。",
+      {
+        "tr": "A: Havaalanına nasıl giderim?",
+        "en": "A: How do I get to the airport?",
+        "de": "A: Wie komme ich zum Flughafen?",
+        "es": "A: ¿Cómo llego al aeropuerto?",
+        "fr": "A : Comment puis-je me rendre à l'aéroport ?"
+      },
+      [
+        "どうやって",
+        "どこで",
+        "どんな",
+        "どのくらい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-078",
+      "きょうは ともだちと <t>やくそく</t>があります",
+      {
+        "tr": "Bugün arkadaşlarımla bir sözleşmem / planım var.",
+        "en": "I have plans with my friends today.",
+        "de": "Ich habe heute Pläne mit meinen Freunden.",
+        "fr": "J'ai des projets avec mes amis aujourd'hui."
+      },
+      [
+        "やくそく",
+        "しゅくだい",
+        "つごう",
+        "よやく"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-079",
+      "A: うちから だいがくまで じてんしゃで 40ぷん <t>とおい</t>ですね。",
+      {
+        "tr": "A: Evden üniversiteye bisikletle 40 dakika sürüyor, değil mi?",
+        "en": "A: It takes about 40 minutes by bicycle from your house to the university.",
+        "de": "A: Von Ihrem Zuhause bis zur Universität benötigen Sie mit dem Fahrrad etwa 40 Minuten.",
+        "es": "A: Se tarda unos 40 minutos en bicicleta desde tu casa hasta la universidad.",
+        "fr": "A : Cela prend environ 40 minutes en vélo de chez toi à l'université."
+      },
+      [
+        "とおい",
+        "ちかい",
+        "わるい",
+        "やすい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-080",
+      "べんりな <t>ところ</t>に すみたいです",
+      {
+        "tr": "Kullanışlı bir yerde yaşamak istiyorum.",
+        "en": "I want to live in a convenient place.",
+        "de": "Ich möchte an einem bequemen Ort leben.",
+        "es": "Quiero vivir en un lugar conveniente.",
+        "fr": "Je veux vivre dans un endroit pratique."
+      },
+      [
+        "ところ",
+        "こうこう",
+        "エスカレーター",
+        "エレベーター"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-081",
+      "ごみは ここに <t>すてて</t>ください",
+      {
+        "tr": "Çöpü buraya atın lütfen.",
+        "en": "Please dispose of the garbage here.",
+        "de": "Bitte entsorgen Sie den Müll hier.",
+        "es": "Por favor deseche la basura aquí.",
+        "fr": "S'il vous plaît, jetez les ordures ici."
+      },
+      [
+        "すてて",
+        "かって",
+        "すって",
+        "しめて"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-082",
+      "<t>ダイニングキッチン</t>で しょくじします",
+      {
+        "tr": "Yemekleri yemek mutfağında yerim.",
+        "en": "I have meals in the dining kitchen.",
+        "de": "Ich esse in der Essküche.",
+        "es": "Como en la cocina comedor.",
+        "fr": "Je prends mes repas dans la cuisine-salle à manger."
+      },
+      [
+        "ダイニングキッチン",
+        "おてあらい",
+        "たてもの",
+        "チャンス"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-083",
+      "あついですね。<t>まど</t>を あけましょうか。",
+      {
+        "tr": "Hava sıcak, pencereyi açalım mı?",
+        "en": "It's hot, isn't it? Shall we open the window?",
+        "de": "Es ist heiß, nicht wahr?Sollen wir das Fenster öffnen?",
+        "es": "Hace calor, ¿no?¿Abrimos la ventana?",
+        "fr": "Il fait chaud, n'est-ce pas ? Devrions-nous ouvrir la fenêtre ?"
+      },
+      [
+        "まど",
+        "うち",
+        "へや",
+        "かぎ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-084",
+      "この いすに <t>すわって</t>ください",
+      {
+        "tr": "Lütfen bu sandalyeye oturun.",
+        "en": "Please sit on this chair.",
+        "de": "Bitte setzen Sie sich auf diesen Stuhl.",
+        "es": "Por favor, siéntate en esta silla.",
+        "fr": "S'il vous plaît, asseyez-vous sur cette chaise."
+      },
+      [
+        "すわって",
+        "もって",
+        "すんで",
+        "しめて"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-085",
+      "A: らいげつ けっこんします。 B: <t>おめでとうございます</t>。",
+      {
+        "tr": "A: Gelecek ay evleniyorum. B: Tebrikler!",
+        "en": "A: I'm getting married next month. B: Congratulations!",
+        "de": "A: Ich werde nächsten Monat heiraten.B: Herzlichen Glückwunsch!",
+        "es": "A: Me casaré el mes que viene. B: ¡Felicidades!",
+        "fr": "A : Je me marie le mois prochain. B : Félicitations !"
+      },
+      [
+        "おめでとうございます",
+        "しょうかい",
+        "けんか",
+        "けんきゅう"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-086",
+      "くらいですね。 でんきを <t>つけ</t>ましょうか",
+      {
+        "tr": "Karanlık değil mi? Işığı açalım mı?",
+        "en": "It's dark, isn't it? Shall we turn on the lights?",
+        "de": "Es ist dunkel, nicht wahr?Sollen wir das Licht anmachen?",
+        "es": "Está oscuro, ¿no?¿Encendemos las luces?",
+        "fr": "Il fait sombre, n'est-ce pas ? Devrions-nous allumer les lumières ?"
+      },
+      [
+        "つけ",
+        "だし",
+        "おし",
+        "けし"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-087",
+      "これを みぎに <t>まわす</t>と おゆが でます",
+      {
+        "tr": "Bunu sağa çevirirsen sıcak su çıkar.",
+        "en": "If you turn this to the right, hot water will come out.",
+        "de": "Wenn Sie diesen nach rechts drehen, kommt heißes Wasser heraus.",
+        "es": "Si lo giras hacia la derecha saldrá agua caliente.",
+        "fr": "Si vous tournez ceci vers la droite, de l'eau chaude sortira."
+      },
+      [
+        "まわす",
+        "うごく",
+        "いれる",
+        "まがる"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-088",
+      "でんきの <t>スイッチ</t>は どれですか",
+      {
+        "tr": "Lambanın anahtarı hangisi?",
+        "en": "Which switch is for the lights?",
+        "de": "Welcher Schalter ist für das Licht?",
+        "es": "¿Qué interruptor es para las luces?",
+        "fr": "Quel interrupteur est pour les lumières ?"
+      },
+      [
+        "スイッチ",
+        "スカート",
+        "スポーツ",
+        "スケート"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-089",
+      "わたしの <t>いえ</t>は ほっかいどうに あります",
+      {
+        "tr": "Benim evim Hokkaido'dadır.",
+        "en": "My house is in Hokkaido.",
+        "de": "Mein Haus ist in Hokkaido.",
+        "es": "Mi casa está en Hokkaido.",
+        "fr": "Ma maison est à Hokkaido."
+      },
+      [
+        "いえ",
+        "ところ",
+        "いぬ",
+        "おと"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-090",
+      "これは たいせつな しりょうですから、<t>なくさないで</t>ください",
+      {
+        "tr": "Bu önemli bir belge, lütfen kaybetmeyin.",
+        "en": "This is an important document, so please don't lose it.",
+        "de": "Dies ist ein wichtiges Dokument, also verlieren Sie es bitte nicht.",
+        "es": "Este es un documento importante, así que no lo pierda.",
+        "fr": "C'est un document important, alors s'il vous plaît ne le perdez pas."
+      },
+      [
+        "なくさないで",
+        "おさないで",
+        "すてないで",
+        "つかないで"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-091",
+      "ともだちに おかねを かりました。 あした <t>かえします</t>。",
+      {
+        "tr": "Bir arkadaşımdan para ödünç aldım. Yarın geri vereceğim.",
+        "en": "I borrowed money from a friend. I will return it tomorrow.",
+        "de": "Ich habe mir Geld von einem Freund geliehen.Ich werde es morgen zurückgeben.",
+        "es": "Le pedí dinero prestado a un amigo.Lo devolveré mañana.",
+        "fr": "J'ai emprunté de l'argent à un ami. Je le rendrai demain."
+      },
+      [
+        "かえします",
+        "かします",
+        "かえます",
+        "かえりました"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-092",
+      "らいねん かいしゃを <t>やめて</t>、オーストラリアに りゅうがくします",
+      {
+        "tr": "Gelecek yıl işimden ayrılıp Avustralya’da eğitim göreceğim.",
+        "en": "Next year, I will quit my job and study abroad in Australia.",
+        "de": "Nächstes Jahr werde ich meinen Job kündigen und in Australien studieren.",
+        "es": "El año que viene dejaré mi trabajo y estudiaré en Australia.",
+        "fr": "L'année prochaine, je vais quitter mon emploi et étudier à l'étranger en Australie."
+      },
+      [
+        "やめて",
+        "てんきんして",
+        "ひっこして",
+        "けんきゅうして"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-093",
+      "わたしには おおきい <t>ゆめ</t>が あります",
+      {
+        "tr": "Benim büyük bir hayalim var.",
+        "en": "I have a big dream.",
+        "de": "Ich habe einen großen Traum.",
+        "es": "Tengo un gran sueño.",
+        "fr": "J'ai un grand rêve."
+      },
+      [
+        "ゆめ",
+        "おかね",
+        "あゆ",
+        "せんもん"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-094",
+      "やまださんに <t>つごう</t>を ききました",
+      {
+        "tr": "Yamada'dan durumu (koşulları) sordum.",
+        "en": "I asked Yamada about the circumstances.",
+        "de": "Ich fragte Yamada nach den Umständen.",
+        "es": "Le pregunté a Yamada sobre las circunstancias.",
+        "fr": "J'ai demandé à Yamada quelles étaient les conditions."
+      },
+      [
+        "つごう",
+        "ラジオ",
+        "テレビ",
+        "つくえ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-095",
+      "だいがくいんで <t>ちきゅう</t>のことを けんきゅうしています",
+      {
+        "tr": "Lisansüstü okulda Dünya hakkında araştırma yapıyorum.",
+        "en": "I am researching the Earth at graduate school.",
+        "de": "Ich erforsche während meiner Graduiertenschule die Erde.",
+        "es": "Estoy investigando la Tierra en la escuela de posgrado.",
+        "fr": "J'étudie la Terre à l'école doctorale."
+      },
+      [
+        "ちきゅう",
+        "ちょうしょ",
+        "ゆっくり",
+        "あたたかい"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-096",
+      "つかれました。きょうは <t>はやく</t>ねます",
+      {
+        "tr": "Yoruldum. Bugün erken yatacağım.",
+        "en": "I'm tired. I will go to bed early today.",
+        "de": "Ich bin müde.Ich werde heute früh zu Bett gehen.",
+        "es": "Estoy cansado.Me acostaré temprano hoy.",
+        "fr": "Je suis fatigué. Je vais me coucher tôt aujourd'hui."
+      },
+      [
+        "はやく",
+        "おそく",
+        "いそがしく",
+        "おだいじに"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-097",
+      "こうじょうで <t>ロボット</t>が せいひんを つくっています",
+      {
+        "tr": "Fabrikada robotlar ürün üretiyor.",
+        "en": "Robots are being manufactured at the factory.",
+        "de": "In der Fabrik werden Roboter hergestellt.",
+        "es": "En la fábrica se fabrican robots.",
+        "fr": "Les robots sont fabriqués à l'usine."
+      },
+      [
+        "ロボット",
+        "パスポート",
+        "ジョギング",
+        "インターネット"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-098",
+      "<t>しょうらい</t> けんきゅうしゃに なりたいです",
+      {
+        "tr": "Gelecekte araştırmacı olmak istiyorum.",
+        "en": "I want to become a researcher in the future.",
+        "de": "Ich möchte in Zukunft Forscher werden.",
+        "es": "Quiero convertirme en investigador en el futuro.",
+        "fr": "Je veux devenir chercheur à l'avenir."
+      },
+      [
+        "しょうらい",
+        "あした",
+        "あとで",
+        "もうすぐ"
+      ]
+    ],
+    [
+      "vocabulary-sentence-drill-099",
+      "<t>なかなか</t>こたえが わかりません",
+      {
+        "tr": "Bir türlü cevabı anlayamıyorum.",
+        "en": "I'm having trouble finding the answer.",
+        "de": "Ich habe Schwierigkeiten, die Antwort zu finden.",
+        "es": "Tengo problemas para encontrar la respuesta.",
+        "fr": "J'ai du mal à trouver la réponse."
+      },
+      [
+        "なかなか",
+        "そんなに",
+        "だんだん",
+        "しょうしょう"
+      ]
+    ]
+  ]
+}

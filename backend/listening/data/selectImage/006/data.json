@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "たんじょうびの　ぷれぜんと (Birthday Present)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　なにを　かいますか？",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "やまださんの　たんじょうびに　なにを　あげますか？"
+      },
+      {
+        "speaker": "男の人",
+        "text": "かのじょは　おんがくが　すきですから、しーでぃーを　あげます。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "そうですか。じゃあ、わたしは　こんさーとの　ちけっとに　します。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "でも、こんさーとに　ひとりで　いきますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "うーん。じゃあ、はなか　はんかちに　します。どっちが　いいと　おもいますか？"
+      },
+      {
+        "speaker": "男の人",
+        "text": "どっちも　いいですが、ながく　つかう　ものが　いいと　おもいますよ。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "そうですね。"
+      }
+    ],
+    "question": "おんなのひとは　なにを　かいますか？"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "たんじょうび",
+        "tr": "doğum günü",
+        "en": "birthday"
+      },
+      {
+        "word": "あげる",
+        "tr": "vermek (hediye vb.)",
+        "en": "to give (a gift, etc.)"
+      },
+      {
+        "word": "かのじょ",
+        "tr": "o (kadın) / kız arkadaş",
+        "en": "she / girlfriend"
+      },
+      {
+        "word": "おんがく",
+        "tr": "müzik",
+        "en": "music"
+      },
+      {
+        "word": "ちけっと",
+        "tr": "bilet",
+        "en": "ticket"
+      },
+      {
+        "word": "はな",
+        "tr": "çiçek",
+        "en": "flower"
+      },
+      {
+        "word": "はんかち",
+        "tr": "mendil",
+        "en": "handkerchief"
+      },
+      {
+        "word": "ながく",
+        "tr": "uzun süre",
+        "en": "long time / for a long time"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜に　します",
+        "tr": "Bir şeye karar vermek veya seçmek için kullanılır.",
+        "en": "Used to indicate a decision or choice."
+      },
+      {
+        "point": "〜と　おもいます",
+        "tr": "Bir düşünceyi veya fikri belirtmek için kullanılır (...diye düşünüyorum).",
+        "en": "Used to express an opinion or thought (I think...)."
+      },
+      {
+        "point": "〜から",
+        "tr": "Sebep bildirmek için kullanılır (...olduğu için).",
+        "en": "Used to indicate a reason (because...)."
+      },
+      {
+        "point": "どっち",
+        "tr": "İki seçenek arasından hangisi?",
+        "en": "Which one? (between two options)"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın önce konser bileti almayı düşünür, ancak erkeğin 'yalnız mı gidecek?' sorusu üzerine vazgeçer. Daha sonra çiçek veya mendil arasında kalır. Erkek, 'uzun süre kullanılabilecek' bir şeyin daha iyi olacağını söyler. Çiçekler kısa sürede solacağı için, kadın mendil (hankachi) almaya karar verir.",
+    "en": "The woman initially considers buying a concert ticket, but reconsiders after the man asks if the recipient would go alone. She then debates between flowers and a handkerchief. The man suggests that something that can be 'used for a long time' would be better. Since flowers wilt quickly, she agrees and decides to buy the handkerchief (hankachi)."
+  }
+}

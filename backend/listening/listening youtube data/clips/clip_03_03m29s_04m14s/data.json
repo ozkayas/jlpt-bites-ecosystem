@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "かばんを　えらぶ (Choosing a bag)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　かばんを　みたいですか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません、あの　かばんを　みせてください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "この　しろいの　ですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、その　くろいの　です。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "こちらでしょうか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、ちいさい　ほうです。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "こちらですね。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、ありがとうございます。"
+            }
+        ],
+        "question": "おんなのひとは　どの　かばんを　みたいですか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "かばん",
+                "tr": "çanta",
+                "en": "bag"
+            },
+            {
+                "word": "みせる",
+                "tr": "göstermek",
+                "en": "to show"
+            },
+            {
+                "word": "しろい",
+                "tr": "beyaz",
+                "en": "white"
+            },
+            {
+                "word": "くろい",
+                "tr": "siyah",
+                "en": "black"
+            },
+            {
+                "word": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～を　みせてください",
+                "tr": "Lütfen ...yı/yi gösterin",
+                "en": "Please show me..."
+            },
+            {
+                "point": "～の",
+                "tr": "Sıfattan sonra gelerek 'olanı' anlamı katar (beyaz olanı vb.)",
+                "en": "Noun substitute used after adjectives (the white one, etc.)"
+            },
+            {
+                "point": "～ほう",
+                "tr": "... tarafı / ... olanı (tercih yaparken)",
+                "en": "the one / the side (used when choosing between options)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın beyaz olan (しろいの) çantayı değil, siyah olan (くろいの) çantayı görmek istiyor. Siyah çantalar arasından ise küçük olanı (ちいさい　ほう) tercih ediyor.",
+        "en": "The woman wants to see the black bag (くろいの) instead of the white one (しろいの). Among the black bags, she chooses the small one (ちいさい　ほう)."
+    }
+}

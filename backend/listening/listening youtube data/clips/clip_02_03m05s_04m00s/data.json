@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ひるごはんを　かう (Buying lunch)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "かいしゃで　おんなのひとと　おとこのひとが　はなしています。おんなのひとは　なにを　かってきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "おなかが　すきましたね。みんなの　ひるごはんを　かってきましょうか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "え、いいですか。ありがとうございます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わたしは　さんどいっちを　たべます。なかむらさんも　さんどいっちですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わたしは　おにぎりが　いいです。たなかさんと　やましたさんは　おべんとうが　いいと　おもいます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。じゃ、いってきます。"
+            }
+        ],
+        "question": "おんなのひとは　なにを　かってきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "かいしゃ",
+                "tr": "şirket",
+                "en": "company"
+            },
+            {
+                "word": "おなかが　すく",
+                "tr": "karnı acıkmak",
+                "en": "to get hungry"
+            },
+            {
+                "word": "ひるごはん",
+                "tr": "öğle yemeği",
+                "en": "lunch"
+            },
+            {
+                "word": "さんどいっち",
+                "tr": "sandviç",
+                "en": "sandwich"
+            },
+            {
+                "word": "おにぎり",
+                "tr": "pirinç topu",
+                "en": "rice ball"
+            },
+            {
+                "word": "おべんとう",
+                "tr": "hazır yemek kutusu (bento)",
+                "en": "lunch box (bento)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "tr": "...-ayım mı? / ...-alım mı? (yardım teklifi)",
+                "en": "Shall I / Shall we? (offering help)"
+            },
+            {
+                "point": "～が　いいです",
+                "tr": "...-yı/yi tercih ederim / ...-yı/yi istiyorum",
+                "en": "I'd like ... / I prefer ..."
+            },
+            {
+                "point": "～と　おもいます",
+                "tr": "... diye düşünüyorum",
+                "en": "I think that ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın herkes için yemek alacaktır. Kendisi için 1 sandviç, Nakamura için 1 onigiri, Tanaka ve Yamashita için ise 2 bento (yemek kutusu) alması gerekir. Bu durumda toplamda 1 sandviç, 1 onigiri ve 2 bento satın alacaktır.",
+        "en": "The woman will buy lunch for everyone. She needs to buy 1 sandwich for herself, 1 onigiri for Nakamura, and 2 bentos (lunch boxes) for Tanaka and Yamashita. Therefore, she will buy a total of 1 sandwich, 1 onigiri, and 2 bentos."
+    }
+}

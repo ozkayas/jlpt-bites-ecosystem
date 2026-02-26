@@ -1,0 +1,16 @@
+2026-02-04 20:21:37,414 - INFO - Loading Whisper model (this may take a moment on first run)...
+2026-02-04 20:21:41,497 - INFO - Whisper model loaded
+2026-02-04 20:21:41,498 - INFO - Loaded 111 N5 kanji
+2026-02-04 20:21:41,712 - INFO - ============================================================
+2026-02-04 20:21:41,712 - INFO - PIPELINE START
+2026-02-04 20:21:41,712 - INFO - ============================================================
+2026-02-04 20:21:41,712 - INFO - YouTube URL: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:21:41,712 - INFO - Ranges: [{'start': 65, 'end': 120}, {'start': 136, 'end': 190}]
+2026-02-04 20:21:41,712 - INFO - Target Languages: ['en', 'tr']
+2026-02-04 20:21:41,712 - INFO - ------------------------------------------------------------
+2026-02-04 20:21:41,712 - INFO - Node 1: Download
+2026-02-04 20:21:41,712 - INFO - ------------------------------------------------------------
+2026-02-04 20:21:41,712 - INFO - Downloading audio from: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:21:50,706 - ERROR - ERROR in download: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2026-02-04 20:21:50,707 - ERROR - Download failed: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2026-02-04 20:21:50,708 - ERROR - Pipeline aborted

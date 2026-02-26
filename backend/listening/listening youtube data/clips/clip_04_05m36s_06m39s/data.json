@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "びょういんで　くすりの　のみかたを　きく (Listening to medicine instructions at a hospital)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "びょういんで　いしゃと　おとこのひとが　はなして　います。おとこのひとは　こんばん　どの　くすりを　のみますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "うーん、かぜですね。くすりを　だしますから、こんばんから　のんでください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ごはんの　あとに、この　しろくて　ちいさい　くすりを　ふたつ。しろくて　おおきい　くすりを　ひとつ　のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。この　くろい　くすりも　のみますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "くろい　くすりは　あしたの　あさ　のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。ありがとう　ございます。"
+            }
+        ],
+        "question": "おとこのひとは　こんばん　どの　くすりを　のみますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "いしゃ",
+                "tr": "doktor",
+                "en": "doctor"
+            },
+            {
+                "word": "かぜ",
+                "tr": "soğuk algınlığı",
+                "en": "cold (illness)"
+            },
+            {
+                "word": "こんばん",
+                "tr": "bu akşam",
+                "en": "tonight"
+            },
+            {
+                "word": "しろい",
+                "tr": "beyaz",
+                "en": "white"
+            },
+            {
+                "word": "くろい",
+                "tr": "siyah",
+                "en": "black"
+            },
+            {
+                "word": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            },
+            {
+                "word": "おおきい",
+                "tr": "büyük",
+                "en": "big"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から",
+                "tr": "-den dolayı / çünkü (sebep bildirir)",
+                "en": "because / since (indicates reason)"
+            },
+            {
+                "point": "～て　（しろくて）",
+                "tr": "Sıfatları bağlamak için kullanılan ek (beyaz VE...)",
+                "en": "Te-form for adjectives used to connect descriptions (white AND...)"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Doktor, bu akşam (こんばん) için 2 tane küçük beyaz ilaç (しろくて　ちいさい　ふたつ) ve 1 tane büyük beyaz ilaç (しろくて　おおきい　ひとつ) içilmesini söyler. Siyah ilaç (くろい　くすり) ise yarın sabah içilecektir, bu yüzden bu akşamki listeye dahil değildir.",
+        "en": "The doctor instructs the man to take 2 small white medicines (しろくて　ちいさい　ふたつ) and 1 big white medicine (しろくて　おおきい　ひとつ) tonight (こんばん). The black medicine (くろい　くすり) is for tomorrow morning and is therefore not part of tonight's dosage."
+    }
+}

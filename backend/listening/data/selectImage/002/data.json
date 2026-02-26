@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "はなみの　じゅんび (Flower viewing preparation)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "きょうしつで　せんせいと　おとこの　がくせいが　はなしています。せんせいは　なにを　もっていきますか？",
+    "dialogue": [
+      {
+        "speaker": "男の人",
+        "text": "せんせい、あした　みんなで　ちかくの　こうえんで　はなを　みながら　おひるを　たべませんか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいですね。なにを　もっていきましょうか？"
+      },
+      {
+        "speaker": "男の人",
+        "text": "おべんとうは　こうえんの　ちかくの　すーぱーで　かいます。のみものは　もう　かいました。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "そうですか。じゃあ、わたしは　おかしを　つくって　もっていきますね。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "そうですか。"
+      }
+    ],
+    "question": "せんせいは　なにを　もっていきますか？"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "こうえん",
+        "tr": "park",
+        "en": "park"
+      },
+      {
+        "word": "おひる",
+        "tr": "öğle yemeği",
+        "en": "lunch"
+      },
+      {
+        "word": "おべんとう",
+        "tr": "beslenme çantası / paket yemek",
+        "en": "lunch box / bento"
+      },
+      {
+        "word": "のみもの",
+        "tr": "içecek",
+        "en": "drinks / beverages"
+      },
+      {
+        "word": "おかし",
+        "tr": "atıştırmalık / tatlı",
+        "en": "sweets / snacks"
+      },
+      {
+        "word": "つくる",
+        "tr": "yapmak / hazırlamak",
+        "en": "to make / to prepare"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜ながら",
+        "tr": "Bir eylemi yaparken aynı anda başka bir eylem yapmayı ifade eder (örn: çiçeklere bakarken yemek yemek).",
+        "en": "Used to express doing two actions simultaneously (e.g., eating while looking at flowers)."
+      },
+      {
+        "point": "〜ませんか",
+        "tr": "Birine nazikçe bir şey teklif etmek veya davet etmek için kullanılır.",
+        "en": "Used to politely invite or suggest something to someone."
+      },
+      {
+        "point": "〜ましょうか",
+        "tr": "Birine yardım teklif etmek veya 'yapalım mı?' diye sormak için kullanılır.",
+        "en": "Used to offer help or suggest an action to take together."
+      },
+      {
+        "point": "〜て　もっていきます",
+        "tr": "-ip/-üp götürmek. Bir eylemi yapıp ardından o şekilde gitmeyi belirtir.",
+        "en": "To do something and then take it with you."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Öğrenci, öğle yemeğinin (bento) marketten alınacağını ve içeceklerin (nomimono) zaten alındığını belirtiyor. Öğretmen ise 'O zaman ben atıştırmalık (okashi) yapıp getireyim' diyor. Bu nedenle öğretmenin getireceği şey atıştırmalıklardır.",
+    "en": "The student mentions that the lunch (bento) will be bought at the supermarket and the drinks (nomimono) have already been purchased. The teacher then says, 'Then, I will make and bring some sweets/snacks (okashi).' Therefore, the teacher is bringing the snacks."
+  }
+}

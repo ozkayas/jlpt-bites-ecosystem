@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "しょくじの　じゅんび (Meal preparation)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　はなしています。つくえの　うえに　なにを　おきますか？",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "じゃあ、おさらと　ぐらすを　つくえの　うえに　ならべて　ください。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "はい。ないふと　ふぉーくは　いりますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ。きょうは　はしを　つかいましょう。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "わかりました。"
+      }
+    ],
+    "question": "つくえの　うえに　なにを　おきますか？"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おさら",
+        "tr": "tabak",
+        "en": "plate"
+      },
+      {
+        "word": "ぐらす",
+        "tr": "bardak",
+        "en": "glass"
+      },
+      {
+        "word": "ならべる",
+        "tr": "dizmek / sıralamak",
+        "en": "to line up / to arrange"
+      },
+      {
+        "word": "ないふ",
+        "tr": "bıçak",
+        "en": "knife"
+      },
+      {
+        "word": "ふぉーく",
+        "tr": "çatal",
+        "en": "fork"
+      },
+      {
+        "word": "はし",
+        "tr": "yemek çubukları",
+        "en": "chopsticks"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜て　ください",
+        "tr": "Birinden nazikçe bir şey yapmasını istemek için kullanılır.",
+        "en": "Used to politely ask someone to do something."
+      },
+      {
+        "point": "〜は　いりますか",
+        "tr": "Bir şeye ihtiyaç olup olmadığını sormak için kullanılır.",
+        "en": "Used to ask if something is needed."
+      },
+      {
+        "point": "〜ましょう",
+        "tr": "Hadi yapalım anlamında, bir öneride bulunurken kullanılır.",
+        "en": "Used to make a suggestion (Let's do...)."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın, tabağın (osara) ve bardağın (gurasu) masaya dizilmesini istiyor. Erkek bıçak (naifu) ve çatal (fooku) gerekip gerekmediğini sorduğunda, kadın hayır diyerek bugün yemek çubuğu (hashi) kullanacaklarını belirtiyor. Bu durumda masaya tabak, bardak ve yemek çubukları konulacaktır.",
+    "en": "The woman asks to arrange plates (osara) and glasses (gurasu) on the table. When the man asks if knives (naifu) and forks (fooku) are needed, the woman says no and suggests using chopsticks (hashi) today. Therefore, plates, glasses, and chopsticks will be placed on the table."
+  }
+}

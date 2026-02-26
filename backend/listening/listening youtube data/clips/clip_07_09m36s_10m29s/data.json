@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "はくぶつかんに　いく　ばすを　えらぶ (Choosing the bus to the museum)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなして　います。がくせいは　あしたの　あさ　どの　ばすに　のりますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "あしたは　はくぶつかんに　いきます。はくぶつかんには　ばすで　きて　ください。はくぶつかんへ　いく　ばすは　にじゅうよんばんと　にじゅうごばんですが、あさは　にじゅうごばんの　しろい　ばすに　のって　ください。にじゅうよんばんの　ばすは　ごごからで、あさは　ありません。きを　つけて　ください。"
+            }
+        ],
+        "question": "がくせいは　あしたの　あさ　どの　ばすに　のりますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "はくぶつかん",
+                "tr": "müze",
+                "en": "museum"
+            },
+            {
+                "word": "ばす",
+                "tr": "otobüs",
+                "en": "bus"
+            },
+            {
+                "word": "あした",
+                "tr": "yarın",
+                "en": "tomorrow"
+            },
+            {
+                "word": "あさ",
+                "tr": "sabah",
+                "en": "morning"
+            },
+            {
+                "word": "ごご",
+                "tr": "öğleden sonra",
+                "en": "afternoon"
+            },
+            {
+                "word": "しろい",
+                "tr": "beyaz",
+                "en": "white"
+            },
+            {
+                "word": "きを　つける",
+                "tr": "dikkat etmek",
+                "en": "to be careful"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～で　いく",
+                "tr": "... ile gitmek (ulaşım aracı)",
+                "en": "to go by ... (means of transport)"
+            },
+            {
+                "point": "～に　のる",
+                "tr": "...-ya binmek (araç)",
+                "en": "to get on / ride (a vehicle)"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            },
+            {
+                "point": "～から",
+                "tr": "-den itibaren (zaman)",
+                "en": "from / starting at (time)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen, müze için 24 ve 25 numaralı otobüslerin olduğunu ancak 24 numaranın sadece öğleden sonra çalıştığını söyler. Bu nedenle sabah gidecek olan öğrencilerin 25 numaralı beyaz otobüse binmesi gerektiğini açıkça belirtir.",
+        "en": "The teacher explains that both buses 24 and 25 go to the museum, but bus 24 only runs starting from the afternoon. Therefore, he explicitly instructs the students to take the white bus, number 25, for tomorrow morning."
+    }
+}

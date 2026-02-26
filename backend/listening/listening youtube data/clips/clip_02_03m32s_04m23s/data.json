@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "はなみの　じゅんび (Cherry blossom viewing preparation)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとは　なにを　もっていきますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "らいしゅうは　はなみですね。わたしは　おかしを　もっていきますね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "じゃあ、わたしは　のみものを　もっていきます。のみものは　なにが　いいですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "そうですね。じゃあ、じゅうすと　おちゃを　にほんずつ　おねがいします。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。にほんずつですね。"
+            }
+        ],
+        "question": "おとこのひとは　なにを　もっていきますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "らいしゅう",
+                "tr": "gelecek hafta",
+                "en": "next week"
+            },
+            {
+                "word": "はなみ",
+                "tr": "çiçek izleme (sakura)",
+                "en": "cherry blossom viewing"
+            },
+            {
+                "word": "おかし",
+                "tr": "atıştırmalık / tatlı",
+                "en": "snacks / sweets"
+            },
+            {
+                "word": "もっていく",
+                "tr": "götürmek",
+                "en": "to take / to bring"
+            },
+            {
+                "word": "のみもの",
+                "tr": "içecek",
+                "en": "drink"
+            },
+            {
+                "word": "じゅうす",
+                "tr": "meyve suyu",
+                "en": "juice"
+            },
+            {
+                "word": "おちゃ",
+                "tr": "çay",
+                "en": "tea"
+            },
+            {
+                "word": "にほん",
+                "tr": "iki tane (silindirik nesneler için)",
+                "en": "two (counter for long cylindrical objects)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ね",
+                "tr": "onaylama / teyit eki",
+                "en": "confirmation particle"
+            },
+            {
+                "point": "～ずつ",
+                "tr": "her birinden / -şar, -şer",
+                "en": "each / at a time"
+            },
+            {
+                "point": "～おねがいします",
+                "tr": "lütfen / rica ederim",
+                "en": "please (requesting something)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın atıştırmalık getireceğini söyler, bu yüzden adamın görevi içecekleri getirmektir. Kadın spesifik olarak iki şişe meyve suyu ve iki şişe çay (にほんずつ) istediği için adam bu iki tür içecekten ikişer tane getirecektir.",
+        "en": "The woman says she will bring snacks, so the man's task is to bring the drinks. Since the woman specifically requests two bottles of juice and two bottles of tea (にほんずつ), the man will bring two of each type of drink."
+    }
+}

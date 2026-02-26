@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "びょういんで　くすりの　のみかたを　きく (Listening to medicine instructions at a hospital)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "びょういんで　おんなのひとと　おとこのひとが　はなしています。おとこのひとは　あさごはんの　あと　どの　くすりを　のみますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "この　しろい　くすりは　あさと　よるの　いちにち　にかい　しょくじの　あとに　のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "それから　この　あおい　くすりは　あさごはんの　あとだけ　のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ひとつですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、ふたつ　のんでください。"
+            }
+        ],
+        "question": "おとこのひとは　あさごはんの　あと　どの　くすりを　のみますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "びょういん",
+                "tr": "hastane",
+                "en": "hospital"
+            },
+            {
+                "word": "くすり",
+                "tr": "ilaç",
+                "en": "medicine"
+            },
+            {
+                "word": "あさごはん",
+                "tr": "kahvaltı",
+                "en": "breakfast"
+            },
+            {
+                "word": "あさ",
+                "tr": "sabah",
+                "en": "morning"
+            },
+            {
+                "word": "よる",
+                "tr": "gece / akşam",
+                "en": "night / evening"
+            },
+            {
+                "word": "しろい",
+                "tr": "beyaz",
+                "en": "white"
+            },
+            {
+                "word": "あおい",
+                "tr": "mavi",
+                "en": "blue"
+            },
+            {
+                "word": "～かい",
+                "tr": "kere / defa",
+                "en": "times (counter)"
+            },
+            {
+                "word": "しょくじ",
+                "tr": "yemek",
+                "en": "meal"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～の　あと",
+                "tr": "...-den sonra",
+                "en": "after ..."
+            },
+            {
+                "point": "～だけ",
+                "tr": "sadece",
+                "en": "only"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Beyaz ilaç sabah ve akşam yemeklerinden sonra alınmalıdır. Mavi ilaç ise sadece kahvaltıdan sonra 2 adet alınmalıdır. Bu durumda adam kahvaltıdan sonra hem beyaz ilacı hem de 2 tane mavi ilacı içmelidir.",
+        "en": "The white medicine should be taken after meals in the morning and evening. The blue medicine should be taken only after breakfast, and the dosage is 2 tablets. Therefore, after breakfast, the man must take the white medicine and two blue medicines."
+    }
+}

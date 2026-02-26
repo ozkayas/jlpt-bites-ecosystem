@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ぱーてぃーの　じゅんび (Party preparation)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　ぱーてぃーの　じゅんびを　しています。へやは　いま　どうなって　いますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "このへんに　てーぶるを　ふたつ　ならべましょう。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。いすは　どうしますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "てーぶるの　そばには　おかないで、かべの　ほうに　ならべましょう。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "りょうりと　のみものは　どうしますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "さんどいっちは　てーぶるの　うえに　おいてください。のみものは　れいぞうこの　なかに　いれてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。"
+            }
+        ],
+        "question": "へやは　いま　どうなって　いますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "じゅんび",
+                "tr": "hazırlık",
+                "en": "preparation"
+            },
+            {
+                "word": "ならべる",
+                "tr": "dizmek, sıralamak",
+                "en": "to line up, to arrange"
+            },
+            {
+                "word": "そば",
+                "tr": "yan, yakın",
+                "en": "beside, near"
+            },
+            {
+                "word": "かべ",
+                "tr": "duvar",
+                "en": "wall"
+            },
+            {
+                "word": "さんどいっち",
+                "tr": "sandviç",
+                "en": "sandwich"
+            },
+            {
+                "word": "れいぞうこ",
+                "tr": "buzdolabı",
+                "en": "refrigerator"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょう",
+                "tr": "-alım/-elim (istek/teklif)",
+                "en": "let's (suggestion/invitation)"
+            },
+            {
+                "point": "～ないで",
+                "tr": "-madan/-meden (yapma)",
+                "en": "without doing (don't)"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek, iki masanın yan yana dizilmesini, sandalyelerin masanın yanına değil duvar kenarına dizilmesini ister. Ayrıca sandviçlerin masanın üstüne konulmasını, içeceklerin ise buzdolabına yerleştirilmesini söyler.",
+        "en": "The man requests that two tables be lined up together and that the chairs be arranged along the wall rather than next to the table. He also instructs that the sandwiches be placed on the table and the drinks be put inside the refrigerator."
+    }
+}

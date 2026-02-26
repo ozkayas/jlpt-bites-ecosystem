@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ぎんこうで　かきかたを　きく (Asking how to fill out a form at a bank)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "ぎんこうで　ぎんこうの　ひとと　おとこの　ひとが　はなして　います。おとこの　ひとは　かみに　どう　かきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "この　かみに　なまえを　かいて　ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "なまえの　したに　じゅうしょを　かいて　ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "じゅうしょは　かんじで　かいて　うえに　ひらがなを　かいて　くださいね。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いちばん　したには　でんわばんごうを　かいて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あのー、なまえは　えいごで　かきますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、かたかなで　おねがいします。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "おとこの　ひとは　かみに　どう　かきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぎんこう",
+                "tr": "banka",
+                "en": "bank"
+            },
+            {
+                "word": "かみ",
+                "tr": "kağıt",
+                "en": "paper"
+            },
+            {
+                "word": "なまえ",
+                "tr": "isim",
+                "en": "name"
+            },
+            {
+                "word": "じゅうしょ",
+                "tr": "adres",
+                "en": "address"
+            },
+            {
+                "word": "かんじ",
+                "tr": "kanji (Çin karakterleri)",
+                "en": "kanji"
+            },
+            {
+                "word": "ひらがな",
+                "tr": "hiragana",
+                "en": "hiragana"
+            },
+            {
+                "word": "かたかな",
+                "tr": "katakana",
+                "en": "katakana"
+            },
+            {
+                "word": "した",
+                "tr": "alt / aşağı",
+                "en": "under / bottom"
+            },
+            {
+                "word": "うえ",
+                "tr": "üst / yukarı",
+                "en": "above / top"
+            },
+            {
+                "word": "でんわばんごう",
+                "tr": "telefon numarası",
+                "en": "phone number"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "Lütfen ... yapın (rica)",
+                "en": "Please do ... (request)"
+            },
+            {
+                "point": "～のしたに / ～のうえに",
+                "tr": "...'nın altına / ...'nın üstüne",
+                "en": "under ... / above ..."
+            },
+            {
+                "point": "～で（かきます）",
+                "tr": "... ile / ... dilinde (yazmak)",
+                "en": "in ... (language/script) (to write)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Formun en üstüne isim Katakana ile yazılmalıdır (İngilizce değil). İsmin altına adres Kanji ile yazılmalı ve üzerine Hiragana eklenmelidir. En alta ise telefon numarası yazılmalıdır. Doğru görselde üstte Katakana isim, ortada üstü Hiraganalı Kanji adres ve en altta numara olmalıdır.",
+        "en": "The name should be written at the top in Katakana (not English). Below the name, the address should be written in Kanji with Hiragana written above it. At the very bottom, the phone number should be written. The correct image should show Katakana for the name, Kanji with Hiragana furigana for the address, and the number at the bottom."
+    }
+}

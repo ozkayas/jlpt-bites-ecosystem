@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "がっこうでの　こうどう (Actions at school)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなして　います。がくせいは　がっこうで　はじめに　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "せんせい、すみません。いま、おきました。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "そうですか。じゃあ、はやく　がっこうに　きて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。すみません。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わたしは　これから　ほかの　くらすで　じゅぎょうが　ありますから、わたしの　つくえの　うえに　しゅくだいを　だして　ください。それから、きょうしつに　いって　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。わかりました。すみませんでした。"
+            }
+        ],
+        "question": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "いま",
+                "tr": "şimdi",
+                "en": "now"
+            },
+            {
+                "word": "おきる",
+                "tr": "uyanmak",
+                "en": "to wake up"
+            },
+            {
+                "word": "はやく",
+                "tr": "erken / hızlıca",
+                "en": "early / quickly"
+            },
+            {
+                "word": "つくえ",
+                "tr": "masa",
+                "en": "desk"
+            },
+            {
+                "word": "しゅくだい",
+                "tr": "ödev",
+                "en": "homework"
+            },
+            {
+                "word": "だす",
+                "tr": "teslim etmek / vermek",
+                "en": "to hand in / to submit"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "Lütfen ... yapın",
+                "en": "Please do ..."
+            },
+            {
+                "point": "～から",
+                "tr": "-den dolayı / çünkü",
+                "en": "because / since"
+            },
+            {
+                "point": "それから",
+                "tr": "ondan sonra / daha sonra",
+                "en": "after that / and then"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen, başka bir sınıfta dersi olduğu için öğrenciden ödevini kendi masasına bırakmasını (しゅくだいを だす) ve ardından kendi sınıfına gitmesini (きょうしつに いってください) söyler. Bu nedenle öğrencinin okula varınca yapacağı ilk iş ödevi teslim etmektir.",
+        "en": "The teacher tells the student to leave his homework on her desk (しゅくだいを だす) and then go to the classroom (きょうしつに いってください) because she has another class to attend. Therefore, the first action the student must take upon arriving at school is to hand in his homework."
+    }
+}

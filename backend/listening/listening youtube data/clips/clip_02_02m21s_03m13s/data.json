@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ゆうびんきょくで　きってと　はがきを　かう (Buying stamps and postcards at a post office)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　ぜんぶで　いくら　はらいますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません、はちじゅうにえんの　きってを　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "なんまいですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "じゅうまい　おねがいします。それから、はがきも　いちまい　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はがきは　いくらですか？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、はがきは　いちまい　ごじゅうにえんです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ありがとうございます。"
+            }
+        ],
+        "question": "おんなのひとは　ぜんぶで　いくら　はらいますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きって",
+                "tr": "posta pulu",
+                "en": "postage stamp"
+            },
+            {
+                "word": "はがき",
+                "tr": "kartpostal",
+                "en": "postcard"
+            },
+            {
+                "word": "～まい",
+                "tr": "ince ve düz nesneler için sayma eki (tane)",
+                "en": "counter for flat objects"
+            },
+            {
+                "word": "いくら",
+                "tr": "ne kadar (fiyat)",
+                "en": "how much (price)"
+            },
+            {
+                "word": "ぜんぶで",
+                "tr": "toplamda",
+                "en": "in total"
+            },
+            {
+                "word": "はらう",
+                "tr": "ödemek",
+                "en": "to pay"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～をください",
+                "tr": "... lütfen (... verir misiniz?)",
+                "en": "please give me..."
+            },
+            {
+                "point": "～まい",
+                "tr": "İnce/düz nesneler (pul, kağıt vb.) sayılırken sayıdan sonra gelir.",
+                "en": "Used after a number to count flat objects (stamps, paper, etc.)."
+            },
+            {
+                "point": "それから",
+                "tr": "ve ondan sonra / ayrıca",
+                "en": "and then / also"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın 82 yenlik pullardan 10 tane (82 x 10 = 820 yen) ve tanesi 52 yen olan kartpostallardan 1 tane (52 yen) alıyor. Toplam tutar 820 + 52 = 872 yen eder.",
+        "en": "The woman buys 10 stamps of 82 yen each (82 x 10 = 820 yen) and 1 postcard for 52 yen. The total amount is 820 + 52 = 872 yen."
+    }
+}

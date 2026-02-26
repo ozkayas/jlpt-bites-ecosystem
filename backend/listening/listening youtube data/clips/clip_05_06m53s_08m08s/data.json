@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "わすれものを　とりに　いく (Going to pick up a forgotten item)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "でんわで　おみせの　ひとと　おんなの　ひとが　はなして　います。おんなの　ひとは　いつ　おみせに　いきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "おでんわ　ありがとう　ございます。あおば　かふぇです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "すみません。きのう　おみせで　かさを　わすれたと　おもいます。きいろい　かさ　ありませんでしたか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "えーっと、きいろい　かさですね。ああ、ありますよ。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "よかった。わたしのです。あの、にちようびの　よる　とりに　いっても　いいですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "もうしわけ　ありません。にちようびは　おやすみです。どようびは　どうですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "どようびですか。わかりました。おひるでも　いいですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、だいじょうぶですよ。"
+            }
+        ],
+        "question": "おんなの　ひとは　いつ　おみせに　いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "かさ",
+                "tr": "şemsiye",
+                "en": "umbrella"
+            },
+            {
+                "word": "わすれる",
+                "tr": "unutmak",
+                "en": "to forget"
+            },
+            {
+                "word": "きいろい",
+                "tr": "sarı",
+                "en": "yellow"
+            },
+            {
+                "word": "とりにいく",
+                "tr": "almaya gitmek",
+                "en": "to go pick up (something)"
+            },
+            {
+                "word": "おやすみ",
+                "tr": "tatil / kapalı",
+                "en": "holiday / closed"
+            },
+            {
+                "word": "おひる",
+                "tr": "öğle / gündüz vakti",
+                "en": "noon / daytime"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～と　おもいます",
+                "tr": "... diye düşünüyorum",
+                "en": "I think that ..."
+            },
+            {
+                "point": "～ても　いいですか",
+                "tr": "... yapabilir miyim? (izin isteme)",
+                "en": "May I ...? (asking permission)"
+            },
+            {
+                "point": "～は　どうですか",
+                "tr": "... nasıl? / ... ne dersiniz? (öneri)",
+                "en": "How about ...? (suggestion)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın şemsiyesini Pazar gecesi almak istediğini söyler ancak adam dükkanın Pazar günü kapalı olduğunu belirtir. Adam Cumartesi gününü önerir ve kadın da Cumartesi öğlen (gündüz vakti) gelmeyi kabul eder.",
+        "en": "The woman asks to pick up her umbrella on Sunday night, but the man explains the shop is closed on Sundays. He suggests Saturday instead, and the woman agrees to come on Saturday at noon (daytime)."
+    }
+}

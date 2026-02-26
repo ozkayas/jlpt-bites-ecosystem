@@ -1,0 +1,55 @@
+2026-02-04 20:55:44,796 - INFO - Loading Whisper model (this may take a moment on first run)...
+2026-02-04 20:55:45,233 - INFO - Whisper model loaded
+2026-02-04 20:55:45,234 - INFO - Loaded 111 N5 kanji
+2026-02-04 20:55:45,338 - INFO - ============================================================
+2026-02-04 20:55:45,338 - INFO - PIPELINE START
+2026-02-04 20:55:45,338 - INFO - ============================================================
+2026-02-04 20:55:45,339 - INFO - YouTube URL: https://www.youtube.com/watch?v=ewHktqEnxTQ
+2026-02-04 20:55:45,339 - INFO - Ranges: [{'start': 65, 'end': 120}, {'start': 136, 'end': 190}]
+2026-02-04 20:55:45,339 - INFO - Target Languages: ['en', 'tr']
+2026-02-04 20:55:45,339 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:45,339 - INFO - Node 1: Download
+2026-02-04 20:55:45,339 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:45,339 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-02-04 20:55:59,764 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-02-04 20:55:59,764 - INFO - Saved to: source_audio/full_audio.mp3
+2026-02-04 20:55:59,764 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:59,764 - INFO - Node 2: Slice
+2026-02-04 20:55:59,764 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:59,764 - INFO - clip_01_01m05s_02m00s: Slicing audio...
+2026-02-04 20:55:59,812 - INFO - clip_01_01m05s_02m00s: Sliced successfully
+2026-02-04 20:55:59,812 - INFO - clip_02_02m16s_03m10s: Slicing audio...
+2026-02-04 20:55:59,855 - INFO - clip_02_02m16s_03m10s: Sliced successfully
+2026-02-04 20:55:59,855 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:59,855 - INFO - Processing clips/clip_01_01m05s_02m00s
+2026-02-04 20:55:59,855 - INFO - ------------------------------------------------------------
+2026-02-04 20:55:59,855 - INFO - clips/clip_01_01m05s_02m00s: Transcribing...
+2026-02-04 20:56:01,478 - INFO - clips/clip_01_01m05s_02m00s: Transcribed
+2026-02-04 20:56:01,480 - INFO - clips/clip_01_01m05s_02m00s: Japanese processed
+2026-02-04 20:56:01,481 - INFO - clips/clip_01_01m05s_02m00s: Translating to en...
+2026-02-04 20:56:02,821 - INFO - clips/clip_01_01m05s_02m00s: Translated to en
+2026-02-04 20:56:02,821 - INFO - clips/clip_01_01m05s_02m00s: Translating to tr...
+2026-02-04 20:56:03,567 - INFO - clips/clip_01_01m05s_02m00s: Translated to tr
+2026-02-04 20:56:03,574 - INFO - clips/clip_01_01m05s_02m00s: Translation complete
+2026-02-04 20:56:03,574 - INFO - ------------------------------------------------------------
+2026-02-04 20:56:03,574 - INFO - Processing clips/clip_02_02m16s_03m10s
+2026-02-04 20:56:03,574 - INFO - ------------------------------------------------------------
+2026-02-04 20:56:03,574 - INFO - clips/clip_02_02m16s_03m10s: Transcribing...
+2026-02-04 20:56:04,972 - INFO - clips/clip_02_02m16s_03m10s: Transcribed
+2026-02-04 20:56:04,974 - INFO - clips/clip_02_02m16s_03m10s: Japanese processed
+2026-02-04 20:56:04,974 - INFO - clips/clip_02_02m16s_03m10s: Translating to en...
+2026-02-04 20:56:05,876 - INFO - clips/clip_02_02m16s_03m10s: Translated to en
+2026-02-04 20:56:05,876 - INFO - clips/clip_02_02m16s_03m10s: Translating to tr...
+2026-02-04 20:56:06,946 - INFO - clips/clip_02_02m16s_03m10s: Translated to tr
+2026-02-04 20:56:06,951 - INFO - clips/clip_02_02m16s_03m10s: Translation complete
+2026-02-04 20:56:06,951 - INFO - ------------------------------------------------------------
+2026-02-04 20:56:06,951 - INFO - Node 6: Metadata
+2026-02-04 20:56:06,951 - INFO - ------------------------------------------------------------
+2026-02-04 20:56:06,951 - INFO - clips/clip_01_01m05s_02m00s: Metadata generated
+2026-02-04 20:56:06,952 - INFO - clips/clip_02_02m16s_03m10s: Metadata generated
+2026-02-04 20:56:06,952 - INFO - Metadata and index generated
+2026-02-04 20:56:06,952 - INFO - ============================================================
+2026-02-04 20:56:06,952 - INFO - PIPELINE COMPLETE
+2026-02-04 20:56:06,952 - INFO - ============================================================
+2026-02-04 20:56:06,952 - INFO - Output: 2 clips generated
+2026-02-04 20:56:06,952 - INFO - Check index.json for details

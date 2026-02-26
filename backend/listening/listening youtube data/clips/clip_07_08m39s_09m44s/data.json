@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "はなやで かいもの (Shopping at a flower shop)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "はなやで おみせのひとと おとこのひとが はなしています。 おとこのひとは どれを かいますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "いらっしゃいませ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あの、はなを かいたいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "おたんじょうびの ぷれぜんと（プレゼント）ですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、ともだちの たんじょうびです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "では、この おおきい はなは どうですか。 とても きれいですよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですね。 じゃあ、それを にほん ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、こちらの ちいさい はなも いっしょに どうですか。 もっと きれいですよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですね。 じゃあ、ちいさい はなも さんぼん ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。 ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは どれを かいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "はなや",
+                "tr": "çiçekçi",
+                "en": "flower shop"
+            },
+            {
+                "word": "おおきい",
+                "tr": "büyük",
+                "en": "big"
+            },
+            {
+                "word": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            },
+            {
+                "word": "にほん",
+                "tr": "iki adet (uzun nesneler/çiçekler için)",
+                "en": "two (counter for long objects/flowers)"
+            },
+            {
+                "word": "さんぼん",
+                "tr": "üç adet (uzun nesneler/çiçekler için)",
+                "en": "three (counter for long objects/flowers)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たいんですが",
+                "tr": "... yapmak istiyorum (yardımcı olabilir misiniz?)",
+                "en": "I'd like to ... (seeking assistance)"
+            },
+            {
+                "point": "～を ください",
+                "tr": "lütfen ... verin",
+                "en": "please give me ..."
+            },
+            {
+                "point": "～は どうですか",
+                "tr": "... ne dersiniz? / ... nasıl olur?",
+                "en": "how about ...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam önce 'büyük çiçeklerden' (おおきい はな) 2 adet (にほん) istiyor. Daha sonra tezgahtar 'küçük çiçekleri' (ちいさい はな) önerince, onlardan da 3 adet (さんぼん) almaya karar veriyor. Bu durumda toplamda 2 büyük ve 3 küçük çiçek almıştır.",
+        "en": "The man first asks for 2 (にほん) 'big flowers' (おおきい はな). Then, when the clerk suggests the 'small flowers' (ちいさい はな), he decides to add 3 (さんぼん) of those as well. Therefore, he buys a total of 2 big and 3 small flowers."
+    }
+}

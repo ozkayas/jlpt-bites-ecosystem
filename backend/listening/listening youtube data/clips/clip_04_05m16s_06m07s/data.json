@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Time and Schedule (Test time)",
+        "audio_url": null
+    },
+    "options": [
+        null,
+        null,
+        null,
+        null
+    ],
+    "correct_option": null,
+    "transcription": {
+        "intro": "きょうしつで せんせいが がくせいに はなしています。がくせいは あした なんじに きょうしつへ いきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "あしたの てすと（テスト）は いちばんの きょうしつで します。じゅうじはんまでは ほかの くらす（クラス）が つかいます。この くらす（クラス）は じゅういちじからです。てすと（テスト）の せつめいを しますから、てすと（テスト）が はじまる じゅっぷんまえに きょうしつへ きてください。"
+            }
+        ],
+        "question": "がくせいは あした なんじに きょうしつへ いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きょうしつ",
+                "tr": "sınıf",
+                "en": "classroom"
+            },
+            {
+                "word": "ほかの",
+                "tr": "diğer / başka",
+                "en": "other"
+            },
+            {
+                "word": "せつめい",
+                "tr": "açıklama",
+                "en": "explanation"
+            },
+            {
+                "word": "はじまる",
+                "tr": "başlamak",
+                "en": "to start"
+            },
+            {
+                "word": "じゅっぷんまえ",
+                "tr": "on dakika önce",
+                "en": "ten minutes before"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から",
+                "tr": "-den itibaren / -den",
+                "en": "from / starting at"
+            },
+            {
+                "word": "～まで",
+                "tr": "-e kadar",
+                "en": "until"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen sınıfın saat 11:00'de (じゅういちじ) başladığını söylüyor. Ayrıca, sınav açıklamasını yapacağı için öğrencilerin sınav başlamadan 10 dakika önce (じゅっぷんまえ) gelmelerini istiyor. Bu durumda öğrencilerin saat 10:50'de orada olmaları gerekiyor.",
+        "en": "The teacher mentions that the class starts at 11:00 (11-ji). She then instructs the students to come to the classroom 10 minutes before (juppun-mae) the test starts to hear the explanation. Therefore, the students must arrive at 10:50."
+    }
+}
