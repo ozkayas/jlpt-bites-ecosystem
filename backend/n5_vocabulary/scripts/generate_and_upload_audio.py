@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Generate TTS audio for N5 vocabulary words and sentences,
-upload them to Firebase Storage, and update Firestore documents.
+upload them to Firebase Storage, and update audioUrl fields
+in the local n5_vocabulary.json file.
 
 Storage paths:
   sounds/n5_vocabulary/words/{word_id}.mp3
@@ -9,9 +10,12 @@ Storage paths:
                                  {word_id}_s2.mp3
                                  {word_id}_s3.mp3
 
-Firestore fields updated:
-  n5_vocabulary/{word_id}.audioUrl          (word pronunciation)
-  n5_vocabulary/{word_id}.sentences[i].audioUrl  (sentence pronunciation)
+JSON fields updated (in-place):
+  words[i].audioUrl
+  words[i].sentences[j].audioUrl
+
+Firestore is NOT touched by this script.
+Run upload_n5_vocabulary.py afterwards to sync the updated JSON to Firestore.
 
 Usage:
   python3 generate_and_upload_audio.py
@@ -22,7 +26,7 @@ Usage:
 """
 
 import firebase_admin
-from firebase_admin import credentials, firestore, storage
+from firebase_admin import credentials, storage
 import json
 import sys
 import os
@@ -30,10 +34,8 @@ import tempfile
 import argparse
 from pathlib import Path
 from typing import Optional, List, Dict, Any
-from datetime import datetime, timezone
 
 BUCKET_NAME = 'jlpt-bites.firebasestorage.app'
-COLLECTION_NAME = 'n5_vocabulary'
 STORAGE_WORDS_PREFIX = 'sounds/n5_vocabulary/words'
 STORAGE_SENTENCES_PREFIX = 'sounds/n5_vocabulary/sentences'
 
@@ -88,23 +90,37 @@ def upload_to_storage(bucket, local_path: str, remote_path: str) -> Optional[str
         return None
 
 
-def blob_exists(bucket, remote_path: str) -> bool:
-    """Check if a blob already exists in Storage."""
+def get_blob_url(bucket, remote_path: str) -> Optional[str]:
+    """Return the public URL if the blob already exists, otherwise None."""
     blob = bucket.blob(remote_path)
-    return blob.exists()
+    if blob.exists():
+        blob.make_public()
+        return blob.public_url
+    return None
 
 
-def load_words() -> List[Dict[str, Any]]:
+def load_data() -> Dict[str, Any]:
     data_path = Path(__file__).parent.parent / 'data' / 'n5_vocabulary.json'
     with open(data_path, 'r', encoding='utf-8') as f:
-        return json.load(f)['words']
+        return json.load(f)
 
 
-def process_words(db, bucket, words: List[Dict[str, Any]],
+def save_data(data: Dict[str, Any]) -> None:
+    data_path = Path(__file__).parent.parent / 'data' / 'n5_vocabulary.json'
+    with open(data_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f'\n💾 JSON updated: {data_path}')
+
+
+def process_words(bucket, words: List[Dict[str, Any]],
                   do_words: bool, do_sentences: bool,
-                  force: bool, dry_run: bool) -> None:
-    total_words = 0
-    total_sentences = 0
+                  force: bool, dry_run: bool) -> int:
+    """
+    Generate and upload audio for each word/sentence.
+    Updates audioUrl fields directly in the word dicts (in-place).
+    Returns total number of audio files processed.
+    """
+    total = 0
 
     for word in words:
         word_id = word['id']
@@ -117,25 +133,40 @@ def process_words(db, bucket, words: List[Dict[str, Any]],
         if do_words:
             remote_word = f'{STORAGE_WORDS_PREFIX}/{word_id}.mp3'
 
-            if not force and not dry_run and blob_exists(bucket, remote_word):
-                print(f'   ⏭️  Word audio already exists, skipping (use --force to overwrite)')
-            elif dry_run:
+            if dry_run:
                 print(f'   [DRY-RUN] Would generate & upload word audio: {remote_word}')
-                total_words += 1
+                total += 1
+            elif not force:
+                existing_url = get_blob_url(bucket, remote_word)
+                if existing_url:
+                    word['audioUrl'] = existing_url
+                    print(f'   ✅ Word audio already exists → JSON updated')
+                    total += 1
+                else:
+                    with tempfile.NamedTemporaryFile(suffix='.mp3', delete=False) as tmp:
+                        tmp_path = tmp.name
+                    try:
+                        if generate_tts(word_text, tmp_path):
+                            url = upload_to_storage(bucket, tmp_path, remote_word)
+                            if url:
+                                word['audioUrl'] = url
+                                print(f'   ✅ Word audio uploaded → JSON updated')
+                                total += 1
+                            else:
+                                print(f'   ❌ Word audio upload failed')
+                    finally:
+                        if os.path.exists(tmp_path):
+                            os.unlink(tmp_path)
             else:
                 with tempfile.NamedTemporaryFile(suffix='.mp3', delete=False) as tmp:
                     tmp_path = tmp.name
-
                 try:
                     if generate_tts(word_text, tmp_path):
                         url = upload_to_storage(bucket, tmp_path, remote_word)
                         if url:
-                            # Update Firestore
-                            db.collection(COLLECTION_NAME).document(word_id).update({
-                                'audioUrl': url
-                            })
-                            print(f'   ✅ Word audio uploaded & Firestore updated')
-                            total_words += 1
+                            word['audioUrl'] = url
+                            print(f'   ✅ Word audio uploaded (forced) → JSON updated')
+                            total += 1
                         else:
                             print(f'   ❌ Word audio upload failed')
                 finally:
@@ -148,14 +179,18 @@ def process_words(db, bucket, words: List[Dict[str, Any]],
                 sentence_text = sentence['ja']
                 remote_sent = f'{STORAGE_SENTENCES_PREFIX}/{word_id}_s{idx}.mp3'
 
-                if not force and not dry_run and blob_exists(bucket, remote_sent):
-                    print(f'   ⏭️  Sentence {idx} audio exists, skipping')
-                    continue
-
                 if dry_run:
                     print(f'   [DRY-RUN] Would generate sentence {idx}: {remote_sent}')
-                    total_sentences += 1
+                    total += 1
                     continue
+
+                if not force:
+                    existing_url = get_blob_url(bucket, remote_sent)
+                    if existing_url:
+                        sentence['audioUrl'] = existing_url
+                        print(f'   ✅ Sentence {idx} audio already exists → JSON updated')
+                        total += 1
+                        continue
 
                 with tempfile.NamedTemporaryFile(suffix='.mp3', delete=False) as tmp:
                     tmp_path = tmp.name
@@ -164,36 +199,17 @@ def process_words(db, bucket, words: List[Dict[str, Any]],
                     if generate_tts(sentence_text, tmp_path):
                         url = upload_to_storage(bucket, tmp_path, remote_sent)
                         if url:
-                            # Update specific sentence audioUrl in the array
-                            # Firestore doesn't support array-element updates directly;
-                            # we patch the full sentences array via transaction.
-                            doc_ref = db.collection(COLLECTION_NAME).document(word_id)
-
-                            @firestore.transactional
-                            def update_sentence_url(transaction, doc_ref, idx, url):
-                                snapshot = doc_ref.get(transaction=transaction)
-                                data = snapshot.to_dict()
-                                sents = data.get('sentences', [])
-                                if idx - 1 < len(sents):
-                                    sents[idx - 1]['audioUrl'] = url
-                                transaction.update(doc_ref, {'sentences': sents})
-
-                            transaction = db.transaction()
-                            update_sentence_url(transaction, doc_ref, idx, url)
-                            print(f'   ✅ Sentence {idx} audio uploaded & Firestore updated')
-                            total_sentences += 1
+                            sentence['audioUrl'] = url
+                            label = '(forced) ' if force else ''
+                            print(f'   ✅ Sentence {idx} audio uploaded {label}→ JSON updated')
+                            total += 1
                         else:
                             print(f'   ❌ Sentence {idx} upload failed')
                 finally:
                     if os.path.exists(tmp_path):
                         os.unlink(tmp_path)
 
-    print(f'\n{"="*60}')
-    if dry_run:
-        print(f'🔍 DRY-RUN: {total_words} word + {total_sentences} sentence audios would be generated')
-    else:
-        print(f'🎉 Done! {total_words} word + {total_sentences} sentence audios uploaded')
-    print('='*60)
+    return total
 
 
 def main():
@@ -220,22 +236,31 @@ def main():
     if args.dry_run:
         print('🔍 DRY-RUN mode\n')
 
-    words = load_words()
+    data = load_data()
+    words = data['words']
     print(f'📚 Loaded {len(words)} words from JSON\n')
 
     if not args.dry_run:
         initialize_firebase()
-        db = firestore.client()
         bucket = storage.bucket()
         print(f'🪣 Storage bucket: {bucket.name}\n')
     else:
-        db = bucket = None
+        bucket = None
 
-    process_words(db, bucket, words,
-                  do_words=do_words,
-                  do_sentences=do_sentences,
-                  force=args.force,
-                  dry_run=args.dry_run)
+    total = process_words(bucket, words,
+                          do_words=do_words,
+                          do_sentences=do_sentences,
+                          force=args.force,
+                          dry_run=args.dry_run)
+
+    print(f'\n{"="*60}')
+    if args.dry_run:
+        print(f'🔍 DRY-RUN: {total} audio file(s) would be generated')
+    else:
+        if total > 0:
+            save_data(data)
+        print(f'🎉 Done! {total} audio file(s) uploaded, JSON updated')
+    print('='*60)
 
 
 if __name__ == '__main__':

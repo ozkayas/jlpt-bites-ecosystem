@@ -21,7 +21,7 @@ REQUIRED_WORD_FIELDS = {"id", "word", "reading", "romaji", "tag", "translations"
 VALID_TAGS = {"動詞", "名詞", "形容詞", "副詞", "表現"}
 REQUIRED_TRANSLATION_LANGS = {"en", "tr", "de", "es", "fr"}
 REQUIRED_SENTENCE_FIELDS = {"ja", "furigana", "romaji", "translations"}
-REQUIRED_SENTENCE_TRANS_LANGS = {"en", "tr"}
+REQUIRED_SENTENCE_TRANS_LANGS = {"en", "tr", "de", "es", "fr"}
 ID_PATTERN = re.compile(r"^n5_vocab_\d{3,}$")
 
 # Heuristic: detect English translations mistakenly placed in the romaji field.
