@@ -15,27 +15,12 @@ This file documents the exact structure of `derived-data.json` — the output pr
     "pattern_used": "Reconsideration | Shortage | Attribute | Negative | Sequential | Location"
   },
   "visual_prompts": {
-    "options": [
-      {
-        "id": 0,
-        "prompt": "Natural language Imagen 3 prompt for the correct answer...",
-        "logic_role": "Correct"
-      },
-      {
-        "id": 1,
-        "prompt": "Natural language Imagen 3 prompt for distractor A...",
-        "logic_role": "Distractor_A"
-      },
-      {
-        "id": 2,
-        "prompt": "Natural language Imagen 3 prompt for distractor B...",
-        "logic_role": "Distractor_B"
-      },
-      {
-        "id": 3,
-        "prompt": "Natural language Imagen 3 prompt for distractor C...",
-        "logic_role": "Distractor_C"
-      }
+    "image_prompt": "A 2×2 grid image divided into four equal square panels with a thin white border between them. Each panel has a bold number in the top-left corner (1, 2, 3, 4). [Shared scene context]. Panel 1 (top-left): [...]. Panel 2 (top-right): [...]. Panel 3 (bottom-left): [...]. Panel 4 (bottom-right): [...]. Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Correct" },
+      { "panel": 2, "logic_role": "Distractor_A" },
+      { "panel": 3, "logic_role": "Distractor_B" },
+      { "panel": 4, "logic_role": "Distractor_C" }
     ]
   },
   "correct_option": 0,
@@ -100,9 +85,10 @@ This file documents the exact structure of `derived-data.json` — the output pr
 | `source_clip` | Exact folder name from `tobeprocessed/` |
 | `metadata.level` | Always `"n5"` (lowercase) |
 | `metadata.pattern_used` | Must be one of: `Reconsideration`, `Shortage`, `Attribute`, `Negative`, `Sequential`, `Location` |
-| `visual_prompts.options` | Exactly 4 items, ids 0–3 |
+| `visual_prompts.image_prompt` | Single composite 2×2 grid prompt string for Imagen 3 |
+| `visual_prompts.panel_map` | Exactly 4 items; panels 1–4 each with a `logic_role` |
 | `logic_role` values | Exactly one `"Correct"`, three distinct `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"` |
-| `correct_option` | Integer 0–3, must match the id of the option with `logic_role: "Correct"` |
+| `correct_option` | Integer 0–3 (Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3) |
 | `tts_script` entries | Each entry has EITHER `voice`+`text` OR `break` — never both in one object |
 | `transcription.dialogue` | Non-empty array; speaker values must be `"Male_1"` or `"Female_1"` |
 | `translations.tr` | Must be present |

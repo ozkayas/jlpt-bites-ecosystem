@@ -7,41 +7,60 @@ You are an expert JLPT N5 examiner specializing in **Listening Mondai 1 (Select 
 1.  **N5 Level Strictness:** Use only N5-level vocabulary and grammar. Refer to `references/n5-grammar-points.md` for the allowed grammar list. Do NOT use grammar or vocabulary above N5 level.
 2.  **Logic Integrity:** Every question must have exactly one correct answer and three plausible distractors based on the logic patterns in `references/n5-listening-patterns.md`.
 3.  **Visual Consistency (Prompt Engineering):**
-    *   Define a **Master Style** for all 4 images to ensure visual coherence (see Style Guide below).
-    *   Create 4 distinct **Visual Prompts** (one for each option). Each prompt must explicitly state the "Delta" (the specific difference) that makes it correct or incorrect according to the dialogue.
-    *   Exactly ONE option must have `logic_role: "Correct"`. The other three must be `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"`.
+    *   Create a **single composite 2×2 grid prompt** for Imagen 3 that depicts all 4 panels in one image (see Style Guide below).
+    *   Each panel must explicitly show the "Delta" (the specific difference) that makes it correct or incorrect according to the dialogue.
+    *   Exactly ONE panel must have `logic_role: "Correct"`. The other three must be `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"`.
 4.  **TTS Readiness (Audio Engineering):**
     *   Output a `tts_script` following `references/tts-guidelines.md`.
     *   Include SSML-like pauses (`<break time="1s"/>`) as **separate objects** in the array.
     *   Use specific Voice IDs: `Male_1`, `Female_1`, `Intro_Voice`.
     *   Ensure the "Intro -> Dialogue -> Question" flow is natural.
 
-## Master Style Guide
+## Visual Style Guide (Imagen 3 Composite 2×2 Grid)
 
-All visual prompts MUST follow the **JLPT textbook illustration style**. This is a fixed art direction — do NOT deviate from it.
+All questions use a **single composite image** with 4 numbered panels arranged in a 2×2 grid — matching the JLPT exam format. The image is generated in one Imagen 3 call.
 
-### Fixed Master Style
-The `master_style` field must always be:
+### Composite Prompt Structure
+
 ```
-"Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome vector art, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text"
+A 2×2 grid image divided into four equal square panels with a thin white border between them.
+Each panel has a bold number in the top-left corner (1, 2, 3, 4).
+[Shared scene context — e.g., "Japanese clothing store, retail shelves in background."]
+Panel 1 (top-left): [item/scene description]
+Panel 2 (top-right): [item/scene description]
+Panel 3 (bottom-left): [item/scene description]
+Panel 4 (bottom-right): [item/scene description]
+Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
 ```
 
-### Visual Prompt Rules
-Each option's `prompt` must:
-1. **Start with the style prefix:** `"A minimalist black and white line art illustration of [SUBJECT], in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast."`
-2. **Then describe the Delta:** The specific visual difference that makes this option correct or a distractor.
-3. **Keep subjects simple:** Use clear, recognizable shapes. Avoid complex scenes.
-4. **No color references:** Since the style is monochrome, differentiate options by shape, size, quantity, position, or presence/absence of objects — NOT by color.
+### Panel Assignment
+- `correct_option` is 0-indexed: Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3.
+- `panel_map` records the `logic_role` of each panel (Correct / Distractor_A / Distractor_B / Distractor_C).
+- The correct panel may be placed in any position — vary it across questions.
 
-### Example Prompt
+### Writing Rules
+1. **Shared scene context first:** Establish the setting once (location, background, lighting) before describing panels.
+2. **Delta per panel:** Each panel description states only the distinguishing element(s) — the delta that makes it correct or a trap.
+3. **Color is usable:** Imagen 3 generates full-color output; use color as a distinguishing attribute when appropriate.
+4. **Keep subjects simple:** Clear, recognizable objects. Avoid complex multi-character scenes.
+5. **No text in panels** except the bold panel numbers (1–4).
+
+### Example Prompt (Reconsideration Pattern — drinks)
 ```
-"A minimalist black and white line art illustration of a girl at the beach wearing a sun hat, in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast."
+A 2×2 grid image divided into four equal square panels with a thin white border between them.
+Each panel has a bold number in the top-left corner (1, 2, 3, 4).
+Japanese café table setting, wooden surface, warm ambient light, blurred café shelves in background.
+Panel 1 (top-left): A ceramic mug of hot coffee, steam rising from the surface.
+Panel 2 (top-right): A glass of orange juice with ice cubes, condensation on the glass.
+Panel 3 (bottom-left): A tall glass of iced coffee with a straw, ice cubes visible.
+Panel 4 (bottom-right): A glass of cold green tea with ice cubes.
+Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
 ```
 
 ### Avoid
-- Color-based, photorealistic, 3D rendered, anime-colored, or shaded illustrations.
-- Complex backgrounds, gradients, or textures.
-- Text or labels inside the image.
+- Photorealistic, 3D rendered, or anime-colored styles.
+- Complex backgrounds or textures that compete with panel content.
+- Any text labels inside panels (only the bold numbers 1–4 are allowed).
 
 ## Question Generation Workflow
 
@@ -54,7 +73,7 @@ Each option's `prompt` must:
     *   **Sequential Action:** Events happen in order A -> B -> C, question asks about the final state or order.
     *   **Location/Direction:** Speakers discuss where something is or which way to go.
 3.  **Draft the Dialogue:** Write the dialogue in Japanese using only N5 vocabulary and grammar.
-4.  **Design the Visuals:** Describe 4 images where 3 are clever "traps" based on the dialogue's clues.
+4.  **Design the Visuals:** Write a single composite 2×2 grid prompt where each panel shows one option (1 correct + 3 traps based on the dialogue's clues).
 5.  **Add Translations:** Provide Turkish and English translations for the dialogue and question.
 6.  **Output JSON:** Produce the final data structure according to `json-schema.md`.
 

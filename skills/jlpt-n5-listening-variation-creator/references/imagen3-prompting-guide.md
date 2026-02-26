@@ -35,40 +35,71 @@ Every prompt must follow this 5-part order:
 
 ---
 
-## 4-Option Structure (Delta Principle)
+## Composite 2×2 Grid Structure (Delta Principle)
 
-Each option shares the same scene setup. Only the distinguishing element(s) differ:
+All 4 options are generated in a **single Imagen 3 call** as a 2×2 grid image. Each panel contains one option. Only the distinguishing element(s) differ between panels.
 
-| Option | Role | Delta |
-|--------|------|-------|
-| Option A | Correct | Correct delta-A + Correct delta-B |
-| Option B | Distractor_A | Wrong delta-A + Correct delta-B |
-| Option C | Distractor_B | Correct delta-A + Wrong delta-B |
-| Option D | Distractor_C | Wrong delta-A + Wrong delta-B |
+### Panel Layout
+```
+┌─────────┬─────────┐
+│ Panel 1 │ Panel 2 │
+│ (1)     │ (2)     │
+├─────────┼─────────┤
+│ Panel 3 │ Panel 4 │
+│ (3)     │ (4)     │
+└─────────┴─────────┘
+```
 
-**Example — Attribute Filter (size × color):**
-- Correct: "A large red umbrella standing upright in a wooden rack near the entrance of a shop..."
-- Distractor_A: "A small red umbrella standing upright in a wooden rack near the entrance of a shop..."
-- Distractor_B: "A large blue umbrella standing upright in a wooden rack near the entrance of a shop..."
-- Distractor_C: "A small blue umbrella standing upright in a wooden rack near the entrance of a shop..."
+The `panel_map` in `derived-data.json` records which panel holds which `logic_role`. The correct panel position should be varied across questions (do not always place Correct in Panel 1).
+
+### Delta Table Example (Attribute Filter — size × color)
+
+| Panel | Role | Delta |
+|-------|------|-------|
+| Panel 1 | Correct | Large + red |
+| Panel 2 | Distractor_A | Small + red |
+| Panel 3 | Distractor_B | Large + blue |
+| Panel 4 | Distractor_C | Small + blue |
 
 ---
 
-## Style Anchor
+## Composite Prompt Template
 
-All 4 prompts for a single question must use the **same style anchor** at the end of each prompt to ensure visual consistency:
-
-> "...clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays."
-
-Adjust the style anchor to fit the scene type (outdoor market vs. indoor café vs. street map, etc.).
+```
+A 2×2 grid image divided into four equal square panels with a thin white border between them.
+Each panel has a bold number in the top-left corner (1, 2, 3, 4).
+[Shared scene context — e.g., "Japanese clothing store, retail shelves in background."]
+Panel 1 (top-left): [item/scene description]
+Panel 2 (top-right): [item/scene description]
+Panel 3 (bottom-left): [item/scene description]
+Panel 4 (bottom-right): [item/scene description]
+Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+```
 
 ---
 
 ## Complete Example (Reconsideration Pattern)
 
 **Scenario:** Woman chooses hot coffee after rejecting orange juice and iced tea.
+**Correct answer:** Panel 1 (hot coffee) → `correct_option: 0`
 
-- **Option 0 (Correct):** "A ceramic mug of hot coffee sitting on a wooden café table, steam rising from the surface, warm ambient lighting, soft focus background with blurred café shelves, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays."
-- **Option 1 (Distractor_A):** "A glass of orange juice with ice cubes sitting on a wooden café table, condensation on the glass surface, warm ambient lighting, soft focus background with blurred café shelves, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays."
-- **Option 2 (Distractor_B):** "A tall glass of iced coffee with a straw sitting on a wooden café table, ice cubes visible through the glass, warm ambient lighting, soft focus background with blurred café shelves, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays."
-- **Option 3 (Distractor_C):** "A glass of cold green tea with ice cubes sitting on a wooden café table, condensation visible, warm ambient lighting, soft focus background with blurred café shelves, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays."
+```
+A 2×2 grid image divided into four equal square panels with a thin white border between them.
+Each panel has a bold number in the top-left corner (1, 2, 3, 4).
+Japanese café table setting, wooden surface, warm ambient light, blurred café shelves in background.
+Panel 1 (top-left): A ceramic mug of hot coffee, steam rising from the surface.
+Panel 2 (top-right): A glass of orange juice with ice cubes, condensation on the glass.
+Panel 3 (bottom-left): A tall glass of iced coffee with a straw, ice cubes visible through the glass.
+Panel 4 (bottom-right): A glass of cold green tea with ice cubes.
+Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.
+```
+
+**Corresponding panel_map:**
+```json
+[
+  { "panel": 1, "logic_role": "Correct" },
+  { "panel": 2, "logic_role": "Distractor_A" },
+  { "panel": 3, "logic_role": "Distractor_B" },
+  { "panel": 4, "logic_role": "Distractor_C" }
+]
+```

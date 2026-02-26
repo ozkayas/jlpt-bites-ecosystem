@@ -80,12 +80,12 @@ backend/listening/listening-youtube-data/processed/
 - Preserve the same grammar structures from the original (only entities change).
 - Add Turkish and English translations for all dialogue lines, intro, and question.
 
-### Step 5 — GENERATE IMAGE PROMPTS (Imagen 3 / Nano Banana)
+### Step 5 — GENERATE IMAGE PROMPT (Imagen 3 / Nano Banana)
 
 - Follow `references/imagen3-prompting-guide.md` rules strictly.
-- Generate exactly 4 prompts: 1 Correct + 3 Distractors.
-- Use the Delta Principle: shared scene context + only the distinguishing element changes.
-- Each prompt: Main Subject → Action/State → Environment → Style/Atmosphere → Technical Details.
+- Generate a **single composite 2×2 grid prompt** containing all 4 panels in one Imagen 3 call.
+- Use the Delta Principle: shared scene context first, then per-panel description of the distinguishing element.
+- Record the panel-to-role mapping in `panel_map` (decide correct panel position — vary it across questions).
 
 ### Step 6 — WRITE TTS SCRIPT
 

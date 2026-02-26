@@ -1,0 +1,112 @@
+{
+  "source_clip": "clip_01_01m06s_02m06s",
+  "metadata": {
+    "level": "n5",
+    "topic": "みせで かいものをする (Shopping at a store)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "options": [
+      {
+        "id": 0,
+        "prompt": "A pair of clean white sneakers displayed on a wooden retail shelf in a Japanese clothing store, the shoes are slightly angled toward the viewer showing the full silhouette, a small price tag hanging from the lace, soft warm overhead lighting, neutral beige background with blurred store shelves and folded clothes behind, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays.",
+        "logic_role": "Correct"
+      },
+      {
+        "id": 1,
+        "prompt": "A neatly folded light blue casual short-sleeve shirt displayed on a retail counter in a Japanese clothing store, the fabric is smooth with a visible collar, a small tag attached to the side, soft warm overhead lighting, neutral beige background with blurred store shelves and clothing racks behind, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays.",
+        "logic_role": "Distractor_A"
+      },
+      {
+        "id": 2,
+        "prompt": "A beige round-brim sun hat placed upright on a circular display stand in a Japanese clothing store, simple ribbon band around the crown, soft fabric brim curving slightly downward, soft warm overhead lighting, neutral beige background with blurred store shelves and accessories behind, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays.",
+        "logic_role": "Distractor_B"
+      },
+      {
+        "id": 3,
+        "prompt": "A pair of white ankle socks folded neatly and packaged in a small transparent wrap displayed on a retail shelf in a Japanese clothing store, a thin light gray stripe running along the top edge, soft warm overhead lighting, neutral beige background with blurred store shelves behind, clean illustration style, soft even lighting, muted warm tones, Japanese everyday life setting, no text overlays.",
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 0,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おんなのひとと おとこのひとが みせで はなしています。おんなのひとは なにを かいますか？" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "このシャツ、きれいですね。かいましょうか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "シャツは たくさん もっていますよ。このぼうしは どうですか？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "ぼうしは せんしゅう かいましたから、ほかのものに します。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "じゃあ、くつは どうですか？あたらしくて、きれいですよ。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "ええ、くつに します。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "よかったです。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなのひとは なにを かいますか？" }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと おとこのひとが みせで はなしています。おんなのひとは なにを かいますか？",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "このシャツ、きれいですね。かいましょうか。" },
+      { "speaker": "Male_1",   "text": "シャツは たくさん もっていますよ。このぼうしは どうですか？" },
+      { "speaker": "Female_1", "text": "ぼうしは せんしゅう かいましたから、ほかのものに します。" },
+      { "speaker": "Male_1",   "text": "じゃあ、くつは どうですか？あたらしくて、きれいですよ。" },
+      { "speaker": "Female_1", "text": "ええ、くつに します。" },
+      { "speaker": "Male_1",   "text": "よかったです。" }
+    ],
+    "question": "おんなのひとは なにを かいますか？"
+  },
+  "translations": {
+    "tr": {
+      "intro": "Bir kadın ve bir erkek bir mağazada konuşuyor. Kadın ne satın alacak?",
+      "dialogue": [
+        { "speaker": "Female_1", "text": "Bu gömlek çok güzel, değil mi? Alsak mı?" },
+        { "speaker": "Male_1",   "text": "Zaten çok fazla gömleğin var. Bu şapka nasıl?" },
+        { "speaker": "Female_1", "text": "Şapkayı geçen hafta aldım, başka bir şey alacağım." },
+        { "speaker": "Male_1",   "text": "O zaman ayakkabı nasıl? Yeni ve güzel." },
+        { "speaker": "Female_1", "text": "Evet, ayakkabı alacağım." },
+        { "speaker": "Male_1",   "text": "Harika." }
+      ],
+      "question": "Kadın ne satın alacak?"
+    },
+    "en": {
+      "intro": "A woman and a man are talking in a store. What will the woman buy?",
+      "dialogue": [
+        { "speaker": "Female_1", "text": "This shirt is pretty, isn't it. Shall we get it?" },
+        { "speaker": "Male_1",   "text": "You already have lots of shirts. How about this hat?" },
+        { "speaker": "Female_1", "text": "I bought a hat last week, so I'll get something else." },
+        { "speaker": "Male_1",   "text": "Then how about shoes? They're new and pretty." },
+        { "speaker": "Female_1", "text": "Yes, I'll go with shoes." },
+        { "speaker": "Male_1",   "text": "Great." }
+      ],
+      "question": "What will the woman buy?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "みせ",     "reading": "みせ",     "tr": "mağaza / dükkan",       "en": "store / shop" },
+      { "word": "シャツ",   "reading": "シャツ",   "tr": "gömlek / tişört",        "en": "shirt" },
+      { "word": "きれい",   "reading": "きれい",   "tr": "güzel / temiz",          "en": "pretty / clean" },
+      { "word": "たくさん", "reading": "たくさん", "tr": "çok / birçok",           "en": "many / a lot" },
+      { "word": "帽子",     "reading": "ぼうし",   "tr": "şapka / başlık",        "en": "hat / cap" },
+      { "word": "先週",     "reading": "せんしゅう","tr": "geçen hafta",           "en": "last week" },
+      { "word": "ほかの",   "reading": "ほかの",   "tr": "diğer / başka",         "en": "other / another" },
+      { "word": "靴",       "reading": "くつ",     "tr": "ayakkabı",              "en": "shoes" },
+      { "word": "新しい",   "reading": "あたらしい","tr": "yeni",                  "en": "new" }
+    ],
+    "grammar": [
+      { "point": "～にする",    "tr": "bir şeye karar vermek / seçmek",         "en": "to decide on / to choose" },
+      { "point": "～から",      "tr": "çünkü / -den dolayı",                    "en": "because / since" },
+      { "point": "～はどうですか","tr": "... nasıl? / ... ne dersiniz?",        "en": "how about...?" },
+      { "point": "～ましょうか", "tr": "... yapalım mı? (öneri / davet)",       "en": "shall we...? (suggestion)" },
+      { "point": "～くて",      "tr": "... ve ... (-i adjective bağlacı)",      "en": "...and... (i-adj connector)" }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın ilk olarak gömlek (シャツ) almayı düşünür; ancak erkek arkadaşı zaten çok fazla gömleğinin olduğunu hatırlatır. Bunun üzerine erkek şapkayı (ぼうし) önerir; fakat kadın geçen hafta şapka aldığını söyler ve başka bir şey almaya karar verir. Erkek ayakkabıyı (くつ) önerince kadın kabul eder. Tuzaklar: シャツ (ilk düşünülen ama reddedilen), ぼうし (ikinci önerilen ama reddedilen), くつした (ayakkabıya benzer ama hiç söz edilmemiş madde).",
+    "en": "The woman first considers buying a shirt (シャツ), but the man reminds her she already has many. The man then suggests a hat (ぼうし), but the woman says she bought one last week. When the man suggests shoes (くつ), the woman agrees. Traps: シャツ (first considered, rejected), ぼうし (second suggested, rejected), くつした (similar to shoes but never mentioned)."
+  }
+}

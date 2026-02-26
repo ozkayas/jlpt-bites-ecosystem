@@ -49,17 +49,26 @@ def validate(data):
         f"got {metadata.get('pattern_used')!r}"
     ))
 
-    # visual_prompts.options: exactly 4 items
-    options = data.get("visual_prompts", {}).get("options", [])
+    # visual_prompts.image_prompt: present and non-empty string
+    visual_prompts = data.get("visual_prompts", {})
+    image_prompt = visual_prompts.get("image_prompt")
     results.append(check(
-        "visual_prompts.options: exactly 4 items",
-        isinstance(options, list) and len(options) == 4,
-        f"got {len(options)} items"
+        "visual_prompts.image_prompt: present and non-empty string",
+        isinstance(image_prompt, str) and len(image_prompt) > 0,
+        f"got {image_prompt!r}"
     ))
 
-    # logic_role distribution: exactly 1 Correct + 3 Distractors
-    if isinstance(options, list):
-        roles = [opt.get("logic_role") for opt in options]
+    # visual_prompts.panel_map: exactly 4 items
+    panel_map = visual_prompts.get("panel_map", [])
+    results.append(check(
+        "visual_prompts.panel_map: exactly 4 items",
+        isinstance(panel_map, list) and len(panel_map) == 4,
+        f"got {len(panel_map) if isinstance(panel_map, list) else type(panel_map).__name__} items"
+    ))
+
+    # logic_role distribution via panel_map: exactly 1 Correct + 3 Distractors
+    if isinstance(panel_map, list):
+        roles = [entry.get("logic_role") for entry in panel_map]
         correct_count = roles.count("Correct")
         dist_a = roles.count("Distractor_A")
         dist_b = roles.count("Distractor_B")
@@ -71,7 +80,7 @@ def validate(data):
             f"got {roles}"
         ))
     else:
-        results.append(check("logic_role distribution", False, "options is not a list"))
+        results.append(check("logic_role distribution", False, "panel_map is not a list"))
 
     # correct_option: integer 0-3
     correct_option = data.get("correct_option")

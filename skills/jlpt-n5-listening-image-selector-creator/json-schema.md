@@ -5,9 +5,10 @@ The AI must output a single JSON object following this structure. All index valu
 ## Rules
 - `id` must be unique, format: `n5_listening_img_{NNN}` (zero-padded, e.g. `n5_listening_img_001`)
 - `level` must be lowercase `"n5"`
-- `correct_option` is 0-indexed (0, 1, 2, or 3) — matches array position in `visual_prompts.options`
-- `visual_prompts.options` must have exactly 4 items, each with 0-indexed `id` (0, 1, 2, 3)
-- Exactly ONE option must have `logic_role: "Correct"`, the other three must be `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"`
+- `correct_option` is 0-indexed (0, 1, 2, or 3) — Panel 1 = index 0, Panel 2 = index 1, Panel 3 = index 2, Panel 4 = index 3
+- `visual_prompts.image_prompt` is a single composite 2×2 grid prompt string for Imagen 3
+- `visual_prompts.panel_map` must have exactly 4 items mapping panel numbers (1–4) to logic roles
+- Exactly ONE panel must have `logic_role: "Correct"`, the other three must be `"Distractor_A"`, `"Distractor_B"`, `"Distractor_C"`
 - `tts_script` entries are either **voice objects** (`voice` + `text`) or **break objects** (`break` only) — never mixed
 - All Japanese text in `transcription` must use only N5-level vocabulary and grammar
 
@@ -20,16 +21,12 @@ The AI must output a single JSON object following this structure. All index valu
     "pattern_used": "string (Reconsideration | Shortage | Attribute | Negative | Sequential | Location)"
   },
   "visual_prompts": {
-    "master_style": "Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome vector art, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text",
-    "options": [
-      {
-        "id": 0,
-        "prompt": "A minimalist black and white line art illustration of [SUBJECT + DELTA], in the style of Japanese language textbook drawings. Simple clean outlines, monochrome, white background, no shading, high contrast.",
-        "logic_role": "Correct"
-      },
-      { "id": 1, "prompt": "...", "logic_role": "Distractor_A" },
-      { "id": 2, "prompt": "...", "logic_role": "Distractor_B" },
-      { "id": 3, "prompt": "...", "logic_role": "Distractor_C" }
+    "image_prompt": "A 2×2 grid image divided into four equal square panels with a thin white border between them. Each panel has a bold number in the top-left corner (1, 2, 3, 4). [Shared scene context]. Panel 1 (top-left): [item/scene description]. Panel 2 (top-right): [item/scene description]. Panel 3 (bottom-left): [item/scene description]. Panel 4 (bottom-right): [item/scene description]. Clean illustration style, soft even lighting, muted warm tones, no text other than panel numbers.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Correct" },
+      { "panel": 2, "logic_role": "Distractor_A" },
+      { "panel": 3, "logic_role": "Distractor_B" },
+      { "panel": 4, "logic_role": "Distractor_C" }
     ]
   },
   "correct_option": 0,
@@ -88,11 +85,10 @@ The AI must output a single JSON object following this structure. All index valu
 | `metadata.level` | string | Always `"n5"` (lowercase) |
 | `metadata.topic` | string | Short topic description |
 | `metadata.pattern_used` | string | One of: `Reconsideration`, `Shortage`, `Attribute`, `Negative`, `Sequential`, `Location` |
-| `visual_prompts.master_style` | string | Fixed: monochrome JLPT textbook line art style (do not change) |
-| `visual_prompts.options[].id` | number | 0-indexed option ID (0–3) |
-| `visual_prompts.options[].prompt` | string | Image prompt: style prefix + subject + visual delta (monochrome, no color) |
-| `visual_prompts.options[].logic_role` | string | `Correct` or `Distractor_A/B/C` |
-| `correct_option` | number | 0-indexed, matches the `id` of the correct option |
+| `visual_prompts.image_prompt` | string | Single composite 2×2 grid prompt for Imagen 3; describes all 4 panels in one string |
+| `visual_prompts.panel_map[].panel` | number | Panel number 1–4 (1=top-left, 2=top-right, 3=bottom-left, 4=bottom-right) |
+| `visual_prompts.panel_map[].logic_role` | string | `Correct` or `Distractor_A/B/C` |
+| `correct_option` | number | 0-indexed (Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3) |
 | `tts_script[]` | object | Voice entry (`voice`+`text`) OR break entry (`break` only) |
 | `transcription` | object | Japanese text of intro, dialogue, and question |
 | `translations` | object | English and Turkish translations of the transcription |
