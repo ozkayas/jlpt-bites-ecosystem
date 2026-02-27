@@ -15,6 +15,7 @@ You are an expert JLPT N5 content engineer. Your goal is to create original vari
 4. **No Audio Analysis:** Do NOT attempt to read or analyze `audio.mp3`.
 5. **Output to derived-data.json:** Save the variation as `derived-data.json` inside the clip folder before moving it.
 6. **Move on Completion:** After saving `derived-data.json`, move the entire clip folder from `tobeprocessed/` to `processed/`.
+7. **Self-Validate Before Moving:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors before moving the folder. The folder should only be moved when both JSON and image pass validation.
 
 ---
 
@@ -106,7 +107,17 @@ backend/listening/listening-youtube-data/processed/
 - Write `derived-data.json` to the clip folder inside `tobeprocessed/`.
 - Follow the schema in `references/derived-data-schema.md` exactly.
 
-### Step 8 — GENERATE IMAGE
+### Step 8 — SELF-VALIDATE JSON
+
+- Run the mechanical validator script:
+  ```bash
+  python3 skills/jlpt-n5-listening-variation-tester/scripts/validate_derived_data.py <clip_folder>/derived-data.json
+  ```
+- If PASS: proceed to Step 9.
+- If FAIL: read the error output, identify which check(s) failed, fix the JSON accordingly, re-save, and re-run the validator.
+- Maximum 3 attempts. If still failing after 3 attempts, stop and report the remaining errors to the user.
+
+### Step 9 — GENERATE IMAGE
 
 - Run the image generation script to call the Gemini API and create `image.png` in the clip folder:
   ```bash
@@ -116,7 +127,18 @@ backend/listening/listening-youtube-data/processed/
 - Requires `JLPT_IMAGE_GEMINI_API_KEY` to be set in the environment.
 - Wait for confirmation that `image.png` was saved successfully.
 
-### Step 9 — MOVE FOLDER
+### Step 10 — SELF-VALIDATE IMAGE
+
+- Read the generated `image.png` from the clip folder.
+- Verify:
+  - image_type match: layout matches declared type (four_panel_grid / numbered_scene / map_diagram)
+  - Panel content: correct panel shows the answer, distractors show wrong alternatives
+  - Style: monochrome line art, no shading, white background, no borders
+- If all checks pass: proceed to Step 11.
+- If any check fails: delete image.png, re-run generate_image.py, and re-check.
+- Maximum 2 attempts (image generation costs API credits). If still failing after 2 attempts, stop and report the issue to the user.
+
+### Step 11 — MOVE FOLDER
 
 - Move the entire clip folder from `tobeprocessed/` to `processed/`.
 - Report what was processed and where it was moved.
@@ -134,3 +156,4 @@ backend/listening/listening-youtube-data/processed/
 | `references/tts-guidelines.md` | TTS voice/break formatting rules |
 | `references/n5-grammar-points.md` | N5 grammar reference |
 | `scripts/generate_image.py` | Calls Gemini API to generate `image.png` from `image_prompt` |
+| `../jlpt-n5-listening-variation-tester/scripts/validate_derived_data.py` | Mechanical JSON validator (used in self-validation loop) |

@@ -84,7 +84,7 @@ The `panel_map` in `derived-data.json` records which panel holds which `logic_ro
 Use when the question has 4 independent panels, each showing one option. No numbers inside panels.
 
 ```
-A 2×2 grid image with four equal square panels, no borders or dividing lines between panels.
+A 2×2 grid image with four equal square panels.
 [Shared subject context — keep background minimal or white.]
 Top-left panel: [item/scene — shape, size, quantity, or presence/absence delta]
 Top-right panel: [item/scene]
@@ -132,7 +132,7 @@ Minimalist black and white line art, Japanese language textbook illustration sty
 **Correct answer:** Panel 1 (hot coffee) → `correct_option: 0`
 
 ```
-A 2×2 grid image with four equal square panels, no borders or dividing lines between panels.
+A 2×2 grid image with four equal square panels.
 Japanese café setting, simple white background, line art objects on a table surface.
 Top-left panel: A ceramic mug of hot coffee with steam rising from the surface.
 Top-right panel: A tall glass with a straw, ice cubes, and a lemon slice on the rim.

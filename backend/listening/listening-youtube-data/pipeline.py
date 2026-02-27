@@ -254,14 +254,15 @@ def node_2_slice(audio_path, ranges):
         List of clip directory paths
     """
     os.makedirs("clips", exist_ok=True)
+    video_id = Path(audio_path).stem
     clip_dirs = []
     
     for i, range_obj in enumerate(ranges, start=1):
         start = parse_time(range_obj['start'])
         end = parse_time(range_obj['end'])
         
-        # Format: clip_01_00m80s_01m45s
-        clip_name = f"clip_{i:02d}_{format_time(start)}_{format_time(end)}"
+        # Format: clip_<video_id>_01_00m80s_01m45s
+        clip_name = f"clip_{video_id}_{i:02d}_{format_time(start)}_{format_time(end)}"
         clip_dir = f"clips/{clip_name}"
         os.makedirs(clip_dir, exist_ok=True)
         clip_dirs.append(clip_dir)
