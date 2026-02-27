@@ -1,0 +1,166 @@
+{
+  "source_clip": "clip_01_02m00s_02m52s",
+  "metadata": {
+    "level": "n5",
+    "topic": "としょかんで　ほんを　かりる (Borrowing a book at the library)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Do NOT draw any border, frame, outline, or box around any panel — panels are separated only by empty white space. Japanese library setting, simple white background. Top-left panel: A woman sitting at a desk writing on a piece of paper with a pen. Top-right panel: A woman standing in front of tall bookshelves, reaching for a book on the shelf. Bottom-left panel: A woman standing at a counter, a staff member behind the counter handing her a small card. Bottom-right panel: A woman sitting at a table reading an open book. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text, no panel borders, no frames, no boxes around panels.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　はじめに　なにを　しますか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "すみません。ほんを　かりたいんですが。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "では、この　かみに　なまえと　でんわばんごうを　かいてください。それから、にかいの　ほんだなに　いってください。カードを　もってきましたか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "あ、いえに　わすれました。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "では、かくまえに　さんかいで　カードを　つくってください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "はい、わかりました。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとは　はじめに　なにを　しますか。"
+    }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　はじめに　なにを　しますか。",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "すみません。ほんを　かりたいんですが。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "では、この　かみに　なまえと　でんわばんごうを　かいてください。それから、にかいの　ほんだなに　いってください。カードを　もってきましたか。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "あ、いえに　わすれました。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "では、かくまえに　さんかいで　カードを　つくってください。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "はい、わかりました。"
+      }
+    ],
+    "question": "おんなのひとは　はじめに　なにを　しますか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "としょかん",
+        "reading": "としょかん",
+        "tr": "kütüphane",
+        "en": "library"
+      },
+      {
+        "word": "かりる",
+        "reading": "かりる",
+        "tr": "ödünç almak",
+        "en": "to borrow"
+      },
+      {
+        "word": "でんわばんごう",
+        "reading": "でんわばんごう",
+        "tr": "telefon numarası",
+        "en": "phone number"
+      },
+      {
+        "word": "ほんだな",
+        "reading": "ほんだな",
+        "tr": "kitaplık / raf",
+        "en": "bookshelf"
+      },
+      {
+        "word": "カード",
+        "reading": "かーど",
+        "tr": "kart",
+        "en": "card"
+      },
+      {
+        "word": "わすれる",
+        "reading": "わすれる",
+        "tr": "unutmak",
+        "en": "to forget"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～たい",
+        "tr": "istemek (fiil çekimi)",
+        "en": "want to (verb form)"
+      },
+      {
+        "point": "～まえに",
+        "tr": "...-den önce",
+        "en": "before doing ..."
+      },
+      {
+        "point": "～てください",
+        "tr": "lütfen ... yapın",
+        "en": "please do ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Adam başlangıçta kadına kâğıda yazmasını ve ardından 2. kata gitmesini söyler. Ancak kadının kartını evde unuttuğu anlaşılınca, adam yazmadan önce (かくまえに) 3. katta kart yaptırması gerektiğini belirtir. Bu nedenle kadının yapacağı ilk iş 3. katta kart yaptırmaktır (Doğru – Panel 3). Panel 1 (kâğıda yazmak) ilk talimattır ama sonradan değişmiştir (Distractor_A). Panel 2 (kitaplık) ikinci talimattır (Distractor_B). Panel 4 (kitap okumak) diyalogda geçmez (Distractor_C).",
+    "en": "The man initially tells the woman to write on the paper and then go to the 2nd floor. However, when it is revealed that she forgot her card at home, he instructs her to make a card on the 3rd floor before writing (かくまえに). Therefore, the first thing she will do is make a card on the 3rd floor (Correct – Panel 3). Panel 1 (writing on paper) was the initial instruction but was revised (Distractor_A). Panel 2 (bookshelves) was the second instruction (Distractor_B). Panel 4 (reading a book) is never mentioned in the dialogue (Distractor_C)."
+  }
+}

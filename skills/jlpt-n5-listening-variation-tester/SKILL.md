@@ -1,11 +1,11 @@
 ---
 name: jlpt-n5-listening-variation-tester
-description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then verify the generated image.png, then generate TTS audio. Use this skill when the user asks to test, validate, check, or verify a listening variation. Performs four passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) visual image check by Claude reading image.png, (4) Gemini TTS audio generation. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
+description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then verify the generated image.png, generate TTS audio, and build the final question.json for Firebase. Use this skill when the user asks to test, validate, check, or verify a listening variation. Performs five passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) visual image check by Claude reading image.png, (4) Gemini TTS audio generation, (5) build final question.json. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
 ---
 
 # JLPT N5 Listening Variation Tester
 
-Validate a `derived-data.json` file using a four-pass approach: mechanical schema check, semantic/linguistic review, visual image check, then Gemini TTS audio generation.
+Validate a `derived-data.json` file using a five-pass approach: mechanical schema check, semantic/linguistic review, visual image check, Gemini TTS audio generation, then final question.json build.
 
 ## Workflow
 
@@ -35,7 +35,7 @@ EOF
 7. Run **Pass 3 — Image Validation** (Claude reads `image.png` from the clip folder):
    - Check that `image.png` exists in the clip folder. If missing, stop and instruct user to run `generate_image.py` first.
    - Read the image and verify the `image_type` matches what is actually shown:
-     - `four_panel_grid`: exactly 4 equal panels in a 2×2 grid, no numbers inside panels
+     - `four_panel_grid`: exactly 4 equal panels in a 2×2 grid, small numbers 1–4 visible in the corner of each panel
      - `numbered_scene`: single continuous scene with small position numbers 1–4 visible
      - `map_diagram`: top-down street or area map with small position numbers 1–4 on buildings/locations
    - Verify the correct panel (identified by `panel_map` + `correct_option`) visually depicts the answer the dialogue leads to.
@@ -53,7 +53,20 @@ python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.js
    - Output file is always named `variation.wav` (distinguishes it from the original `audio.mp3`).
    - If JSON was provided as inline content (no real file path), skip Pass 4 and print the manual command for the user to run.
    - Requires `GEMINI_API_KEY` or `GEMINI_API_KEYS` environment variable.
-10. Report final results — all four passes.
+10. Run **Pass 5 — Build question.json:**
+
+```bash
+python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py <path/to/derived-data.json>
+# Output: question.json written to the same clip folder
+```
+
+   - Transforms `derived-data.json` into the final Firebase-ready format.
+   - Removes internal fields (`source_clip`, `visual_prompts`, `tts_script`, `metadata.pattern_used`).
+   - Uppercases `metadata.level` ("n5" → "N5").
+   - Maps speaker IDs to Japanese labels (`Male_1` → `男の人`, `Female_1` → `女の人`).
+   - Sets `audio_url: null` and `image_url: null` (to be filled when uploading to Firebase Storage).
+   - Output file is always named `question.json` in the same clip folder.
+11. Report final results — all five passes.
 
 ---
 
@@ -71,8 +84,6 @@ python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.js
 | `correct_option` | Integer 0–3 |
 | `tts_script` entries | Every entry has EITHER `voice`+`text` OR `break` — no mixed objects, no other fields |
 | `transcription.dialogue` | Non-empty array |
-| `translations.tr` | Present |
-| `translations.en` | Present |
 
 ---
 
@@ -140,8 +151,7 @@ Pass 1 — Mechanical Validation
   ✓ correct_option: 0 (valid range 0-3)
   ✓ tts_script: all entries valid
   ✓ transcription.dialogue: non-empty
-  ✓ translations: tr + en present
-  PASS — 12/12 checks passed
+  PASS — 10/10 checks passed
 
 Pass 2 — Semantic Review
   ✓ Japanese dialogue: N5 level confirmed
@@ -153,7 +163,7 @@ Pass 2 — Semantic Review
 
 Pass 3 — Image Validation
   ✓ image.png found in clip folder
-  ✓ image_type: four_panel_grid confirmed (4 equal panels, no numbers inside)
+  ✓ image_type: four_panel_grid confirmed (4 equal panels, small numbers 1–4 in corners)
   ✓ Correct panel (Panel 1): shows warm bowl of rice — matches dialogue answer
   ✓ Distractor_A (Panel 2): shows sandwich — plausible wrong choice
   ✓ Distractor_B (Panel 3): shows salad — plausible wrong choice
@@ -165,6 +175,11 @@ Pass 4 — Audio Generation
   Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation.wav
   ✓ Audio generated: variation.wav (37.8s | 1773 KB)
   PASS — Audio ready
+
+Pass 5 — Build question.json
+  Running: python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py <path/to/derived-data.json>
+  ✓ question.json written: <clip_folder>/question.json
+  PASS — Final JSON ready
 ```
 
 If anything fails in any pass, report the specific field or criterion and what was found vs. what was expected. Each subsequent pass is only attempted after the previous one succeeds.

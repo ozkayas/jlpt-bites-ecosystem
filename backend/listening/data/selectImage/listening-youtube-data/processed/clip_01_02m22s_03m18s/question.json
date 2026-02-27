@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ゆうびんきょくで　かきかたを　きく (Asking how to fill out a form at the post office)"
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/image.png",
+    "correct_option": 2,
+    "transcription": {
+        "intro": "ゆうびんきょくで　ゆうびんきょくの　ひとと　おとこの　ひとが　はなしています。おとこの　ひとは　かみに　どう　かきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "この　かみに　おなまえを　かいてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "おなまえの　したに　じゅうしょを　かいてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "じゅうしょは　かんじで　かいて、うえに　ひらがなを　かいてくださいね。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いちばん　したには　ゆうびんばんごうを　かいてください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あのう、おなまえは　えいごで　かきますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、かたかなで　おねがいします。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "おとこの　ひとは　かみに　どう　かきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ゆうびんきょく",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "ゆうびんばんごう",
+                "reading": "ゆうびんばんごう",
+                "tr": "posta kodu",
+                "en": "postal code"
+            },
+            {
+                "word": "かみ",
+                "reading": "かみ",
+                "tr": "kağıt",
+                "en": "paper"
+            },
+            {
+                "word": "なまえ",
+                "reading": "なまえ",
+                "tr": "isim",
+                "en": "name"
+            },
+            {
+                "word": "じゅうしょ",
+                "reading": "じゅうしょ",
+                "tr": "adres",
+                "en": "address"
+            },
+            {
+                "word": "かんじ",
+                "reading": "かんじ",
+                "tr": "kanji",
+                "en": "kanji"
+            },
+            {
+                "word": "ひらがな",
+                "reading": "ひらがな",
+                "tr": "hiragana",
+                "en": "hiragana"
+            },
+            {
+                "word": "かたかな",
+                "reading": "かたかな",
+                "tr": "katakana",
+                "en": "katakana"
+            },
+            {
+                "word": "した",
+                "reading": "した",
+                "tr": "alt / aşağı",
+                "en": "below / bottom"
+            },
+            {
+                "word": "うえ",
+                "reading": "うえ",
+                "tr": "üst / yukarı",
+                "en": "above / top"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın (rica)",
+                "en": "please do ... (request)"
+            },
+            {
+                "point": "～のしたに / ～のうえに",
+                "tr": "...'nın altına / ...'nın üstüne",
+                "en": "below ... / above ..."
+            },
+            {
+                "point": "～で（かきます）",
+                "tr": "... ile / ... yazısıyla yazmak",
+                "en": "to write in ... (script/language)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Görevli kadın formun nasıl doldurulacağını adım adım açıklar: isim katakanaya, adres kanjiye (üstünde hiragana furigana ile), posta kodu en alta. Adam İngilizce ile yazıp yazamayacağını sorar; kadın katakanaya yapmasını söyler. Doğru görsel Panel 3'tür: katakana isim + üstünde hiraganalı kanji adres + posta kodu. Distractor_A (Panel 1): isim Roman harflerle (yanlış), adres doğru formatta. Distractor_B (Panel 2): isim katakana (doğru) ama adres sadece kanji, hiragana yok (yanlış). Distractor_C (Panel 4): hem isim Roman harflerle hem adres sadece kanji (ikisi de yanlış).",
+        "en": "The female staff member explains step by step: name in katakana, address in kanji with hiragana furigana above, postal code at the bottom. The man asks if he should write in English; she says katakana. The correct image is Panel 3: katakana name + kanji address with hiragana above + postal code. Distractor_A (Panel 1): name in Roman letters (wrong), address in correct format. Distractor_B (Panel 2): name in katakana (correct) but address in kanji only without hiragana (wrong). Distractor_C (Panel 4): both name in Roman letters and address in kanji only (both wrong)."
+    }
+}

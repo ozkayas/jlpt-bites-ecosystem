@@ -16,7 +16,7 @@ This file documents the exact structure of `derived-data.json` — the output pr
   },
   "visual_prompts": {
     "image_type": "four_panel_grid",
-    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. [Shared subject context]. Top-left panel: [...]. Top-right panel: [...]. Bottom-left panel: [...]. Bottom-right panel: [...]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. [Shared subject context]. Panel 1 (top-left, number 1): [...]. Panel 2 (top-right, number 2): [...]. Panel 3 (bottom-left, number 3): [...]. Panel 4 (bottom-right, number 4): [...]. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
     "panel_map": [
       { "panel": 1, "logic_role": "Correct" },
       { "panel": 2, "logic_role": "Distractor_A" },
@@ -43,24 +43,6 @@ This file documents the exact structure of `derived-data.json` — the output pr
       { "speaker": "Female_1", "text": "Japanese line" }
     ],
     "question": "Japanese question sentence"
-  },
-  "translations": {
-    "tr": {
-      "intro": "Turkish translation of intro",
-      "dialogue": [
-        { "speaker": "Male_1", "text": "Turkish translation" },
-        { "speaker": "Female_1", "text": "Turkish translation" }
-      ],
-      "question": "Turkish translation of question"
-    },
-    "en": {
-      "intro": "English translation of intro",
-      "dialogue": [
-        { "speaker": "Male_1", "text": "English translation" },
-        { "speaker": "Female_1", "text": "English translation" }
-      ],
-      "question": "English translation of question"
-    }
   },
   "analysis": {
     "vocabulary": [
@@ -93,6 +75,5 @@ This file documents the exact structure of `derived-data.json` — the output pr
 | `correct_option` | Integer 0–3 (Panel 1 = 0, Panel 2 = 1, Panel 3 = 2, Panel 4 = 3) |
 | `tts_script` entries | Each entry has EITHER `voice`+`text` OR `break` — never both in one object |
 | `transcription.dialogue` | Non-empty array; speaker values must be `"Male_1"` or `"Female_1"` |
-| `translations.tr` | Must be present |
-| `translations.en` | Must be present |
 | `analysis.vocabulary[].reading` | Must be hiragana (not romaji) |
+| `logic.tr` / `logic.en` | Shown to the user. When referencing panels, use only the panel number — not distractor labels. Use `"3"` not `"Distractor_B – Panel 3"`. |

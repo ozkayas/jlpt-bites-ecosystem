@@ -71,7 +71,7 @@ def process_select_image_folders(db, bucket, base_dir):
         # 1. Upload Audio
         audio_path = question_dir / 'audio.mp3'
         if audio_path.exists():
-            remote_audio_path = f"listening/selectImage/{question_id}/audio.mp3"
+            remote_audio_path = f"n5_listening/selectImage/{question_id}/audio.mp3"
             audio_url = upload_file(bucket, audio_path, remote_audio_path)
             data['metadata']['audio_url'] = audio_url
             print(f"   ✅ Audio URL updated")
@@ -90,7 +90,7 @@ def process_select_image_folders(db, bucket, base_dir):
                 img_name = f"{i}.png"
                 img_path = images_dir / img_name
                 if img_path.exists():
-                    remote_img_path = f"listening/selectImage/{question_id}/images/{img_name}"
+                    remote_img_path = f"n5_listening/selectImage/{question_id}/images/{img_name}"
                     img_url = upload_file(bucket, img_path, remote_img_path)
                     # Index 0 corresponds to 1.png
                     options[i-1] = img_url
@@ -108,9 +108,9 @@ def process_select_image_folders(db, bucket, base_dir):
         print("   ✅ question_data.json updated locally")
 
         # 4. Upload Data to Firestore
-        # Collection: listening_select_image_questions
+        # Collection: n5_listening_select_image_questions
         # Using ID from folder name
-        doc_ref = db.collection('listening_select_image_questions').document(question_id)
+        doc_ref = db.collection('n5_listening_select_image_questions').document(question_id)
         doc_ref.set(data)
         print("   ✅ Data saved to Firestore")
 

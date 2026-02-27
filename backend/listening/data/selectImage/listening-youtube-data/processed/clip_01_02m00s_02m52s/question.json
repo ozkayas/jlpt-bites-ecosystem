@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "としょかんで　ほんを　かりる (Borrowing a book at the library)"
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/001/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/001/image.png",
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　はじめに　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません。ほんを　かりたいんですが。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "では、この　かみに　なまえと　でんわばんごうを　かいてください。それから、にかいの　ほんだなに　いってください。カードを　もってきましたか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、いえに　わすれました。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "では、かくまえに　さんかいで　カードを　つくってください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "おんなのひとは　はじめに　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "かりる",
+                "reading": "かりる",
+                "tr": "ödünç almak",
+                "en": "to borrow"
+            },
+            {
+                "word": "でんわばんごう",
+                "reading": "でんわばんごう",
+                "tr": "telefon numarası",
+                "en": "phone number"
+            },
+            {
+                "word": "ほんだな",
+                "reading": "ほんだな",
+                "tr": "kitaplık / raf",
+                "en": "bookshelf"
+            },
+            {
+                "word": "カード",
+                "reading": "かーど",
+                "tr": "kart",
+                "en": "card"
+            },
+            {
+                "word": "わすれる",
+                "reading": "わすれる",
+                "tr": "unutmak",
+                "en": "to forget"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たい",
+                "tr": "istemek (fiil çekimi)",
+                "en": "want to (verb form)"
+            },
+            {
+                "point": "～まえに",
+                "tr": "...-den önce",
+                "en": "before doing ..."
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam başlangıçta kadına kâğıda yazmasını ve ardından 2. kata gitmesini söyler. Ancak kadının kartını evde unuttuğu anlaşılınca, adam yazmadan önce (かくまえに) 3. katta kart yaptırması gerektiğini belirtir. Bu nedenle kadının yapacağı ilk iş 3. katta kart yaptırmaktır (Doğru – Panel 3). Panel 1 (kâğıda yazmak) ilk talimattır ama sonradan değişmiştir (Distractor_A). Panel 2 (kitaplık) ikinci talimattır (Distractor_B). Panel 4 (kitap okumak) diyalogda geçmez (Distractor_C).",
+        "en": "The man initially tells the woman to write on the paper and then go to the 2nd floor. However, when it is revealed that she forgot her card at home, he instructs her to make a card on the 3rd floor before writing (かくまえに). Therefore, the first thing she will do is make a card on the 3rd floor (Correct – Panel 3). Panel 1 (writing on paper) was the initial instruction but was revised (Distractor_A). Panel 2 (bookshelves) was the second instruction (Distractor_B). Panel 4 (reading a book) is never mentioned in the dialogue (Distractor_C)."
+    }
+}

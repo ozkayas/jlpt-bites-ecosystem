@@ -22,7 +22,7 @@ You are an expert JLPT N5 content engineer. Your goal is to create original vari
 ## Input Structure
 
 ```
-backend/listening/listening-youtube-data/tobeprocessed/
+backend/listening/data/selectImage/listening-youtube-data/tobeprocessed/
   clip_XX_XXmXXs_XXmXXs/
     audio.mp3          ← IGNORE — do not read
     data.json          ← PRIMARY INPUT: dialogue, logic, analysis
@@ -43,7 +43,7 @@ backend/listening/listening-youtube-data/tobeprocessed/
 ## Output Structure
 
 ```
-backend/listening/listening-youtube-data/processed/
+backend/listening/data/selectImage/listening-youtube-data/processed/
   clip_XX_XXmXXs_XXmXXs/    ← moved from tobeprocessed/
     audio.mp3                ← original, untouched
     data.json                ← original, untouched
@@ -66,7 +66,7 @@ backend/listening/listening-youtube-data/processed/
 - Identify which of the 6 logic patterns this question uses (see `references/n5-listening-patterns.md`).
 - Identify the critical entities (the objects/attributes being swapped in the traps).
 - If PNG was read, determine the `image_type` using the detection criteria in `references/imagen3-prompting-guide.md`:
-  - `four_panel_grid` — 4 separate equal panels in a 2×2 grid, no numbers inside panels
+  - `four_panel_grid` — 4 separate equal panels in a 2×2 grid, small numbers 1–4 in the top-left corner of each panel
   - `numbered_scene` — single scene with small position numbers 1–4 inside it
   - `map_diagram` — top-down street/area map with position numbers 1–4 on buildings
   - Default to `four_panel_grid` if no PNG is present.
@@ -83,13 +83,12 @@ backend/listening/listening-youtube-data/processed/
 
 - Write a new Japanese dialogue using only N5 grammar and vocabulary.
 - Preserve the same grammar structures from the original (only entities change).
-- Add Turkish and English translations for all dialogue lines, intro, and question.
 
 ### Step 5 — GENERATE IMAGE PROMPT (Imagen 3 / Nano Banana)
 
 - Follow `references/imagen3-prompting-guide.md` rules strictly.
 - Use the `image_type` determined in Step 2 to select the correct prompt template:
-  - `four_panel_grid` → composite 2×2 grid prompt, no numbers in panels
+  - `four_panel_grid` → composite 2×2 grid prompt, small numbers 1–4 in the top-left corner of each panel
   - `numbered_scene` → single scene prompt with position numbers 1–4
   - `map_diagram` → top-down map prompt with position numbers 1–4
 - Record `image_type` in `visual_prompts.image_type`.

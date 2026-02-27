@@ -8,7 +8,7 @@ This tool uploads "Select Image" type listening questions to Firebase. It handle
 2. **Upload Images**: Uploads `1.png`, `2.png`, `3.png`, `4.png` from `images/` folder to Cloud Storage.
 3. **Order Preservation**: Ensures images are mapped to the correct `options` index based on their filenames.
 4. **Update Metadata**: Updates the local `question_data.json` with the new public Download URLs.
-5. **Firestore Sync**: Saves the entire question object to the `listening_select_image_questions` collection.
+5. **Firestore Sync**: Saves the entire question object to the `n5_listening_select_image_questions` collection.
 
 ## Files
 
@@ -44,4 +44,4 @@ The script expects folders under `firestore/listening/data/selectImage/`:
 
 ## Collections
 - **Storage Path**: `listening/selectImage/{question_id}/`
-- **Firestore Collection**: `listening_select_image_questions`
+- **Firestore Collection**: `n5_listening_select_image_questions`

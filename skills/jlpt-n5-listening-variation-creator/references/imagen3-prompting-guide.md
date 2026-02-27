@@ -45,7 +45,7 @@ When a source PNG is available, read it and determine the `image_type` before wr
 | Single scene (room, shop, venue interior) with small numbers 1–4 marking positions | `numbered_scene` |
 | Top-down street or area map with small numbers 1–4 on buildings or locations | `map_diagram` |
 
-**Key distinction:** `four_panel_grid` has no numbers inside panels. `numbered_scene` and `map_diagram` require position numbers (1, 2, 3, 4) in the image to mark locations.
+**Key distinction:** `four_panel_grid` has small numbers 1, 2, 3, 4 in the top-left corner of each panel. `numbered_scene` and `map_diagram` use position numbers within the scene or map itself to mark locations.
 
 ---
 
@@ -81,16 +81,16 @@ The `panel_map` in `derived-data.json` records which panel holds which `logic_ro
 
 ### `four_panel_grid`
 
-Use when the question has 4 independent panels, each showing one option. No numbers inside panels.
+Use when the question has 4 independent panels, each showing one option. Each panel has a small number (1, 2, 3, 4) in its top-left corner.
 
 ```
 A 2×2 grid image with four equal square panels.
 [Shared subject context — keep background minimal or white.]
-Top-left panel: [item/scene — shape, size, quantity, or presence/absence delta]
-Top-right panel: [item/scene]
-Bottom-left panel: [item/scene]
-Bottom-right panel: [item/scene]
-Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
+Panel 1 (top-left, number 1): [item/scene — shape, size, quantity, or presence/absence delta]
+Panel 2 (top-right, number 2): [item/scene]
+Panel 3 (bottom-left, number 3): [item/scene]
+Panel 4 (bottom-right, number 4): [item/scene]
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.
 ```
 
 ### `numbered_scene`
@@ -134,11 +134,11 @@ Minimalist black and white line art, Japanese language textbook illustration sty
 ```
 A 2×2 grid image with four equal square panels.
 Japanese café setting, simple white background, line art objects on a table surface.
-Top-left panel: A ceramic mug of hot coffee with steam rising from the surface.
-Top-right panel: A tall glass with a straw, ice cubes, and a lemon slice on the rim.
-Bottom-left panel: A tall glass with a straw and ice cubes, a cherry on top.
-Bottom-right panel: A glass with a straw and ice cubes, no garnish.
-Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text.
+Panel 1 (top-left, number 1): A ceramic mug of hot coffee with steam rising from the surface.
+Panel 2 (top-right, number 2): A tall glass with a straw, ice cubes, and a lemon slice on the rim.
+Panel 3 (bottom-left, number 3): A tall glass with a straw and ice cubes, a cherry on top.
+Panel 4 (bottom-right, number 4): A glass with a straw and ice cubes, no garnish.
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.
 ```
 
 **Corresponding panel_map:**

@@ -134,21 +134,6 @@ def validate(data):
         f"got {len(dialogue) if isinstance(dialogue, list) else type(dialogue).__name__} items"
     ))
 
-    # translations.tr: present
-    translations = data.get("translations", {})
-    results.append(check(
-        "translations.tr: present",
-        "tr" in translations and translations["tr"] is not None,
-        "missing" if "tr" not in translations else ""
-    ))
-
-    # translations.en: present
-    results.append(check(
-        "translations.en: present",
-        "en" in translations and translations["en"] is not None,
-        "missing" if "en" not in translations else ""
-    ))
-
     return results
 
 
