@@ -35,6 +35,47 @@ Every prompt must follow this 5-part order:
 
 ---
 
+## Special Case: Calculation Questions
+
+When the question asks the user to **calculate a numerical result** (e.g., "ぜんぶで いくら はらいますか", "なんにん きますか"), the visual logic is fundamentally different from object-based questions.
+
+> **Critical rule:** Do NOT draw the items being purchased or discussed. The dialogue already conveys what the items are. Showing the items in the panels makes the visual redundant and the question incoherent — the user would hear "apples and bananas" and then see apples and bananas, making the image useless.
+
+**The panels must show the 4 possible numerical results**, not the objects. The user listens, performs the mental calculation, and selects the matching number.
+
+### When to apply this rule
+
+| Question phrasing | Dialogue content | Correct visual |
+|---|---|---|
+| ぜんぶで いくら はらいますか | Item names + unit prices + quantities | 4 yen amounts as price tags |
+| なんにん きますか | People joining/leaving | 4 numerals |
+| なんじに つきますか | Departure time + travel duration | 4 clock faces or time labels |
+
+### Numerical Options Template (`four_panel_grid`)
+
+```
+A 2×2 grid image with four equal square panels.
+Each panel contains a single yen amount displayed on a price tag against a white background.
+Panel 1 (top-left, number 1): A price tag reading "[amount]円".
+Panel 2 (top-right, number 2): A price tag reading "[amount]円".
+Panel 3 (bottom-left, number 3): A price tag reading "[amount]円".
+Panel 4 (bottom-right, number 4): A price tag reading "[amount]円".
+Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and the yen amounts on the price tags.
+```
+
+### Delta Table Example (total price calculation)
+
+Dialogue: 80円 apple × 4 + 120円 banana × 1
+
+| Panel | Role | Amount | Trap logic |
+|-------|------|--------|------------|
+| Panel 1 | Distractor_A | 80円 | Remembered only the unit price of one item |
+| Panel 2 | Distractor_B | 320円 | Totalled first item only (80×4), forgot second |
+| Panel 3 | Distractor_C | 560円 | Swapped quantities (120×4 + 80×1) |
+| Panel 4 | Correct | 440円 | 80×4 + 120×1 = 440円 ✓ |
+
+---
+
 ## Image Type Detection
 
 When a source PNG is available, read it and determine the `image_type` before writing the prompt. Use these criteria:

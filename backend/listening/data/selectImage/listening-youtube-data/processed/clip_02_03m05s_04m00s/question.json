@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "がっこうで みんなの ひるごはんを かってくる (Buying lunch for everyone at school)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "がっこうで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かってきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "おなかが すきましたね。みんなの ひるごはんを かってきましょうか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "え、いいですか。ありがとうございます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わたしは パンを たべます。さとうさんは？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わたしは おにぎりが いいです。きむらさんは ジュース、もりさんは おべんとうが いいと おもいます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。じゃ、いってきます。"
+            }
+        ],
+        "question": "おんなのひとは なにを かってきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おなかが すく",
+                "reading": "おなかがすく",
+                "tr": "karnı acıkmak",
+                "en": "to get hungry"
+            },
+            {
+                "word": "ひるごはん",
+                "reading": "ひるごはん",
+                "tr": "öğle yemeği",
+                "en": "lunch"
+            },
+            {
+                "word": "パン",
+                "reading": "ぱん",
+                "tr": "ekmek / sandviç ekmeği",
+                "en": "bread / bun"
+            },
+            {
+                "word": "おにぎり",
+                "reading": "おにぎり",
+                "tr": "pirinç topu",
+                "en": "rice ball"
+            },
+            {
+                "word": "ジュース",
+                "reading": "じゅーす",
+                "tr": "meyve suyu",
+                "en": "juice"
+            },
+            {
+                "word": "おべんとう",
+                "reading": "おべんとう",
+                "tr": "hazır yemek kutusu (bento)",
+                "en": "lunch box (bento)"
+            },
+            {
+                "word": "かってくる",
+                "reading": "かってくる",
+                "tr": "satın alıp gelmek",
+                "en": "to go and buy"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "tr": "...-alım mı? (yardım teklifi)",
+                "en": "Shall I/we ...? (offering)"
+            },
+            {
+                "point": "～が いいです",
+                "tr": "...-yı tercih ederim",
+                "en": "I'd like ... / I prefer ..."
+            },
+            {
+                "point": "～と おもいます",
+                "tr": "... diye düşünüyorum",
+                "en": "I think that ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın 4 kişi için alışveriş yapacak: kendisi için パン, さとう için おにぎり, きむら için ジュース, もり için おべんとう. Doğru cevap 2: dört ürün de var. 1: ジュース yok — きむらさんın siparişi unutulmuş. 3: おにぎり yok — さとうさんın siparişi unutulmuş. 4: パン yok — kadın kendisi için almayı unutmuş.",
+        "en": "The woman will shop for 4 people: bread for herself, onigiri for Sato, juice for Kimura, bento for Mori. Correct answer is 2: all four items present. 1: No juice — Kimura's order forgotten. 3: No onigiri — Sato's order forgotten. 4: No bread — forgot her own item."
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source_clip": "clip_02_02m21s_03m13s",
+    "metadata": {
+        "level": "n5",
+        "topic": "くだものやで りんごと バナナを かう (Buying apples and a banana at a fruit store)",
+        "pattern_used": "Attribute"
+    },
+    "visual_prompts": {
+        "image_type": "four_panel_grid",
+        "image_prompt": "A 2×2 grid image with four equal square panels. Each panel displays a single yen price amount on a plain white background. Panel 1 (top-left, number 1): A large price tag reading \"80円\". Panel 2 (top-right, number 2): A large price tag reading \"320円\". Panel 3 (bottom-left, number 3): A large price tag reading \"560円\". Panel 4 (bottom-right, number 4): A large price tag reading \"440円\". Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and the yen amounts displayed on each price tag.",
+        "panel_map": [
+            { "panel": 1, "logic_role": "Distractor_A" },
+            { "panel": 2, "logic_role": "Distractor_B" },
+            { "panel": 3, "logic_role": "Distractor_C" },
+            { "panel": 4, "logic_role": "Correct" }
+        ]
+    },
+    "correct_option": 3,
+    "tts_script": [
+        { "voice": "Intro_Voice", "text": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。" },
+        { "break": "1s" },
+        { "voice": "Female_1", "text": "すみません、はちじゅうえんの りんごを ください。" },
+        { "break": "0.5s" },
+        { "voice": "Male_1", "text": "なんこですか。" },
+        { "break": "0.5s" },
+        { "voice": "Female_1", "text": "よんこ おねがいします。それから、バナナも いっぽん ください。" },
+        { "break": "0.5s" },
+        { "voice": "Male_1", "text": "はい。" },
+        { "break": "0.5s" },
+        { "voice": "Female_1", "text": "バナナは いくらですか。" },
+        { "break": "0.5s" },
+        { "voice": "Male_1", "text": "バナナは いっぽん ひゃくにじゅうえんです。" },
+        { "break": "0.5s" },
+        { "voice": "Female_1", "text": "ありがとうございます。" },
+        { "break": "1s" },
+        { "voice": "Intro_Voice", "text": "おんなのひとは ぜんぶで いくら はらいますか。" }
+    ],
+    "transcription": {
+        "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",
+        "dialogue": [
+            { "speaker": "Female_1", "text": "すみません、はちじゅうえんの りんごを ください。" },
+            { "speaker": "Male_1", "text": "なんこですか。" },
+            { "speaker": "Female_1", "text": "よんこ おねがいします。それから、バナナも いっぽん ください。" },
+            { "speaker": "Male_1", "text": "はい。" },
+            { "speaker": "Female_1", "text": "バナナは いくらですか。" },
+            { "speaker": "Male_1", "text": "バナナは いっぽん ひゃくにじゅうえんです。" },
+            { "speaker": "Female_1", "text": "ありがとうございます。" }
+        ],
+        "question": "おんなのひとは ぜんぶで いくら はらいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            { "word": "りんご", "reading": "りんご", "tr": "elma", "en": "apple" },
+            { "word": "バナナ", "reading": "ばなな", "tr": "muz", "en": "banana" },
+            { "word": "くだものや", "reading": "くだものや", "tr": "meyve dükkanı", "en": "fruit store" },
+            { "word": "いくら", "reading": "いくら", "tr": "ne kadar (fiyat)", "en": "how much (price)" },
+            { "word": "ぜんぶで", "reading": "ぜんぶで", "tr": "toplamda", "en": "in total" },
+            { "word": "はらう", "reading": "はらう", "tr": "ödemek", "en": "to pay" }
+        ],
+        "grammar": [
+            { "point": "～をください", "tr": "... lütfen (... verir misiniz?)", "en": "please give me ..." },
+            { "point": "～こ", "tr": "Yuvarlak/genel nesneler için sayma eki: よんこ (4 tane)", "en": "Counter for small round objects: よんこ (4 pieces)" },
+            { "point": "～ほん／ぽん", "tr": "Uzun/ince nesneler için sayma eki: いっぽん (1 tane)", "en": "Counter for long/thin objects: いっぽん (1 piece)" },
+            { "point": "それから", "tr": "ve ondan sonra / ayrıca", "en": "and then / also" }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın 80 yenlik 4 elma (80×4=320 yen) ve 120 yenlik 1 muz alıyor. Toplam: 320+120=440 yen → doğru cevap 4. 1: Sadece bir elmanın birim fiyatını hatırlamış (80 yen). 2: 4 elmayı hesaplamış ama muzu unutmuş (320 yen). 3: Miktarları karıştırmış — 4 muz + 1 elma (120×4+80=560 yen).",
+        "en": "The woman buys 4 apples at 80 yen each (80×4=320 yen) and 1 banana at 120 yen. Total: 320+120=440 yen → correct answer is 4. 1: Only remembered the unit price of one apple (80 yen). 2: Calculated 4 apples but forgot the banana (320 yen). 3: Confused the quantities — 4 bananas + 1 apple (120×4+80=560 yen)."
+    }
+}

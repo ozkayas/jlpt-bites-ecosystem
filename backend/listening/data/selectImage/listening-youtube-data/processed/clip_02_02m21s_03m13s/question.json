@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "くだものやで りんごと バナナを かう (Buying apples and a banana at a fruit store)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません、はちじゅうえんの りんごを ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "なんこですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "よんこ おねがいします。それから、バナナも いっぽん ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "バナナは いくらですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "バナナは いっぽん ひゃくにじゅうえんです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ありがとうございます。"
+            }
+        ],
+        "question": "おんなのひとは ぜんぶで いくら はらいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "りんご",
+                "reading": "りんご",
+                "tr": "elma",
+                "en": "apple"
+            },
+            {
+                "word": "バナナ",
+                "reading": "ばなな",
+                "tr": "muz",
+                "en": "banana"
+            },
+            {
+                "word": "くだものや",
+                "reading": "くだものや",
+                "tr": "meyve dükkanı",
+                "en": "fruit store"
+            },
+            {
+                "word": "いくら",
+                "reading": "いくら",
+                "tr": "ne kadar (fiyat)",
+                "en": "how much (price)"
+            },
+            {
+                "word": "ぜんぶで",
+                "reading": "ぜんぶで",
+                "tr": "toplamda",
+                "en": "in total"
+            },
+            {
+                "word": "はらう",
+                "reading": "はらう",
+                "tr": "ödemek",
+                "en": "to pay"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～をください",
+                "tr": "... lütfen (... verir misiniz?)",
+                "en": "please give me ..."
+            },
+            {
+                "point": "～こ",
+                "tr": "Yuvarlak/genel nesneler için sayma eki: よんこ (4 tane)",
+                "en": "Counter for small round objects: よんこ (4 pieces)"
+            },
+            {
+                "point": "～ほん／ぽん",
+                "tr": "Uzun/ince nesneler için sayma eki: いっぽん (1 tane)",
+                "en": "Counter for long/thin objects: いっぽん (1 piece)"
+            },
+            {
+                "point": "それから",
+                "tr": "ve ondan sonra / ayrıca",
+                "en": "and then / also"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın 80 yenlik 4 elma (80×4=320 yen) ve 120 yenlik 1 muz alıyor. Toplam: 320+120=440 yen → doğru cevap 4. 1: Sadece bir elmanın birim fiyatını hatırlamış (80 yen). 2: 4 elmayı hesaplamış ama muzu unutmuş (320 yen). 3: Miktarları karıştırmış — 4 muz + 1 elma (120×4+80=560 yen).",
+        "en": "The woman buys 4 apples at 80 yen each (80×4=320 yen) and 1 banana at 120 yen. Total: 320+120=440 yen → correct answer is 4. 1: Only remembered the unit price of one apple (80 yen). 2: Calculated 4 apples but forgot the banana (320 yen). 3: Confused the quantities — 4 bananas + 1 apple (120×4+80=560 yen)."
+    }
+}

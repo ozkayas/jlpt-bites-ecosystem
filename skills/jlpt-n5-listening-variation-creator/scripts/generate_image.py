@@ -24,8 +24,8 @@ from typing import Optional
 # Clip folders live at:  backend/listening/listening-youtube-data/processed/<clip>/
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parents[2]  # scripts/ → skill/ → skills/ → repo root
-PROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "listening-youtube-data" / "processed"
-TOBEPROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "listening-youtube-data" / "tobeprocessed"
+PROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "data" / "selectImage" / "listening-youtube-data" / "processed"
+TOBEPROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "data" / "selectImage" / "listening-youtube-data" / "tobeprocessed"
 
 ENV_KEY_NAME = "JLPT_IMAGE_GEMINI_API_KEY"
 MODEL_ID = "gemini-2.5-flash-image"
