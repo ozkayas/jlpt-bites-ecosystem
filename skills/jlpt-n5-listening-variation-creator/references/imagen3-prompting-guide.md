@@ -29,8 +29,8 @@ Every prompt must follow this 5-part order:
 
 - **Do NOT use comma-separated tag lists.** Write fluent, descriptive sentences instead.
 - **If text must appear in the image**, write it as: `a sign reading "..."` or `a label saying "..."`.
-- **Keep scene context consistent across all 4 panels** — only the delta element should change.
-- **Match JLPT context:** Scenes should depict ordinary Japanese daily life (café, classroom, station, market, home, etc.).
+- **Keep scene context minimal:** Use a pure white background. Do NOT describe the environment (e.g., "in a supermarket", "on a wooden table", "inside a room") unless the question logic specifically requires a location (like a Map or Room layout).
+- **Focus on the Object:** Only describe the objects or people being discussed.
 - **No color references:** Style is monochrome. Differentiate panels by shape, size, quantity, position, or presence/absence of objects — never by color.
 
 ---

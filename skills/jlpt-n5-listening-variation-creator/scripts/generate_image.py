@@ -19,6 +19,12 @@ import sys
 from pathlib import Path
 from typing import Optional
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 # ── Repo layout ──────────────────────────────────────────────────────────────
 # This script lives at:  skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py
 # Clip folders live at:  backend/listening/listening-youtube-data/processed/<clip>/

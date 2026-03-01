@@ -16,6 +16,7 @@ You are an expert JLPT N5 content engineer. Your goal is to create original vari
 5. **Output to derived-data.json:** Save the variation as `derived-data.json` inside the clip folder before moving it.
 6. **Move on Completion:** After saving `derived-data.json`, move the entire clip folder from `tobeprocessed/` to `processed/`.
 7. **Self-Validate Before Moving:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors before moving the folder. The folder should only be moved when both JSON and image pass validation.
+8. **Clean Logic Formatting:** When referencing panels in `logic.tr` or `logic.en`, use ONLY the panel number in parentheses, e.g., `(3)`. NEVER use the word "Panel" or labels like "Distractor_A".
 
 ---
 
@@ -83,6 +84,7 @@ backend/listening/data/selectImage/listening-youtube-data/processed/
 
 - Write a new Japanese dialogue using only N5 grammar and vocabulary.
 - Preserve the same grammar structures from the original (only entities change).
+- Provide a Turkish translation for the intro, dialogue lines, and the question for the `transcription_tr` section.
 
 ### Step 5 — GENERATE IMAGE PROMPT (Imagen 3 / Nano Banana)
 
@@ -104,13 +106,14 @@ backend/listening/data/selectImage/listening-youtube-data/processed/
 ### Step 7 — OUTPUT derived-data.json
 
 - Write `derived-data.json` to the clip folder inside `tobeprocessed/`.
+- Include both `transcription` (Japanese) and `transcription_tr` (Turkish) sections.
 - Follow the schema in `references/derived-data-schema.md` exactly.
 
 ### Step 8 — SELF-VALIDATE JSON
 
-- Run the mechanical validator script:
+- Run the mechanical validator script using the skill's specific environment:
   ```bash
-  python3 skills/jlpt-n5-listening-variation-tester/scripts/validate_derived_data.py <clip_folder>/derived-data.json
+  skills/jlpt-n5-listening-variation-creator/venv/bin/python3 skills/jlpt-n5-listening-variation-tester/scripts/validate_derived_data.py <clip_folder>/derived-data.json
   ```
 - If PASS: proceed to Step 9.
 - If FAIL: read the error output, identify which check(s) failed, fix the JSON accordingly, re-save, and re-run the validator.
@@ -118,9 +121,9 @@ backend/listening/data/selectImage/listening-youtube-data/processed/
 
 ### Step 9 — GENERATE IMAGE
 
-- Run the image generation script to call the Gemini API and create `image.png` in the clip folder:
+- Run the image generation script using the skill's specific environment to create `image.png` in the clip folder:
   ```bash
-  python skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py <clip_folder_name>
+  skills/jlpt-n5-listening-variation-creator/venv/bin/python3 skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py <clip_folder_name>
   ```
 - The script reads `visual_prompts.image_prompt` from `derived-data.json`, calls `gemini-2.5-flash-image`, and saves `image.png` inside the clip folder.
 - Requires `JLPT_IMAGE_GEMINI_API_KEY` to be set in the environment.

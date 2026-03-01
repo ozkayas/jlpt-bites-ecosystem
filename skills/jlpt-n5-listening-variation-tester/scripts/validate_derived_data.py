@@ -134,6 +134,21 @@ def validate(data):
         f"got {len(dialogue) if isinstance(dialogue, list) else type(dialogue).__name__} items"
     ))
 
+    # transcription_tr: present and non-empty
+    trans_tr = data.get("transcription_tr", {})
+    tr_dialogue = trans_tr.get("dialogue", [])
+    tr_ok = (
+        isinstance(trans_tr, dict) and
+        isinstance(trans_tr.get("intro"), str) and len(trans_tr.get("intro")) > 0 and
+        isinstance(tr_dialogue, list) and len(tr_dialogue) > 0 and
+        isinstance(trans_tr.get("question"), str) and len(trans_tr.get("question")) > 0
+    )
+    results.append(check(
+        "transcription_tr: present with intro, dialogue (non-empty list), and question",
+        tr_ok,
+        f"got {trans_tr.keys() if isinstance(trans_tr, dict) else type(trans_tr).__name__}"
+    ))
+
     return results
 
 

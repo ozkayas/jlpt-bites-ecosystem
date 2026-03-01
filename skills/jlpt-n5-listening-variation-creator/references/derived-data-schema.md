@@ -44,6 +44,14 @@ This file documents the exact structure of `derived-data.json` — the output pr
     ],
     "question": "Japanese question sentence"
   },
+  "transcription_tr": {
+    "intro": "Turkish translation of the intro",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Turkish translation of the line" },
+      { "speaker": "Female_1", "text": "Turkish translation of the line" }
+    ],
+    "question": "Turkish translation of the question"
+  },
   "analysis": {
     "vocabulary": [
       { "word": "Japanese word", "reading": "hiragana reading", "tr": "Turkish meaning", "en": "English meaning" }
@@ -76,4 +84,4 @@ This file documents the exact structure of `derived-data.json` — the output pr
 | `tts_script` entries | Each entry has EITHER `voice`+`text` OR `break` — never both in one object |
 | `transcription.dialogue` | Non-empty array; speaker values must be `"Male_1"` or `"Female_1"` |
 | `analysis.vocabulary[].reading` | Must be hiragana (not romaji) |
-| `logic.tr` / `logic.en` | Shown to the user. When referencing panels, use only the panel number — not distractor labels. Use `"3"` not `"Distractor_B – Panel 3"`. |
+| `logic.tr` / `logic.en` | Shown to the user. When referencing panels, use only the panel number in parentheses — do not use the word "Panel" or distractor labels. Use `"(3)"` not `"Panel 3"` or `"Distractor_B"`. |
