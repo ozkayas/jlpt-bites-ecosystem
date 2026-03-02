@@ -46,11 +46,11 @@ EOF
 
 ```bash
 python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> \
-  --output <clip_folder>/variation.wav
-# Output: variation.wav in the same folder as derived-data.json
+  --output <clip_folder>/variation-audio.wav
+# Output: variation-audio.wav in the same folder as derived-data.json
 ```
 
-   - Output file is always named `variation.wav` (distinguishes it from the original `audio.mp3`).
+   - Output file is always named `variation-audio.wav` (distinguishes it from the original `audio.mp3`).
    - If JSON was provided as inline content (no real file path), skip Pass 4 and print the manual command for the user to run.
    - Requires `GEMINI_API_KEY` or `GEMINI_API_KEYS` environment variable.
 10. Run **Pass 5 — Build question.json:**
@@ -66,7 +66,9 @@ python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py
    - Maps speaker IDs to Japanese labels (`Male_1` → `男の人`, `Female_1` → `女の人`).
    - Sets `audio_url: null` and `image_url: null` (to be filled when uploading to Firebase Storage).
    - Output file is always named `question.json` in the same clip folder.
-11. Report final results — all five passes.
+11. Run **Pass 6 — Move Folder:**
+   - If all previous passes are successful, move the entire clip folder from `tobeprocessed/` to `processed/`.
+12. Report final results — all six passes.
 
 ---
 
@@ -96,6 +98,7 @@ python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py
 | Trap quality | Each distractor fails due to a specific, identifiable reason (not just random) |
 | Image prompt alignment | `image_prompt` panel descriptions match their `logic_role` assignments in `panel_map` |
 | Variation novelty | Entities differ meaningfully from the source clip (not superficially renamed) |
+| Translation accuracy | `transcription_tr` accurately and naturally reflects the Japanese dialogue and question |
 
 ---
 
@@ -159,6 +162,7 @@ Pass 2 — Semantic Review
   ✓ Trap quality: Distractor_A (orange juice — rejected in line 3), Distractor_B (iced coffee — rejected in line 5), Distractor_C (cold item — contradicts final choice)
   ✓ Image prompt: all 4 panel descriptions match their panel_map logic roles
   ✓ Variation novelty: significantly different from typical cafe/drink source clips
+  ✓ Translation: transcription_tr accurately reflects the dialogue
   PASS — All semantic checks passed
 
 Pass 3 — Image Validation
@@ -172,14 +176,18 @@ Pass 3 — Image Validation
   PASS — Image valid
 
 Pass 4 — Audio Generation
-  Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation.wav
-  ✓ Audio generated: variation.wav (37.8s | 1773 KB)
+  Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation-audio.wav
+  ✓ Audio generated: variation-audio.wav (37.8s | 1773 KB)
   PASS — Audio ready
 
 Pass 5 — Build question.json
   Running: python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py <path/to/derived-data.json>
   ✓ question.json written: <clip_folder>/question.json
   PASS — Final JSON ready
+
+Pass 6 — Move Folder
+  ✓ Folder moved from tobeprocessed/ to processed/
+  PASS — Folder moved
 ```
 
 If anything fails in any pass, report the specific field or criterion and what was found vs. what was expected. Each subsequent pass is only attempted after the previous one succeeds.

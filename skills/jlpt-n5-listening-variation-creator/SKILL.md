@@ -136,14 +136,10 @@ backend/listening/data/selectImage/listening-youtube-data/processed/
   - image_type match: layout matches declared type (four_panel_grid / numbered_scene / map_diagram)
   - Panel content: correct panel shows the answer, distractors show wrong alternatives
   - Style: monochrome line art, no shading, white background, no borders
-- If all checks pass: proceed to Step 11.
+- If all checks pass: Stop here. Do not generate audio or move the folder.
 - If any check fails: delete image.png, re-run generate_image.py, and re-check.
 - Maximum 2 attempts (image generation costs API credits). If still failing after 2 attempts, stop and report the issue to the user.
-
-### Step 11 — MOVE FOLDER
-
-- Move the entire clip folder from `tobeprocessed/` to `processed/`.
-- Report what was processed and where it was moved.
+- Leave the folder in `tobeprocessed/`. Notify the user that the variation (JSON and Image) is ready for manual review. Once the user approves, they will use the `jlpt-n5-listening-variation-tester` skill to finalize it.
 
 ---
 
