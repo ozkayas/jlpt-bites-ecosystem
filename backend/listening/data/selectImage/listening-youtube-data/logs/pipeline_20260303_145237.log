@@ -1,0 +1,33 @@
+2026-03-03 14:52:37,939 - INFO - ============================================================
+2026-03-03 14:52:37,940 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:52:37,940 - INFO - ============================================================
+2026-03-03 14:52:37,940 - INFO - YouTube URL: https://www.youtube.com/watch?v=23p0LPzodt8
+2026-03-03 14:52:37,940 - INFO - Ranges: [{'start': '2:50', 'end': '3:45'}, {'start': '3:57', 'end': '4:57'}, {'start': '5:14', 'end': '6:07'}, {'start': '6:22', 'end': '7:20'}, {'start': '7:35', 'end': '8:30'}, {'start': '8:44', 'end': '9:41'}, {'start': '9:57', 'end': '11:10'}]
+2026-03-03 14:52:37,940 - INFO - ------------------------------------------------------------
+2026-03-03 14:52:37,940 - INFO - Node 1: Download
+2026-03-03 14:52:37,940 - INFO - ------------------------------------------------------------
+2026-03-03 14:52:39,093 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:52:55,055 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:52:55,055 - INFO - Saved to: source_audio/23p0LPzodt8.mp3
+2026-03-03 14:52:55,055 - INFO - ------------------------------------------------------------
+2026-03-03 14:52:55,055 - INFO - Node 2: Slice
+2026-03-03 14:52:55,055 - INFO - ------------------------------------------------------------
+2026-03-03 14:52:55,055 - INFO - clip_23p0LPzodt8_01_02m50s_03m45s: Slicing audio...
+2026-03-03 14:52:55,102 - INFO - clip_23p0LPzodt8_01_02m50s_03m45s: Sliced successfully
+2026-03-03 14:52:55,103 - INFO - clip_23p0LPzodt8_02_03m57s_04m57s: Slicing audio...
+2026-03-03 14:52:55,142 - INFO - clip_23p0LPzodt8_02_03m57s_04m57s: Sliced successfully
+2026-03-03 14:52:55,142 - INFO - clip_23p0LPzodt8_03_05m14s_06m07s: Slicing audio...
+2026-03-03 14:52:55,183 - INFO - clip_23p0LPzodt8_03_05m14s_06m07s: Sliced successfully
+2026-03-03 14:52:55,184 - INFO - clip_23p0LPzodt8_04_06m22s_07m20s: Slicing audio...
+2026-03-03 14:52:55,225 - INFO - clip_23p0LPzodt8_04_06m22s_07m20s: Sliced successfully
+2026-03-03 14:52:55,225 - INFO - clip_23p0LPzodt8_05_07m35s_08m30s: Slicing audio...
+2026-03-03 14:52:55,267 - INFO - clip_23p0LPzodt8_05_07m35s_08m30s: Sliced successfully
+2026-03-03 14:52:55,268 - INFO - clip_23p0LPzodt8_06_08m44s_09m41s: Slicing audio...
+2026-03-03 14:52:55,310 - INFO - clip_23p0LPzodt8_06_08m44s_09m41s: Sliced successfully
+2026-03-03 14:52:55,311 - INFO - clip_23p0LPzodt8_07_09m57s_11m10s: Slicing audio...
+2026-03-03 14:52:55,355 - INFO - clip_23p0LPzodt8_07_09m57s_11m10s: Sliced successfully
+2026-03-03 14:52:55,355 - INFO - ============================================================
+2026-03-03 14:52:55,355 - INFO - PIPELINE COMPLETE
+2026-03-03 14:52:55,355 - INFO - ============================================================
+2026-03-03 14:52:55,355 - INFO - Output: 7 audio clips generated
+2026-03-03 14:52:55,355 - INFO - Location: clips/

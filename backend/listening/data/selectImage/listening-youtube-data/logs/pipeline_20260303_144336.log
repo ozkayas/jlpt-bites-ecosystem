@@ -1,0 +1,33 @@
+2026-03-03 14:43:36,977 - INFO - ============================================================
+2026-03-03 14:43:36,977 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:43:36,977 - INFO - ============================================================
+2026-03-03 14:43:36,977 - INFO - YouTube URL: https://www.youtube.com/watch?v=TYn4OgknPDc
+2026-03-03 14:43:36,977 - INFO - Ranges: [{'start': '2:44', 'end': '3:43'}, {'start': '3:56', 'end': '4:40'}, {'start': '4:54', 'end': '6:00'}, {'start': '6:13', 'end': '6:55'}, {'start': '7:06', 'end': '8:03'}, {'start': '8:17', 'end': '9:00'}, {'start': '9:12', 'end': '10:12'}]
+2026-03-03 14:43:36,977 - INFO - ------------------------------------------------------------
+2026-03-03 14:43:36,977 - INFO - Node 1: Download
+2026-03-03 14:43:36,977 - INFO - ------------------------------------------------------------
+2026-03-03 14:43:38,221 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:43:52,945 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:43:52,945 - INFO - Saved to: source_audio/TYn4OgknPDc.mp3
+2026-03-03 14:43:52,945 - INFO - ------------------------------------------------------------
+2026-03-03 14:43:52,945 - INFO - Node 2: Slice
+2026-03-03 14:43:52,945 - INFO - ------------------------------------------------------------
+2026-03-03 14:43:52,945 - INFO - clip_TYn4OgknPDc_01_02m44s_03m43s: Slicing audio...
+2026-03-03 14:43:52,992 - INFO - clip_TYn4OgknPDc_01_02m44s_03m43s: Sliced successfully
+2026-03-03 14:43:52,992 - INFO - clip_TYn4OgknPDc_02_03m56s_04m40s: Slicing audio...
+2026-03-03 14:43:53,031 - INFO - clip_TYn4OgknPDc_02_03m56s_04m40s: Sliced successfully
+2026-03-03 14:43:53,031 - INFO - clip_TYn4OgknPDc_03_04m54s_06m00s: Slicing audio...
+2026-03-03 14:43:53,071 - INFO - clip_TYn4OgknPDc_03_04m54s_06m00s: Sliced successfully
+2026-03-03 14:43:53,071 - INFO - clip_TYn4OgknPDc_04_06m13s_06m55s: Slicing audio...
+2026-03-03 14:43:53,113 - INFO - clip_TYn4OgknPDc_04_06m13s_06m55s: Sliced successfully
+2026-03-03 14:43:53,114 - INFO - clip_TYn4OgknPDc_05_07m06s_08m03s: Slicing audio...
+2026-03-03 14:43:53,156 - INFO - clip_TYn4OgknPDc_05_07m06s_08m03s: Sliced successfully
+2026-03-03 14:43:53,157 - INFO - clip_TYn4OgknPDc_06_08m17s_09m00s: Slicing audio...
+2026-03-03 14:43:53,199 - INFO - clip_TYn4OgknPDc_06_08m17s_09m00s: Sliced successfully
+2026-03-03 14:43:53,199 - INFO - clip_TYn4OgknPDc_07_09m12s_10m12s: Slicing audio...
+2026-03-03 14:43:53,243 - INFO - clip_TYn4OgknPDc_07_09m12s_10m12s: Sliced successfully
+2026-03-03 14:43:53,243 - INFO - ============================================================
+2026-03-03 14:43:53,243 - INFO - PIPELINE COMPLETE
+2026-03-03 14:43:53,243 - INFO - ============================================================
+2026-03-03 14:43:53,244 - INFO - Output: 7 audio clips generated
+2026-03-03 14:43:53,244 - INFO - Location: clips/

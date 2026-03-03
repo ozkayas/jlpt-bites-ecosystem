@@ -1,0 +1,33 @@
+2026-03-03 14:50:31,884 - INFO - ============================================================
+2026-03-03 14:50:31,884 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:50:31,885 - INFO - ============================================================
+2026-03-03 14:50:31,885 - INFO - YouTube URL: https://www.youtube.com/watch?v=1z3-CWWA20Y
+2026-03-03 14:50:31,885 - INFO - Ranges: [{'start': '1:07', 'end': '1:57'}, {'start': '2:11', 'end': '2:55'}, {'start': '3:07', 'end': '3:55'}, {'start': '4:09', 'end': '5:00'}, {'start': '5:13', 'end': '6:01'}, {'start': '6:16', 'end': '7:15'}, {'start': '7:29', 'end': '8:35'}]
+2026-03-03 14:50:31,885 - INFO - ------------------------------------------------------------
+2026-03-03 14:50:31,885 - INFO - Node 1: Download
+2026-03-03 14:50:31,885 - INFO - ------------------------------------------------------------
+2026-03-03 14:50:33,398 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:50:42,404 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:50:42,404 - INFO - Saved to: source_audio/1z3-CWWA20Y.mp3
+2026-03-03 14:50:42,404 - INFO - ------------------------------------------------------------
+2026-03-03 14:50:42,404 - INFO - Node 2: Slice
+2026-03-03 14:50:42,404 - INFO - ------------------------------------------------------------
+2026-03-03 14:50:42,404 - INFO - clip_1z3-CWWA20Y_01_01m07s_01m57s: Slicing audio...
+2026-03-03 14:50:42,447 - INFO - clip_1z3-CWWA20Y_01_01m07s_01m57s: Sliced successfully
+2026-03-03 14:50:42,447 - INFO - clip_1z3-CWWA20Y_02_02m11s_02m55s: Slicing audio...
+2026-03-03 14:50:42,483 - INFO - clip_1z3-CWWA20Y_02_02m11s_02m55s: Sliced successfully
+2026-03-03 14:50:42,483 - INFO - clip_1z3-CWWA20Y_03_03m07s_03m55s: Slicing audio...
+2026-03-03 14:50:42,529 - INFO - clip_1z3-CWWA20Y_03_03m07s_03m55s: Sliced successfully
+2026-03-03 14:50:42,530 - INFO - clip_1z3-CWWA20Y_04_04m09s_05m00s: Slicing audio...
+2026-03-03 14:50:42,627 - INFO - clip_1z3-CWWA20Y_04_04m09s_05m00s: Sliced successfully
+2026-03-03 14:50:42,627 - INFO - clip_1z3-CWWA20Y_05_05m13s_06m01s: Slicing audio...
+2026-03-03 14:50:42,693 - INFO - clip_1z3-CWWA20Y_05_05m13s_06m01s: Sliced successfully
+2026-03-03 14:50:42,693 - INFO - clip_1z3-CWWA20Y_06_06m16s_07m15s: Slicing audio...
+2026-03-03 14:50:42,740 - INFO - clip_1z3-CWWA20Y_06_06m16s_07m15s: Sliced successfully
+2026-03-03 14:50:42,740 - INFO - clip_1z3-CWWA20Y_07_07m29s_08m35s: Slicing audio...
+2026-03-03 14:50:42,787 - INFO - clip_1z3-CWWA20Y_07_07m29s_08m35s: Sliced successfully
+2026-03-03 14:50:42,787 - INFO - ============================================================
+2026-03-03 14:50:42,787 - INFO - PIPELINE COMPLETE
+2026-03-03 14:50:42,787 - INFO - ============================================================
+2026-03-03 14:50:42,787 - INFO - Output: 7 audio clips generated
+2026-03-03 14:50:42,787 - INFO - Location: clips/

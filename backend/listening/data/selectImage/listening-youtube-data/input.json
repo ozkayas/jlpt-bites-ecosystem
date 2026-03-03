@@ -1,33 +1,33 @@
 {
-    "youtube_url": "https://www.youtube.com/watch?v=0e0duD8_LFE",
+    "youtube_url": "https://www.youtube.com/watch?v=23p0LPzodt8",
     "ranges": [
         {
-            "start": "2:00",
-            "end": "2:52"
+            "start": "2:50",
+            "end": "3:45"
         },
         {
-            "start": "3:05",
-            "end": "4:00"
+            "start": "3:57",
+            "end": "4:57"
         },
         {
-            "start": "4:11",
-            "end": "5:03"
-        },
-        {
-            "start": "5:16",
+            "start": "5:14",
             "end": "6:07"
         },
         {
-            "start": "6:20",
-            "end": "7:10"
+            "start": "6:22",
+            "end": "7:20"
         },
         {
-            "start": "7:23",
-            "end": "8:25"
+            "start": "7:35",
+            "end": "8:30"
         },
         {
-            "start": "8:39",
-            "end": "9:44"
+            "start": "8:44",
+            "end": "9:41"
+        },
+        {
+            "start": "9:57",
+            "end": "11:10"
         }
     ]
 }

@@ -1,0 +1,31 @@
+2026-03-03 14:48:23,203 - INFO - ============================================================
+2026-03-03 14:48:23,203 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:48:23,203 - INFO - ============================================================
+2026-03-03 14:48:23,203 - INFO - YouTube URL: https://www.youtube.com/watch?v=pjHy2h8oKf8
+2026-03-03 14:48:23,203 - INFO - Ranges: [{'start': '1:11', 'end': '1:45'}, {'start': '1:58', 'end': '2:40'}, {'start': '2:54', 'end': '3:35'}, {'start': '4:47', 'end': '5:35'}, {'start': '5:50', 'end': '6:40'}, {'start': '6:54', 'end': '8:05'}]
+2026-03-03 14:48:23,203 - INFO - ------------------------------------------------------------
+2026-03-03 14:48:23,203 - INFO - Node 1: Download
+2026-03-03 14:48:23,203 - INFO - ------------------------------------------------------------
+2026-03-03 14:48:24,348 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:48:33,409 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:48:33,409 - INFO - Saved to: source_audio/pjHy2h8oKf8.mp3
+2026-03-03 14:48:33,409 - INFO - ------------------------------------------------------------
+2026-03-03 14:48:33,409 - INFO - Node 2: Slice
+2026-03-03 14:48:33,409 - INFO - ------------------------------------------------------------
+2026-03-03 14:48:33,410 - INFO - clip_pjHy2h8oKf8_01_01m11s_01m45s: Slicing audio...
+2026-03-03 14:48:33,451 - INFO - clip_pjHy2h8oKf8_01_01m11s_01m45s: Sliced successfully
+2026-03-03 14:48:33,451 - INFO - clip_pjHy2h8oKf8_02_01m58s_02m40s: Slicing audio...
+2026-03-03 14:48:33,487 - INFO - clip_pjHy2h8oKf8_02_01m58s_02m40s: Sliced successfully
+2026-03-03 14:48:33,487 - INFO - clip_pjHy2h8oKf8_03_02m54s_03m35s: Slicing audio...
+2026-03-03 14:48:33,524 - INFO - clip_pjHy2h8oKf8_03_02m54s_03m35s: Sliced successfully
+2026-03-03 14:48:33,524 - INFO - clip_pjHy2h8oKf8_04_04m47s_05m35s: Slicing audio...
+2026-03-03 14:48:33,562 - INFO - clip_pjHy2h8oKf8_04_04m47s_05m35s: Sliced successfully
+2026-03-03 14:48:33,562 - INFO - clip_pjHy2h8oKf8_05_05m50s_06m40s: Slicing audio...
+2026-03-03 14:48:33,602 - INFO - clip_pjHy2h8oKf8_05_05m50s_06m40s: Sliced successfully
+2026-03-03 14:48:33,602 - INFO - clip_pjHy2h8oKf8_06_06m54s_08m05s: Slicing audio...
+2026-03-03 14:48:33,642 - INFO - clip_pjHy2h8oKf8_06_06m54s_08m05s: Sliced successfully
+2026-03-03 14:48:33,642 - INFO - ============================================================
+2026-03-03 14:48:33,642 - INFO - PIPELINE COMPLETE
+2026-03-03 14:48:33,642 - INFO - ============================================================
+2026-03-03 14:48:33,642 - INFO - Output: 6 audio clips generated
+2026-03-03 14:48:33,642 - INFO - Location: clips/

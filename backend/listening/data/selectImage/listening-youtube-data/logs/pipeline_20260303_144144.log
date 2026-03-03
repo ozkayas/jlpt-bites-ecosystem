@@ -1,0 +1,25 @@
+2026-03-03 14:41:44,076 - INFO - ============================================================
+2026-03-03 14:41:44,077 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:41:44,077 - INFO - ============================================================
+2026-03-03 14:41:44,077 - INFO - YouTube URL: https://www.youtube.com/watch?v=7HfHdb5J3f4
+2026-03-03 14:41:44,077 - INFO - Ranges: [{'start': '6:15', 'end': '7:30'}, {'start': '8:45', 'end': '9:25'}, {'start': '9:40', 'end': '10:50'}]
+2026-03-03 14:41:44,077 - INFO - ------------------------------------------------------------
+2026-03-03 14:41:44,077 - INFO - Node 1: Download
+2026-03-03 14:41:44,077 - INFO - ------------------------------------------------------------
+2026-03-03 14:41:45,314 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:42:00,064 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:42:00,064 - INFO - Saved to: source_audio/7HfHdb5J3f4.mp3
+2026-03-03 14:42:00,064 - INFO - ------------------------------------------------------------
+2026-03-03 14:42:00,064 - INFO - Node 2: Slice
+2026-03-03 14:42:00,064 - INFO - ------------------------------------------------------------
+2026-03-03 14:42:00,065 - INFO - clip_7HfHdb5J3f4_01_06m15s_07m30s: Slicing audio...
+2026-03-03 14:42:00,129 - INFO - clip_7HfHdb5J3f4_01_06m15s_07m30s: Sliced successfully
+2026-03-03 14:42:00,129 - INFO - clip_7HfHdb5J3f4_02_08m45s_09m25s: Slicing audio...
+2026-03-03 14:42:00,176 - INFO - clip_7HfHdb5J3f4_02_08m45s_09m25s: Sliced successfully
+2026-03-03 14:42:00,176 - INFO - clip_7HfHdb5J3f4_03_09m40s_10m50s: Slicing audio...
+2026-03-03 14:42:00,221 - INFO - clip_7HfHdb5J3f4_03_09m40s_10m50s: Sliced successfully
+2026-03-03 14:42:00,222 - INFO - ============================================================
+2026-03-03 14:42:00,222 - INFO - PIPELINE COMPLETE
+2026-03-03 14:42:00,222 - INFO - ============================================================
+2026-03-03 14:42:00,222 - INFO - Output: 3 audio clips generated
+2026-03-03 14:42:00,222 - INFO - Location: clips/

@@ -1,0 +1,33 @@
+2026-03-03 14:40:15,536 - INFO - ============================================================
+2026-03-03 14:40:15,536 - INFO - AUDIO SLICER PIPELINE START
+2026-03-03 14:40:15,536 - INFO - ============================================================
+2026-03-03 14:40:15,536 - INFO - YouTube URL: https://www.youtube.com/watch?v=SAaWBv630nI
+2026-03-03 14:40:15,536 - INFO - Ranges: [{'start': '1:05', 'end': '1:52'}, {'start': '2:06', 'end': '2:45'}, {'start': '2:59', 'end': '3:45'}, {'start': '3:59', 'end': '4:45'}, {'start': '4:59', 'end': '5:50'}, {'start': '6:02', 'end': '6:50'}, {'start': '7:00', 'end': '7:40'}]
+2026-03-03 14:40:15,536 - INFO - ------------------------------------------------------------
+2026-03-03 14:40:15,536 - INFO - Node 1: Download
+2026-03-03 14:40:15,536 - INFO - ------------------------------------------------------------
+2026-03-03 14:40:16,698 - INFO - Attempting download strategy 1/4: Standard with modern user-agent
+2026-03-03 14:40:21,658 - INFO - ✓ Downloaded successfully using: Standard with modern user-agent
+2026-03-03 14:40:21,658 - INFO - Saved to: source_audio/SAaWBv630nI.mp3
+2026-03-03 14:40:21,658 - INFO - ------------------------------------------------------------
+2026-03-03 14:40:21,658 - INFO - Node 2: Slice
+2026-03-03 14:40:21,658 - INFO - ------------------------------------------------------------
+2026-03-03 14:40:21,659 - INFO - clip_SAaWBv630nI_01_01m05s_01m52s: Slicing audio...
+2026-03-03 14:40:21,697 - INFO - clip_SAaWBv630nI_01_01m05s_01m52s: Sliced successfully
+2026-03-03 14:40:21,698 - INFO - clip_SAaWBv630nI_02_02m06s_02m45s: Slicing audio...
+2026-03-03 14:40:21,734 - INFO - clip_SAaWBv630nI_02_02m06s_02m45s: Sliced successfully
+2026-03-03 14:40:21,734 - INFO - clip_SAaWBv630nI_03_02m59s_03m45s: Slicing audio...
+2026-03-03 14:40:21,779 - INFO - clip_SAaWBv630nI_03_02m59s_03m45s: Sliced successfully
+2026-03-03 14:40:21,779 - INFO - clip_SAaWBv630nI_04_03m59s_04m45s: Slicing audio...
+2026-03-03 14:40:21,822 - INFO - clip_SAaWBv630nI_04_03m59s_04m45s: Sliced successfully
+2026-03-03 14:40:21,822 - INFO - clip_SAaWBv630nI_05_04m59s_05m50s: Slicing audio...
+2026-03-03 14:40:21,861 - INFO - clip_SAaWBv630nI_05_04m59s_05m50s: Sliced successfully
+2026-03-03 14:40:21,861 - INFO - clip_SAaWBv630nI_06_06m02s_06m50s: Slicing audio...
+2026-03-03 14:40:21,901 - INFO - clip_SAaWBv630nI_06_06m02s_06m50s: Sliced successfully
+2026-03-03 14:40:21,901 - INFO - clip_SAaWBv630nI_07_07m00s_07m40s: Slicing audio...
+2026-03-03 14:40:21,941 - INFO - clip_SAaWBv630nI_07_07m00s_07m40s: Sliced successfully
+2026-03-03 14:40:21,941 - INFO - ============================================================
+2026-03-03 14:40:21,941 - INFO - PIPELINE COMPLETE
+2026-03-03 14:40:21,941 - INFO - ============================================================
+2026-03-03 14:40:21,941 - INFO - Output: 7 audio clips generated
+2026-03-03 14:40:21,941 - INFO - Location: clips/
