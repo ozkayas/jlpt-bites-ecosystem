@@ -1,0 +1,186 @@
+{
+  "source_clip": "clip_03_04m37s_05m22s",
+  "metadata": {
+    "level": "n5",
+    "topic": "ほんやの　ばしょを　きく (Asking for the location of the bookstore)",
+    "pattern_used": "Location"
+  },
+  "visual_prompts": {
+    "image_type": "map_diagram",
+    "image_prompt": "A simple top-down street map illustration. A main road leads to a T-junction intersection. At the corner of the intersection stands a small bakery (ぱんや) with a bread loaf icon on its sign. Four small number labels (1, 2, 3, 4) mark buildings on the map. Position 1 is on the street to the left of the intersection. Position 2 is straight ahead across the intersection. Position 3 is next to the bakery on the main road before the intersection. Turning right at the intersection leads to a supermarket (すーぱー) with a shopping cart icon, and Position 4 is the building located right next to the supermarket. Two simple line-art characters stand at the starting point looking at the map. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the position numbers 1, 2, 3, 4 and small labels reading \"ぱんや\" and \"すーぱー\".",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_C"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Correct"
+      }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　どこへ　いきますか？"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "すみません、ちかくに　ほんやは　ありますか？"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "あの　ちいさい　ぱんやを　みてください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "あそこの　こうさてんを　みぎに　まがって、すこし　あるきます。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "ほんやは　すーぱーの　となりですよ。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "わかりました。ありがとうございます。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おとこのひとは　どこへ　いきますか？"
+    }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　どこへ　いきますか？",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "すみません、ちかくに　ほんやは　ありますか？"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "あの　ちいさい　ぱんやを　みてください。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "あそこの　こうさてんを　みぎに　まがって、すこし　あるきます。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "ほんやは　すーぱーの　となりですよ。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "わかりました。ありがとうございます。"
+      }
+    ],
+    "question": "おとこのひとは　どこへ　いきますか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir adam ve bir kadın konuşuyorlar. Adam nereye gidecek?",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "Affedersiniz, yakında bir kitapçı var mı?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Şu küçük fırını/pastaneyi görüyor musunuz?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Oradaki kavşaktan sağa dönüp biraz yürüyün."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Kitapçı süpermarketin hemen yanındadır."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Anladım. Teşekkür ederim."
+      }
+    ],
+    "question": "Adam nereye gidecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ほんや",
+        "reading": "ほんや",
+        "tr": "kitapçı",
+        "en": "bookstore"
+      },
+      {
+        "word": "ぱんや",
+        "reading": "ぱんや",
+        "tr": "fırın / pastane",
+        "en": "bakery"
+      },
+      {
+        "word": "こうさてん",
+        "reading": "こうさてん",
+        "tr": "kavşak",
+        "en": "intersection"
+      },
+      {
+        "word": "みぎ",
+        "reading": "みぎ",
+        "tr": "sağ",
+        "en": "right"
+      },
+      {
+        "word": "すーぱー",
+        "reading": "すーぱー",
+        "tr": "süpermarket",
+        "en": "supermarket"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～は　ありますか",
+        "tr": "... var mı?",
+        "en": "Is there ...?"
+      },
+      {
+        "point": "～を　まがって",
+        "tr": "...-den dönüp (te-formu ile sıralı eylem)",
+        "en": "turn at ... (using te-form for sequence of actions)"
+      },
+      {
+        "point": "～の　となり",
+        "tr": "...-nın yanında",
+        "en": "next to ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Adam kitapçıya gitmek istiyor. Kadın ona küçük pastanenin oradaki kavşaktan sağa dönmesini ve biraz yürümesini söyler. Kitapçının süpermarketin hemen yanında (4) olduğunu belirtir. Sola dönmek (1), düz gitmek (2) veya dönmeden önceki konum (3) yanıltıcı seçeneklerdir.",
+    "en": "The man wants to go to the bookstore. The woman tells him to turn right at the intersection where the small bakery is and walk a little. She notes that the bookstore is located right next to the supermarket (4). Turning left (1), going straight (2), or the location before the turn (3) are distractors."
+  }
+}

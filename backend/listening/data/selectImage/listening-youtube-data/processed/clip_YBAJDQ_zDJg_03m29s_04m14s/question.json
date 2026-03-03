@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "のーとを　えらぶ (Choosing a notebook)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません、その　のーとを　みせてください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あ, この　あおいの　ですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、あかいの　です。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "こちらの　おおきい　ほうでしょうか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、ちいさい　ほうです。"
+            }
+        ],
+        "question": "おんなのひとは　どの　のーとを　かいますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "のーと",
+                "reading": "のーと",
+                "tr": "defter",
+                "en": "notebook"
+            },
+            {
+                "word": "みせる",
+                "reading": "みせる",
+                "tr": "göstermek",
+                "en": "to show"
+            },
+            {
+                "word": "あおい",
+                "reading": "あおい",
+                "tr": "mavi",
+                "en": "blue"
+            },
+            {
+                "word": "あかい",
+                "reading": "あかい",
+                "tr": "kırmızı",
+                "en": "red"
+            },
+            {
+                "word": "おおきい",
+                "reading": "おおきい",
+                "tr": "büyük",
+                "en": "big / large"
+            },
+            {
+                "word": "ちいさい",
+                "reading": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～を　みせてください",
+                "tr": "Lütfen ...yı/yi gösterin",
+                "en": "Please show me..."
+            },
+            {
+                "point": "～の",
+                "tr": "Sıfattan sonra gelerek 'olanı' anlamı katar",
+                "en": "Noun substitute"
+            },
+            {
+                "point": "～ほう",
+                "tr": "... olanı / ... tarafı",
+                "en": "the one"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın mavi defter (1) ve (4) seçeneklerini değil, kırmızı olan (2) ve (3) seçeneklerini görmek istiyor. Kırmızı defterler arasından ise büyük olanı (2) değil, küçük olanı (3) seçiyor.",
+        "en": "The woman rejects the blue notebooks (1) and (4), wanting the red one instead (2 and 3). Among the red ones, she chooses the small one (3) over the large one (2)."
+    }
+}

@@ -1,0 +1,75 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_03m29s_04m14s",
+  "metadata": {
+    "level": "n5",
+    "topic": "のーとを　えらぶ (Choosing a notebook)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Different notebooks on a white background. Panel 1 (top-left, number 1): A large, thick notebook, dark blue cover with a striped pattern. Panel 2 (top-right, number 2): A large, thick notebook, bright red solid cover. Panel 3 (bottom-left, number 3): A small, thin notebook, bright red solid cover. Panel 4 (bottom-right, number 4): A small, thin notebook, dark blue cover with a striped pattern. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel. (Important: Ensure the red notebooks have solid covers and the blue ones have striped covers to distinguish them in monochrome line art).",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "すみません、その　のーとを　みせてください。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あ、この　あおいの　ですか？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "いいえ、あかいの　です。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "こちらの　おおきい　ほうでしょうか？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "いいえ、ちいさい　ほうです。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなのひとは　どの　のーとを　かいますか？" }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "すみません、その　のーとを　みせてください。" },
+      { "speaker": "Male_1", "text": "あ, この　あおいの　ですか？" },
+      { "speaker": "Female_1", "text": "いいえ、あかいの　です。" },
+      { "speaker": "Male_1", "text": "こちらの　おおきい　ほうでしょうか？" },
+      { "speaker": "Female_1", "text": "いいえ、ちいさい　ほうです。" }
+    ],
+    "question": "おんなのひとは　どの　のーとを　かいますか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir kadın ve bir adam konuşuyorlar. Kadın hangi defteri alacak?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Afedersiniz, o defteri gösterir misiniz lütfen?" },
+      { "speaker": "Male_1", "text": "Ah, bu mavi olan mı?" },
+      { "speaker": "Female_1", "text": "Hayır, kırmızı olan." },
+      { "speaker": "Male_1", "text": "Şu büyük olan mı?" },
+      { "speaker": "Female_1", "text": "Hayır, küçük olan." }
+    ],
+    "question": "Kadın hangi defteri alacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "のーと", "reading": "のーと", "tr": "defter", "en": "notebook" },
+      { "word": "みせる", "reading": "みせる", "tr": "göstermek", "en": "to show" },
+      { "word": "あおい", "reading": "あおい", "tr": "mavi", "en": "blue" },
+      { "word": "あかい", "reading": "あかい", "tr": "kırmızı", "en": "red" },
+      { "word": "おおきい", "reading": "おおきい", "tr": "büyük", "en": "big / large" },
+      { "word": "ちいさい", "reading": "ちいさい", "tr": "küçük", "en": "small" }
+    ],
+    "grammar": [
+      { "point": "～を　みせてください", "tr": "Lütfen ...yı/yi gösterin", "en": "Please show me..." },
+      { "point": "～の", "tr": "Sıfattan sonra gelerek 'olanı' anlamı katar", "en": "Noun substitute" },
+      { "point": "～ほう", "tr": "... olanı / ... tarafı", "en": "the one" }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın mavi defter (1) ve (4) seçeneklerini değil, kırmızı olan (2) ve (3) seçeneklerini görmek istiyor. Kırmızı defterler arasından ise büyük olanı (2) değil, küçük olanı (3) seçiyor.",
+    "en": "The woman rejects the blue notebooks (1) and (4), wanting the red one instead (2 and 3). Among the red ones, she chooses the small one (3) over the large one (2)."
+  }
+}

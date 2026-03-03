@@ -29,7 +29,7 @@ except ImportError:
 # This script lives at:  skills/jlpt-n5-listening-variation-creator/scripts/generate_image.py
 # Clip folders live at:  backend/listening/listening-youtube-data/processed/<clip>/
 SCRIPT_DIR = Path(__file__).resolve().parent
-REPO_ROOT = SCRIPT_DIR.parents[2]  # scripts/ → skill/ → skills/ → repo root
+REPO_ROOT = SCRIPT_DIR.parents[3]  # scripts/ → skill/ → skills/ → .agents/ → repo root
 PROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "data" / "selectImage" / "listening-youtube-data" / "processed"
 TOBEPROCESSED_DIR = REPO_ROOT / "backend" / "listening" / "data" / "selectImage" / "listening-youtube-data" / "tobeprocessed"
 

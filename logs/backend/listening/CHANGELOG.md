@@ -1,5 +1,26 @@
 ## 2026-03-03
 
+### clip_03_04m11s_05m03s varyasyonu oluşturuldu
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `backend/listening/data/selectImage/listening-youtube-data/processed/clip_03_04m11s_05m03s/derived-data.json` | YENİ | Eşya alışverişi varyasyonu (Attribute pattern) |
+| `backend/listening/data/selectImage/listening-youtube-data/processed/clip_03_04m11s_05m03s/image.webp` | YENİ | Şemsiye / çanta / matara 4 panelli görsel (700×700, 17 KB) |
+| `backend/listening/data/selectImage/listening-youtube-data/processed/clip_03_04m11s_05m03s/variation-audio.wav` | YENİ | Gemini TTS ses dosyası (34.1s) |
+| `backend/listening/data/selectImage/listening-youtube-data/processed/clip_03_04m11s_05m03s/question.json` | YENİ | Firebase-ready soru JSON'u (upload bekliyor) |
+
+**Yapılanlar:**
+- Kaynak klip: `clip_03_04m11s_05m03s` (öğle yemeği alışverişi)
+- Varyasyon: yemek öğeleri → eşya öğeleri (かさ + すいとう×2); orijinal gramer yapısı korundu
+- Görsel: üst küme paneli sorunu nedeniyle eşya seçimleri yapıldı — her panel benzersiz kombinasyon: (1) çanta+2matara, (2) şemsiye+2matara ✓, (3) şemsiye+çanta, (4) 2şemsiye+1matara
+- Tüm 6 pass tamamlandı
+
+**Bağlam:** "Doğru panel = tüm öğelerin üst kümesi" olduğunda görsel model panelleri özdeş çiziyor. Çözüm: hiçbir panel diğerinin alt kümesi olmayacak şekilde panel kombinasyonları tasarlanmalı.
+
+---
+
 ### README.md güncellendi — WebP ve yeni dosya adları
 
 **Değiştirilen / Eklenen Dosyalar:**

@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "みんなの ものを かう (Buying things for everyone)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "みんなの ものを かってきましょうか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "え、いいですか。ありがとうございます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わたしは かさを かいます。すずきさんも かさですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。じゃ、いってきます。"
+            }
+        ],
+        "question": "おんなのひとは なにを かいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "かさ",
+                "reading": "かさ",
+                "tr": "şemsiye",
+                "en": "umbrella"
+            },
+            {
+                "word": "かばん",
+                "reading": "かばん",
+                "tr": "çanta",
+                "en": "bag"
+            },
+            {
+                "word": "すいとう",
+                "reading": "すいとう",
+                "tr": "matara / su şişesi",
+                "en": "water bottle / flask"
+            },
+            {
+                "word": "ちがいます",
+                "reading": "ちがいます",
+                "tr": "hayır / farklı / değil",
+                "en": "no / that's different / incorrect"
+            },
+            {
+                "word": "みんな",
+                "reading": "みんな",
+                "tr": "herkes",
+                "en": "everyone"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "tr": "...-(a/e)yım mı? (yardım teklifi)",
+                "en": "Shall I...? (offering to help)"
+            },
+            {
+                "point": "～が いいです",
+                "tr": "...-ı/yı tercih ederim / ...-ı/yı istiyorum",
+                "en": "I'd like... / I prefer..."
+            },
+            {
+                "point": "～と おもいます",
+                "tr": "...diye düşünüyorum",
+                "en": "I think that..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kendisi için şemsiye alacak. Suzuki ve Yamamoto ise matara istiyor. Doğru seçenek (2): 1 şemsiye + 2 matara. (1) yanlıştır çünkü şemsiye yerine çanta var. (3) yanlıştır çünkü mataralar eksik. (4) yanlıştır çünkü şemsiye sayısı yanlış (2 şemsiye + 1 matara).",
+        "en": "The woman will buy an umbrella for herself, and 2 water bottles for Suzuki and Yamamoto. The correct answer is (2): 1 umbrella + 2 water bottles. (1) is wrong because it has a bag instead of an umbrella. (3) is wrong because the water bottles are missing. (4) is wrong because the quantities are swapped (2 umbrellas + 1 water bottle)."
+    }
+}

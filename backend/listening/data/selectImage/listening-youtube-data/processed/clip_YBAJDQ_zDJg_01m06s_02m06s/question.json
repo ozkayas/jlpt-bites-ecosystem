@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "きっさてんで　たべものを　えらぶ (Choosing snacks at a cafe)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　きっさてんで　はなしています。おんなのひとは　なにを　たべますか？",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "おなかが　すきましたね。ぼくは　さんどいっちに　します。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "さんどいっちですか。いいですね。でも、わたしは　あさ　たべましたから、ほかの　ものに　します。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "じゃあ、あいすくりーむは　どうですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "うーん。きょうは　すこし　さむいですから、つめたい　ものは　ちょっと･･･。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですか。じゃあ、けーきは？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、いいですね。それに　します。"
+            }
+        ],
+        "question": "おんなのひとは　なにを　たべますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おなかがすく",
+                "reading": "おなかがすく",
+                "tr": "karnı acıkmak",
+                "en": "to become hungry"
+            },
+            {
+                "word": "さんどいっち",
+                "reading": "さんどいっち",
+                "tr": "sandviç",
+                "en": "sandwich"
+            },
+            {
+                "word": "あさ",
+                "reading": "あさ",
+                "tr": "sabah",
+                "en": "morning"
+            },
+            {
+                "word": "ほかの",
+                "reading": "ほかの",
+                "tr": "diğer / başka",
+                "en": "other"
+            },
+            {
+                "word": "さむい",
+                "reading": "さむい",
+                "tr": "soğuk (hava)",
+                "en": "cold (weather)"
+            },
+            {
+                "word": "つめたい",
+                "reading": "つめたい",
+                "tr": "soğuk (nesne/yiyecek)",
+                "en": "cold (to touch/food)"
+            },
+            {
+                "word": "けーき",
+                "reading": "けーき",
+                "tr": "kek / pasta",
+                "en": "cake"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にする",
+                "tr": "bir şeye karar vermek / seçmek",
+                "en": "to decide on / to choose"
+            },
+            {
+                "point": "～から",
+                "tr": "çünkü / -den dolayı",
+                "en": "because / since"
+            },
+            {
+                "point": "～はどうですか",
+                "tr": "... nasıl? / ... ne dersiniz?",
+                "en": "how about...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın, sabah sandviç yediği için (1) numaralı seçeneği reddeder. Hava soğuk olduğu için dondurma olan (2) numaralı seçeneği de istemez. Sonunda kek (3) seçeneğinde karar kılar. (4) numaralı elma ise diyalogda seçilmeyen bir alternatiftir.",
+        "en": "The woman rejects (1) because she already ate a sandwich this morning. She also rejects (2) because she doesn't want cold ice cream as it is cold today. Finally, she decides on the cake (3). The apple (4) is an alternative mentioned but not chosen."
+    }
+}

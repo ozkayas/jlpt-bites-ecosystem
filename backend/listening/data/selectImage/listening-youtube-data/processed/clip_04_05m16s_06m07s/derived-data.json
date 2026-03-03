@@ -1,0 +1,145 @@
+{
+  "source_clip": "clip_04_05m16s_06m07s",
+  "metadata": {
+    "level": "n5",
+    "topic": "パーティーの　じかん (Time of the party)",
+    "pattern_used": "Location"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Each panel contains a digital clock time displayed on a simple white rectangular label against a white background. Panel 1 (top-left, number 1): A label reading \"17:20\". Panel 2 (top-right, number 2): A label reading \"17:40\". Panel 3 (bottom-left, number 3): A label reading \"18:00\". Panel 4 (bottom-right, number 4): A label reading \"18:20\". Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and the digital times on the labels.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 1,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "あしたの　ぱーてぃーは　ろくじからです。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "わかりました。では、そのじかんに　いきます。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとは　なんじに　いきますか？"
+    }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "あしたの　ぱーてぃーは　ろくじからです。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "わかりました。では、そのじかんに　いきます。"
+      }
+    ],
+    "question": "おんなのひとは　なんじに　いきますか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir adam ve bir kadın konuşuyorlar. Kadın saat kaçta gidecek?",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "Yarınki parti saat altıdadır."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Biraz hazırlık yapacağımız için lütfen yirmi dakika önce gelin."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Anladım. O zaman o saatte geleceğim."
+      }
+    ],
+    "question": "Kadın saat kaçta gidecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ぱーてぃー",
+        "reading": "ぱーてぃー",
+        "tr": "parti",
+        "en": "party"
+      },
+      {
+        "word": "ろくじ",
+        "reading": "ろくじ",
+        "tr": "saat altı",
+        "en": "six o'clock"
+      },
+      {
+        "word": "じゅんび",
+        "reading": "じゅんび",
+        "tr": "hazırlık",
+        "en": "preparation"
+      },
+      {
+        "word": "にじゅっぷんまえ",
+        "reading": "にじゅっぷんまえ",
+        "tr": "yirmi dakika önce",
+        "en": "twenty minutes before"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～から",
+        "tr": "-den itibaren",
+        "en": "from"
+      },
+      {
+        "point": "～てください",
+        "tr": "lütfen ... yapın",
+        "en": "please do ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Parti saat 18:00'de (ろくじ) başlıyor. Adam, hazırlık (じゅんび) için kadından 20 dakika önce (にじゅっぷんまえ) gelmesini istiyor. 18:00'den 20 dakika çıkarıldığında sonuç 17:40 olur. 17:20 (Hatalı çıkarma), 18:00 (Başlangıç saati) ve 18:20 (Hatalı toplama) yanıltıcı seçeneklerdir.",
+    "en": "The party starts at 18:00 (6-ji). The man asks the woman to come 20 minutes before (nijuppun-mae) for preparation (junbi). Subtracting 20 minutes from 18:00 results in 17:40. Distractors include 17:20 (incorrect subtraction), 18:00 (start time), and 18:20 (incorrect addition)."
+  }
+}

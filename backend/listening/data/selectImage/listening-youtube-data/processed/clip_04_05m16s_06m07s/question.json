@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "パーティーの　じかん (Time of the party)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "あしたの　ぱーてぃーは　ろくじからです。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。では、そのじかんに　いきます。"
+            }
+        ],
+        "question": "おんなのひとは　なんじに　いきますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぱーてぃー",
+                "reading": "ぱーてぃー",
+                "tr": "parti",
+                "en": "party"
+            },
+            {
+                "word": "ろくじ",
+                "reading": "ろくじ",
+                "tr": "saat altı",
+                "en": "six o'clock"
+            },
+            {
+                "word": "じゅんび",
+                "reading": "じゅんび",
+                "tr": "hazırlık",
+                "en": "preparation"
+            },
+            {
+                "word": "にじゅっぷんまえ",
+                "reading": "にじゅっぷんまえ",
+                "tr": "yirmi dakika önce",
+                "en": "twenty minutes before"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から",
+                "tr": "-den itibaren",
+                "en": "from"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Parti saat 18:00'de (ろくじ) başlıyor. Adam, hazırlık (じゅんび) için kadından 20 dakika önce (にじゅっぷんまえ) gelmesini istiyor. 18:00'den 20 dakika çıkarıldığında sonuç 17:40 olur. 17:20 (Hatalı çıkarma), 18:00 (Başlangıç saati) ve 18:20 (Hatalı toplama) yanıltıcı seçeneklerdir.",
+        "en": "The party starts at 18:00 (6-ji). The man asks the woman to come 20 minutes before (nijuppun-mae) for preparation (junbi). Subtracting 20 minutes from 18:00 results in 17:40. Distractors include 17:20 (incorrect subtraction), 18:00 (start time), and 18:20 (incorrect addition)."
+    }
+}

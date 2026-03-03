@@ -1,0 +1,80 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01m06s_02m06s",
+  "metadata": {
+    "level": "n5",
+    "topic": "きっさてんで　たべものを　えらぶ (Choosing snacks at a cafe)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Simple cafe setting with items on a table surface, white background. Panel 1 (top-left, number 1): A triangle-cut sandwich with bread and visible filling on a small plate. Panel 2 (top-right, number 2): A scoop of ice cream in a small bowl with a small spoon. Panel 3 (bottom-left, number 3): A slice of cake with a fork on a small plate. Panel 4 (bottom-right, number 4): A whole apple on a small plate. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おんなのひとと　おとこのひとが　きっさてんで　はなしています。おんなのひとは　なにを　たべますか？" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "おなかが　すきましたね。ぼくは　さんどいっちに　します。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "さんどいっちですか。いいですね。でも、わたしは　あさ　たべましたから、ほかの　ものに　します。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "じゃあ、あいすくりーむは　どうですか？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "うーん。きょうは　すこし　さむいですから、つめたい　ものは　ちょっと･･･。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "そうですか。じゃあ、けーきは？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "あ、いいですね。それに　します。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなのひとは　なにを　たべますか？" }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　きっさてんで　はなしています。おんなのひとは　なにを　たべますか？",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "おなかが　すきましたね。ぼくは　さんどいっちに　します。" },
+      { "speaker": "Female_1", "text": "さんどいっちですか。いいですね。でも、わたしは　あさ　たべましたから、ほかの　ものに　します。" },
+      { "speaker": "Male_1", "text": "じゃあ、あいすくりーむは　どうですか？" },
+      { "speaker": "Female_1", "text": "うーん。きょうは　すこし　さむいですから、つめたい　ものは　ちょっと･･･。" },
+      { "speaker": "Male_1", "text": "そうですか。じゃあ、けーきは？" },
+      { "speaker": "Female_1", "text": "あ、いいですね。それに　します。" }
+    ],
+    "question": "おんなのひとは　なにを　たべますか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir kadın ve bir adam kafede konuşuyorlar. Kadın ne yiyecek?",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Karnım acıktı. Ben sandviç alacağım." },
+      { "speaker": "Female_1", "text": "Sandviç mi? Güzel. Ama ben sabah yediğim için başka bir şey alacağım." },
+      { "speaker": "Male_1", "text": "Öyleyse dondurmaya ne dersin?" },
+      { "speaker": "Female_1", "text": "Hımm. Bugün hava biraz soğuk, o yüzden soğuk şeyler pek..." },
+      { "speaker": "Male_1", "text": "Anladım. Peki ya kek?" },
+      { "speaker": "Female_1", "text": "Ah, güzel olur. Onu alacağım." }
+    ],
+    "question": "Kadın ne yiyecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "おなかがすく", "reading": "おなかがすく", "tr": "karnı acıkmak", "en": "to become hungry" },
+      { "word": "さんどいっち", "reading": "さんどいっち", "tr": "sandviç", "en": "sandwich" },
+      { "word": "あさ", "reading": "あさ", "tr": "sabah", "en": "morning" },
+      { "word": "ほかの", "reading": "ほかの", "tr": "diğer / başka", "en": "other" },
+      { "word": "さむい", "reading": "さむい", "tr": "soğuk (hava)", "en": "cold (weather)" },
+      { "word": "つめたい", "reading": "つめたい", "tr": "soğuk (nesne/yiyecek)", "en": "cold (to touch/food)" },
+      { "word": "けーき", "reading": "けーき", "tr": "kek / pasta", "en": "cake" }
+    ],
+    "grammar": [
+      { "point": "～にする", "tr": "bir şeye karar vermek / seçmek", "en": "to decide on / to choose" },
+      { "point": "～から", "tr": "çünkü / -den dolayı", "en": "because / since" },
+      { "point": "～はどうですか", "tr": "... nasıl? / ... ne dersiniz?", "en": "how about...?" }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın, sabah sandviç yediği için (1) numaralı seçeneği reddeder. Hava soğuk olduğu için dondurma olan (2) numaralı seçeneği de istemez. Sonunda kek (3) seçeneğinde karar kılar. (4) numaralı elma ise diyalogda seçilmeyen bir alternatiftir.",
+    "en": "The woman rejects (1) because she already ate a sandwich this morning. She also rejects (2) because she doesn't want cold ice cream as it is cold today. Finally, she decides on the cake (3). The apple (4) is an alternative mentioned but not chosen."
+  }
+}

@@ -91,7 +91,11 @@ python3 skills/jlpt-n5-listening-variation-tester/scripts/build_question_json.py
    - Sets `audio_url: null` and `image_url: null` (to be filled when uploading to Firebase Storage).
    - Output file is always named `question.json` in the same clip folder.
 11. Run **Pass 6 — Move Folder:**
-   - If all previous passes are successful, move the entire clip folder from `tobeprocessed/` to `processed/`.
+   - If all previous passes are successful, remove the `processing.lock/` directory (if it exists) and move the entire clip folder from `tobeprocessed/` to `processed/`.
+   ```bash
+   rm -rf "<clip_folder>/processing.lock"
+   mv "<clip_folder>" "backend/listening/data/selectImage/listening-youtube-data/processed/"
+   ```
 12. Report final results — all six passes.
 
 ---

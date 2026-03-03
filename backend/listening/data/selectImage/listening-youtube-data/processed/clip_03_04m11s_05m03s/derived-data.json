@@ -1,0 +1,74 @@
+{
+    "source_clip": "clip_03_04m11s_05m03s",
+    "metadata": {
+        "level": "n5",
+        "topic": "みんなの ものを かう (Buying things for everyone)",
+        "pattern_used": "Attribute"
+    },
+    "visual_prompts": {
+        "image_type": "four_panel_grid",
+        "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels.\nThree types of objects appear across the panels: a FOLDED UMBRELLA (tall slender shape with a curved hook handle at the top), a SHOULDER BAG (wide trapezoid shape with a shoulder strap and a clasp), a WATER BOTTLE (tall cylindrical flask with a cap).\nPanel 1 (top-left, number 1): One shoulder bag on the left and two water bottles standing side by side on the right. No umbrella anywhere in this panel.\nPanel 2 (top-right, number 2): One folded umbrella on the left and two water bottles standing side by side on the right. No bag anywhere in this panel.\nPanel 3 (bottom-left, number 3): One folded umbrella on the left and one shoulder bag on the right. No water bottles anywhere in this panel.\nPanel 4 (bottom-right, number 4): Two folded umbrellas side by side on the left and one water bottle on the right. Two umbrellas, not one.\nMinimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+        "panel_map": [
+            { "panel": 1, "logic_role": "Distractor_A" },
+            { "panel": 2, "logic_role": "Correct" },
+            { "panel": 3, "logic_role": "Distractor_B" },
+            { "panel": 4, "logic_role": "Distractor_C" }
+        ]
+    },
+    "correct_option": 1,
+    "tts_script": [
+        { "voice": "Intro_Voice", "text": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。" },
+        { "break": "1s" },
+        { "voice": "Female_1", "text": "みんなの ものを かってきましょうか。" },
+        { "break": "0.5s" },
+        { "voice": "Male_1", "text": "え、いいですか。ありがとうございます。" },
+        { "break": "0.5s" },
+        { "voice": "Female_1", "text": "わたしは かさを かいます。すずきさんも かさですか。" },
+        { "break": "0.5s" },
+        { "voice": "Male_1", "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。" },
+        { "break": "0.5s" },
+        { "voice": "Female_1", "text": "わかりました。じゃ、いってきます。" },
+        { "break": "1s" },
+        { "voice": "Intro_Voice", "text": "おんなのひとは なにを かいますか。" }
+    ],
+    "transcription": {
+        "intro": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。",
+        "dialogue": [
+            { "speaker": "Female_1", "text": "みんなの ものを かってきましょうか。" },
+            { "speaker": "Male_1", "text": "え、いいですか。ありがとうございます。" },
+            { "speaker": "Female_1", "text": "わたしは かさを かいます。すずきさんも かさですか。" },
+            { "speaker": "Male_1", "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。" },
+            { "speaker": "Female_1", "text": "わかりました。じゃ、いってきます。" }
+        ],
+        "question": "おんなのひとは なにを かいますか。"
+    },
+    "transcription_tr": {
+        "intro": "Bir mağazada bir kadın ve bir erkek konuşuyor. Kadın ne satın alacak?",
+        "dialogue": [
+            { "speaker": "Female_1", "text": "Herkesin eşyasını alayım mı?" },
+            { "speaker": "Male_1", "text": "Gerçekten mi? Ne kadar iyi. Teşekkür ederim." },
+            { "speaker": "Female_1", "text": "Ben şemsiye alacağım. Suzuki san da şemsiye ister misiniz?" },
+            { "speaker": "Male_1", "text": "Hayır. Suzuki san ve Yamamoto san matara ister diye düşünüyorum." },
+            { "speaker": "Female_1", "text": "Anladım. O hâlde gidiyorum." }
+        ],
+        "question": "Kadın ne satın alacak?"
+    },
+    "analysis": {
+        "vocabulary": [
+            { "word": "かさ", "reading": "かさ", "tr": "şemsiye", "en": "umbrella" },
+            { "word": "かばん", "reading": "かばん", "tr": "çanta", "en": "bag" },
+            { "word": "すいとう", "reading": "すいとう", "tr": "matara / su şişesi", "en": "water bottle / flask" },
+            { "word": "ちがいます", "reading": "ちがいます", "tr": "hayır / farklı / değil", "en": "no / that's different / incorrect" },
+            { "word": "みんな", "reading": "みんな", "tr": "herkes", "en": "everyone" }
+        ],
+        "grammar": [
+            { "point": "～ましょうか", "tr": "...-(a/e)yım mı? (yardım teklifi)", "en": "Shall I...? (offering to help)" },
+            { "point": "～が いいです", "tr": "...-ı/yı tercih ederim / ...-ı/yı istiyorum", "en": "I'd like... / I prefer..." },
+            { "point": "～と おもいます", "tr": "...diye düşünüyorum", "en": "I think that..." }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kendisi için şemsiye alacak. Suzuki ve Yamamoto ise matara istiyor. Doğru seçenek (2): 1 şemsiye + 2 matara. (1) yanlıştır çünkü şemsiye yerine çanta var. (3) yanlıştır çünkü mataralar eksik. (4) yanlıştır çünkü şemsiye sayısı yanlış (2 şemsiye + 1 matara).",
+        "en": "The woman will buy an umbrella for herself, and 2 water bottles for Suzuki and Yamamoto. The correct answer is (2): 1 umbrella + 2 water bottles. (1) is wrong because it has a bag instead of an umbrella. (3) is wrong because the water bottles are missing. (4) is wrong because the quantities are swapped (2 umbrellas + 1 water bottle)."
+    }
+}

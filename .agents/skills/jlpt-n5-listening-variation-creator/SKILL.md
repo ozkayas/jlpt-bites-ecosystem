@@ -14,9 +14,10 @@ You are an expert JLPT N5 content engineer. Your goal is to create original vari
 3. **Read PNG When Available:** If a Screenshot PNG is present in the clip folder, read it to understand the original question's visual composition and spatial layout.
 4. **No Audio Analysis:** Do NOT attempt to read or analyze `audio.mp3`.
 5. **Output to derived-data.json:** Save the variation as `derived-data.json` inside the clip folder before moving it.
-6. **Move on Completion:** After saving `derived-data.json`, move the entire clip folder from `tobeprocessed/` to `processed/`.
-7. **Self-Validate Before Moving:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors before moving the folder. The folder should only be moved when both JSON and image pass validation.
+6. **Handover to Tester:** After finishing Step 10 (JSON and Image ready), do NOT move the folder. Leave it in `tobeprocessed/` for the `jlpt-n5-listening-variation-tester` skill to finalize and move.
+7. **Self-Validate:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors.
 8. **Clean Logic Formatting:** When referencing panels in `logic.tr` or `logic.en`, use ONLY the panel number in parentheses, e.g., `(3)`. NEVER use the word "Panel" or labels like "Distractor_A".
+9. **Concurrency Control (Locking):** To allow multiple agents to work in parallel, you MUST use an atomic locking mechanism. Never process a folder that already contains a `processing.lock/` directory or a `derived-data.json` file. Create the lock immediately upon selecting a folder.
 
 ---
 
@@ -29,37 +30,38 @@ backend/listening/data/selectImage/listening-youtube-data/tobeprocessed/
     data.json          ← PRIMARY INPUT: dialogue, logic, analysis
     Screenshot *.png   ← READ if present: understand visual composition
     .done_slice        ← IGNORE
+    processing.lock/   ← LOCK: If present, another agent is working here
 ```
-
-**data.json contains:**
-- `metadata`: level, topic
-- `transcription`: intro, dialogue[], question
-- `analysis`: vocabulary[], grammar[]
-- `logic`: tr, en (explains correct answer and traps)
-- `options`: [null, null, null, null] — ignore
-- `correct_option`: null — ignore
 
 ---
 
 ## Output Structure
 
 ```
-backend/listening/data/selectImage/listening-youtube-data/processed/
-  clip_XX_XXmXXs_XXmXXs/    ← moved from tobeprocessed/
-    audio.mp3                ← original, untouched
-    data.json                ← original, untouched
-    Screenshot *.png         ← original, untouched
+backend/listening/data/selectImage/listening-youtube-data/tobeprocessed/
+  clip_XX_XXmXXs_XXmXXs/
+    ...
     derived-data.json        ← NEW: your output
+    image.png                ← NEW: your output
+    processing.lock/         ← REMOVE only if you abort; keep if finished
 ```
 
 ---
 
 ## Workflow
 
-### Step 1 — INGEST
+### Step 1 — INGEST & LOCK
 
-- If the user provides a clip folder name, use that. Otherwise, process the first folder found in `tobeprocessed/`.
-- Read `data.json` to understand: dialogue, logic pattern, key entities.
+- If the user provides a clip folder name, verify it doesn't have `processing.lock/` or `derived-data.json`.
+- If no folder is provided, list `tobeprocessed/` and select the first folder that:
+  - Does NOT contain `processing.lock/` (directory).
+  - Does NOT contain `derived-data.json`.
+- **CRITICAL (Atomic Lock):** Immediately attempt to create a directory named `processing.lock` inside the folder:
+  ```bash
+  mkdir "backend/listening/data/selectImage/listening-youtube-data/tobeprocessed/<clip_folder>/processing.lock"
+  ```
+- If the `mkdir` command fails, it means another agent beat you to it. Start Step 1 again and pick the next available folder.
+- Once the lock is acquired, read `data.json` to understand: dialogue, logic pattern, key entities.
 - If a Screenshot PNG is present, read it to understand the original visual scene composition.
 
 ### Step 2 — ANALYZE
