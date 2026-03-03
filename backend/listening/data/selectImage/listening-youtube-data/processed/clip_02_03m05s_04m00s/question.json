@@ -3,8 +3,8 @@
         "level": "N5",
         "topic": "がっこうで みんなの ひるごはんを かってくる (Buying lunch for everyone at school)"
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/003/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/003/image.png",
     "correct_option": 1,
     "transcription": {
         "intro": "がっこうで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かってきますか。",

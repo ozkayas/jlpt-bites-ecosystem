@@ -35,6 +35,30 @@ Every prompt must follow this 5-part order:
 
 ---
 
+## Visual Identification of Items (Icons & Labels)
+
+When objects might be ambiguous in monochrome line art (e.g., a coffee can looking like a food can, or a water bottle looking like juice), **use icons and short text labels** to make them immediately recognizable to anyone regardless of language background.
+
+### Rules
+
+- **Specify the physical form explicitly** — don't just write "coffee"; write "disposable paper hot coffee cup with a corrugated cardboard sleeve and a plastic dome lid". The form itself conveys meaning.
+- **Add a simple icon on labels** — describe it in the prompt: `a small coffee bean icon printed on the cup`, `a water droplet icon on the label`, `a bread slice icon on the package`.
+- **Short single-word text labels are allowed on items** — e.g., a cup with a small "COFFEE" label, a bottle with "WATER". Write it as: `a label reading "COFFEE"`.
+- **Update the style suffix** when using icons/labels — change from "no text other than the small panel numbers" to: `no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and simple identifying icons or short labels directly on the depicted items`.
+
+### Common Examples
+
+| Item | Ambiguous form | Clear form |
+|------|---------------|------------|
+| Hot coffee | Short squat cylindrical can | Tall disposable paper cup with corrugated sleeve, dome lid, coffee bean icon |
+| Water | Generic PET bottle | Clear PET bottle with a water droplet icon on the label |
+| Juice | Generic bottle | Bottle with a fruit slice icon on the label |
+| Sandwich | Flat package | Flat package with a sandwich icon showing bread and filling |
+| Tea | Generic bottle or can | Tall bottle with a tea leaf icon on the label |
+| Milk | Generic bottle | White carton with a cow icon or label reading "MILK" |
+
+---
+
 ## Special Case: Calculation Questions
 
 When the question asks the user to **calculate a numerical result** (e.g., "ぜんぶで いくら はらいますか", "なんにん きますか"), the visual logic is fundamentally different from object-based questions.

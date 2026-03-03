@@ -119,10 +119,13 @@ def process_youtube_variations(db, bucket, processed_dir):
         next_id = get_next_firestore_id(db)
         print(f"   🆔 Assigned document ID: {next_id}")
 
-        # Convert variation.wav → /tmp/{clip_name}.mp3
+        # Convert variation audio → /tmp/{clip_name}.mp3
+        # Accept both 'variation.wav' (old) and 'variation-audio.wav' (new tester output)
         wav_path = clip_dir / 'variation.wav'
         if not wav_path.exists():
-            print("   ❌ variation.wav missing — skipping")
+            wav_path = clip_dir / 'variation-audio.wav'
+        if not wav_path.exists():
+            print("   ❌ variation.wav / variation-audio.wav missing — skipping")
             continue
 
         mp3_path = Path(tempfile.gettempdir()) / f"{clip_name}.mp3"
@@ -141,19 +144,30 @@ def process_youtube_variations(db, bucket, processed_dir):
         # Delete temp mp3
         mp3_path.unlink(missing_ok=True)
 
-        # Upload image (compressed)
-        image_path = clip_dir / 'image.png'
+        # Upload image — prefer image.webp (optimized by tester skill), fall back to image.png
+        image_path = clip_dir / 'image.webp'
+        remote_image_name = 'image.webp'
         if not image_path.exists():
-            print("   ❌ image.png missing — Firestore save skipped")
+            image_path = clip_dir / 'image.png'
+            remote_image_name = 'image.png'
+        if not image_path.exists():
+            print("   ❌ image.webp / image.png missing — Firestore save skipped")
             continue
 
-        compressed_path = compress_image(image_path)
-        try:
-            remote_image = f"n5_listening/selectImage/{next_id}/image.png"
-            image_url = upload_file(bucket, compressed_path, remote_image)
-            print("   ✅ Image uploaded")
-        finally:
-            compressed_path.unlink(missing_ok=True)
+        if image_path.suffix == '.png':
+            # Legacy PNG: compress before uploading
+            compressed_path = compress_image(image_path)
+            try:
+                remote_image = f"n5_listening/selectImage/{next_id}/{remote_image_name}"
+                image_url = upload_file(bucket, compressed_path, remote_image)
+                print("   ✅ Image uploaded (PNG, legacy)")
+            finally:
+                compressed_path.unlink(missing_ok=True)
+        else:
+            # WebP: already optimized by tester skill, upload directly
+            remote_image = f"n5_listening/selectImage/{next_id}/{remote_image_name}"
+            image_url = upload_file(bucket, image_path, remote_image)
+            print(f"   ✅ Image uploaded (WebP, {image_path.stat().st_size // 1024} KB)")
 
         # Update question.json with URLs
         data['audio_url'] = audio_url

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ピクニックのじゅんび (Picnic preparation)"
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/004/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/004/image.png",
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは なにを もっていきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "らいしゅうは ピクニックですね。わたしは サンドイッチを もっていきます。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "じゃあ、わたしは のみものを もっていきます。なにが いいですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "そうですね。コーヒーと みずを にほんずつ おねがいします。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。にほんずつですね。"
+            }
+        ],
+        "question": "おとこのひとは なにを もっていきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ピクニック",
+                "reading": "ぴくにっく",
+                "tr": "piknik",
+                "en": "picnic"
+            },
+            {
+                "word": "サンドイッチ",
+                "reading": "さんどいっち",
+                "tr": "sandviç",
+                "en": "sandwich"
+            },
+            {
+                "word": "のみもの",
+                "reading": "のみもの",
+                "tr": "içecek",
+                "en": "drink"
+            },
+            {
+                "word": "もっていく",
+                "reading": "もっていく",
+                "tr": "götürmek",
+                "en": "to take / to bring"
+            },
+            {
+                "word": "コーヒー",
+                "reading": "こーひー",
+                "tr": "kahve",
+                "en": "coffee"
+            },
+            {
+                "word": "みず",
+                "reading": "みず",
+                "tr": "su",
+                "en": "water"
+            },
+            {
+                "word": "にほんずつ",
+                "reading": "にほんずつ",
+                "tr": "ikişer tane (silindirik nesneler için)",
+                "en": "two each (counter for cylindrical objects)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ね",
+                "tr": "onaylama / teyit eki",
+                "en": "confirmation particle"
+            },
+            {
+                "point": "～ずつ",
+                "tr": "her birinden / -şar, -şer",
+                "en": "each / at a time"
+            },
+            {
+                "point": "～おねがいします",
+                "tr": "lütfen / rica ederim",
+                "en": "please (requesting something)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın sandviç getireceğini söylediği için adamın görevi içecek getirmektir. Kadın, kahve ve su ikişer tane (にほんずつ) istediği için adam iki tür içecekten ikişer tane getirecektir. Doğru cevap (3): iki kahve kutusu ve iki su şişesi. (1) yanlış çünkü sandviç içeriyor; sandviç kadının getireceği şeydir. (2) yanlış çünkü üç kahve ve bir su var, doğru oran değil. (4) yanlış çünkü bir kahve ve üç su var, doğru oran değil.",
+        "en": "Since the woman says she will bring sandwiches, the man's job is to bring drinks. The woman requests two coffees and two waters (にほんずつ), so the man will bring two of each type. The correct answer is (3): two coffee cans and two water bottles. (1) is wrong because it includes a sandwich, which the woman is bringing. (2) is wrong because it has three coffees and one water, not the correct ratio. (4) is wrong because it has one coffee and three waters, not the correct ratio."
+    }
+}

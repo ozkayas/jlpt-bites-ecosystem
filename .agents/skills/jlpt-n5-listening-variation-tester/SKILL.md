@@ -1,11 +1,11 @@
 ---
 name: jlpt-n5-listening-variation-tester
-description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then verify the generated image.png, generate TTS audio, and build the final question.json for Firebase. Use this skill when the user asks to test, validate, check, or verify a listening variation. Performs five passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) visual image check by Claude reading image.png, (4) Gemini TTS audio generation, (5) build final question.json. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
+description: "Validate derived-data.json files produced by jlpt-n5-listening-variation-creator, then verify the generated image.png, convert it to WebP for mobile, generate TTS audio, and build the final question.json for Firebase. Use this skill when the user asks to test, validate, check, or verify a listening variation. Performs six passes: (1) mechanical schema validation via script, (2) semantic/linguistic review by Claude, (3) visual image check by Claude reading image.png, (3.5) image optimization to WebP, (4) Gemini TTS audio generation, (5) build final question.json. Trigger on requests like 'variation test et', 'validate derived-data', 'listening varyasyonu doğrula', 'check derived-data.json', or after generating a variation with the creator skill."
 ---
 
 # JLPT N5 Listening Variation Tester
 
-Validate a `derived-data.json` file using a five-pass approach: mechanical schema check, semantic/linguistic review, visual image check, Gemini TTS audio generation, then final question.json build.
+Validate a `derived-data.json` file using a six-pass approach: mechanical schema check, semantic/linguistic review, visual image check, WebP image optimization, Gemini TTS audio generation, then final question.json build.
 
 ## Workflow
 
@@ -41,7 +41,31 @@ EOF
    - Verify the correct panel (identified by `panel_map` + `correct_option`) visually depicts the answer the dialogue leads to.
    - Verify each distractor panel visually depicts a plausible but wrong alternative.
    - Verify overall style: monochrome line art, no shading, white background.
-8. If Pass 3 finds failures, report them and stop — do not proceed to Pass 4.
+8. If Pass 3 finds failures, report them and stop — do not proceed to Pass 3.5.
+8.5. Run **Pass 3.5 — Image Optimization** (convert image.png → image.webp for mobile):
+
+```bash
+python3 -c "
+from PIL import Image
+import os
+
+src = '<clip_folder>/image.png'
+dst = '<clip_folder>/image.webp'
+img = Image.open(src)
+original_size = img.size
+if max(img.size) > 700:
+    img.thumbnail((700, 700), Image.LANCZOS)
+img.save(dst, 'WEBP', quality=85, method=6)
+os.remove(src)
+size_kb = os.path.getsize(dst) // 1024
+print(f'✓ {original_size} → {img.size} | WebP {size_kb} KB')
+"
+```
+
+   - Use the same Python environment used for other skill scripts (e.g. agents venv).
+   - Target: max 700×700 px, WebP quality 85.
+   - Deletes `image.png` after successful conversion — `image.webp` is the final file going forward.
+   - If conversion fails, report the error and stop — do not proceed to Pass 4.
 9. Run **Pass 4 — Audio Generation** (only if a real file path was provided):
 
 ```bash
@@ -174,6 +198,11 @@ Pass 3 — Image Validation
   ✓ Distractor_C (Panel 4): shows cold noodles — plausible wrong choice
   ✓ Style: monochrome line art, white background confirmed
   PASS — Image valid
+
+Pass 3.5 — Image Optimization
+  ✓ Converted: 1024×1024 → 700×700 | WebP 48 KB (was 412 KB PNG)
+  ✓ image.png deleted, image.webp saved
+  PASS — Image optimized
 
 Pass 4 — Audio Generation
   Running: python3 backend/listening/scripts/generate_tts_audio.py <path/to/derived-data.json> --output <clip_folder>/variation-audio.wav

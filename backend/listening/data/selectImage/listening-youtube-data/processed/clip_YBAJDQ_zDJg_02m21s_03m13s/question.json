@@ -3,8 +3,8 @@
         "level": "N5",
         "topic": "くだものやで りんごと バナナを かう (Buying apples and a banana at a fruit store)"
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/image.png",
     "correct_option": 3,
     "transcription": {
         "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",

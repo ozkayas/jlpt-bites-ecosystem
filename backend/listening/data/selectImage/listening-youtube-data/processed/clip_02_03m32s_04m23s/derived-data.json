@@ -1,0 +1,72 @@
+{
+  "source_clip": "clip_02_03m32s_04m23s",
+  "metadata": {
+    "level": "n5",
+    "topic": "ピクニックのじゅんび (Picnic preparation)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Each panel shows drink items arranged on a plain white background. All coffee items are tall disposable paper hot coffee takeaway cups with a corrugated cardboard sleeve, a plastic dome lid, and a small coffee bean icon on the side — instantly recognizable as hot coffee cups. All water items are clear PET water bottles with a simple water droplet icon on the label and a label reading 'WATER' — instantly recognizable as water bottles. Panel 1 (top-left, number 1): Two coffee cups side by side on the left, plus a flat rectangular sandwich package with a sandwich icon on the right — three items total. Panel 2 (top-right, number 2): Two coffee cups side by side on the left, then exactly one water bottle on the right — three items total, one bottle only. Panel 3 (bottom-left, number 3): Two coffee cups side by side on the left, then exactly two water bottles side by side on the right — four items total, two cups and two bottles. Panel 4 (bottom-right, number 4): Exactly one coffee cup on the left, then two water bottles side by side on the right — three items total, one cup and two bottles. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and simple identifying icons or short labels directly on the depicted items.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おとこのひとと おんなのひとが はなしています。おとこのひとは なにを もっていきますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "らいしゅうは ピクニックですね。わたしは サンドイッチを もっていきます。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "じゃあ、わたしは のみものを もっていきます。なにが いいですか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "そうですね。コーヒーと みずを にほんずつ おねがいします。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "わかりました。にほんずつですね。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おとこのひとは なにを もっていきますか。" }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは なにを もっていきますか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "らいしゅうは ピクニックですね。わたしは サンドイッチを もっていきます。" },
+      { "speaker": "Male_1", "text": "じゃあ、わたしは のみものを もっていきます。なにが いいですか。" },
+      { "speaker": "Female_1", "text": "そうですね。コーヒーと みずを にほんずつ おねがいします。" },
+      { "speaker": "Male_1", "text": "わかりました。にほんずつですね。" }
+    ],
+    "question": "おとこのひとは なにを もっていきますか。"
+  },
+  "transcription_tr": {
+    "intro": "Bir erkek ve bir kadın konuşuyor. Adam ne götürecek?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Gelecek hafta piknik var, değil mi? Ben sandviç götüreceğim." },
+      { "speaker": "Male_1", "text": "O zaman ben içecek götüreceğim. Ne olsa iyi olur?" },
+      { "speaker": "Female_1", "text": "Bir düşünelim... Kahve ve su ikişer tane olursa iyi olur." },
+      { "speaker": "Male_1", "text": "Anladım. İkişer tane değil mi." }
+    ],
+    "question": "Adam ne götürecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "ピクニック", "reading": "ぴくにっく", "tr": "piknik", "en": "picnic" },
+      { "word": "サンドイッチ", "reading": "さんどいっち", "tr": "sandviç", "en": "sandwich" },
+      { "word": "のみもの", "reading": "のみもの", "tr": "içecek", "en": "drink" },
+      { "word": "もっていく", "reading": "もっていく", "tr": "götürmek", "en": "to take / to bring" },
+      { "word": "コーヒー", "reading": "こーひー", "tr": "kahve", "en": "coffee" },
+      { "word": "みず", "reading": "みず", "tr": "su", "en": "water" },
+      { "word": "にほんずつ", "reading": "にほんずつ", "tr": "ikişer tane (silindirik nesneler için)", "en": "two each (counter for cylindrical objects)" }
+    ],
+    "grammar": [
+      { "point": "～ね", "tr": "onaylama / teyit eki", "en": "confirmation particle" },
+      { "point": "～ずつ", "tr": "her birinden / -şar, -şer", "en": "each / at a time" },
+      { "point": "～おねがいします", "tr": "lütfen / rica ederim", "en": "please (requesting something)" }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın sandviç getireceğini söylediği için adamın görevi içecek getirmektir. Kadın, kahve ve su ikişer tane (にほんずつ) istediği için adam iki tür içecekten ikişer tane getirecektir. Doğru cevap (3): iki kahve kutusu ve iki su şişesi. (1) yanlış çünkü sandviç içeriyor; sandviç kadının getireceği şeydir. (2) yanlış çünkü üç kahve ve bir su var, doğru oran değil. (4) yanlış çünkü bir kahve ve üç su var, doğru oran değil.",
+    "en": "Since the woman says she will bring sandwiches, the man's job is to bring drinks. The woman requests two coffees and two waters (にほんずつ), so the man will bring two of each type. The correct answer is (3): two coffee cans and two water bottles. (1) is wrong because it includes a sandwich, which the woman is bringing. (2) is wrong because it has three coffees and one water, not the correct ratio. (4) is wrong because it has one coffee and three waters, not the correct ratio."
+  }
+}

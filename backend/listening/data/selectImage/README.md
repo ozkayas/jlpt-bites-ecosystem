@@ -59,8 +59,8 @@ selectImage/
     └── processed/                     ← Soru üretimi tamamlanmış, Firebase'e yüklenmeye hazır klipler
         └── clip_NN_XXmYYs_XXmYYs/
             ├── audio.mp3              ← Orijinal ses
-            ├── variation.wav          ← Claude'un TTS ile ürettiği varyasyon sesi
-            ├── image.png              ← Claude'un AI ile ürettiği 4 panelli soru görseli
+            ├── variation-audio.wav    ← Claude'un TTS ile ürettiği varyasyon sesi
+            ├── image.webp             ← Claude'un AI ile ürettiği 4 panelli soru görseli (WebP, max 700px)
             ├── data.json              ← Ham transkripsiyon verisi
             ├── derived-data.json      ← Claude'un ürettiği zenginleştirilmiş analiz verisi
             └── question.json          ← Firebase'e yüklenecek nihai soru verisi
@@ -155,11 +155,17 @@ Bu adım Claude tarafından yürütülür. İki aşamadan oluşur:
 - Sonucu `derived-data.json` olarak kaydeder
 
 **3b — Variation Tester** (`jlpt-n5-listening-variation-tester` skill)
-- `derived-data.json`'u doğrular
-- TTS ile `variation.wav` ses dosyasını üretir
-- AI ile `image.png` görselini üretir (4 panelli)
-- Firebase'e hazır `question.json`'ı oluşturur
-- Klip klasörünü `processed/` altına taşır
+
+6 passtan oluşur:
+- **Pass 1** — Mekanik şema doğrulaması (script)
+- **Pass 2** — Semantik/dilbilimsel inceleme (Claude)
+- **Pass 3** — Görsel doğrulama: `image.png` okunur, panel içerikleri ve stil kontrol edilir
+- **Pass 3.5** — Görsel optimizasyon: `image.png` → `image.webp` (max 700×700 px, WebP quality 85); `image.png` silinir
+- **Pass 4** — TTS ile `variation-audio.wav` ses dosyası üretilir (Gemini TTS)
+- **Pass 5** — Firebase'e hazır `question.json` oluşturulur
+- **Pass 6** — Klip klasörü `processed/` altına taşınır
+
+> **Not:** Görsel (image.png) Variation Creator skill'i tarafından üretilir; kullanıcı onayından sonra Tester devreye girer.
 
 Bu adımın sonunda `processed/` klasöründe ses, görsel ve soru verisi hazır olur. Yalnızca `question.json` içindeki `audio_url` ve `image_url` alanları henüz boştur — bu alanlar Adım 4'te doldurulur.
 
@@ -168,15 +174,15 @@ Bu adımın sonunda `processed/` klasöründe ses, görsel ve soru verisi hazır
 ### 👤 Adım 4 — Firebase'e Yükle
 
 ```bash
-python3 backend/listening/scripts/upload_youtube_variations.py \
+backend/listening/scripts/venv/bin/python3.13 backend/listening/scripts/upload_youtube_variations.py \
   --bucket jlpt-bites.firebasestorage.app
 ```
 
 Script şunları yapar:
 1. `processed/` altındaki her klip için `question.json`'a bakar
 2. `audio_url` alanı zaten doluysa o klibi atlar — yanlışlıkla iki kez çalıştırsan sorun olmaz
-3. `variation.wav` sesini MP3'e dönüştürür (ffmpeg kullanır)
-4. MP3'ü ve `image.png`'yi Firebase Storage'a yükler
+3. `variation-audio.wav` sesini MP3'e dönüştürür (ffmpeg kullanır; eski `variation.wav` adı da desteklenir)
+4. MP3'ü ve `image.webp`'yi Firebase Storage'a yükler (yoksa `image.png`'ye düşer — eski klipler için)
 5. `question.json`'daki `audio_url` ve `image_url` alanlarını Firebase'deki dosyanın adresiyle doldurur
 6. Tüm soru verisini Firestore'a kaydeder
 
@@ -198,10 +204,10 @@ Döküman ID'leri otomatik atanır: Firestore'daki mevcut en büyük ID'ye 1 ekl
 n5_listening/selectImage/
 ├── 001/
 │   ├── audio.mp3     ← Sorunun ses dosyası
-│   └── image.png     ← Sorunun görseli
+│   └── image.webp    ← Sorunun görseli (WebP, max 700px)
 ├── 002/
 │   ├── audio.mp3
-│   └── image.png
+│   └── image.webp
 └── ...
 ```
 
@@ -218,7 +224,7 @@ Bu dosya hem diske (`processed/{klip}/question.json`) kaydedilir hem de Firestor
     "topic": "としょかんで ほんを かりる (Borrowing a book at the library)"
   },
   "audio_url": "https://storage.googleapis.com/.../audio.mp3",
-  "image_url": "https://storage.googleapis.com/.../image.png",
+  "image_url": "https://storage.googleapis.com/.../image.webp",
   "correct_option": 2,
   "transcription": {
     "intro": "Diyalog öncesi sunulan açıklama cümlesi",
@@ -278,7 +284,7 @@ clip_{youtube_video_id}_{sıra_no}_{başlangıç_dakika}m{başlangıç_saniye}s_
 | Araç | Açıklama | Kurulum |
 |---|---|---|
 | Python 3.13 | Pipeline için (venv hazır, kurmanıza gerek yok) | `listening-youtube-data/venv/` içinde mevcut |
-| Python 3.9+ | Upload scriptleri için (sistem Python'u yeterli) | macOS'ta varsayılan olarak yüklüdür |
+| Python 3.13 | Upload scriptleri için (venv hazır) | `backend/listening/scripts/venv/` içinde mevcut |
 | ffmpeg | Ses dönüştürme (WAV → MP3) | `brew install ffmpeg` |
 | firebase-tools | Firebase CLI | `npm install -g firebase-tools` |
 | service-account-key.json | Firebase kimlik doğrulama | `backend/service-account-key.json` — git'e eklenmez |
