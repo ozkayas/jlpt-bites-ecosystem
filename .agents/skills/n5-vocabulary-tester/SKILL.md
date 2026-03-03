@@ -12,7 +12,7 @@ Validate `n5_vocabulary.json` in two passes.
 Run the validation script:
 
 ```bash
-python3 ~/.claude/skills/n5-vocabulary-tester/scripts/validate_vocabulary.py <path/to/n5_vocabulary.json>
+python3 skills/n5-vocabulary-tester/scripts/validate_vocabulary.py <path/to/n5_vocabulary.json>
 ```
 
 The script checks:
@@ -27,6 +27,7 @@ The script checks:
 - Sentence `translations` has both `en` and `tr` — none empty
 - Sentence `romaji` is romanized Japanese (not English/Turkish text)
 - Furigana has balanced `<ruby>`, `</ruby>`, `<rt>`, `</rt>` tags
+- **Furigana `<rt>` content contains no Latin letters** — only hiragana/katakana allowed inside `<rt>` tags (e.g. `<rt>cha</rt>` or `<rt>natsu</rt>` are errors; must be `<rt>ちゃ</rt>` and `<rt>なつ</rt>`)
 - Warns on ID gaps (non-sequential IDs)
 - Warns on words missing `audioUrl` field
 
@@ -48,7 +49,7 @@ Sample strategy:
 | `translations.en` / `.tr` | Meaning is correct and naturally phrased |
 | `translations.de` / `.es` / `.fr` | Plausible (flag obvious errors) |
 | `sentence.ja` | Grammatically correct, N5-level Japanese |
-| `sentence.furigana` | Ruby readings match the kanji exactly |
+| `sentence.furigana` | Ruby readings match the kanji exactly; `<rt>` contains only hiragana/katakana (no Latin) |
 | `sentence.romaji` | Is romanized Japanese (not a translation or English sentence) |
 | `sentence.translations.en` / `.tr` | Accurate and natural |
 

@@ -126,7 +126,7 @@ def validate(path: str):
                     for field in sorted(missing_sf):
                         errors.append(f"{sloc}: missing field '{field}'")
 
-                    # furigana tag balance
+                    # furigana tag balance + rt content must be hiragana/katakana only
                     furi = sent.get("furigana", "")
                     if furi:
                         ruby_open  = furi.count("<ruby>")
@@ -137,6 +137,13 @@ def validate(path: str):
                             errors.append(f"{sloc}: unbalanced <ruby> tags ({ruby_open} open, {ruby_close} close)")
                         if rt_open != rt_close:
                             errors.append(f"{sloc}: unbalanced <rt> tags ({rt_open} open, {rt_close} close)")
+                        # <rt> content must not contain Latin letters
+                        for rt_text in re.findall(r"<rt>(.*?)</rt>", furi):
+                            if re.search(r"[a-zA-Z]", rt_text):
+                                errors.append(
+                                    f"{sloc}: furigana <rt> contains Latin letters (must be hiragana/katakana): \"{rt_text}\""
+                                )
+                                break
 
                     # romaji should not be English text
                     romaji = sent.get("romaji", "")

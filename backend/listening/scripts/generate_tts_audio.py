@@ -27,6 +27,12 @@ import os
 import wave
 import time
 import argparse
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 from pathlib import Path
 
 try:
