@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "こうえんに　いく　でんしゃを　えらぶ (Choosing the train to the park)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなして　います。がくせいは　あしたの　あさ　どのでんしゃに　のりますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "あしたは　こうえんに　いきます。でんしゃで　きて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "こうえんへ　いく　でんしゃは　じゅうばんと　じゅうにばんですが、あさは　じゅうにばんの　でんしゃは　ありません。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ですから、あしたの　あさは　じゅうばんの　あおい　でんしゃに　のって　ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "こうえん",
+                "reading": "こうえん",
+                "tr": "park",
+                "en": "park"
+            },
+            {
+                "word": "でんしゃ",
+                "reading": "でんしゃ",
+                "tr": "tren",
+                "en": "train"
+            },
+            {
+                "word": "じゅうばん",
+                "reading": "じゅうばん",
+                "tr": "10 numara",
+                "en": "number 10"
+            },
+            {
+                "word": "あおい",
+                "reading": "あおい",
+                "tr": "mavi",
+                "en": "blue"
+            },
+            {
+                "word": "ありません",
+                "reading": "ありません",
+                "tr": "yok / bulunmuyor",
+                "en": "there isn't / doesn't exist"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ですが",
+                "tr": "...-dır ama / ancak",
+                "en": "is ..., but"
+            },
+            {
+                "point": "ですから",
+                "tr": "bu yüzden",
+                "en": "therefore"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen parka giden 10 ve 12 numaralı trenlerden bahseder ancak 12 numaranın sabah çalışmadığını belirtir. Yarın sabah için öğrencilere 10 numaralı mavi trene (4) binmeleri talimatını verir. 10 beyaz (1), 12 beyaz (2) ve 12 mavi (3) yanıltıcı seçeneklerdir.",
+        "en": "The teacher mentions trains 10 and 12 for the park but notes that number 12 doesn't run in the morning. He instructs the students to take the blue train number 10 (4) for tomorrow morning. Distractors include 10 white (1), 12 white (2), and 12 blue (3)."
+    }
+}

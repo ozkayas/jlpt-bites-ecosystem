@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "くらすの　しゃしんを　みて　はなす (Talking while looking at a class photo)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。たなかさんは　どの　ひとですか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "これは　くらすの　しゃしんですか？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです。くろい　しゃつを　きて　います。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ああ、この　ひとが　たなかさんですか。"
+            }
+        ],
+        "question": "たなかさんは　どの　ひとですか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぼうし",
+                "reading": "ぼうし",
+                "tr": "şapka",
+                "en": "hat"
+            },
+            {
+                "word": "かぶる",
+                "reading": "かぶる",
+                "tr": "(şapka) takmak / giymek",
+                "en": "to wear (on head)"
+            },
+            {
+                "word": "くろい",
+                "reading": "くろい",
+                "tr": "siyah",
+                "en": "black"
+            },
+            {
+                "word": "しゃつ",
+                "reading": "しゃつ",
+                "tr": "tişört / gömlek",
+                "en": "shirt"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～を　きて　います",
+                "tr": "... giyiyor / giymiş durumda",
+                "en": "wearing (clothes)"
+            },
+            {
+                "point": "～を　かぶって　います",
+                "tr": "... takıyor (şapka vb.)",
+                "en": "wearing (hat)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın şapka takan kişinin (2) Tanaka olup olmadığını sorar ancak o Honda'dır. Tanaka, siyah tişört giyen (3) kişidir. At kuyruklu kız (1) ve beyaz tişörtlü kız (4) diğer çeldiricilerdir.",
+        "en": "The woman asks if the person wearing a hat (2) is Tanaka, but that is Honda. Tanaka is the person wearing a black shirt (3). The girl with a ponytail (1) and the girl in a white shirt (4) are distractors."
+    }
+}

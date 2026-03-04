@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "びょういんで くすりの のみかたを きく (Listening to medicine instructions)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ひとつですか？"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、ふたつ のんでください。"
+            }
+        ],
+        "question": "おとこのひとは あさごはんの あと どの くすりを のみますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "びょういん",
+                "reading": "びょういん",
+                "tr": "hastane",
+                "en": "hospital"
+            },
+            {
+                "word": "くすり",
+                "reading": "くすり",
+                "tr": "ilaç",
+                "en": "medicine"
+            },
+            {
+                "word": "おおきい",
+                "reading": "おおきい",
+                "tr": "büyük",
+                "en": "large"
+            },
+            {
+                "word": "ちいさい",
+                "reading": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            },
+            {
+                "word": "あかい",
+                "reading": "あかい",
+                "tr": "kırmızı",
+                "en": "red"
+            },
+            {
+                "word": "あさごはん",
+                "reading": "あさごはん",
+                "tr": "kahvaltı",
+                "en": "breakfast"
+            },
+            {
+                "word": "あさ",
+                "reading": "あさ",
+                "tr": "sabah",
+                "en": "morning"
+            },
+            {
+                "word": "よる",
+                "reading": "よる",
+                "tr": "gece",
+                "en": "night"
+            },
+            {
+                "word": "いちにち",
+                "reading": "いちにち",
+                "tr": "bir gün",
+                "en": "one day"
+            },
+            {
+                "word": "～かい",
+                "reading": "かい",
+                "tr": "kere / defa",
+                "en": "times (counter)"
+            },
+            {
+                "word": "しょくじ",
+                "reading": "しょくじ",
+                "tr": "yemek",
+                "en": "meal"
+            },
+            {
+                "word": "飲む",
+                "reading": "のむ",
+                "tr": "içmek (ilaç kullanmak)",
+                "en": "to drink (to take medicine)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～だけ",
+                "tr": "sadece",
+                "en": "only"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            },
+            {
+                "point": "～の あと",
+                "tr": "...-den sonra",
+                "en": "after ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Büyük ilaç sabah ve akşam yemeklerinden sonra içilmelidir. Küçük kırmızı ilaç ise sadece kahvaltıdan sonra 2 adet içilmelidir. Bu durumda adam kahvaltıdan sonra hem 1 adet büyük ilacı hem de 2 adet küçük ilacı içmelidir. Doğru cevap büyük ve küçük hapların bir arada bulunduğu (3) numaralı paneldir.",
+        "en": "The large medicine should be taken after meals in the morning and evening. The small red medicine should be taken only after breakfast, and the quantity is 2. Therefore, after breakfast, the man must take one large pill and two small pills. The correct answer is panel (3)."
+    }
+}

@@ -1,0 +1,198 @@
+{
+  "source_clip": "clip_06_08m23s_09m22s",
+  "metadata": {
+    "level": "n5",
+    "topic": "がっこうでの　こうどう (Actions at school)",
+    "pattern_used": "Sequential"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Each panel shows a simple line-art illustration of an action. Panel 1 (top-left, number 1): A person washing their hands at a sink. Panel 2 (top-right, number 2): A person opening a window. Panel 3 (bottom-left, number 3): A person wiping a desk with a cloth. Panel 4 (bottom-right, number 4): A person walking towards a building that has a book icon on it (library). Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 1,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなして　います。がくせいは　がっこうで　はじめに　なにを　しますか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "せんせい、すみません。いま　おきました。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "そうですか。じゃあ、はやく　がっこうに　きて　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "わたしは　これから　としょかんに　いきますから、きょうしつで　まどを　あけて　ください。それから、つくえを　ふいて　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい、わかりました。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+    }
+  ],
+  "transcription": {
+    "intro": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなして　います。がくせいは　がっこうで　はじめに　なにを　しますか。",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "せんせい、すみません。いま　おきました。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "そうですか。じゃあ、はやく　がっこうに　きて　ください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "わたしは　これから　としょかんに　いきますから、きょうしつで　まどを　あけて　ください。それから、つくえを　ふいて　ください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい、わかりました。"
+      }
+    ],
+    "question": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+  },
+  "transcription_tr": {
+    "intro": "Telefonda bir erkek öğrenci ve bir kadın öğretmen konuşuyorlar. Öğrenci okulda ilk olarak ne yapacak?",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "Öğretmenim, özür dilerim. Şimdi uyandım."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Öyle mi? O zaman hızlıca okula gel lütfen."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Tamam."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Ben şimdi kütüphaneye gideceğim, bu yüzden (sen gelince) sınıfta pencereyi aç lütfen. Ondan sonra masaları sil lütfen."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Tamam, anladım."
+      }
+    ],
+    "question": "Öğrenci okulda ilk olarak ne yapacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おきる",
+        "reading": "おきる",
+        "tr": "uyanmak",
+        "en": "to wake up"
+      },
+      {
+        "word": "はやく",
+        "reading": "はやく",
+        "tr": "hızlıca / erken",
+        "en": "quickly / early"
+      },
+      {
+        "word": "としょかん",
+        "reading": "としょかん",
+        "tr": "kütüphane",
+        "en": "library"
+      },
+      {
+        "word": "まど",
+        "reading": "まど",
+        "tr": "pencere",
+        "en": "window"
+      },
+      {
+        "word": "あける",
+        "reading": "あける",
+        "tr": "açmak",
+        "en": "to open"
+      },
+      {
+        "word": "つくえ",
+        "reading": "つくえ",
+        "tr": "masa / sıra",
+        "en": "desk"
+      },
+      {
+        "word": "ふく",
+        "reading": "ふく",
+        "tr": "silmek",
+        "en": "to wipe"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～てください",
+        "tr": "Lütfen ... yapın",
+        "en": "Please do ..."
+      },
+      {
+        "point": "～から",
+        "tr": "-den dolayı / çünkü",
+        "en": "because / since"
+      },
+      {
+        "point": "それから",
+        "tr": "ondan sonra / daha sonra",
+        "en": "after that / and then"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen, kendisi kütüphaneye gideceği için öğrenciden okula vardığında ilk olarak pencereyi açmasını (2), ardından masaları silmesini (3) ister. Bu yüzden ilk eylem pencereyi açmaktır. Elleri yıkamak (1) ve kütüphaneye gitmek (4 - öğretmenin yapacağı iş) yanıltıcı seçeneklerdir.",
+    "en": "The teacher tells the student that she is going to the library, so she asks him to first open the window (2) and then wipe the desks (3) when he arrives. Therefore, the first action is opening the window. Washing hands (1) and going to the library (4 - the teacher's action) are distractors."
+  }
+}

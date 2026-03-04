@@ -9,15 +9,21 @@ You are an expert JLPT N5 content engineer. Your goal is to create original vari
 
 ## Core Directives
 
-1. **Preserve Logic Pattern:** If the source is a "Reconsideration" question, the variation must remain a "Reconsideration" question.
-2. **Surgical Entity Swap:** Change entities (objects, colors, quantities, times, locations) using `backend/vocabulary/data/n5_vocabulary.json` as the primary N5 vocabulary source.
-3. **Read PNG When Available:** If a Screenshot PNG is present in the clip folder, read it to understand the original question's visual composition and spatial layout.
-4. **No Audio Analysis:** Do NOT attempt to read or analyze `audio.mp3`.
-5. **Output to derived-data.json:** Save the variation as `derived-data.json` inside the clip folder before moving it.
-6. **Handover to Tester:** After finishing Step 10 (JSON and Image ready), do NOT move the folder. Leave it in `tobeprocessed/` for the `jlpt-n5-listening-variation-tester` skill to finalize and move.
-7. **Self-Validate:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors.
-8. **Clean Logic Formatting:** When referencing panels in `logic.tr` or `logic.en`, use ONLY the panel number in parentheses, e.g., `(3)`. NEVER use the word "Panel" or labels like "Distractor_A".
-9. **Concurrency Control (Locking):** To allow multiple agents to work in parallel, you MUST use an atomic locking mechanism. Never process a folder that already contains a `processing.lock/` directory or a `derived-data.json` file. Create the lock immediately upon selecting a folder.
+1. **CRITICAL: Concurrency Control (Locking):** Before ANY other action, you MUST acquire an atomic lock.
+   - List folders in `tobeprocessed/`.
+   - Select a folder that does NOT contain `processing.lock/` OR `derived-data.json`.
+   - **Immediately** run: `mkdir "path/to/clip_folder/processing.lock"`.
+   - If the command fails, the folder is already taken. Start over.
+   - Never read `data.json` or start analysis without a successful lock.
+2. **CRITICAL: STOP FOR MANUAL APPROVAL:** After generating `image.png` and performing self-validation (Step 10), you MUST STOP. Show the image and the dialogue to the user and WAIT for explicit approval. Never run the tester skill, never generate audio, and never move the folder without the user saying "Onaylıyorum" or "Approved".
+3. **Preserve Logic Pattern:** If the source is a "Reconsideration" question, the variation must remain a "Reconsideration" question.
+4. **Surgical Entity Swap:** Change entities (objects, colors, quantities, times, locations) using `backend/vocabulary/data/n5_vocabulary.json` as the primary N5 vocabulary source.
+5. **Read PNG When Available:** If a Screenshot PNG is present in the clip folder, read it to understand the original question's visual composition and spatial layout.
+6. **No Audio Analysis:** Do NOT attempt to read or analyze `audio.mp3`.
+7. **Output to derived-data.json:** Save the variation as `derived-data.json` inside the clip folder.
+8. **Handover to Tester:** After finishing Step 10 (JSON and Image ready), do NOT move the folder. Leave it in `tobeprocessed/` for the `jlpt-n5-listening-variation-tester` skill to finalize and move.
+9. **Self-Validate:** After writing derived-data.json and generating image.png, run the validator script and visually check the image. Fix any errors.
+10. **Clean Logic Formatting:** When referencing panels in `logic.tr` or `logic.en`, use ONLY the panel number in parentheses, e.g., `(3)`. NEVER use the word "Panel" or labels like "Distractor_A".
 
 ---
 
@@ -131,15 +137,19 @@ backend/listening/data/selectImage/listening-youtube-data/tobeprocessed/
 - Requires `JLPT_IMAGE_GEMINI_API_KEY` to be set in the environment.
 - Wait for confirmation that `image.png` was saved successfully.
 
-### Step 10 — SELF-VALIDATE IMAGE
+### Step 10 — SELF-VALIDATE IMAGE & STOP
 
 - Read the generated `image.png` from the clip folder.
 - Verify:
   - image_type match: layout matches declared type (four_panel_grid / numbered_scene / map_diagram)
   - Panel content: correct panel shows the answer, distractors show wrong alternatives
-  - Style: monochrome line art, no shading, white background, no borders
-- If all checks pass: Stop here. Do not generate audio or move the folder.
-- If any check fails: delete image.png, re-run generate_image.py, and re-check.
+  - Style: colorful minimalist illustration (or monochrome if requested), flat colors, thick clean outlines, no shading, white background, no borders
+- **CRITICAL: STOP HERE.** 
+- Display the generated `image.png`, the Japanese dialogue, and the Turkish translation to the user.
+- **WAIT** for the user to provide explicit approval (e.g., "Onaylıyorum").
+- **DO NOT** run Pass 3.5, Pass 4, Pass 5, or Pass 6 of the tester skill until approval is received.
+- If the user requests changes to the image or JSON, apply them and repeat Step 9/10 as needed.
+- If any check fails during self-validation: delete image.png, re-run generate_image.py, and re-check.
 - Maximum 2 attempts (image generation costs API credits). If still failing after 2 attempts, stop and report the issue to the user.
 - Leave the folder in `tobeprocessed/`. Notify the user that the variation (JSON and Image) is ready for manual review. Once the user approves, they will use the `jlpt-n5-listening-variation-tester` skill to finalize it.
 

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "へやの　そうじ (Cleaning the room - Table, Books, and Vase)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　へやの　そうじを　しています。へやは　いま　どうなって　いますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "へやの　そうじを　しましょう。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。この　ほんは　どうしますか。てーぶるの　うえに　おきましょうか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、ほんは　ほんだなに　いれて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。あ、この　かびんは　どうしますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "かびんは　てーぶるの　うえに　おいて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "へやは　いま　どうなって　いますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "そうじ",
+                "reading": "そうじ",
+                "tr": "temizlik",
+                "en": "cleaning"
+            },
+            {
+                "word": "ほん",
+                "reading": "ほん",
+                "tr": "kitap",
+                "en": "book"
+            },
+            {
+                "word": "ほんだな",
+                "reading": "ほんだな",
+                "tr": "kitaplık",
+                "en": "bookshelf"
+            },
+            {
+                "word": "いれる",
+                "reading": "いれる",
+                "tr": "içine koymak / yerleştirmek",
+                "en": "to put in / to insert"
+            },
+            {
+                "word": "かびん",
+                "reading": "かびん",
+                "tr": "vazo",
+                "en": "vase"
+            },
+            {
+                "word": "おく",
+                "reading": "おく",
+                "tr": "koymak (bir yere)",
+                "en": "to place / to put"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょう",
+                "tr": "-alım/-elim (istek/teklif)",
+                "en": "let's (suggestion)"
+            },
+            {
+                "point": "～ましょうか",
+                "tr": "-ayım mı? / -alım mı? (teklif etme)",
+                "en": "shall I/we...? (offering to do something)"
+            },
+            {
+                "point": "～てください",
+                "tr": "lütfen ... yapın",
+                "en": "please do ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kitapların masaya konmamasını, kitaplığa yerleştirilmesini söyler. Vazoyu ise masanın üzerine koymasını ister. Bu iki şartı sağlayan (kitaplar kitaplıkta, vazo masanın üzerinde) panel 4'tür. Kitapların masada olması veya vazonun olmaması çeldiricilerdir.",
+        "en": "The woman instructs not to put the books on the table but to place them in the bookshelf. She asks to place the vase on the table. Panel 4 correctly shows the books in the shelf and the vase on the table. Books on the table or the vase being absent are distractors."
+    }
+}

@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "びょういんで　まつ (Waiting at the hospital)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "びょういんで　びょういんのひとと　おんなのひとが　はなしています。おんなのひとは　どこに　すわりますか？",
+    "dialogue": [
+      {
+        "speaker": "男の人",
+        "text": "やまださん。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "はい。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "じゃあ、なまえを　よびますから、それまで　あそこの　いすで　ちょっと　まっていて　ください。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "あの、まどの　そばの　そふぁーですか？"
+      },
+      {
+        "speaker": "男の人",
+        "text": "ええ、そうです。"
+      }
+    ],
+    "question": "おんなのひとは　どこに　すわりますか？"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "びょういん",
+        "tr": "hastane",
+        "en": "hospital"
+      },
+      {
+        "word": "なまえ",
+        "tr": "isim",
+        "en": "name"
+      },
+      {
+        "word": "いす",
+        "tr": "sandalye",
+        "en": "chair"
+      },
+      {
+        "word": "まど",
+        "tr": "pencere",
+        "en": "window"
+      },
+      {
+        "word": "そば",
+        "tr": "yan / yan taraf",
+        "en": "near / beside"
+      },
+      {
+        "word": "そふぁー",
+        "tr": "koltuk / kanepe",
+        "en": "sofa"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～から",
+        "tr": "... için / ...-den dolayı",
+        "en": "because / since"
+      },
+      {
+        "point": "～まで",
+        "tr": "...-e kadar",
+        "en": "until"
+      },
+      {
+        "point": "～て　ください",
+        "tr": "lütfen ... yapın",
+        "en": "please do ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Görevli, kadına ismi okunana kadar beklemesini söyler. Kadın 'pencerenin yanındaki koltuk mu?' diye sorar ve görevli bunu onaylar. Bu nedenle doğru cevap pencere kenarındaki koltuğu gösteren seçenektir.",
+    "en": "The staff member tells the woman to wait until her name is called. The woman asks if he means the sofa near the window, and the staff member confirms. Therefore, the correct answer is the option showing the sofa by the window."
+  }
+}

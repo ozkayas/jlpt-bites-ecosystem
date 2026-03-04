@@ -1,0 +1,175 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_04m29s_05m17s",
+  "metadata": {
+    "level": "n5",
+    "topic": "くらすの　しゃしんを　みて　はなす (Talking while looking at a class photo)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "numbered_scene",
+    "image_prompt": "A single continuous scene showing four simple line-art students standing together in a school yard for a photo. Each student is marked with a small number (1, 2, 3, 4) near their feet or head. Person 1 is a girl with a ponytail. Person 2 is a boy wearing a large sun hat (ぼうし). Person 3 is a boy wearing a solid black t-shirt (くろい　しゃつ). Person 4 is a girl with short hair wearing a white t-shirt. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading (except the solid black shirt for Person 3), white background, instructional clipart style, high contrast, no text other than the numbers 1, 2, 3, 4.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。たなかさんは　どの　ひとですか？"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "これは　くらすの　しゃしんですか？"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです。くろい　しゃつを　きて　います。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "ああ、この　ひとが　たなかさんですか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "たなかさんは　どの　ひとですか？"
+    }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。たなかさんは　どの　ひとですか？",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "これは　くらすの　しゃしんですか？"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです。くろい　しゃつを　きて　います。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "ああ、この　ひとが　たなかさんですか。"
+      }
+    ],
+    "question": "たなかさんは　どの　ひとですか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir kadın ve bir erkek fotoğrafa bakarak konuşuyorlar. Tanaka hangisi?",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "Bu bir sınıf fotoğrafı mı?"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Evet."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Bu şapka takan kişi Tanaka mı?"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Hayır, o Honda. Tanaka burada. Siyah tişört giyiyor."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Ah, Tanaka bu kişi mi?"
+      }
+    ],
+    "question": "Tanaka hangisi?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ぼうし",
+        "reading": "ぼうし",
+        "tr": "şapka",
+        "en": "hat"
+      },
+      {
+        "word": "かぶる",
+        "reading": "かぶる",
+        "tr": "(şapka) takmak / giymek",
+        "en": "to wear (on head)"
+      },
+      {
+        "word": "くろい",
+        "reading": "くろい",
+        "tr": "siyah",
+        "en": "black"
+      },
+      {
+        "word": "しゃつ",
+        "reading": "しゃつ",
+        "tr": "tişört / gömlek",
+        "en": "shirt"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～を　きて　います",
+        "tr": "... giyiyor / giymiş durumda",
+        "en": "wearing (clothes)"
+      },
+      {
+        "point": "～を　かぶって　います",
+        "tr": "... takıyor (şapka vb.)",
+        "en": "wearing (hat)"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın şapka takan kişinin (2) Tanaka olup olmadığını sorar ancak o Honda'dır. Tanaka, siyah tişört giyen (3) kişidir. At kuyruklu kız (1) ve beyaz tişörtlü kız (4) diğer çeldiricilerdir.",
+    "en": "The woman asks if the person wearing a hat (2) is Tanaka, but that is Honda. Tanaka is the person wearing a black shirt (3). The girl with a ponytail (1) and the girl in a white shirt (4) are distractors."
+  }
+}

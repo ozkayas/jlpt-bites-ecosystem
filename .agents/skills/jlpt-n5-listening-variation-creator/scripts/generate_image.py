@@ -92,6 +92,7 @@ def generate_and_save(clip_folder: Path, prompt: str, api_key: str) -> None:
     """Call Gemini API and save the first image part as image.png."""
     try:
         from google import genai  # type: ignore
+        from google.genai import types # type: ignore
     except ImportError:
         print("✗ google-genai package not installed.")
         print("  Install with:  pip install google-genai")
@@ -104,11 +105,23 @@ def generate_and_save(clip_folder: Path, prompt: str, api_key: str) -> None:
         print("   Delete it first if you want to regenerate.")
         sys.exit(0)
 
+    # Check for a reference screenshot PNG
+    screenshot_path = next(clip_folder.glob("Screenshot *.png"), None)
+    contents = []
+    if screenshot_path:
+        print(f"[ref] Found reference image: {screenshot_path.name}")
+        with open(screenshot_path, "rb") as f:
+            image_bytes = f.read()
+        contents.append(types.Part.from_bytes(data=image_bytes, mime_type="image/png"))
+    
+    # Add the text prompt
+    contents.append(prompt)
+
     print(f"[api] Calling {MODEL_ID} …")
     client = genai.Client(api_key=api_key)
     response = client.models.generate_content(
         model=MODEL_ID,
-        contents=[prompt],
+        contents=contents,
     )
 
     # Find the first image part in the response

@@ -1,0 +1,66 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_01_01m07s_01m57s",
+  "metadata": {
+    "level": "n5",
+    "topic": "あしたの よていと まちあわせ (Tomorrow's plans and meeting place)",
+    "pattern_used": "Location"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Each panel shows a simple building icon against a pure white background. Panel 1 (top-left, number 1): A building with a large 'H' sign, representing a hospital. Panel 2 (top-right, number 2): A park with a single tree and a bench. Panel 3 (bottom-left, number 3): A building with a book icon on its sign, representing a library. Panel 4 (bottom-right, number 4): A building with a '$' or '¥' sign, representing a bank. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel and simple icons on the buildings.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの でんしゃに のりますよ。まちには ゆうめいな びょういんが あります。きれいな こうえんも あります。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "あしたは こうえんに きてから いきますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "いいえ、としょかんに きてください。くじはんに まっています。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "がくせいは あしたの あさ どこで せんせいに あいますか。" }
+  ],
+  "transcription": {
+    "intro": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの でんしゃに のりますよ。まちには ゆうめいな びょういんが あります。きれいな こうえんも あります。" },
+      { "speaker": "Female_1", "text": "あしたは こうえんに きてから いきますか。" },
+      { "speaker": "Male_1", "text": "いいえ、としょかんに きてください。くじはんに まっています。" }
+    ],
+    "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
+  },
+  "transcription_tr": {
+    "intro": "Sınıfta öğretmen konuşuyor. Öğrenci yarın sabah nerede öğretmenle buluşacak?",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat 10 trenine bineceğiz. Şehirde ünlü bir hastane var. Güzel bir park da var." },
+      { "speaker": "Female_1", "text": "Yarın parka gelip mi gideceğiz?" },
+      { "speaker": "Male_1", "text": "Hayır, kütüphaneye gelin lütfen. Saat 9 buçukta bekliyorum." }
+    ],
+    "question": "Öğrenci yarın sabah nerede öğretmenle buluşacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "としょかん", "reading": "としょかん", "tr": "kütüphane", "en": "library" },
+      { "word": "びょういん", "reading": "びょういん", "tr": "hastane", "en": "hospital" },
+      { "word": "こうえん", "reading": "こうえん", "tr": "park", "en": "park" },
+      { "word": "ぎんこう", "reading": "ぎんこう", "tr": "banka", "en": "bank" },
+      { "word": "まちあわせ", "reading": "まちあわせ", "tr": "buluşma", "en": "meeting (appointment)" }
+    ],
+    "grammar": [
+      { "point": "〜てから", "tr": "-dikten sonra / yaptıktan sonra", "en": "after doing something" },
+      { "point": "〜てください", "tr": "lütfen ... yapın (rica)", "en": "please do something" },
+      { "point": "いいえ", "tr": "hayır", "en": "no" }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen şehirdeki hastaneden ve parktan bahseder. Öğrenci buluşma noktasının park olup olmadığını sorar (こうえんに きてから いきますか). Öğretmen ise 'Hayır, kütüphaneye gelin' (いいえ、としょかんに きてください) diyerek buluşma yerinin kütüphane olduğunu netleştirir. Bu nedenle (3) numaralı panel doğrudur.",
+    "en": "The teacher mentions a hospital and a park in the town. The student asks if they should meet at the park (こうえんに きてから いきますか). The teacher corrects this by saying 'No, please come to the library' (いいえ、としょかんに きてください). Therefore, panel (3) is the correct answer."
+  }
+}

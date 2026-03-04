@@ -1,0 +1,82 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "あしたの よていと まちあわせ (Tomorrow's plans and meeting place)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの でんしゃに のりますよ。まちには ゆうめいな びょういんが あります。きれいな こうえんも あります。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あしたは こうえんに きてから いきますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いいえ、としょかんに きてください。くじはんに まっています。"
+            }
+        ],
+        "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "びょういん",
+                "reading": "びょういん",
+                "tr": "hastane",
+                "en": "hospital"
+            },
+            {
+                "word": "こうえん",
+                "reading": "こうえん",
+                "tr": "park",
+                "en": "park"
+            },
+            {
+                "word": "ぎんこう",
+                "reading": "ぎんこう",
+                "tr": "banka",
+                "en": "bank"
+            },
+            {
+                "word": "まちあわせ",
+                "reading": "まちあわせ",
+                "tr": "buluşma",
+                "en": "meeting (appointment)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜てから",
+                "tr": "-dikten sonra / yaptıktan sonra",
+                "en": "after doing something"
+            },
+            {
+                "point": "〜てください",
+                "tr": "lütfen ... yapın (rica)",
+                "en": "please do something"
+            },
+            {
+                "point": "いいえ",
+                "tr": "hayır",
+                "en": "no"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen şehirdeki hastaneden ve parktan bahseder. Öğrenci buluşma noktasının park olup olmadığını sorar (こうえんに きてから いきますか). Öğretmen ise 'Hayır, kütüphaneye gelin' (いいえ、としょかんに きてください) diyerek buluşma yerinin kütüphane olduğunu netleştirir. Bu nedenle (3) numaralı panel doğrudur.",
+        "en": "The teacher mentions a hospital and a park in the town. The student asks if they should meet at the park (こうえんに きてから いきますか). The teacher corrects this by saying 'No, please come to the library' (いいえ、としょかんに きてください). Therefore, panel (3) is the correct answer."
+    }
+}

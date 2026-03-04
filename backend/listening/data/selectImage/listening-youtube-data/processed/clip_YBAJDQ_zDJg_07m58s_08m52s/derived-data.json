@@ -1,0 +1,81 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_07m58s_08m52s",
+  "metadata": {
+    "level": "n5",
+    "topic": "びょういんで くすりの のみかたを きく (Listening to medicine instructions)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Each panel displays loose classic round medical pills with a single score line across the middle, resting directly on a flat surface. No blister packs, no foil packaging. Panel 1 (top-left, number 1): One large round white pill. Panel 2 (top-right, number 2): One large round white pill and one small round red pill. Panel 3 (bottom-left, number 3): One large round white pill and two small round red pills. Panel 4 (bottom-right, number 4): Two small round red pills. Minimalist line art with spot color, Japanese language textbook illustration style, clean thick outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "はい。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "ひとつですか？" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "いいえ、ふたつ のんでください。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おとこのひとは あさごはんの あと どの くすりを のみますか？" }
+  ],
+  "transcription": {
+    "intro": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。" },
+      { "speaker": "Male_1", "text": "はい。" },
+      { "speaker": "Female_1", "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。" },
+      { "speaker": "Male_1", "text": "ひとつですか？" },
+      { "speaker": "Female_1", "text": "いいえ、ふたつ のんでください。" }
+    ],
+    "question": "おとこのひとは あさごはんの あと どの くすりを のみますか？"
+  },
+  "transcription_tr": {
+    "intro": "Hastanede bir kadın ve bir erkek konuşuyor. Adam kahvaltıdan sonra hangi ilacı içecek?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Bu büyük ilacı sabah ve gece günde iki kez yemeklerden sonra için." },
+      { "speaker": "Male_1", "text": "Tamam." },
+      { "speaker": "Female_1", "text": "Ayrıca bu küçük kırmızı ilacı sadece kahvaltıdan sonra için." },
+      { "speaker": "Male_1", "text": "Bir tane mi?" },
+      { "speaker": "Female_1", "text": "Hayır, iki tane için." }
+    ],
+    "question": "Adam kahvaltıdan sonra hangi ilacı içecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "びょういん", "reading": "びょういん", "tr": "hastane", "en": "hospital" },
+      { "word": "くすり", "reading": "くすり", "tr": "ilaç", "en": "medicine" },
+      { "word": "おおきい", "reading": "おおきい", "tr": "büyük", "en": "large" },
+      { "word": "ちいさい", "reading": "ちいさい", "tr": "küçük", "en": "small" },
+      { "word": "あかい", "reading": "あかい", "tr": "kırmızı", "en": "red" },
+      { "word": "あさごはん", "reading": "あさごはん", "tr": "kahvaltı", "en": "breakfast" },
+      { "word": "あさ", "reading": "あさ", "tr": "sabah", "en": "morning" },
+      { "word": "よる", "reading": "よる", "tr": "gece", "en": "night" },
+      { "word": "いちにち", "reading": "いちにち", "tr": "bir gün", "en": "one day" },
+      { "word": "～かい", "reading": "かい", "tr": "kere / defa", "en": "times (counter)" },
+      { "word": "しょくじ", "reading": "しょくじ", "tr": "yemek", "en": "meal" },
+      { "word": "飲む", "reading": "のむ", "tr": "içmek (ilaç kullanmak)", "en": "to drink (to take medicine)" }
+    ],
+    "grammar": [
+      { "point": "～だけ", "tr": "sadece", "en": "only" },
+      { "point": "～てください", "tr": "lütfen ... yapın", "en": "please do ..." },
+      { "point": "～の あと", "tr": "...-den sonra", "en": "after ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Büyük ilaç sabah ve akşam yemeklerinden sonra içilmelidir. Küçük kırmızı ilaç ise sadece kahvaltıdan sonra 2 adet içilmelidir. Bu durumda adam kahvaltıdan sonra hem 1 adet büyük ilacı hem de 2 adet küçük ilacı içmelidir. Doğru cevap büyük ve küçük hapların bir arada bulunduğu (3) numaralı paneldir.",
+    "en": "The large medicine should be taken after meals in the morning and evening. The small red medicine should be taken only after breakfast, and the quantity is 2. Therefore, after breakfast, the man must take one large pill and two small pills. The correct answer is panel (3)."
+  }
+}

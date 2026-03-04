@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "さくらびるの ばしょ (Sakura Binası'nın yeri)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "おんなのひとが おとこのひとに みちを きいています。 さくらびるは どこですか。",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "すみません、あの、さくらびるへ いきたいです。 さくらびるは どこですか。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "さくらびるですね。この みちを まっすぐ いってください。 あそこに おおきい でぱーとが ありますね。 その むこうです。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "この みちの みぎがわですね。 ありがとう ございます。"
+      }
+    ],
+    "question": "さくらびるは どこですか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "みち",
+        "tr": "yol, sokak",
+        "en": "road, street"
+      },
+      {
+        "word": "まっすぐ",
+        "tr": "dümdüz",
+        "en": "straight"
+      },
+      {
+        "word": "おおきい",
+        "tr": "büyük",
+        "en": "big"
+      },
+      {
+        "word": "でぱーと",
+        "tr": "büyük mağaza, departmanlı mağaza",
+        "en": "department store"
+      },
+      {
+        "word": "むこう",
+        "tr": "ötesi, karşı taraf",
+        "en": "beyond, over there"
+      },
+      {
+        "word": "みぎがわ",
+        "tr": "sağ taraf",
+        "en": "right side"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜へ いきたい",
+        "tr": "...'ya gitmek istemek",
+        "en": "want to go to ..."
+      },
+      {
+        "point": "〜を まっすぐ いってください",
+        "tr": "... boyunca dümdüz gidin (lütfen)",
+        "en": "please go straight along ..."
+      },
+      {
+        "point": "〜の むこう",
+        "tr": "...'nın ötesinde/ilerisinde",
+        "en": "beyond ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Adam kadına bu yol boyunca dümdüz gitmesini (まっすぐ いってください) söyler. İleride büyük bir mağaza (おおきい でぱーと) olduğunu ve binanın onun ötesinde (その むこう) olduğunu belirtir. Kadın ise binanın yolun sağ tarafında (みぎがわ) olduğunu teyit eder.",
+    "en": "The man tells the woman to go straight along this road (まっすぐ いってください). He mentions a big department store (おおきい でぱーと) and says the building is beyond it (その むこう). The woman confirms it is on the right side (みぎがわ) of the road."
+  }
+}

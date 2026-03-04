@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "せんせいを　まつ (Waiting for the teacher)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "がっこうで　おとこのがくせいと　がっこうのひとが　はなしています。おとこのがくせいは　なんじごろに　もういちど　きますか。",
+    "dialogue": [
+      {
+        "speaker": "男の人",
+        "text": "すみません、やまだせんせいは　いますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ、まだ　きていませんが。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "そうですか。なんじごろに　きますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "もうすぐ　きますよ。１０じから　じゅぎょうが　ありますから。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "そうですか。あの、つぎの　１１じからの　じゅぎょうも　ありますか？"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ、ごぜんちゅうは　そのじゅぎょうだけですから、また　ここに　もどってきますよ。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "わかりました。じゃあ、じゅぎょうが　おわるころ　また　きます。"
+      }
+    ],
+    "question": "おとこのがくせいは　なんじごろに　もういちど　きますか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "がっこう",
+        "tr": "okul",
+        "en": "school"
+      },
+      {
+        "word": "がくせい",
+        "tr": "öğrenci",
+        "en": "student"
+      },
+      {
+        "word": "せんせい",
+        "tr": "öğretmen",
+        "en": "teacher"
+      },
+      {
+        "word": "じゅぎょう",
+        "tr": "ders",
+        "en": "class / lesson"
+      },
+      {
+        "word": "ごぜんちゅう",
+        "tr": "sabah boyunca",
+        "en": "during the morning"
+      },
+      {
+        "word": "もどります",
+        "tr": "geri dönmek",
+        "en": "to return"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～から",
+        "tr": "...-den / ...-dan (başlangıç)",
+        "en": "from ... (starting point)"
+      },
+      {
+        "point": "～だけ",
+        "tr": "sadece",
+        "en": "only / just"
+      },
+      {
+        "point": "～ごろ",
+        "tr": "sularında / civarında (zaman için)",
+        "en": "around / approximately (for time)"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen Yamada'nın saat 10:00'da bir dersi var ve 11:00'de başka dersi yok. Bu, sabahki tek dersi olduğu için ders bittiğinde odaya geri dönecektir. Öğrenci, dersin bittiği zaman (yaklaşık 11:00) tekrar geleceğini söyler.",
+    "en": "Teacher Yamada has a class starting at 10:00 and no class at 11:00. Since that is the only morning class, the teacher will return after it ends. The student decides to come back when the class is over (around 11:00)."
+  }
+}

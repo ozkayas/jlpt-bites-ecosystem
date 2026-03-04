@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "どの ほんを もってきますか (Hangi kitabı getirecek?)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "きょうしつで おんなの せんせいと おとこの がくせいが はなしています。 おとこの がくせいは どの ほんを もってきますか。",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "すみません、あそこの つくえの うえの ほんを もってきてください。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "はい。 せんせい、 どの ほんですか。 くろい ほんですか。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ、 しろい ほんです。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "あつい ほんですか。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "いいえ、 うすい ほんです。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "わかりました。"
+      }
+    ],
+    "question": "おとこの がくせいは どの ほんを もってきますか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "つくえ",
+        "tr": "masa",
+        "en": "desk"
+      },
+      {
+        "word": "うえ",
+        "tr": "üst, üzeri",
+        "en": "on, top"
+      },
+      {
+        "word": "もってくる",
+        "tr": "getirmek",
+        "en": "to bring"
+      },
+      {
+        "word": "くろい",
+        "tr": "siyah",
+        "en": "black"
+      },
+      {
+        "word": "しろい",
+        "tr": "beyaz",
+        "en": "white"
+      },
+      {
+        "word": "あつい",
+        "tr": "kalın (kitap, kağıt vb.)",
+        "en": "thick (book, paper, etc.)"
+      },
+      {
+        "word": "うすい",
+        "tr": "ince",
+        "en": "thin"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜てください",
+        "tr": "lütfen ... yapın (rica)",
+        "en": "please do ..."
+      },
+      {
+        "point": "どの",
+        "tr": "hangi",
+        "en": "which"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen masanın üzerindeki kitabı istiyor. Öğrenci siyah olup olmadığını sorduğunda öğretmen 'beyaz' (しろい) olduğunu söylüyor. Daha sonra kalın olup olmadığı sorulduğunda ise öğretmen 'ince' (うすい) olduğunu belirtiyor. Bu durumda öğrenci beyaz ve ince olan kitabı getirecektir.",
+    "en": "The teacher wants the book on the desk. When the student asks if it's the black one, the teacher says it's the 'white' (しろい) one. Then, when asked if it's thick, the teacher specifies it's 'thin' (うすい). Therefore, the student will bring the white and thin book."
+  }
+}

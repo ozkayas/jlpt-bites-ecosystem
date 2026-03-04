@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ともだちの　うちに　いく (Going to a friend's house)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　いつ　おんなのひとの　うちに　いきますか？",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "あしたの　ろくじに　そちらに　いっても　いいですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "すみません。あしたの　すいようびは　ちょっと　いそがしいです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "もくようびか　きんようびは　どうですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "うーん。もくようびは　だめですが、あさっての　きんようびは　だいじょうぶです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい、わかりました。あさっての　ろくじですね。おまちしています。"
+            }
+        ],
+        "question": "おとこのひとは　いつ　おんなのひとの　うちに　いきますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あした",
+                "reading": "あした",
+                "tr": "yarın",
+                "en": "tomorrow"
+            },
+            {
+                "word": "あさって",
+                "reading": "あさって",
+                "tr": "yarından sonraki gün",
+                "en": "the day after tomorrow"
+            },
+            {
+                "word": "すいようび",
+                "reading": "すいようび",
+                "tr": "Çarşamba",
+                "en": "Wednesday"
+            },
+            {
+                "word": "もくようび",
+                "reading": "もくようび",
+                "tr": "Perşembe",
+                "en": "Thursday"
+            },
+            {
+                "word": "きんようび",
+                "reading": "きんようび",
+                "tr": "Cuma",
+                "en": "Friday"
+            },
+            {
+                "word": "いそがしい",
+                "reading": "いそがしい",
+                "tr": "meşgul",
+                "en": "busy"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ても　いいですか",
+                "tr": "... yapabilir miyim? (izin isteme)",
+                "en": "May I ...? (asking permission)"
+            },
+            {
+                "point": "～は　どうですか",
+                "tr": "... ne dersiniz? / ... nasıl?",
+                "en": "How about ...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam arkadaşına yarın (Çarşamba) gitmek istiyor ancak kadın meşgul olduğunu söyleyip Perşembe veya Cuma'yı öneriyor. Adam Perşembe'nin uygun olmadığını, yarından sonraki günün (Cuma - 3) uygun olduğunu söyler. Çarşamba (1), Perşembe (2) ve Cumartesi (4) yanıltıcı seçeneklerdir.",
+        "en": "The man wants to visit his friend tomorrow (Wednesday), but the woman says she is busy and suggests Thursday or Friday. The man says Thursday is not good, but the day after tomorrow (Friday - 3) is fine. Wednesday (1), Thursday (2), and Saturday (4) are distractors."
+    }
+}

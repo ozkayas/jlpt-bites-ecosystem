@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "がっこうでの　こうどう (Actions at school)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなして　います。がくせいは　がっこうで　はじめに　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "せんせい、すみません。いま　おきました。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "そうですか。じゃあ、はやく　がっこうに　きて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わたしは　これから　としょかんに　いきますから、きょうしつで　まどを　あけて　ください。それから、つくえを　ふいて　ください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おきる",
+                "reading": "おきる",
+                "tr": "uyanmak",
+                "en": "to wake up"
+            },
+            {
+                "word": "はやく",
+                "reading": "はやく",
+                "tr": "hızlıca / erken",
+                "en": "quickly / early"
+            },
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "まど",
+                "reading": "まど",
+                "tr": "pencere",
+                "en": "window"
+            },
+            {
+                "word": "あける",
+                "reading": "あける",
+                "tr": "açmak",
+                "en": "to open"
+            },
+            {
+                "word": "つくえ",
+                "reading": "つくえ",
+                "tr": "masa / sıra",
+                "en": "desk"
+            },
+            {
+                "word": "ふく",
+                "reading": "ふく",
+                "tr": "silmek",
+                "en": "to wipe"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "Lütfen ... yapın",
+                "en": "Please do ..."
+            },
+            {
+                "point": "～から",
+                "tr": "-den dolayı / çünkü",
+                "en": "because / since"
+            },
+            {
+                "point": "それから",
+                "tr": "ondan sonra / daha sonra",
+                "en": "after that / and then"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen, kendisi kütüphaneye gideceği için öğrenciden okula vardığında ilk olarak pencereyi açmasını (2), ardından masaları silmesini (3) ister. Bu yüzden ilk eylem pencereyi açmaktır. Elleri yıkamak (1) ve kütüphaneye gitmek (4 - öğretmenin yapacağı iş) yanıltıcı seçeneklerdir.",
+        "en": "The teacher tells the student that she is going to the library, so she asks him to first open the window (2) and then wipe the desks (3) when he arrives. Therefore, the first action is opening the window. Washing hands (1) and going to the library (4 - the teacher's action) are distractors."
+    }
+}

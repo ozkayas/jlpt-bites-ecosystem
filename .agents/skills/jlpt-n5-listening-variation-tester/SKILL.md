@@ -42,7 +42,8 @@ EOF
    - Verify each distractor panel visually depicts a plausible but wrong alternative.
    - Verify overall style: monochrome line art, no shading, white background.
 8. If Pass 3 finds failures, report them and stop — do not proceed to Pass 3.5.
-8.5. Run **Pass 3.5 — Image Optimization** (convert image.png → image.webp for mobile):
+8.1 **CRITICAL: STOP FOR MANUAL APPROVAL:** After Pass 3 (Image Validation) is complete and successful, you MUST STOP. Display the image, dialogue, and translations. WAIT for explicit approval (e.g., "Onaylıyorum") before running Pass 3.5, Pass 4, Pass 5, or Pass 6. NEVER automate these final steps without direct confirmation for the specific image generated.
+8.2. Run **Pass 3.5 — Image Optimization** (convert image.png → image.webp for mobile):
 
 ```bash
 python3 -c "

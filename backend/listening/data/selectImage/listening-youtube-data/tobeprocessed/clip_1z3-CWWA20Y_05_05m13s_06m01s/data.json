@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "はなやで はなを かいます (Buying flowers at a flower shop)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "はなやで みせのひとと おとこのひとが はなしています。 みせのひとは はなを どうしますか。",
+    "dialogue": [
+      {
+        "speaker": "女の人",
+        "text": "いらっしゃいませ。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "すみません。この はなを にほん ください。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "はい。これですね。ぷれぜんとですか。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "はい。あ、すみません。もう いっぽん おねがいします。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "はい。りぼんは どうしますか。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "りぼんですか。いりません。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "わかりました。"
+      }
+    ],
+    "question": "みせのひとは はなを どうしますか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "はなや",
+        "tr": "çiçekçi",
+        "en": "flower shop"
+      },
+      {
+        "word": "にほん",
+        "tr": "iki tane (uzun nesneler için sayıcı)",
+        "en": "two (counter for long objects)"
+      },
+      {
+        "word": "いっぽん",
+        "tr": "bir tane (uzun nesneler için sayıcı)",
+        "en": "one (counter for long objects)"
+      },
+      {
+        "word": "ぷれぜんと",
+        "tr": "hediye",
+        "en": "present"
+      },
+      {
+        "word": "りぼん",
+        "tr": "kurdele",
+        "en": "ribbon"
+      },
+      {
+        "word": "いりません",
+        "tr": "gerek yok / istemiyorum",
+        "en": "don't need / no thank you"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜を ください",
+        "tr": "lütfen ... verin",
+        "en": "please give me ..."
+      },
+      {
+        "point": "もう 〜",
+        "tr": "bir tane daha / daha fazla",
+        "en": "one more / another"
+      },
+      {
+        "point": "〜は どうしますか",
+        "tr": "... ne yapacaksınız? / ... nasıl olsun?",
+        "en": "what will you do about ...? / how about ...?"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Adam başlangıçta iki çiçek (にほん) istiyor, ardından bir tane daha (もう いっぽん) ekleyerek toplamda üç çiçek talep ediyor. Satıcı kurdele isteyip istemediğini sorduğunda, adam kurdele istemediğini (いりません) belirtiyor. Bu nedenle satıcı kurdelesiz üç çiçek hazırlayacaktır.",
+    "en": "The man initially asks for two flowers (にほん), then adds one more (another いっぽん), requesting three flowers in total. When the shopkeeper asks about a ribbon, the man says he doesn't need one (いりません). Therefore, the shopkeeper will prepare three flowers without a ribbon."
+  }
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ほんを　とりに　いく (Going to pick up a book)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "でんわで　としょかんの　ひとと　おんなの　ひとが　はなして　います. おんなの　ひとは　いつ　としょかんに　いきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "おでんわ　ありがとう　ございます. ちゅうおう　としょかんです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "すみません. ほんを　かりたいのですが、げつようびの　よる　いっても　いいですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "もうしわけ　ありません. げつようびは　おやすみです. かようびは　どうですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "かようびですか. わかりました. ごご　いっても　いいですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい、だいじょうぶですよ。"
+            }
+        ],
+        "question": "おんなの　ひとは　いつ　としょかんに　いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "げつようび",
+                "reading": "げつようび",
+                "tr": "Pazartesi",
+                "en": "Monday"
+            },
+            {
+                "word": "かようび",
+                "reading": "かようび",
+                "tr": "Salı",
+                "en": "Tuesday"
+            },
+            {
+                "word": "かりる",
+                "reading": "かりる",
+                "tr": "ödünç almak",
+                "en": "to borrow"
+            },
+            {
+                "word": "ごご",
+                "reading": "ごご",
+                "tr": "öğleden sonra",
+                "en": "afternoon"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　おやすみです",
+                "tr": "... kapalıdır / tatildir",
+                "en": "is closed / is on holiday"
+            },
+            {
+                "point": "～は　どうですか",
+                "tr": "... nasıldır? / ... ne dersiniz?",
+                "en": "How about ...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kütüphaneye Pazartesi akşamı (1) gitmek istiyor ancak kütüphane o gün kapalıdır. Görevli Salı gününü önerir. Kadın Salı öğleden sonra (4) gelmeyi kabul eder. Pazartesi gündüz (2) ve Salı sabah (3) yanıltıcı seçeneklerdir.",
+        "en": "The woman wants to go to the library on Monday evening (1), but the library is closed that day. The clerk suggests Tuesday. The woman agrees to come on Tuesday afternoon (4). Monday daytime (2) and Tuesday morning (3) are distractors."
+    }
+}

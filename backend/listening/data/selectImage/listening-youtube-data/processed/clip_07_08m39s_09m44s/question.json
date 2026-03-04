@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "かばんやで かいもの (Shopping at a bag shop)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "かばんやで おみせのひとと おとこのひとが はなしています。おとこのひとは どれを かいますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "いらっしゃいませ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あの、かばんを かいたいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい。こちらの おおきい あおい かばんは どうですか。とても いいですよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですね。じゃあ、それを ひとつ ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あ、こちらの ちいさい くろい かばんも いっしょに どうですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "そうですね。じゃあ、それも ひとつ ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは どれを かいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "かばん",
+                "reading": "かばん",
+                "tr": "çanta",
+                "en": "bag"
+            },
+            {
+                "word": "おおきい",
+                "reading": "おおきい",
+                "tr": "büyük",
+                "en": "big / large"
+            },
+            {
+                "word": "ちいさい",
+                "reading": "ちいさい",
+                "tr": "küçük",
+                "en": "small"
+            },
+            {
+                "word": "あおい",
+                "reading": "あおい",
+                "tr": "mavi",
+                "en": "blue"
+            },
+            {
+                "word": "くろい",
+                "reading": "くろい",
+                "tr": "siyah",
+                "en": "black"
+            },
+            {
+                "word": "ひとつ",
+                "reading": "ひとつ",
+                "tr": "bir tane",
+                "en": "one (item)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たいんですが",
+                "tr": "... yapmak istiyorum (yardım talebi)",
+                "en": "I'd like to ... (seeking assistance)"
+            },
+            {
+                "point": "～を ください",
+                "tr": "lütfen ... verin",
+                "en": "please give me ..."
+            },
+            {
+                "point": "～は どうですか",
+                "tr": "... ne dersiniz?",
+                "en": "how about ...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam önce 1 adet büyük mavi çanta (おおきい あおい かばん) istiyor. Daha sonra tezgahtar küçük siyah çanta önerince, ondan da 1 adet (ひとつ) almaya karar veriyor. Bu durumda (3) numaralı panel doğrudur. (1) numaralı panel renkleri ters verdiği (büyük siyah, küçük mavi) için yanlıştır. (2) numaralı panel sadece büyük mavi çanta gösterdiği, (4) numaralı panel ise sadece küçük siyah çanta gösterdiği için yanlıştır.",
+        "en": "The man first asks for 1 large blue bag (おおきい あおい かばん). Then, when the clerk suggests a small black bag, he decides to buy 1 (ひとつ) of that as well. Therefore, panel (3) is correct. Panel (1) is wrong because the colors are swapped (large black, small blue). Panel (2) is wrong because it only shows the large blue bag, and panel (4) is wrong because it only shows the small black bag."
+    }
+}

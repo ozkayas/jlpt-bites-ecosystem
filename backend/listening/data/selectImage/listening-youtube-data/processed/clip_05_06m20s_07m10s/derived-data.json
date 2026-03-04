@@ -1,0 +1,145 @@
+{
+    "source_clip": "clip_05_06m20s_07m10s",
+    "metadata": {
+        "level": "n5",
+        "topic": "Directions and Locations",
+        "pattern_used": "Location"
+    },
+    "visual_prompts": {
+        "image_type": "map_diagram",
+        "image_prompt": "Create an EXACT visual clone of the provided reference image layout. Replicate the exact same roads, the exact same building shapes, their exact positions, and the exact same people at the bottom. CRITICAL INSTRUCTION: The front faces of the four large buildings MUST BE COMPLETELY BLANK. Remove the Japanese text 'はなや' and 'デパート' completely. Leave the front of these buildings as clean, white, empty squares. Do NOT add any new text. Keep the numbers '1', '2', '3', and '4' on the small buildings exactly where they are in the reference image. The final image should look exactly like the reference, but with all the text erased from the large buildings.",
+        "panel_map": [
+            {
+                "panel_number": 1,
+                "logic_role": "Correct"
+            },
+            {
+                "panel_number": 2,
+                "logic_role": "Distractor_A"
+            },
+            {
+                "panel_number": 3,
+                "logic_role": "Distractor_B"
+            },
+            {
+                "panel_number": 4,
+                "logic_role": "Distractor_C"
+            }
+        ]
+    },
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは どこへ いきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "すみません。ゆうびんきょくに いきたいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ゆうびんきょくですか。まず このみちを まっすぐ いってください。あそこに こんびにが ありますね。あの みちを ひだりに まがってください。としょかんの となりに ありますよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは どこへ いきますか。"
+    },
+    "transcription_tr": {
+        "intro": "Bir adam ve bir kadın konuşuyor. Adam nereye gidecek?",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "Afedersiniz. Postaneye gitmek istiyorum da."
+            },
+            {
+                "speaker": "女の人",
+                "text": "Postane mi? Önce bu yolu dümdüz gidin. Şurada bir market (konbini) var, değil mi? O yoldan sola dönün. Kütüphanenin yanında bulunuyor."
+            },
+            {
+                "speaker": "男の人",
+                "text": "Anladım. Teşekkür ederim."
+            }
+        ],
+        "question": "Adam nereye gidecek?"
+    },
+    "logic": {
+        "tr": "Adam postaneye (ゆうびんきょく) gitmek istediğini söylüyor. Kadın ona marketin (こんびに) oradan sola (ひだり) dönmesini ve postanenin kütüphanenin (としょかん) yanında (となり) olduğunu söylüyor. Haritada (1) numaralı bina kütüphanenin yanındadır, bu yüzden doğru cevap (1)'dir.",
+        "en": "The man wants to go to the post office (yuubinkyoku). The woman tells him to turn left (hidari) at the convenience store (konbini) and that the post office is next to (tonari) the library (toshokan). On the map, building (1) is next to the library, so the correct answer is (1)."
+    },
+    "correct_option": 0,
+    "tts_script": [
+        {
+            "voice": "Intro_Voice",
+            "text": "おとこのひとと おんなのひとが はなしています。"
+        },
+        {
+            "break": "1.0s"
+        },
+        {
+            "voice": "Male_1",
+            "text": "すみません。ゆうびんきょくに いきたいんですが。"
+        },
+        {
+            "break": "0.5s"
+        },
+        {
+            "voice": "Female_1",
+            "text": "ゆうびんきょくですか。まず このみちを まっすぐ いってください。あそこに こんびにが ありますね。あの みちを ひだりに まがってください。としょかんの となりに ありますよ。"
+        },
+        {
+            "break": "0.5s"
+        },
+        {
+            "voice": "Male_1",
+            "text": "わかりました。ありがとうございます。"
+        },
+        {
+            "break": "1.0s"
+        },
+        {
+            "voice": "Intro_Voice",
+            "text": "おとこのひとは どこへ いきますか。"
+        }
+    ],
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ゆうびんきょく",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "ひだり",
+                "reading": "ひだり",
+                "tr": "sol",
+                "en": "left"
+            },
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "こんびに",
+                "reading": "こんびに",
+                "tr": "market",
+                "en": "convenience store"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に いきたい",
+                "tr": "-e gitmek istemek",
+                "en": "want to go to"
+            },
+            {
+                "point": "～に まがる",
+                "tr": "-e sapmak / dönmek",
+                "en": "to turn (direction)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "Directions and Locations"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは どこへ いきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "すみません。ゆうびんきょくに いきたいんですが。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ゆうびんきょくですか。まず このみちを まっすぐ いってください。あそこに こんびにが ありますね。あの みちを ひだりに まがってください。としょかんの となりに ありますよ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは どこへ いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ゆうびんきょく",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "ひだり",
+                "reading": "ひだり",
+                "tr": "sol",
+                "en": "left"
+            },
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "こんびに",
+                "reading": "こんびに",
+                "tr": "market",
+                "en": "convenience store"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に いきたい",
+                "tr": "-e gitmek istemek",
+                "en": "want to go to"
+            },
+            {
+                "point": "～に まがる",
+                "tr": "-e sapmak / dönmek",
+                "en": "to turn (direction)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam postaneye (ゆうびんきょく) gitmek istediğini söylüyor. Kadın ona marketin (こんびに) oradan sola (ひだり) dönmesini ve postanenin kütüphanenin (としょかん) yanında (となり) olduğunu söylüyor. Haritada (1) numaralı bina kütüphanenin yanındadır, bu yüzden doğru cevap (1)'dir.",
+        "en": "The man wants to go to the post office (yuubinkyoku). The woman tells him to turn left (hidari) at the convenience store (konbini) and that the post office is next to (tonari) the library (toshokan). On the map, building (1) is next to the library, so the correct answer is (1)."
+    }
+}

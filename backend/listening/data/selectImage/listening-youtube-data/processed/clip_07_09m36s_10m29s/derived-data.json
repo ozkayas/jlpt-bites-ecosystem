@@ -1,0 +1,166 @@
+{
+  "source_clip": "clip_07_09m36s_10m29s",
+  "metadata": {
+    "level": "n5",
+    "topic": "こうえんに　いく　でんしゃを　えらぶ (Choosing the train to the park)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Each panel shows a simple Japanese commuter train carriage from a side-front perspective. Each train has a large number displayed on its front and side. Panel 1 (top-left, number 1): A white train with the number '10'. Panel 2 (top-right, number 2): A white train with the number '12'. Panel 3 (bottom-left, number 3): A blue train with the number '12'. Panel 4 (bottom-right, number 4): A blue train with the number '10'. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome (use hatching or solid black for the 'blue' parts), thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the panel numbers 1, 2, 3, 4 and the train numbers 10 or 12.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_C"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Correct"
+      }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "がっこうで　せんせいが　がくせいに　はなして　います。がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "あしたは　こうえんに　いきます。でんしゃで　きて　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "こうえんへ　いく　でんしゃは　じゅうばんと　じゅうにばんですが、あさは　じゅうにばんの　でんしゃは　ありません。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "ですから、あしたの　あさは　じゅうばんの　あおい　でんしゃに　のって　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "はい、わかりました。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+    }
+  ],
+  "transcription": {
+    "intro": "がっこうで　せんせいが　がくせいに　はなして　います。がくせいは　あしたの　あさ　どのでんしゃに　のりますか。",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "あしたは　こうえんに　いきます。でんしゃで　きて　ください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "こうえんへ　いく　でんしゃは　じゅうばんと　じゅうにばんですが、あさは　じゅうにばんの　でんしゃは　ありません。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "ですから、あしたの　あさは　じゅうばんの　あおい　でんしゃに　のって　ください。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "はい、わかりました。"
+      }
+    ],
+    "question": "がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+  },
+  "transcription_tr": {
+    "intro": "Okulda bir öğretmen öğrencilere konuşuyor. Öğrenciler yarın sabah hangi trene binecekler?",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "Yarın parka gideceğiz. Lütfen trenle gelin."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Parka giden trenler 10 ve 12 numaradır ancak sabahları 12 numaralı tren yoktur."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Bu yüzden, yarın sabah 10 numaralı mavi trene binin lütfen."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Tamam, anladık."
+      }
+    ],
+    "question": "Öğrenciler yarın sabah hangi trene binecekler?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "こうえん",
+        "reading": "こうえん",
+        "tr": "park",
+        "en": "park"
+      },
+      {
+        "word": "でんしゃ",
+        "reading": "でんしゃ",
+        "tr": "tren",
+        "en": "train"
+      },
+      {
+        "word": "じゅうばん",
+        "reading": "じゅうばん",
+        "tr": "10 numara",
+        "en": "number 10"
+      },
+      {
+        "word": "あおい",
+        "reading": "あおい",
+        "tr": "mavi",
+        "en": "blue"
+      },
+      {
+        "word": "ありません",
+        "reading": "ありません",
+        "tr": "yok / bulunmuyor",
+        "en": "there isn't / doesn't exist"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ですが",
+        "tr": "...-dır ama / ancak",
+        "en": "is ..., but"
+      },
+      {
+        "point": "ですから",
+        "tr": "bu yüzden",
+        "en": "therefore"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen parka giden 10 ve 12 numaralı trenlerden bahseder ancak 12 numaranın sabah çalışmadığını belirtir. Yarın sabah için öğrencilere 10 numaralı mavi trene (4) binmeleri talimatını verir. 10 beyaz (1), 12 beyaz (2) ve 12 mavi (3) yanıltıcı seçeneklerdir.",
+    "en": "The teacher mentions trains 10 and 12 for the park but notes that number 12 doesn't run in the morning. He instructs the students to take the blue train number 10 (4) for tomorrow morning. Distractors include 10 white (1), 12 white (2), and 12 blue (3)."
+  }
+}

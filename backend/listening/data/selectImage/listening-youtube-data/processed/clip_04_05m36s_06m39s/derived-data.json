@@ -1,0 +1,187 @@
+{
+  "source_clip": "clip_04_05m36s_06m39s",
+  "metadata": {
+    "level": "n5",
+    "topic": "こんばんの　くだものを　えらぶ (Choosing fruits for tonight)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Items are placed on a simple white plate against a pure white background. Panel 1 (top-left, number 1): Two small apples and two bunches of grapes. Panel 2 (top-right, number 2): Two small apples, one large banana, and one bunch of grapes. Panel 3 (bottom-left, number 3): Two small apples and one large banana. Panel 4 (bottom-right, number 4): One small apple and one large banana. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel. Do not draw any logos or icons on the fruits.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Correct"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Distractor_C"
+      }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "こんばんの　あまいいものを　つくりましょう。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "わかりました。この　みどりの　ぶどうも　いれますか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "ぶどうは　あしたの　あさ　たべましょう。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "わかりました。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+    }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "こんばんの　あまいいものを　つくりましょう。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "わかりました。この　みどりの　ぶどうも　いれますか。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "ぶどうは　あしたの　あさ　たべましょう。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "わかりました。"
+      }
+    ],
+    "question": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+  },
+  "transcription_tr": {
+    "intro": "Bir adam ve bir kadın konuşuyorlar. Adam bu akşam hangi meyveleri seçecek?",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "Bu akşamki tatlıyı yapalım."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Şu kırmızı ve küçük elmadan iki tane, sonra sarı ve büyük muzdan bir tane kullanın lütfen."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Anladım. Şu yeşil üzümü de ekleyeyim mi?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Üzümü yarın sabah yiyelim."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Anladım."
+      }
+    ],
+    "question": "Adam bu akşam hangi meyveleri seçecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "くだもの",
+        "reading": "くだもの",
+        "tr": "meyve",
+        "en": "fruit"
+      },
+      {
+        "word": "りんご",
+        "reading": "りんご",
+        "tr": "elma",
+        "en": "apple"
+      },
+      {
+        "word": "ばなな",
+        "reading": "ばなな",
+        "tr": "muz",
+        "en": "banana"
+      },
+      {
+        "word": "ぶどう",
+        "reading": "ぶどう",
+        "tr": "üzüm",
+        "en": "grapes"
+      },
+      {
+        "word": "あかくて",
+        "reading": "あかくて",
+        "tr": "kırmızı (ve)",
+        "en": "red (and)"
+      },
+      {
+        "word": "きいろくて",
+        "reading": "きいろくて",
+        "tr": "sarı (ve)",
+        "en": "yellow (and)"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～を　ふたつ / ひとつ",
+        "tr": "Sayma ekleri (iki tane / bir tane)",
+        "en": "Counters (two items / one item)"
+      },
+      {
+        "point": "～ましょう",
+        "tr": "Hadi ... yapalım (istek/teklif)",
+        "en": "Let's ... (suggestion)"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın bu akşam için 2 küçük elma ve 1 büyük muz kullanılmasını söyler. Üzümün yarın sabah yeneceğini belirttiği için üzüm bu akşamki seçime dahil değildir. (3) numaralı panel 2 elma ve 1 muz ile doğru cevaptır. Diğer paneller miktar hataları veya yarınki üzümü içerdikleri için yanlıştır.",
+    "en": "The woman instructs to use 2 small apples and 1 large banana for tonight. Since she specifies that the grapes are for tomorrow morning, they are not included in tonight's selection. Panel (3) is the correct answer with 2 apples and 1 banana. Other panels are incorrect due to quantity errors or inclusion of tomorrow's grapes."
+  }
+}

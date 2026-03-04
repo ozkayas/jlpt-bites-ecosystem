@@ -1,0 +1,181 @@
+{
+  "source_clip": "clip_05_06m53s_08m08s",
+  "metadata": {
+    "level": "n5",
+    "topic": "ほんを　とりに　いく (Going to pick up a book)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Minimalist black and white line art. Each panel contains ONLY text. Panel 1 (top-left): The Japanese text '月曜日 20:00'. Panel 2 (top-right): The Japanese text '月曜日 14:00'. Panel 3 (bottom-left): The Japanese text '火曜日 20:00'. Panel 4 (bottom-right): The Japanese text '火曜日 14:00'. High contrast, clear typography, white background.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_C"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Correct"
+      }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "でんわで　としょかんの　ひとと　おんなの　ひとが　はなして　います. おんなの　ひとは　いつ　としょかんに　いきますか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "おでんわ　ありがとう　ございます. ちゅうおう　としょかんです。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "すみません. ほんを　かりたいのですが、げつようびの　よる　いっても　いいですか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "もうしわけ　ありません. げつようびは　おやすみです. かようびは　どうですか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "かようびですか. わかりました. ごご　いっても　いいですか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい、だいじょうぶですよ。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなの　ひとは　いつ　としょかんに　いきますか。"
+    }
+  ],
+  "transcription": {
+    "intro": "でんわで　としょかんの　ひとと　おんなの　ひとが　はなして　います. おんなの　ひとは　いつ　としょかんに　いきますか。",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "おでんわ　ありがとう　ございます. ちゅうおう　としょかんです。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "すみません. ほんを　かりたいのですが、げつようびの　よる　いっても　いいですか。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "もうしわけ　ありません. げつようびは　おやすみです. かようびは　どうですか。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "かようびですか. わかりました. ごご　いっても　いいですか。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい、だいじょうぶですよ。"
+      }
+    ],
+    "question": "おんなの　ひとは　いつ　としょかんに　いきますか。"
+  },
+  "transcription_tr": {
+    "intro": "Telefonda kütüphane görevlisi ve bir kadın konuşuyorlar. Kadın kütüphaneye ne zaman gidecek?",
+    "dialogue": [
+      {
+        "speaker": "Male_1",
+        "text": "Aradığınız için teşekkürler. Merkez kütüphanesi."
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Affedersiniz. Kitap ödünç almak istiyorum, Pazartesi akşamı gelebilir miyim?"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Çok üzgünüm. Pazartesi günleri kapalıyız. Salı günü nasıl?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Salı mı? Anladım. Öğleden sonra gelebilir miyim?"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Evet, uygun."
+      }
+    ],
+    "question": "Kadın kütüphaneye ne zaman gidecek?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "としょかん",
+        "reading": "としょかん",
+        "tr": "kütüphane",
+        "en": "library"
+      },
+      {
+        "word": "げつようび",
+        "reading": "げつようび",
+        "tr": "Pazartesi",
+        "en": "Monday"
+      },
+      {
+        "word": "かようび",
+        "reading": "かようび",
+        "tr": "Salı",
+        "en": "Tuesday"
+      },
+      {
+        "word": "かりる",
+        "reading": "かりる",
+        "tr": "ödünç almak",
+        "en": "to borrow"
+      },
+      {
+        "word": "ごご",
+        "reading": "ごご",
+        "tr": "öğleden sonra",
+        "en": "afternoon"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～は　おやすみです",
+        "tr": "... kapalıdır / tatildir",
+        "en": "is closed / is on holiday"
+      },
+      {
+        "point": "～は　どうですか",
+        "tr": "... nasıldır? / ... ne dersiniz?",
+        "en": "How about ...?"
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın kütüphaneye Pazartesi akşamı (1) gitmek istiyor ancak kütüphane o gün kapalıdır. Görevli Salı gününü önerir. Kadın Salı öğleden sonra (4) gelmeyi kabul eder. Pazartesi gündüz (2) ve Salı sabah (3) yanıltıcı seçeneklerdir.",
+    "en": "The woman wants to go to the library on Monday evening (1), but the library is closed that day. The clerk suggests Tuesday. The woman agrees to come on Tuesday afternoon (4). Monday daytime (2) and Tuesday morning (3) are distractors."
+  }
+}

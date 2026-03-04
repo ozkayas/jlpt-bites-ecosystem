@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": "こうえんの そうじ (Cleaning the park)",
+    "audio_url": null
+  },
+  "options": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "correct_option": null,
+  "transcription": {
+    "intro": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。",
+    "dialogue": [
+      {
+        "speaker": "男の人",
+        "text": "やまださん、らいしゅうの にちようび、みどりこうえんの そうじを します。 ちかくに すんでいる ひとが たくさん きますよ。 やまださんも きてください。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "わかりました。 なにを もっていきますか。"
+      },
+      {
+        "speaker": "男の人",
+        "text": "あついですから、ぼうしを わすれないでください。 それから、みなさんの おちゃは わたしが もっていきますから、かっぷを もってきてください。 よろしく おねがいします。"
+      },
+      {
+        "speaker": "女の人",
+        "text": "はい。"
+      }
+    ],
+    "question": "おんなのひとは なにを もっていきますか。"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "そうじ",
+        "tr": "temizlik",
+        "en": "cleaning"
+      },
+      {
+        "word": "ちかくに",
+        "tr": "yakınlarda",
+        "en": "nearby"
+      },
+      {
+        "word": "あつい",
+        "tr": "sıcak",
+        "en": "hot"
+      },
+      {
+        "word": "ぼうし",
+        "tr": "şapka",
+        "en": "hat"
+      },
+      {
+        "word": "わすれないで",
+        "tr": "unutma",
+        "en": "don't forget"
+      },
+      {
+        "word": "おちゃ",
+        "tr": "çay",
+        "en": "tea"
+      },
+      {
+        "word": "かっぷ",
+        "tr": "fincan, kupa",
+        "en": "cup"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "〜を します",
+        "tr": "...'yı yapacağım / yapıyorum",
+        "en": "to do ..."
+      },
+      {
+        "point": "〜てください",
+        "tr": "lütfen ... yapın",
+        "en": "please do ..."
+      },
+      {
+        "point": "〜ないでください",
+        "tr": "lütfen ... yapmayın",
+        "en": "please do not ..."
+      },
+      {
+        "point": "〜から",
+        "tr": "... olduğu için / ... -den dolayı",
+        "en": "because / since ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Adam iki şey getirmesini ister: Sıcak olduğu için bir şapka (ぼうし) ve çay içmek için bir kupa/fincan (かっぷ). Çayı kendisinin getireceğini, bu yüzden kadının sadece şapka ve kupa getirmesi gerektiğini belirtir.",
+    "en": "The man asks the woman to bring two things: a hat (ぼうし) because it's hot, and a cup (かっぷ) for the tea. He mentions he will bring the tea itself, so the woman needs to bring her hat and a cup."
+  }
+}

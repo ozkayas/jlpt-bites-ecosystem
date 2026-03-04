@@ -1,0 +1,207 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_05m33s_06m26s",
+  "metadata": {
+    "level": "n5",
+    "topic": "へやの　そうじ (Cleaning the room - Table, Books, and Vase)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels. Each panel shows a simple room setting with a table and a bookshelf against a white wall. Panel 1 (top-left, number 1): The bookshelf is empty and the books are stacked on the table. There is NO vase on the table. Panel 2 (top-right, number 2): The bookshelf is empty and the books are stacked on the table. A simple flower vase with one flower is on the table. Panel 3 (bottom-left, number 3): The books are neatly arranged inside the bookshelf and the table is empty. There is NO vase on the table. Panel 4 (bottom-right, number 4): The books are neatly arranged inside the bookshelf. A simple flower vase with one flower is placed on the table. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+    "panel_map": [
+      {
+        "panel": 1,
+        "logic_role": "Distractor_A"
+      },
+      {
+        "panel": 2,
+        "logic_role": "Distractor_B"
+      },
+      {
+        "panel": 3,
+        "logic_role": "Distractor_C"
+      },
+      {
+        "panel": 4,
+        "logic_role": "Correct"
+      }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    {
+      "voice": "Intro_Voice",
+      "text": "おんなのひとと　おとこのひとが　へやの　そうじを　しています。へやは　いま　どうなって　いますか。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "へやの　そうじを　しましょう。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい。この　ほんは　どうしますか。てーぶるの　うえに　おきましょうか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "いいえ、ほんは　ほんだなに　いれて　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "わかりました。あ、この　かびんは　どうしますか。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Female_1",
+      "text": "かびんは　てーぶるの　うえに　おいて　ください。"
+    },
+    {
+      "break": "0.5s"
+    },
+    {
+      "voice": "Male_1",
+      "text": "はい、わかりました。"
+    },
+    {
+      "break": "1s"
+    },
+    {
+      "voice": "Intro_Voice",
+      "text": "へやは　いま　どうなって　いますか。"
+    }
+  ],
+  "transcription": {
+    "intro": "おんなのひとと　おとこのひとが　へやの　そうじを　しています。へやは　いま　どうなって　いますか。",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "へやの　そうじを　しましょう。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい。この　ほんは　どうしますか。てーぶるの　うえに　おきましょうか。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "いいえ、ほんは　ほんだなに　いれて　ください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "わかりました。あ、この　かびんは　どうしますか。"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "かびんは　てーぶるの　うえに　おいて　ください。"
+      },
+      {
+        "speaker": "Male_1",
+        "text": "はい、わかりました。"
+      }
+    ],
+    "question": "へやは　いま　どうなって　いますか。"
+  },
+  "transcription_tr": {
+    "intro": "Bir kadın ve bir adam odayı temizliyorlar. Oda şu an ne durumdadır?",
+    "dialogue": [
+      {
+        "speaker": "Female_1",
+        "text": "Odayı temizleyelim."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Tamam. Bu kitapları ne yapalım? Masanın üzerine mi koyalım?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Hayır, kitapları kitaplığa koyun lütfen."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Anladım. Ah, bu vazoyu ne yapalım?"
+      },
+      {
+        "speaker": "Female_1",
+        "text": "Vazoyu masanın üzerine koyun lütfen."
+      },
+      {
+        "speaker": "Male_1",
+        "text": "Tamam, anladım."
+      }
+    ],
+    "question": "Oda şu an ne durumdadır?"
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "そうじ",
+        "reading": "そうじ",
+        "tr": "temizlik",
+        "en": "cleaning"
+      },
+      {
+        "word": "ほん",
+        "reading": "ほん",
+        "tr": "kitap",
+        "en": "book"
+      },
+      {
+        "word": "ほんだな",
+        "reading": "ほんだな",
+        "tr": "kitaplık",
+        "en": "bookshelf"
+      },
+      {
+        "word": "いれる",
+        "reading": "いれる",
+        "tr": "içine koymak / yerleştirmek",
+        "en": "to put in / to insert"
+      },
+      {
+        "word": "かびん",
+        "reading": "かびん",
+        "tr": "vazo",
+        "en": "vase"
+      },
+      {
+        "word": "おく",
+        "reading": "おく",
+        "tr": "koymak (bir yere)",
+        "en": "to place / to put"
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ましょう",
+        "tr": "-alım/-elim (istek/teklif)",
+        "en": "let's (suggestion)"
+      },
+      {
+        "point": "～ましょうか",
+        "tr": "-ayım mı? / -alım mı? (teklif etme)",
+        "en": "shall I/we...? (offering to do something)"
+      },
+      {
+        "point": "～てください",
+        "tr": "lütfen ... yapın",
+        "en": "please do ..."
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın kitapların masaya konmamasını, kitaplığa yerleştirilmesini söyler. Vazoyu ise masanın üzerine koymasını ister. Bu iki şartı sağlayan (kitaplar kitaplıkta, vazo masanın üzerinde) panel 4'tür. Kitapların masada olması veya vazonun olmaması çeldiricilerdir.",
+    "en": "The woman instructs not to put the books on the table but to place them in the bookshelf. She asks to place the vase on the table. Panel 4 correctly shows the books in the shelf and the vase on the table. Books on the table or the vase being absent are distractors."
+  }
+}

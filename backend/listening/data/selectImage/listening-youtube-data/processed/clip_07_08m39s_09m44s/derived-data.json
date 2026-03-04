@@ -1,0 +1,83 @@
+{
+  "source_clip": "clip_07_08m39s_09m44s",
+  "metadata": {
+    "level": "n5",
+    "topic": "かばんやで かいもの (Shopping at a bag shop)",
+    "pattern_used": "Attribute"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Each panel shows bags on a pure white background. Colorful minimalist illustration style, flat colors, thick clean outlines, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel. Panel 1 (top-left, number 1): exactly one large black bag and one small blue bag. Panel 2 (top-right, number 2): exactly one large blue bag only. Panel 3 (bottom-left, number 3): exactly one large blue bag and one small black bag. Panel 4 (bottom-right, number 4): exactly one small black bag only.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "かばんやで おみせのひとと おとこのひとが はなしています。おとこのひとは どれを かいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "いらっしゃいませ。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あの、かばんを かいたいんですが。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。こちらの おおきい あおい かばんは どうですか。とても いいですよ。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "そうですね。じゃあ、それを ひとつ ください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "あ、こちらの ちいさい くろい かばんも いっしょに どうですか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "そうですね。じゃあ、それも ひとつ ください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "わかりました。ありがとうございます。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おとこのひとは どれを かいますか。" }
+  ],
+  "transcription": {
+    "intro": "かばんやで おみせのひとと おとこのひとが はなしています。おとこのひとは どれを かいますか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "いらっしゃいませ。" },
+      { "speaker": "Male_1", "text": "あの、かばんを かいたいんですが。" },
+      { "speaker": "Female_1", "text": "はい。こちらの おおきい あおい かばんは どうですか。とても いいですよ。" },
+      { "speaker": "Male_1", "text": "そうですね。じゃあ、それを ひとつ ください。" },
+      { "speaker": "Female_1", "text": "あ、こちらの ちいさい くろい かばんも いっしょに どうですか。" },
+      { "speaker": "Male_1", "text": "そうですね。じゃあ、それも ひとつ ください。" },
+      { "speaker": "Female_1", "text": "わかりました。ありがとうございます。" }
+    ],
+    "question": "おとこのひとは どれを かいますか。"
+  },
+  "transcription_tr": {
+    "intro": "Çantacıda bir görevli ile bir erkek konuşuyor. Erkek hangisini alıyor?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Hoş geldiniz." },
+      { "speaker": "Male_1", "text": "Şey, çanta almak istiyorum." },
+      { "speaker": "Female_1", "text": "Buyurun. Bu büyük mavi çanta nasıl? Çok güzeldir." },
+      { "speaker": "Male_1", "text": "Öyle mi? O zaman, ondan bir tane lütfen." },
+      { "speaker": "Female_1", "text": "Ah, buradaki küçük siyah çantayı da beraberinde almaz mısınız?" },
+      { "speaker": "Male_1", "text": "Haklısınız. O zaman, ondan da bir tane lütfen." },
+      { "speaker": "Female_1", "text": "Anladım. Teşekkürler." }
+    ],
+    "question": "Erkek hangisini alıyor?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "かばん", "reading": "かばん", "tr": "çanta", "en": "bag" },
+      { "word": "おおきい", "reading": "おおきい", "tr": "büyük", "en": "big / large" },
+      { "word": "ちいさい", "reading": "ちいさい", "tr": "küçük", "en": "small" },
+      { "word": "あおい", "reading": "あおい", "tr": "mavi", "en": "blue" },
+      { "word": "くろい", "reading": "くろい", "tr": "siyah", "en": "black" },
+      { "word": "ひとつ", "reading": "ひとつ", "tr": "bir tane", "en": "one (item)" }
+    ],
+    "grammar": [
+      { "point": "～たいんですが", "tr": "... yapmak istiyorum (yardım talebi)", "en": "I'd like to ... (seeking assistance)" },
+      { "point": "～を ください", "tr": "lütfen ... verin", "en": "please give me ..." },
+      { "point": "～は どうですか", "tr": "... ne dersiniz?", "en": "how about ...?" }
+    ]
+  },
+  "logic": {
+    "tr": "Adam önce 1 adet büyük mavi çanta (おおきい あおい かばん) istiyor. Daha sonra tezgahtar küçük siyah çanta önerince, ondan da 1 adet (ひとつ) almaya karar veriyor. Bu durumda (3) numaralı panel doğrudur. (1) numaralı panel renkleri ters verdiği (büyük siyah, küçük mavi) için yanlıştır. (2) numaralı panel sadece büyük mavi çanta gösterdiği, (4) numaralı panel ise sadece küçük siyah çanta gösterdiği için yanlıştır.",
+    "en": "The man first asks for 1 large blue bag (おおきい あおい かばん). Then, when the clerk suggests a small black bag, he decides to buy 1 (ひとつ) of that as well. Therefore, panel (3) is correct. Panel (1) is wrong because the colors are swapped (large black, small blue). Panel (2) is wrong because it only shows the large blue bag, and panel (4) is wrong because it only shows the small black bag."
+  }
+}

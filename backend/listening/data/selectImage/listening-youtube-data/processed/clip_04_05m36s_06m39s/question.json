@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "こんばんの　くだものを　えらぶ (Choosing fruits for tonight)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "こんばんの　あまいいものを　つくりましょう。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。この　みどりの　ぶどうも　いれますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ぶどうは　あしたの　あさ　たべましょう。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。"
+            }
+        ],
+        "question": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "くだもの",
+                "reading": "くだもの",
+                "tr": "meyve",
+                "en": "fruit"
+            },
+            {
+                "word": "りんご",
+                "reading": "りんご",
+                "tr": "elma",
+                "en": "apple"
+            },
+            {
+                "word": "ばなな",
+                "reading": "ばなな",
+                "tr": "muz",
+                "en": "banana"
+            },
+            {
+                "word": "ぶどう",
+                "reading": "ぶどう",
+                "tr": "üzüm",
+                "en": "grapes"
+            },
+            {
+                "word": "あかくて",
+                "reading": "あかくて",
+                "tr": "kırmızı (ve)",
+                "en": "red (and)"
+            },
+            {
+                "word": "きいろくて",
+                "reading": "きいろくて",
+                "tr": "sarı (ve)",
+                "en": "yellow (and)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～を　ふたつ / ひとつ",
+                "tr": "Sayma ekleri (iki tane / bir tane)",
+                "en": "Counters (two items / one item)"
+            },
+            {
+                "point": "～ましょう",
+                "tr": "Hadi ... yapalım (istek/teklif)",
+                "en": "Let's ... (suggestion)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın bu akşam için 2 küçük elma ve 1 büyük muz kullanılmasını söyler. Üzümün yarın sabah yeneceğini belirttiği için üzüm bu akşamki seçime dahil değildir. (3) numaralı panel 2 elma ve 1 muz ile doğru cevaptır. Diğer paneller miktar hataları veya yarınki üzümü içerdikleri için yanlıştır.",
+        "en": "The woman instructs to use 2 small apples and 1 large banana for tonight. Since she specifies that the grapes are for tomorrow morning, they are not included in tonight's selection. Panel (3) is the correct answer with 2 apples and 1 banana. Other panels are incorrect due to quantity errors or inclusion of tomorrow's grapes."
+    }
+}
