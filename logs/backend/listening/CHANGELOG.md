@@ -1,3 +1,32 @@
+## 2026-03-04
+
+### Listening Modülü Çok Dilli Yapı Göçü ve Yeni Varyasyonlar
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `backend/listening/data/selectImage/listening-youtube-data/processed/*/question.json` | DEĞİŞTİRİLDİ | 30 adet soru 6 dilli (TR, EN, DE, FR, ES, KO) "Fat JSON" yapısına dönüştürüldü. |
+| `.agents/skills/jlpt-listening-multi-language-expander/` | YENİ | Çok dilli dönüşümü otomatize eden yeni Agent Skill oluşturuldu. |
+| `backend/listening/data/selectImage/README.md` | DEĞİŞTİRİLDİ | Kullanılabilir Agent yetenekleri (Skills) bölümü eklendi ve dokümante edildi. |
+| `CLAUDE.md` | DEĞİŞTİRİLDİ | Yeni Agent yeteneklerinin modül README'lerine eklenmesi zorunluluğu kural olarak eklendi. |
+| `backend/n5_vocabulary/data/n5_vocabulary.json` | DEĞİŞTİRİLDİ | 026-075 arası kelimelere Korece çeviriler eklendi. |
+| `processed/clip_7HfHdb5J3f4_01_06m15s_07m30s/` | YENİ | "Mendil Seçimi" varyasyonu (Küçük kediler vs Büyük köpekler) tamamlandı. |
+| `processed/clip_7HfHdb5J3f4_02_08m45s_09m25s/` | YENİ | "Ofiste Bekleme" varyasyonu (Kitaplık yanındaki koltuk) tamamlandı. |
+| `tobeprocessed/clip_7HfHdb5J3f4_03_09m40s_10m50s/` | DEĞİŞTİRİLDİ | "Kütüphanede Ders Çalışma" varyasyonu hazırlandı (Görsel ve JSON hazır, Ses API limiti nedeniyle bekliyor). |
+
+**Yapılanlar:**
+- Dinleme modülündeki tüm `question.json` dosyaları tek bir dosyada 6 dili (TR, EN, DE, FR, ES, KO) destekleyecek "Fat JSON" mimarisine taşındı.
+- `jlpt-listening-multi-language-expander` yeteneği geliştirildi; Japonca ana referans alınarak N5 seviyesinde profesyonel çeviriler ve JSON validasyonu yapıldı.
+- `clip_7HfHdb5J3f4` YouTube klibinden 3 yeni varyasyon üretildi. Görsel üretiminde Imagen 3 kullanıldı ve WebP optimizasyonu (max 700px) uygulandı.
+- `selectImage` README'si yeni yetenekleri ve sorumluluk dağılımını içerecek şekilde güncellendi.
+- N5 kelime listesinde Korece çeviri süreci başlatıldı (İlk 75 kelime tamamlandı).
+
+**Bağlam:**
+Uygulamanın uluslararasılaşma (i18n) stratejisi doğrultusunda içerik altyapısı tekilleştirildi ve 6 dil desteği tüm dinleme sorularına uygulandı.
+
+---
+
 ## 2026-03-03
 
 ### clip_03_04m11s_05m03s varyasyonu oluşturuldu
