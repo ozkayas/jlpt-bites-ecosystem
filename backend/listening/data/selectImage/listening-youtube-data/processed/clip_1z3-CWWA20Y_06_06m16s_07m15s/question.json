@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "やまのぼりの じゅんび (Preparing for mountain climbing)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "やまださん、あしたは やまのぼりに いきますよ。 あさ ろくじに きてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。 なにを もっていきますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あしたは あついですから、ぼうしを わすれないでください。 それから、かめらも もってきてください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "おべんとうは どうしますか。 もっていきますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "おべんとうは わたしが もっていきますから、いりませんよ。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい。 わかりました。"
+            }
+        ],
+        "question": "おんなのひとは なにを もっていきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "山登り",
+                "reading": "やまのぼり",
+                "tr": "dağ tırmanışı",
+                "en": "mountain climbing"
+            },
+            {
+                "word": "明日",
+                "reading": "あした",
+                "tr": "yarın",
+                "en": "tomorrow"
+            },
+            {
+                "word": "朝",
+                "reading": "あさ",
+                "tr": "sabah",
+                "en": "morning"
+            },
+            {
+                "word": "熱い",
+                "reading": "あつい",
+                "tr": "sıcak",
+                "en": "hot"
+            },
+            {
+                "word": "帽子",
+                "reading": "ぼうし",
+                "tr": "şapka",
+                "en": "hat"
+            },
+            {
+                "word": "カメラ",
+                "reading": "カメラ",
+                "tr": "kamera",
+                "en": "camera"
+            },
+            {
+                "word": "お弁当",
+                "reading": "おべんとう",
+                "tr": "öğle yemeği paketi",
+                "en": "lunch box"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜ないでください",
+                "tr": "... yapmayın",
+                "en": "please do not ..."
+            },
+            {
+                "point": "〜も 〜てきてください",
+                "tr": "...'yı da getirin",
+                "en": "please also bring ..."
+            },
+            {
+                "point": "〜は わたしが もっていきます",
+                "tr": "...'yı ben götüreceğim",
+                "en": "I will bring ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam kadından iki şey getirmesini ister: Şapka (ぼうし) ve kamera (カメラ). Kadın öğle yemeği (おべんとう) getirmeli miyim diye sorduğunda ise adam 'Ben getireceğim, gerek yok' diyerek onu eler. Dolayısıyla kadın sadece şapka ve kamera getirecektir (4).",
+        "en": "The man asks the woman to bring two things: a hat (ぼうし) and a camera (カメラ). When the woman asks if she should bring a lunch box (おべんとう), the man says he will bring it and she doesn't need to. Therefore, the woman will bring only the hat and the camera (4)."
+    }
+}

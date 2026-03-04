@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ゆうびんきょくの ばしょ (Location of the Post Office)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おんなのひとが おとこのひとに みちを きいています。 ゆうびんきょくは どこですか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "すみません、あの、ゆうびんきょくへ いきたいです。 ゆうびんきょくは どこですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "ゆうびんきょくですね。 あの かどを みぎへ まがってください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "みぎですね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "はい。 まがってから まっすぐ いくと、 スーパーが あります。 ゆうびんきょくは その スーパーの となりです。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "スーパーの となりですね。 ありがとう ございます。"
+            }
+        ],
+        "question": "ゆうびんきょくは どこですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "郵便局",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "スーパー",
+                "reading": "スーパー",
+                "tr": "süpermarket",
+                "en": "supermarket"
+            },
+            {
+                "word": "隣",
+                "reading": "となり",
+                "tr": "yanı/yanında",
+                "en": "next to"
+            },
+            {
+                "word": "角",
+                "reading": "かど",
+                "tr": "köşe",
+                "en": "corner"
+            },
+            {
+                "word": "右",
+                "reading": "みぎ",
+                "tr": "sağ",
+                "en": "right"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜を まがってください",
+                "tr": "...'dan dönün",
+                "en": "please turn ..."
+            },
+            {
+                "point": "〜てから",
+                "tr": "-dikten sonra",
+                "en": "after doing ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam kadına köşeden sağa (みぎ) dönmesini ve süpermarketin (スーパー) yanındaki (となり) binaya bakmasını söyler. Haritada süpermarketin (4) yanındaki bina (2) numaradır.",
+        "en": "The man tells the woman to turn right (みぎ) at the corner and look for the building next to (となり) the supermarket (スーパー). On the map, building (2) is next to the supermarket (4)."
+    }
+}

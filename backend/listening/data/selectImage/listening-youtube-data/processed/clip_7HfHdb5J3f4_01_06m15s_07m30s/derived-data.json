@@ -1,0 +1,71 @@
+{
+  "source_clip": "clip_7HfHdb5J3f4_01_06m15s_07m30s",
+  "metadata": {
+    "level": "n5",
+    "topic": "ハンカチを かいます (Buying a handkerchief)",
+    "pattern_used": "Attribute Filter"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "Create a 2×2 grid image with four equal square panels. Each panel shows a square handkerchief with a different pattern. Panel 1 (top-left, number 1): A white handkerchief with two large dogs (one white, one black) in the center. Panel 2 (top-right, number 2): A gray handkerchief with four small cats, one in each corner. Panel 3 (bottom-left, number 3): A white handkerchief with four small flower clusters, one in each corner. Panel 4 (bottom-right, number 4): A gray handkerchief covered in many tiny fruits (cherries, strawberries, bananas). Use minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick outlines, no shading, white background, high contrast, no text other than the numbers 1, 2, 3, 4.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Correct" },
+      { "panel": 3, "logic_role": "Distractor_B" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 1,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "デパートで おんなのひとと みせのひとが はなしています。 おんなのひとは どの ハンカチを かいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "すみません、どうぶつの ハンカチは ありますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "はい。 いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "うーん、ちいさい ねこが いいです。 これを ください。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "ありがとうございます。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなのひとは どの ハンカチを かいますか。" }
+  ],
+  "transcription": {
+    "intro": "デパートで おんなのひとと みせのひとが はなしています。 おんなのひとは どの ハンカチを かいますか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "すみません、どうぶつの ハンカチは ありますか。" },
+      { "speaker": "Male_1", "text": "はい。 いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。" },
+      { "speaker": "Female_1", "text": "うーん、ちいさい ねこが いいです。 これを ください。" },
+      { "speaker": "Male_1", "text": "ありがとうございます。" }
+    ],
+    "question": "おんなのひとは どの ハンカチを かいますか。"
+  },
+  "transcription_tr": {
+    "intro": "Departmanlı mağazada bir kadın ve tezgahtar konuşuyor. Kadın hangi mendili alacak?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Affedersiniz, hayvan desenli mendil var mı?" },
+      { "speaker": "Male_1", "text": "Evet. Köpekli mendil ve kedili mendil var. Köpeklide iki tane büyük köpek var. Kedilide ise dört tane küçük kedi var." },
+      { "speaker": "Female_1", "text": "Hımm, küçük kedili olan güzel. Bunu alayım." },
+      { "speaker": "Male_1", "text": "Teşekkür ederim." }
+    ],
+    "question": "Kadın hangi mendili alacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "ハンカチ", "reading": "ハンカチ", "tr": "mendil", "en": "handkerchief" },
+      { "word": "動物", "reading": "どうぶつ", "tr": "hayvan", "en": "animal" },
+      { "word": "犬", "reading": "いぬ", "tr": "köpek", "en": "dog" },
+      { "word": "猫", "reading": "ねこ", "tr": "kedi", "en": "cat" },
+      { "word": "匹", "reading": "ひき", "tr": "küçük hayvanlar için sayıcı", "en": "counter for small animals" },
+      { "word": "大きい", "reading": "おおきい", "tr": "büyük", "en": "large" },
+      { "word": "小さい", "reading": "ちいさい", "tr": "küçük", "en": "small" }
+    ],
+    "grammar": [
+      { "point": "〜のが いいです", "tr": "... olanı iyidir / ... olanı istiyorum", "en": "... is good / I prefer the ... one" },
+      { "point": "〜を ください", "tr": "lütfen ... verin", "en": "please give me ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın hayvanlı (どうぶつ) bir mendil ister. Tezgahtar iki seçenek sunar: İki tane büyük köpeği olan mendil (1) veya dört tane küçük kedisi olan mendil (2). Kadın küçük kedili olanı seçer. Çiçekli (3) ve meyveli (4) mendiller hayvanlı olmadığı için elenir.",
+    "en": "The woman wants an animal (どうぶつ) handkerchief. The clerk offers two options: one with two large dogs (1) and one with four small cats (2). The woman chooses the small cat one. The flower (3) and fruit (4) patterns are rejected as they are not animal patterns."
+  }
+}

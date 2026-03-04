@@ -1,8 +1,17 @@
 # JLPT Bites Ecosystem — Claude Kuralları
 
-## Zorunlu: Değişiklik Günlüğü
+## Zorunlu: Değişiklik Günlüğü ve Yetenek Belgelendirmesi
 
-**Bir modülde iş bittiğinde, konuşmayı kapatmadan önce ilgili log dosyasına giriş ekle.**
+**1. Bir modülde iş bittiğinde, konuşmayı kapatmadan önce ilgili log dosyasına giriş ekle.**
+
+**2. Yeni bir Agent Skill oluşturulduğunda, ilgili modülün ana README.md dosyasına yetenek bilgilerini ekle.**
+
+### Yetenek Belgelendirme Yapısı
+Eğer bir modüle (`backend/listening` gibi) yeni bir yetenek eklendiyse, o modülün `README.md` dosyasına şu formatta ekle:
+```markdown
+### Kullanılabilir Agent Yetenekleri (Skills)
+- `yetenek-adi`: Kısa açıklama.
+```
 
 ### Log Yapısı
 

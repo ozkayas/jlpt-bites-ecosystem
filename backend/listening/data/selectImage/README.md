@@ -68,6 +68,16 @@ selectImage/
 
 ---
 
+## Kullanılabilir Agent Yetenekleri (Skills)
+
+Bu modülde Claude (Agent) tarafından kullanılan özel yetenekler şunlardır:
+
+- `jlpt-n5-listening-variation-creator`: Ham diyalog verisinden görsel promptları, kelime analizleri ve mantık akışı (`derived-data.json`) üretir.
+- `jlpt-n5-listening-variation-tester`: Üretilen verilerin şema doğruluğunu denetler, görselleri WebP'ye dönüştürür, Gemini TTS ile ses üretir ve final `question.json` dosyasını hazırlar.
+- `jlpt-listening-multi-language-expander`: Mevcut `question.json` dosyalarını 6 dilli (TR, EN, DE, FR, ES, KO) "Fat JSON" mimarisine dönüştürür. Tüm transkripsiyonları ve analizleri JLPT N5 seviyesinde çevirir.
+
+---
+
 ## Sorumluluk Dağılımı
 
 Soru üretiminin 4 adımı vardır. **Her adımı kimin yaptığı aşağıda net olarak belirtilmiştir:**

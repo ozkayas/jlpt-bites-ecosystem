@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "としょかんで まちあわせ (Meeting at the library)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと おんなのひとが でんわで はなしています。 ふたりは あした どこで なんじに あいますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "もしもし、やまださん。 あしたは どこで あいますか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "ゆうびんきょくの まえは どうですか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あしたは あめですから、としょかんの なかで あいましょう。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。 じゅうじに あいますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "すみません、じゅうじは ちょっと はやいです。 じゅうじはんに してください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい。 じゅうじはんですね。 わかりました。"
+            }
+        ],
+        "question": "ふたりは あした どこで なんじに あいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "電話",
+                "reading": "でんわ",
+                "tr": "telefon",
+                "en": "telephone"
+            },
+            {
+                "word": "雨",
+                "reading": "あめ",
+                "tr": "yağmur",
+                "en": "rain"
+            },
+            {
+                "word": "図書館",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "郵便局",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "十時半",
+                "reading": "じゅうじはん",
+                "tr": "saat 10 buçuk",
+                "en": "10:30"
+            },
+            {
+                "word": "早い",
+                "reading": "はやい",
+                "tr": "erken",
+                "en": "early"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜ましょう",
+                "tr": "... yapalım",
+                "en": "let's do ..."
+            },
+            {
+                "point": "〜は どうですか",
+                "tr": "... nasıl olur? / ... ne dersin?",
+                "en": "how about ...?"
+            },
+            {
+                "point": "〜に してください",
+                "tr": "... yapın lütfen (karar)",
+                "en": "please make it ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce postaneyi (ゆうびんきょく) ve saat 10'u (じゅうじ) önerir. Ancak erkek yağmur nedeniyle kütüphaneyi (としょかん) ve saatin 10 buçuk (じゅうじはん) olmasını ister. Dolayısıyla doğru cevap kütüphane ve 10:30 olan (3) numaralı paneldir.",
+        "en": "The woman suggests the post office (ゆうびんきょく) and 10 o'clock (じゅうじ). However, the man asks to meet at the library (としょかん) due to rain and requests the time to be 10:30 (じゅうじはん). Therefore, the correct answer is the library at 10:30 in panel (3)."
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "あしたの よていと まちあわせ (Tomorrow's plans and meeting place)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 1,
+    "transcription": {
+        "intro": "きょうしつで せんせいが はなしています。 がくせいは あしたの あさ どこで せんせいに あいますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "みなさん、あしたは あたらしい まちを みに いきます。 じゅうじの バスに のりますよ。 まちには おおきい としょかんが あります。 きれいな デパートも あります。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "あしたは ぎんこうに きてから いきますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いいえ、ゆうびんきょくに きてください。 くじはんに まっています。"
+            }
+        ],
+        "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あたらしい",
+                "reading": "あたらしい",
+                "tr": "yeni",
+                "en": "new"
+            },
+            {
+                "word": "郵便局",
+                "reading": "ゆうびんきょく",
+                "tr": "postane",
+                "en": "post office"
+            },
+            {
+                "word": "銀行",
+                "reading": "ぎんこう",
+                "tr": "banka",
+                "en": "bank"
+            },
+            {
+                "word": "デパート",
+                "reading": "デパート",
+                "tr": "departmanlı mağaza",
+                "en": "department store"
+            },
+            {
+                "word": "図書館",
+                "reading": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "まち",
+                "reading": "まち",
+                "tr": "şehir, kasaba",
+                "en": "town, city"
+            },
+            {
+                "word": "バス",
+                "reading": "バス",
+                "tr": "otobüs",
+                "en": "bus"
+            },
+            {
+                "word": "にのる",
+                "reading": "にのる",
+                "tr": "binmek (araç)",
+                "en": "to ride, to board"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜てから",
+                "tr": "-dikten sonra / yaptıktan sonra",
+                "en": "after doing something"
+            },
+            {
+                "point": "〜てください",
+                "tr": "lütfen ... yapın (rica)",
+                "en": "please do something"
+            },
+            {
+                "point": "〜ています",
+                "tr": "-iyor (şimdiki zaman/durum)",
+                "en": "is doing / state of being"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğrenci, 'Bankaya (1) gelip mi gideceğiz?' diye sorar. Öğretmen ise 'Hayır, postaneye (2) gelin' diyerek buluşma noktasının postane olduğunu netleştirir. Kütüphane (3) ve departmanlı mağaza (4) ise şehirde görülecek yerler olarak geçmektedir ancak buluşma noktası değillerdir.",
+        "en": "The student asks, 'Do we go after coming to the bank (1)?'. The teacher clarifies the meeting point by saying 'No, please come to the post office (2)'. The library (3) and department store (4) are mentioned as places to visit in the city but are not the meeting point."
+    }
+}

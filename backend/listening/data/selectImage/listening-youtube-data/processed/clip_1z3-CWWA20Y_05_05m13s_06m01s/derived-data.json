@@ -1,0 +1,83 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_05_05m13s_06m01s",
+  "metadata": {
+    "level": "n5",
+    "topic": "パンやで パンを かいます (Buying bread at a bakery)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "Create a 2×2 grid image with four equal square panels. Panel 1 (top-left, number 1): Two loaves of bread held together by a simple paper band. Panel 2 (top-right, number 2): One single loaf of bread inside a clear plastic bag with a handle. Panel 3 (bottom-left, number 3): Four loaves of bread held together by a simple paper band. Panel 4 (bottom-right, number 4): Four loaves of bread inside a large clear plastic bag with a handle. Use minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick outlines, no shading, white background, high contrast, no text other than the numbers 1, 2, 3, 4.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "パンやで みせのひとと おとこのひとが はなしています。 みせのひとは パンを どうしますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "いらっしゃいませ。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "すみません。この パンを みっつ ください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。これですね。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あ、すみません。もう ひとつ おねがいします。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。ふくろは いりますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "いいえ、いりません。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "わかりました。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "みせのひとは パンを どうしますか。" }
+  ],
+  "transcription": {
+    "intro": "パンやで みせのひとと おとこのひとが はなしています。 みせのひとは パンを どうしますか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "いらっしゃいませ。" },
+      { "speaker": "Male_1", "text": "すみません。この パンを みっつ ください。" },
+      { "speaker": "Female_1", "text": "はい。これですね。" },
+      { "speaker": "Male_1", "text": "あ、すみません。もう ひとつ おねがいします。" },
+      { "speaker": "Female_1", "text": "はい。ふくろは いりますか。" },
+      { "speaker": "Male_1", "text": "いいえ、いりません。" },
+      { "speaker": "Female_1", "text": "わかりました。" }
+    ],
+    "question": "みせのひとは パンを どうしますか。"
+  },
+  "transcription_tr": {
+    "intro": "Fırında dükkan sahibi ile bir adam konuşuyor. Dükkan sahibi ekmeği nasıl yapacak?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Hoş geldiniz." },
+      { "speaker": "Male_1", "text": "Affedersiniz. Bu ekmekten üç tane lütfen." },
+      { "speaker": "Female_1", "text": "Tamam. Bunlar, değil mi?" },
+      { "speaker": "Male_1", "text": "Ah, affedersiniz. Bir tane daha rica ediyorum." },
+      { "speaker": "Female_1", "text": "Tamam. Torba ister misiniz?" },
+      { "speaker": "Male_1", "text": "Hayır, gerek yok." },
+      { "speaker": "Female_1", "text": "Anladım." }
+    ],
+    "question": "Dükkan sahibi ekmeği nasıl yapacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "パンや", "reading": "パンや", "tr": "fırın", "en": "bakery" },
+      { "word": "パン", "reading": "パン", "tr": "ekmek", "en": "bread" },
+      { "word": "みっつ", "reading": "みっつ", "tr": "üç tane", "en": "three (items)" },
+      { "word": "ひとつ", "reading": "ひとつ", "tr": "bir tane", "en": "one (item)" },
+      { "word": "ふくろ", "reading": "ふくろ", "tr": "torba/poşet", "en": "bag" },
+      { "word": "いります", "reading": "いります", "tr": "gerekli olmak / istemek", "en": "to need" }
+    ],
+    "grammar": [
+      { "point": "〜を ください", "tr": "lütfen ... verin", "en": "please give me ..." },
+      { "point": "もう 〜", "tr": "bir tane daha", "en": "another ..." },
+      { "point": "〜は いりますか", "tr": "... lazım mı?", "en": "do you need ...?" }
+    ]
+  },
+  "logic": {
+    "tr": "Adam önce üç ekmek (みっつ) istiyor, sonra bir tane daha (もう ひとつ) ekleyerek toplamda dört ekmek talep ediyor. Torba isteyip istemediği sorulduğunda ise istemediğini (いりません) belirtiyor. Bu durumda dükkan sahibi torbasız dört ekmek hazırlayacaktır (3).",
+    "en": "The man first asks for three loaves of bread (みっつ), then adds another one (もう ひとつ), requesting four loaves in total. When asked if he wants a bag, he says he doesn't need one (いりません). Therefore, the shopkeeper will prepare four loaves without a bag (3)."
+  }
+}

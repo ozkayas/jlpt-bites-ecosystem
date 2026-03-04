@@ -21359,6 +21359,3966 @@
         }
       ],
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_714.mp3"
+    },
+    {
+      "id": "n5_vocab_715",
+      "word": "アメリカ",
+      "reading": "アメリカ",
+      "romaji": "amerika",
+      "tag": "名詞",
+      "translations": {
+        "en": "The United States of America",
+        "tr": "Amerika Birleşik Devletleri",
+        "de": "Die Vereinigten Staaten von Amerika",
+        "es": "Estados Unidos de América",
+        "fr": "Les États-Unis d'Amérique"
+      },
+      "sentences": [
+        {
+          "ja": "兄はアメリカに行きました。",
+          "furigana": "<ruby>兄<rt>あに</rt></ruby>はアメリカに<ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Ani wa amerika ni ikimashita.",
+          "translations": {
+            "en": "My older brother went to America.",
+            "tr": "Ağabeyim Amerika'ya gitti.",
+            "de": "Mein älterer Bruder ist nach Amerika gegangen.",
+            "es": "Mi hermano mayor fue a Estados Unidos.",
+            "fr": "Mon frère aîné est allé en Amérique."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_715_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_715.mp3"
+    },
+    {
+      "id": "n5_vocab_716",
+      "word": "エアコン",
+      "reading": "エアコン",
+      "romaji": "eakon",
+      "tag": "名詞",
+      "translations": {
+        "en": "air conditioner",
+        "tr": "klima",
+        "de": "Klimaanlage",
+        "es": "aire acondicionado",
+        "fr": "climatiseur"
+      },
+      "sentences": [
+        {
+          "ja": "エアコンをつけてください。",
+          "furigana": "エアコンをつけてください。",
+          "romaji": "Eakon o tsukete kudasai.",
+          "translations": {
+            "en": "Please turn on the air conditioner.",
+            "tr": "Lütfen klimayı açın.",
+            "de": "Bitte schalten Sie die Klimaanlage ein.",
+            "es": "Por favor, enciende el aire acondicionado.",
+            "fr": "Veuillez allumer le climatiseur."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_716_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_716.mp3"
+    },
+    {
+      "id": "n5_vocab_717",
+      "word": "おいでになります",
+      "reading": "おいでになります",
+      "romaji": "oideninarimasu",
+      "tag": "動詞",
+      "translations": {
+        "en": "to come, to go, to be (respectful)",
+        "tr": "gelmek, gitmek, bulunmak (saygılı)",
+        "de": "kommen, gehen, sein (höflich)",
+        "es": "venir, ir, estar (respetuoso)",
+        "fr": "venir, aller, être (respectueux)"
+      },
+      "sentences": [
+        {
+          "ja": "先生は明日学校においでになりますか。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>は<ruby>明日<rt>あした</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>においでになりますか。",
+          "romaji": "Sensei wa ashita gakkou ni oideninarimasu ka.",
+          "translations": {
+            "en": "Will the teacher be at school tomorrow?",
+            "tr": "Öğretmen yarın okulda olacak mı?",
+            "de": "Wird der Lehrer morgen in der Schule sein?",
+            "es": "¿Estará el profesor en la escuela mañana?",
+            "fr": "Le professeur sera-t-il à l'école demain ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_717_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_717.mp3"
+    },
+    {
+      "id": "n5_vocab_718",
+      "word": "お国",
+      "reading": "おくに",
+      "romaji": "okuni",
+      "tag": "名詞",
+      "translations": {
+        "en": "country (polite)",
+        "tr": "ülke (kibar)",
+        "de": "Heimatland (höflich)",
+        "es": "país (cortés)",
+        "fr": "pays (poli)"
+      },
+      "sentences": [
+        {
+          "ja": "お国はどちらですか。",
+          "furigana": "お<ruby>国<rt>くに</rt></ruby>はどちらですか。",
+          "romaji": "Okuni wa dochira desu ka.",
+          "translations": {
+            "en": "Where are you from? (Which is your country?)",
+            "tr": "Nerelisiniz? (Ülkeniz neresi?)",
+            "de": "Woher kommen Sie? (Was ist Ihr Heimatland?)",
+            "es": "¿De qué país es usted?",
+            "fr": "De quel pays venez-vous ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_718_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_718.mp3"
+    },
+    {
+      "id": "n5_vocab_719",
+      "word": "おじさん",
+      "reading": "おじさん",
+      "romaji": "ojisan",
+      "tag": "名詞",
+      "translations": {
+        "en": "uncle, middle-aged man",
+        "tr": "amca, dayı, orta yaşlı adam",
+        "de": "Onkel, Mann mittleren Alters",
+        "es": "tío, hombre de mediana edad",
+        "fr": "oncle, homme d'âge mûr"
+      },
+      "sentences": [
+        {
+          "ja": "おじさんはいつ日本に来ますか。",
+          "furigana": "おじさんはいつ<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ますか。",
+          "romaji": "Ojisan wa itsu nihon ni kimasu ka.",
+          "translations": {
+            "en": "When will your uncle come to Japan?",
+            "tr": "Amcan Japonya'ya ne zaman gelecek?",
+            "de": "Wann kommt Ihr Onkel nach Japan?",
+            "es": "¿Cuándo vendrá tu tío a Japón?",
+            "fr": "Quand est-ce que ton oncle viendra au Japon ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_719_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_719.mp3"
+    },
+    {
+      "id": "n5_vocab_720",
+      "word": "おじいさん",
+      "reading": "おじいさん",
+      "romaji": "ojiisan",
+      "tag": "名詞",
+      "translations": {
+        "en": "grandfather, elderly man",
+        "tr": "dede, yaşlı adam",
+        "de": "Großvater, alter Mann",
+        "es": "abuelo, anciano",
+        "fr": "grand-père, vieil homme"
+      },
+      "sentences": [
+        {
+          "ja": "私のおじいさんはとても元気です。",
+          "furigana": "<ruby>私<rt>わたし</rt></ruby>のおじいさんはとても<ruby>元気<rt>げんき</rt></ruby>です。",
+          "romaji": "Watashi no ojiisan wa totemo genki desu.",
+          "translations": {
+            "en": "My grandfather is very healthy.",
+            "tr": "Dedem çok sağlıklı.",
+            "de": "Mein Großvater ist sehr gesund.",
+            "es": "Mi abuelo está muy bien de salud.",
+            "fr": "Mon grand-père est en pleine forme."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_720_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_720.mp3"
+    },
+    {
+      "id": "n5_vocab_721",
+      "word": "おとうとさん",
+      "reading": "おとうとさん",
+      "romaji": "otoutosan",
+      "tag": "名詞",
+      "translations": {
+        "en": "someone's younger brother",
+        "tr": "başkasının erkek kardeşi (küçük)",
+        "de": "jüngerer Bruder von jemandem",
+        "es": "hermano menor de alguien",
+        "fr": "petit frère de quelqu'un"
+      },
+      "sentences": [
+        {
+          "ja": "おとうとさんは何歳ですか。",
+          "furigana": "おとうとさんは<ruby>何歳<rt>なんさい</rt></ruby>ですか。",
+          "romaji": "Otoutosan wa nansai desu ka.",
+          "translations": {
+            "en": "How old is your younger brother?",
+            "tr": "Erkek kardeşiniz kaç yaşında?",
+            "de": "Wie alt ist Ihr jüngerer Bruder?",
+            "es": "¿Cuántos años tiene su hermano menor?",
+            "fr": "Quel âge a votre petit frère ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_721_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_721.mp3"
+    },
+    {
+      "id": "n5_vocab_722",
+      "word": "おにぎり",
+      "reading": "おにぎり",
+      "romaji": "onigiri",
+      "tag": "名詞",
+      "translations": {
+        "en": "rice ball",
+        "tr": "pirinç topu",
+        "de": "Reisbällchen",
+        "es": "bola de arroz",
+        "fr": "boule de riz"
+      },
+      "sentences": [
+        {
+          "ja": "コンビニでおにぎりを二つ買いました。",
+          "furigana": "コンビニでおにぎりを<ruby>二<rt>ふた</rt></ruby>つ<ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Konbini de onigiri o futatsu kaimashita.",
+          "translations": {
+            "en": "I bought two rice balls at the convenience store.",
+            "tr": "Marketten iki tane pirinç topu aldım.",
+            "de": "Ich habe zwei Reisbällchen im Konbini gekauft.",
+            "es": "Compré dos bolas de arroz en la tienda de conveniencia.",
+            "fr": "J'ai acheté deux boules de riz au combiné."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_722_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_722.mp3"
+    },
+    {
+      "id": "n5_vocab_723",
+      "word": "顔",
+      "reading": "かお",
+      "romaji": "kao",
+      "tag": "名詞",
+      "translations": {
+        "en": "face",
+        "tr": "yüz",
+        "de": "Gesicht",
+        "es": "cara",
+        "fr": "visage"
+      },
+      "sentences": [
+        {
+          "ja": "朝起きて、顔を洗います。",
+          "furigana": "<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きて、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。",
+          "romaji": "Asa okite, kao o araimasu.",
+          "translations": {
+            "en": "I wake up in the morning and wash my face.",
+            "tr": "Sabah uyanıp yüzümü yıkarım.",
+            "de": "Ich stehe morgens auf und wasche mein Gesicht.",
+            "es": "Me despierto por la mañana y me lavo la cara.",
+            "fr": "Je me réveille le matin et me lave le visage."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_723_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_723.mp3"
+    },
+    {
+      "id": "n5_vocab_724",
+      "word": "カタカナ",
+      "reading": "カタカナ",
+      "romaji": "katakana",
+      "tag": "名詞",
+      "translations": {
+        "en": "Katakana",
+        "tr": "Katakana",
+        "de": "Katakana",
+        "es": "Katakana",
+        "fr": "Katakana"
+      },
+      "sentences": [
+        {
+          "ja": "カタカナは難しくないです。",
+          "furigana": "カタカナは<ruby>難<rt>むずか</rt></ruby>しくないです。",
+          "romaji": "Katakana wa muzukashikunai desu.",
+          "translations": {
+            "en": "Katakana is not difficult.",
+            "tr": "Katakana zor değil.",
+            "de": "Katakana ist nicht schwer.",
+            "es": "El katakana no es difícil.",
+            "fr": "Le katakana n'est pas difficile."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_724_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_724.mp3"
+    },
+    {
+      "id": "n5_vocab_725",
+      "word": "家内",
+      "reading": "かない",
+      "romaji": "kanai",
+      "tag": "名詞",
+      "translations": {
+        "en": "my wife",
+        "tr": "karım / eşim (kendi)",
+        "de": "meine Ehefrau",
+        "es": "mi esposa",
+        "fr": "ma femme"
+      },
+      "sentences": [
+        {
+          "ja": "家内は今家にいます。",
+          "furigana": "<ruby>家内<rt>かない</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>家<rt>いえ</rt></ruby>にいます。",
+          "romaji": "Kanai wa ima ie ni imasu.",
+          "translations": {
+            "en": "My wife is at home now.",
+            "tr": "Eşim şu an evde.",
+            "de": "Meine Frau ist jetzt zu Hause.",
+            "es": "Mi esposa está en casa ahora.",
+            "fr": "Ma femme est à la maison maintenant."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_725_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_725.mp3"
+    },
+    {
+      "id": "n5_vocab_726",
+      "word": "被る",
+      "reading": "かぶる",
+      "romaji": "kaburu",
+      "tag": "動詞",
+      "translations": {
+        "en": "to put on (a hat, etc.)",
+        "tr": "giymek / takmak (başlık vb.)",
+        "de": "aufsetzen (Hut, etc.)",
+        "es": "ponerse (un sombrero, etc.)",
+        "fr": "mettre (un chapeau, etc.)"
+      },
+      "sentences": [
+        {
+          "ja": "帽子を被ってください。",
+          "furigana": "<ruby>帽子<rt>ぼうし</rt></ruby>を<ruby>被<rt>かぶ</rt></ruby>ってください。",
+          "romaji": "Boushi o kabutte kudasai.",
+          "translations": {
+            "en": "Please put on your hat.",
+            "tr": "Lütfen şapkanı tak.",
+            "de": "Bitte setzen Sie den Hut auf.",
+            "es": "Por favor, ponte el sombrero.",
+            "fr": "Veuillez mettre votre chapeau."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_726_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_726.mp3"
+    },
+    {
+      "id": "n5_vocab_727",
+      "word": "考える",
+      "reading": "かんがえる",
+      "romaji": "kangaeru",
+      "tag": "動詞",
+      "translations": {
+        "en": "to think, to consider",
+        "tr": "düşünmek, değerlendirmek",
+        "de": "nachdenken, überlegen",
+        "es": "pensar, considerar",
+        "fr": "penser, réfléchir"
+      },
+      "sentences": [
+        {
+          "ja": "いいアイデアを考えました。",
+          "furigana": "いいアイデアを<ruby>考<rt>かんが</rt></ruby>えました。",
+          "romaji": "Ii aidea o kangaemashita.",
+          "translations": {
+            "en": "I came up with a good idea.",
+            "tr": "İyi bir fikir buldum (düşündüm).",
+            "de": "Ich habe mir eine gute Idee überlegt.",
+            "es": "He pensado en una buena idea.",
+            "fr": "J'ai eu une bonne idée."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_727_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_727.mp3"
+    },
+    {
+      "id": "n5_vocab_728",
+      "word": "簡単",
+      "reading": "かんたん",
+      "romaji": "kantan",
+      "tag": "形容詞",
+      "translations": {
+        "en": "easy, simple",
+        "tr": "kolay, basit",
+        "de": "einfach, simpel",
+        "es": "fácil, sencillo",
+        "fr": "facile, simple"
+      },
+      "sentences": [
+        {
+          "ja": "この問題は簡単です。",
+          "furigana": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>です。",
+          "romaji": "Kono mondai wa kantan desu.",
+          "translations": {
+            "en": "This question is easy.",
+            "tr": "Bu soru kolaydır.",
+            "de": "Diese Frage ist einfach.",
+            "es": "Esta pregunta es fácil.",
+            "fr": "Cette question est facile."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_728_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_728.mp3"
+    },
+    {
+      "id": "n5_vocab_729",
+      "word": "京都",
+      "reading": "きょうと",
+      "romaji": "kyouto",
+      "tag": "名詞",
+      "translations": {
+        "en": "Kyoto",
+        "tr": "Kyoto",
+        "de": "Kyoto",
+        "es": "Kioto",
+        "fr": "Kyoto"
+      },
+      "sentences": [
+        {
+          "ja": "京都に行きました。",
+          "furigana": "<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Kyouto ni ikimashita.",
+          "translations": {
+            "en": "I went to Kyoto.",
+            "tr": "Kyoto'ya gittim.",
+            "de": "Ich bin nach Kyoto gefahren.",
+            "es": "Fui a Kioto.",
+            "fr": "Je suis allé à Kyoto."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_729_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_729.mp3"
+    },
+    {
+      "id": "n5_vocab_730",
+      "word": "黒く",
+      "reading": "くろく",
+      "romaji": "kuroku",
+      "tag": "副詞",
+      "translations": {
+        "en": "blackly, into black",
+        "tr": "siyahça, siyaha",
+        "de": "schwarz",
+        "es": "de negro",
+        "fr": "en noir"
+      },
+      "sentences": [
+        {
+          "ja": "空が黒くなりました。",
+          "furigana": "<ruby>空<rt>そら</rt></ruby>が<ruby>黒<rt>くろ</rt></ruby>くなりました。",
+          "romaji": "Sora ga kuroku narimashita.",
+          "translations": {
+            "en": "The sky turned black.",
+            "tr": "Gökyüzü karardı (siyahlaştı).",
+            "de": "Der Himmel wurde schwarz.",
+            "es": "El cielo se volvió negro.",
+            "fr": "Le ciel est devenu noir."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_730_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_730.mp3"
+    },
+    {
+      "id": "n5_vocab_731",
+      "word": "消しゴム",
+      "reading": "けしゴム",
+      "romaji": "keshigomu",
+      "tag": "名詞",
+      "translations": {
+        "en": "eraser",
+        "tr": "silgi",
+        "de": "Radiergummi",
+        "es": "borrador",
+        "fr": "gomme"
+      },
+      "sentences": [
+        {
+          "ja": "消しゴムを貸してください。",
+          "furigana": "<ruby>消<rt>け</rt></ruby>しゴムを<ruby>貸<rt>か</rt></ruby>してください。",
+          "romaji": "Keshigomu o kashite kudasai.",
+          "translations": {
+            "en": "Please lend me an eraser.",
+            "tr": "Lütfen bana bir silgi ödünç ver.",
+            "de": "Bitte leihen Sie mir einen Radiergummi.",
+            "es": "Por favor, préstame un borrador.",
+            "fr": "S'il vous plaît, prêtez-moi une gomme."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_731_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_731.mp3"
+    },
+    {
+      "id": "n5_vocab_732",
+      "word": "ご主人",
+      "reading": "ごしゅじん",
+      "romaji": "goshujin",
+      "tag": "名詞",
+      "translations": {
+        "en": "someone's husband",
+        "tr": "başkasının kocası / eşi",
+        "de": "Ehemann von jemandem",
+        "es": "esposo de alguien",
+        "fr": "le mari de quelqu'un"
+      },
+      "sentences": [
+        {
+          "ja": "ご主人は今どこにいますか。",
+          "furigana": "ご<ruby>主人<rt>しゅじん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>どこにいますか。",
+          "romaji": "Goshujin wa ima doko ni imasu ka.",
+          "translations": {
+            "en": "Where is your husband now?",
+            "tr": "Eşiniz şu an nerede?",
+            "de": "Wo ist Ihr Ehemann jetzt?",
+            "es": "¿Dónde está su esposo ahora?",
+            "fr": "Où est votre mari maintenant ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_732_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_732.mp3"
+    },
+    {
+      "id": "n5_vocab_733",
+      "word": "答え",
+      "reading": "こたえ",
+      "romaji": "kotae",
+      "tag": "名詞",
+      "translations": {
+        "en": "answer",
+        "tr": "cevap",
+        "de": "Antwort",
+        "es": "respuesta",
+        "fr": "réponse"
+      },
+      "sentences": [
+        {
+          "ja": "答えをここに書いてください。",
+          "furigana": "<ruby>答<rt>こた</rt></ruby>えをここに<ruby>書<rt>か</rt></ruby>いてください。",
+          "romaji": "Kotae o koko ni kaite kudasai.",
+          "translations": {
+            "en": "Please write your answer here.",
+            "tr": "Lütfen cevabınızı buraya yazın.",
+            "de": "Bitte schreiben Sie Ihre Antwort hierher.",
+            "es": "Por favor, escriba su respuesta aquí.",
+            "fr": "Veuillez écrire votre réponse ici."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_733_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_733.mp3"
+    },
+    {
+      "id": "n5_vocab_734",
+      "word": "答え方",
+      "reading": "こたえかた",
+      "romaji": "kotaekata",
+      "tag": "名詞",
+      "translations": {
+        "en": "how to answer",
+        "tr": "cevaplama şekli / nasıl cevaplanacağı",
+        "de": "Art der Beantwortung",
+        "es": "cómo responder",
+        "fr": "comment répondre"
+      },
+      "sentences": [
+        {
+          "ja": "答え方がわかりません。",
+          "furigana": "<ruby>答<rt>こた</rt></ruby>え<ruby>方<rt>かた</rt></ruby>がわかりません。",
+          "romaji": "Kotaekata ga wakarimasen.",
+          "translations": {
+            "en": "I don't know how to answer.",
+            "tr": "Nasıl cevap vereceğimi bilmiyorum.",
+            "de": "Ich weiß nicht, wie ich antworten soll.",
+            "es": "No sé cómo responder.",
+            "fr": "Je ne sais pas comment répondre."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_734_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_734.mp3"
+    },
+    {
+      "id": "n5_vocab_735",
+      "word": "最後",
+      "reading": "さいご",
+      "romaji": "saigo",
+      "tag": "名詞",
+      "translations": {
+        "en": "last, end",
+        "tr": "son, sonuncu",
+        "de": "letzte, Ende",
+        "es": "último, final",
+        "fr": "dernier, fin"
+      },
+      "sentences": [
+        {
+          "ja": "レッスンの最後にしゅくだいを出します。",
+          "furigana": "レッスンの<ruby>最後<rt>さいご</rt></ruby>にしゅくだいを<ruby>出<rt>だ</rt></ruby>します。",
+          "romaji": "Ressun no saigo ni shukudai o dashimasu.",
+          "translations": {
+            "en": "I will give homework at the end of the lesson.",
+            "tr": "Dersin sonunda ödev vereceğim.",
+            "de": "Am Ende der Lektion gebe ich Hausaufgaben auf.",
+            "es": "Daré deberes al final de la lección.",
+            "fr": "Je donnerai des devoirs à la fin de la leçon."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_735_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_735.mp3"
+    },
+    {
+      "id": "n5_vocab_736",
+      "word": "作文",
+      "reading": "さくぶん",
+      "romaji": "sakubun",
+      "tag": "名詞",
+      "translations": {
+        "en": "composition, essay",
+        "tr": "kompozisyon, tahrir",
+        "de": "Aufsatz",
+        "es": "composición, redacción",
+        "fr": "composition, rédaction"
+      },
+      "sentences": [
+        {
+          "ja": "日本語で作文を書きました。",
+          "furigana": "<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>作文<rt>さくぶん</rt></ruby>を<ruby>書<rt>か</rt></ruby>きました。",
+          "romaji": "Nihongo de sakubun o kakimashita.",
+          "translations": {
+            "en": "I wrote an essay in Japanese.",
+            "tr": "Japonca bir kompozisyon yazdım.",
+            "de": "Ich habe einen Aufsatz auf Japanisch geschrieben.",
+            "es": "Escribí una redacción en japonés.",
+            "fr": "J'ai écrit une rédaction en japonais."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_736_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_736.mp3"
+    },
+    {
+      "id": "n5_vocab_737",
+      "word": "ジュース",
+      "reading": "ジュース",
+      "romaji": "juusu",
+      "tag": "名詞",
+      "translations": {
+        "en": "juice",
+        "tr": "meyve suyu",
+        "de": "Saft",
+        "es": "jugo / zumo",
+        "fr": "jus"
+      },
+      "sentences": [
+        {
+          "ja": "りんごジュースを飲みます。",
+          "furigana": "りんごジュースを<ruby>飲<rt>の</rt></ruby>みます。",
+          "romaji": "Ringo juusu o nomimasu.",
+          "translations": {
+            "en": "I drink apple juice.",
+            "tr": "Elma suyu içerim.",
+            "de": "Ich trinke Apfelsaft.",
+            "es": "Bebo jugo de manzana.",
+            "fr": "Je bois du jus de pomme."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_737_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_737.mp3"
+    },
+    {
+      "id": "n5_vocab_738",
+      "word": "寿司",
+      "reading": "すし",
+      "romaji": "sushi",
+      "tag": "名詞",
+      "translations": {
+        "en": "sushi",
+        "tr": "suşi",
+        "de": "Sushi",
+        "es": "sushi",
+        "fr": "sushi"
+      },
+      "sentences": [
+        {
+          "ja": "日本料理で寿司が一番好きです。",
+          "furigana": "<ruby>日本料理<rt>にほんりょうり</rt></ruby>で<ruby>寿司<rt>すし</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>好<rt>す</rt></ruby>きです。",
+          "romaji": "Nihon ryouri de sushi ga ichiban suki desu.",
+          "translations": {
+            "en": "I like sushi the best among Japanese dishes.",
+            "tr": "Japon yemekleri arasında en çok suşiyi severim.",
+            "de": "Von den japanischen Gerichten mag ich Sushi am liebsten.",
+            "es": "De los platos japoneses, el que más me gusta es el sushi.",
+            "fr": "Parmi les plats japonais, c'est le sushi que je préfère."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_738_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_738.mp3"
+    },
+    {
+      "id": "n5_vocab_739",
+      "word": "寿司屋",
+      "reading": "すしや",
+      "romaji": "sushiya",
+      "tag": "名詞",
+      "translations": {
+        "en": "sushi restaurant",
+        "tr": "suşi restoranı",
+        "de": "Sushi-Restaurant",
+        "es": "restaurante de sushi",
+        "fr": "restaurant de sushis"
+      },
+      "sentences": [
+        {
+          "ja": "昨日は友達と寿司屋に行きました。",
+          "furigana": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>寿司屋<rt>すしや</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+          "romaji": "Kinou wa tomodachi to sushiya ni ikimashita.",
+          "translations": {
+            "en": "I went to a sushi restaurant with a friend yesterday.",
+            "tr": "Dün bir arkadaşımla suşi restoranına gittim.",
+            "de": "Gestern bin ich mit einem Freund in ein Sushi-Restaurant gegangen.",
+            "es": "Ayer fui a un restaurante de sushi con un amigo.",
+            "fr": "Hier, je suis allé dans un restaurant de sushis avec un ami."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_739_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_739.mp3"
+    },
+    {
+      "id": "n5_vocab_740",
+      "word": "だいたい",
+      "reading": "だいたい",
+      "romaji": "daitai",
+      "tag": "副詞",
+      "translations": {
+        "en": "roughly, almost, mostly",
+        "tr": "yaklaşık, hemen hemen, çoğunlukla",
+        "de": "ungefähr, fast, meistens",
+        "es": "más o menos, casi, mayormente",
+        "fr": "environ, presque, pour la plupart"
+      },
+      "sentences": [
+        {
+          "ja": "意味はだいたいわかります。",
+          "furigana": "<ruby>意味<rt>いみ</rt></ruby>はだいたいわかります。",
+          "romaji": "Imi wa daitai wakarimasu.",
+          "translations": {
+            "en": "I mostly understand the meaning.",
+            "tr": "Anlamını yaklaşık olarak (çoğunlukla) anlıyorum.",
+            "de": "Ich verstehe die Bedeutung meistens.",
+            "es": "Entiendo el significado más o menos.",
+            "fr": "Je comprends à peu près le sens."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_740_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_740.mp3"
+    },
+    {
+      "id": "n5_vocab_741",
+      "word": "たいてい",
+      "reading": "たいてい",
+      "romaji": "taitei",
+      "tag": "副詞",
+      "translations": {
+        "en": "usually, mostly",
+        "tr": "genellikle, çoğunlukla",
+        "de": "meistens, gewöhnlich",
+        "es": "por lo general, mayormente",
+        "fr": "généralement, d'ordinaire"
+      },
+      "sentences": [
+        {
+          "ja": "朝ご飯はたいていパンを食べます。",
+          "furigana": "<ruby>朝<rt>あさ</rt></ruby>ごはんをたいていパンを<ruby>食<rt>た</rt></ruby>べます。",
+          "romaji": "Asagohan wa taitei pan o tabemasu.",
+          "translations": {
+            "en": "I usually eat bread for breakfast.",
+            "tr": "Kahvaltıda genellikle ekmek yerim.",
+            "de": "Zum Frühstück esse ich meistens Brot.",
+            "es": "Por lo general, como pan para el desayuno.",
+            "fr": "D'ordinaire, je mange du pain au petit-déjeuner."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_741_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_741.mp3"
+    },
+    {
+      "id": "n5_vocab_742",
+      "word": "だから",
+      "reading": "だから",
+      "romaji": "dakara",
+      "tag": "接続詞",
+      "translations": {
+        "en": "so, therefore",
+        "tr": "bu yüzden, bu nedenle",
+        "de": "deshalb, darum",
+        "es": "por eso, por lo tanto",
+        "fr": "donc, par conséquent"
+      },
+      "sentences": [
+        {
+          "ja": "雨が降っています。だから、家で本を読みます。",
+          "furigana": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。だから、<ruby>家<rt>いえ</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。",
+          "romaji": "Ame ga futte imasu. Dakara, ie de hon o yomimasu.",
+          "translations": {
+            "en": "It is raining. Therefore, I will read a book at home.",
+            "tr": "Yağmur yağıyor. Bu yüzden evde kitap okuyacağım.",
+            "de": "Es regnet. Deshalb werde ich zu Hause ein Buch lesen.",
+            "es": "Está lloviendo. Por eso, leeré un libro en casa.",
+            "fr": "Il pleut. Donc, je vais lire un livre à la maison."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_742_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_742.mp3"
+    },
+    {
+      "id": "n5_vocab_743",
+      "word": "正しい",
+      "reading": "ただしい",
+      "romaji": "tadashii",
+      "tag": "形容詞",
+      "translations": {
+        "en": "correct, right",
+        "tr": "doğru",
+        "de": "richtig, korrekt",
+        "es": "correcto, acertado",
+        "fr": "correct, juste"
+      },
+      "sentences": [
+        {
+          "ja": "正しい答えを選んでください。",
+          "furigana": "<ruby>正<rt>ただ</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>えを<ruby>選<rt>えら</rt></ruby>んでください。",
+          "romaji": "Tadashii kotae o erande kudasai.",
+          "translations": {
+            "en": "Please choose the correct answer.",
+            "tr": "Lütfen doğru cevabı seçin.",
+            "de": "Bitte wählen Sie die richtige Antwort aus.",
+            "es": "Por favor, elige la respuesta correcta.",
+            "fr": "Veuillez choisir la bonne réponse."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_743_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_743.mp3"
+    },
+    {
+      "id": "n5_vocab_744",
+      "word": "一日",
+      "reading": "ついたち",
+      "romaji": "tsuitachi",
+      "tag": "名詞",
+      "translations": {
+        "en": "first day of the month",
+        "tr": "ayın birinci günü",
+        "de": "der erste Tag des Monats",
+        "es": "el primer día del mes",
+        "fr": "le premier jour du mois"
+      },
+      "sentences": [
+        {
+          "ja": "今日は三月一日です。",
+          "furigana": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>三月<rt>さんがつ</rt></ruby><ruby>一日<rt>ついたち</rt></ruby>です。",
+          "romaji": "Kyou wa sangatsu tsuitachi desu.",
+          "translations": {
+            "en": "Today is March 1st.",
+            "tr": "Bugün Mart'ın biri.",
+            "de": "Heute ist der 1. März.",
+            "es": "Hoy es 1 de marzo.",
+            "fr": "Aujourd'hui, c'est le 1er mars."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_744_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_744.mp3"
+    },
+    {
+      "id": "n5_vocab_745",
+      "word": "作り方",
+      "reading": "つくりかた",
+      "romaji": "tsukurikata",
+      "tag": "名詞",
+      "translations": {
+        "en": "how to make",
+        "tr": "yapılış şekli / nasıl yapılacağı",
+        "de": "Art der Herstellung",
+        "es": "cómo hacer",
+        "fr": "comment faire"
+      },
+      "sentences": [
+        {
+          "ja": "この料理の作り方を教えてください。",
+          "furigana": "この<ruby>料理<rt>りょうり</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+          "romaji": "Kono ryouri no tsukurikata o oshiete kudasai.",
+          "translations": {
+            "en": "Please teach me how to make this dish.",
+            "tr": "Lütfen bana bu yemeğin nasıl yapıldığını öğretin.",
+            "de": "Bitte zeigen Sie mir, wie man dieses Gericht zubereitet.",
+            "es": "Por favor, enséñame cómo hacer este plato.",
+            "fr": "S'il vous plaît, apprenez-moi à faire ce plat."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_745_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_745.mp3"
+    },
+    {
+      "id": "n5_vocab_746",
+      "word": "ティッシュペーパー",
+      "reading": "ティッシュペーパー",
+      "romaji": "tisshupeepaa",
+      "tag": "名詞",
+      "translations": {
+        "en": "tissue paper",
+        "tr": "kağıt mendil / peçete",
+        "de": "Papiertaschentuch",
+        "es": "pañuelo de papel",
+        "fr": "mouchoir en papier"
+      },
+      "sentences": [
+        {
+          "ja": "ティッシュペーパーを一枚ください。",
+          "furigana": "ティッシュペーパーを<ruby>一 枚<rt>いちまい</rt></ruby>ください。",
+          "romaji": "Tisshupeepaa o ichimai kudasai.",
+          "translations": {
+            "en": "Please give me one piece of tissue paper.",
+            "tr": "Lütfen bana bir tane kağıt mendil verin.",
+            "de": "Bitte geben Sie mir ein Papiertaschentuch.",
+            "es": "Por favor, dame un pañuelo de papel.",
+            "fr": "S'il vous plaît, donnez-moi un mouchoir en papier."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_746_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_746.mp3"
+    },
+    {
+      "id": "n5_vocab_747",
+      "word": "電話番号",
+      "reading": "でんわばんごう",
+      "romaji": "denwabangou",
+      "tag": "名詞",
+      "translations": {
+        "en": "phone number",
+        "tr": "telefon numarası",
+        "de": "Telefonnummer",
+        "es": "número de teléfono",
+        "fr": "numéro de téléphone"
+      },
+      "sentences": [
+        {
+          "ja": "あなたの電話番号を教えてください。",
+          "furigana": "あなたの<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+          "romaji": "Anata no denwabangou o oshiete kudasai.",
+          "translations": {
+            "en": "Please tell me your phone number.",
+            "tr": "Lütfen telefon numaranızı bana söyleyin.",
+            "de": "Bitte sagen Sie mir Ihre Telefonnummer.",
+            "es": "Por favor, dime tu número de teléfono.",
+            "fr": "S'il vous plaît, donnez-moi votre numéro de téléphone."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_747_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_747.mp3"
+    },
+    {
+      "id": "n5_vocab_748",
+      "word": "トイレットペーパー",
+      "reading": "トイレットペーパー",
+      "romaji": "toirettopeepaa",
+      "tag": "名詞",
+      "translations": {
+        "en": "toilet paper",
+        "tr": "tuvalet kağıdı",
+        "de": "Toilettenpapier",
+        "es": "papel higiénico",
+        "fr": "papier toilette"
+      },
+      "sentences": [
+        {
+          "ja": "トイレットペーパーがありません。",
+          "furigana": "トイレットペーパーがありません。",
+          "romaji": "Toirettopeepaa ga arimasen.",
+          "translations": {
+            "en": "There is no toilet paper.",
+            "tr": "Tuvalet kağıdı yok.",
+            "de": "Es gibt kein Toilettenpapier.",
+            "es": "No hay papel higiénico.",
+            "fr": "Il n'y a plus de papier toilette."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_748_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_748.mp3"
+    },
+    {
+      "id": "n5_vocab_749",
+      "word": "豆腐",
+      "reading": "とうふ",
+      "romaji": "toufu",
+      "tag": "名詞",
+      "translations": {
+        "en": "tofu",
+        "tr": "tofu (soya peyniri)",
+        "de": "Tofu",
+        "es": "tofu",
+        "fr": "tofu"
+      },
+      "sentences": [
+        {
+          "ja": "豆腐を食べたことがありますか。",
+          "furigana": "<ruby>豆腐<rt>とうふ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたことがありますか。",
+          "romaji": "Toufu o tabeta koto ga arimasu ka.",
+          "translations": {
+            "en": "Have you ever eaten tofu?",
+            "tr": "Hiç tofu yediniz mi?",
+            "de": "Haben Sie schon einmal Tofu gegessen?",
+            "es": "¿Has comido tofu alguna vez?",
+            "fr": "As-tu déjà mangé du tofu ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_749_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_749.mp3"
+    },
+    {
+      "id": "n5_vocab_750",
+      "word": "十",
+      "reading": "とお",
+      "romaji": "too",
+      "tag": "名詞",
+      "translations": {
+        "en": "ten",
+        "tr": "on (tane)",
+        "de": "zehn",
+        "es": "diez",
+        "fr": "dix"
+      },
+      "sentences": [
+        {
+          "ja": "りんごを十買いました。",
+          "furigana": "りんごを<ruby>十<rt>とお</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Ringo o too kaimashita.",
+          "translations": {
+            "en": "I bought ten apples.",
+            "tr": "On tane elma aldım.",
+            "de": "Ich habe zehn Äpfel gekauft.",
+            "es": "Compré diez manzanas.",
+            "fr": "J'ai acheté dix pommes."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_750_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_750.mp3"
+    },
+    {
+      "id": "n5_vocab_751",
+      "word": "遠く",
+      "reading": "とおく",
+      "romaji": "tooku",
+      "tag": "名詞",
+      "translations": {
+        "en": "far away, distant place",
+        "tr": "uzak, uzak yer",
+        "de": "Ferne, weit weg",
+        "es": "lejos, lugar lejano",
+        "fr": "loin, endroit lointain"
+      },
+      "sentences": [
+        {
+          "ja": "両親は遠くに住んでいます。",
+          "furigana": "<ruby>両親<rt>りょうしん</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くに<ruby>住<rt>す</rt></ruby>んでいます。",
+          "romaji": "Ryoushin wa tooku ni sunde imasu.",
+          "translations": {
+            "en": "My parents live far away.",
+            "tr": "Anne babam uzakta yaşıyor.",
+            "de": "Meine Eltern wohnen weit weg.",
+            "es": "Mis padres viven lejos.",
+            "fr": "Mes parents habitent loin."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_751_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_751.mp3"
+    },
+    {
+      "id": "n5_vocab_752",
+      "word": "どこか",
+      "reading": "どこか",
+      "romaji": "dokoka",
+      "tag": "表現",
+      "translations": {
+        "en": "somewhere, anywhere",
+        "tr": "bir yer, herhangi bir yer",
+        "de": "irgendwo",
+        "es": "algún lugar, cualquier lugar",
+        "fr": "quelque part"
+      },
+      "sentences": [
+        {
+          "ja": "どこかでランチをたべませんか。",
+          "furigana": "どこかでランチをたべませんか。",
+          "romaji": "Dokoka de ranchi o tabemasen ka.",
+          "translations": {
+            "en": "Would you like to have lunch somewhere?",
+            "tr": "Bir yerlerde öğle yemeği yiyelim mi?",
+            "de": "Wollen wir irgendwo zu Mittag essen?",
+            "es": "¿Quieres almorzar en algún sitio?",
+            "fr": "Veuillez-vous déjeuner quelque part ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_752_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_752.mp3"
+    },
+    {
+      "id": "n5_vocab_753",
+      "word": "どなた",
+      "reading": "どなた",
+      "romaji": "donata",
+      "tag": "表現",
+      "translations": {
+        "en": "who (polite)",
+        "tr": "kim (kibar)",
+        "de": "wer (höflich)",
+        "es": "quién (cortés)",
+        "fr": "qui (poli)"
+      },
+      "sentences": [
+        {
+          "ja": "この写真の人はどなたですか。",
+          "furigana": "この<ruby>写真<rt>しゃしん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>はどなたですか。",
+          "romaji": "Kono shashin no hito wa donata desu ka.",
+          "translations": {
+            "en": "Who is the person in this photo?",
+            "tr": "Bu fotoğraftaki kişi kim?",
+            "de": "Wer ist die Person auf diesem Foto?",
+            "es": "¿Quién es la persona de esta foto?",
+            "fr": "Qui est la personne sur cette photo ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_753_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_753.mp3"
+    },
+    {
+      "id": "n5_vocab_754",
+      "word": "鶏肉",
+      "reading": "とりにく",
+      "romaji": "toriniku",
+      "tag": "名詞",
+      "translations": {
+        "en": "chicken meat",
+        "tr": "tavuk eti",
+        "de": "Hühnerfleisch",
+        "es": "carne de pollo",
+        "fr": "viande de poulet"
+      },
+      "sentences": [
+        {
+          "ja": "鶏肉をよく食べます。",
+          "furigana": "<ruby>鶏肉<rt>とりにく</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べます。",
+          "romaji": "Toriniku o yoku tabemasu.",
+          "translations": {
+            "en": "I often eat chicken.",
+            "tr": "Sık sık tavuk yerim.",
+            "de": "Ich esse oft Hühnerfleisch.",
+            "es": "Como pollo a menudo.",
+            "fr": "Je mange souvent du poulet."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_754_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_754.mp3"
+    },
+    {
+      "id": "n5_vocab_755",
+      "word": "なにか",
+      "reading": "なにか",
+      "romaji": "nanika",
+      "tag": "表現",
+      "translations": {
+        "en": "something",
+        "tr": "bir şey",
+        "de": "etwas",
+        "es": "algo",
+        "fr": "quelque chose"
+      },
+      "sentences": [
+        {
+          "ja": "なにか冷たい飲み物がほしいです。",
+          "furigana": "なにか<ruby>冷<rt>つめ</rt></ruby>たい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>がほしいです。",
+          "romaji": "Nanika tsumetai nomimono ga hoshii desu.",
+          "translations": {
+            "en": "I want something cold to drink.",
+            "tr": "Soğuk bir şeyler içmek istiyorum.",
+            "de": "Ich möchte etwas Kaltes trinken.",
+            "es": "Quiero algo frío para beber.",
+            "fr": "Je veux quelque chose de froid à boire."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_755_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_755.mp3"
+    },
+    {
+      "id": "n5_vocab_756",
+      "word": "何日",
+      "reading": "なんにち",
+      "romaji": "nannichi",
+      "tag": "表現",
+      "translations": {
+        "en": "which day / how many days",
+        "tr": "hangi gün / kaç gün",
+        "de": "welcher Tag / wie viele Tage",
+        "es": "qué día / cuántos días",
+        "fr": "quel jour / combien de jours"
+      },
+      "sentences": [
+        {
+          "ja": "今日は何日ですか。",
+          "furigana": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>何日<rt>なんにち</rt></ruby>ですか。",
+          "romaji": "Kyou wa nannichi desu ka.",
+          "translations": {
+            "en": "What day is it today?",
+            "tr": "Bugün ayın kaçı? (Hangi gün?)",
+            "de": "Der wievielte ist heute?",
+            "es": "¿Qué día es hoy?",
+            "fr": "Quel jour sommes-nous ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_756_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_756.mp3"
+    },
+    {
+      "id": "n5_vocab_757",
+      "word": "二年",
+      "reading": "にねん",
+      "romaji": "ninen",
+      "tag": "名詞",
+      "translations": {
+        "en": "two years",
+        "tr": "iki yıl",
+        "de": "zwei Jahre",
+        "es": "dos años",
+        "fr": "deux ans"
+      },
+      "sentences": [
+        {
+          "ja": "私は日本に来て二年になります。",
+          "furigana": "<ruby>私<rt>わたし</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>二年<rt>にねん</rt></ruby>になります。",
+          "romaji": "Watashi wa nihon ni kite ninen ni narimasu.",
+          "translations": {
+            "en": "It has been two years since I came to Japan.",
+            "tr": "Japonya'ya geleli iki yıl oldu.",
+            "de": "Es sind zwei Jahre vergangen, seit ich nach Japan gekommen bin.",
+            "es": "Hace dos años que vine a Japón.",
+            "fr": "Cela fait deux ans que je suis venu au Japon."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_757_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_757.mp3"
+    },
+    {
+      "id": "n5_vocab_758",
+      "word": "塗る",
+      "reading": "ぬる",
+      "romaji": "nuru",
+      "tag": "動詞",
+      "translations": {
+        "en": "to paint, to spread",
+        "tr": "boyamak, sürmek",
+        "de": "malen, streichen",
+        "es": "pintar, untar",
+        "fr": "peindre, étaler"
+      },
+      "sentences": [
+        {
+          "ja": "テーブルを白く塗ります。",
+          "furigana": "テーブルを<ruby>白<rt>しろ</rt></ruby>く<ruby>塗<rt>ぬ</rt></ruby>ります。",
+          "romaji": "Teeburu o shiroku nurimasu.",
+          "translations": {
+            "en": "I will paint the table white.",
+            "tr": "Masayı beyaza boyayacağım.",
+            "de": "Ich werde den Tisch weiß streichen.",
+            "es": "Pintaré la mesa de blanco.",
+            "fr": "Je vais peindre la table en blanc."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_758_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_758.mp3"
+    },
+    {
+      "id": "n5_vocab_759",
+      "word": "履く",
+      "reading": "はく",
+      "romaji": "haku",
+      "tag": "動詞",
+      "translations": {
+        "en": "to put on (shoes, pants)",
+        "tr": "giymek (ayak / bacak için)",
+        "de": "anziehen (Schuhe, Hosen)",
+        "es": "ponerse (zapatos, pantalones)",
+        "fr": "mettre (chaussures, pantalon)"
+      },
+      "sentences": [
+        {
+          "ja": "新しい靴を履きます。",
+          "furigana": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>きます。",
+          "romaji": "Atarashii kutsu o hakimasu.",
+          "translations": {
+            "en": "I will put on new shoes.",
+            "tr": "Yeni ayakkabıları giyeceğim.",
+            "de": "Ich ziehe neue Schuhe an.",
+            "es": "Me pondré los zapatos nuevos.",
+            "fr": "Je vais mettre des chaussures neuves."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_759_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_759.mp3"
+    },
+    {
+      "id": "n5_vocab_760",
+      "word": "バス会社",
+      "reading": "バスがいしゃ",
+      "romaji": "basugaisha",
+      "tag": "名詞",
+      "translations": {
+        "en": "bus company",
+        "tr": "otobüs şirketi",
+        "de": "Busunternehmen",
+        "es": "compañía de autobuses",
+        "fr": "compagnie de bus"
+      },
+      "sentences": [
+        {
+          "ja": "妹はバス会社に勤めています。",
+          "furigana": "<ruby>妹<rt>いもうと</rt></ruby>はバス<ruby>会社<rt>がいしゃ</rt></ruby>に<ruby>勤<rt>つと</rt></ruby>めています。",
+          "romaji": "Imouto wa basugaisha ni tsutomete imasu.",
+          "translations": {
+            "en": "My younger sister works for a bus company.",
+            "tr": "Kız kardeşim bir otobüs şirketinde çalışıyor.",
+            "de": "Meine jüngere Schwester arbeitet bei einem Busunternehmen.",
+            "es": "Mi hermana menor trabaja en una compañía de autobuses.",
+            "fr": "Ma petite sœur travaille pour une compagnie de bus."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_760_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_760.mp3"
+    },
+    {
+      "id": "n5_vocab_761",
+      "word": "バス停",
+      "reading": "バスてい",
+      "romaji": "basutei",
+      "tag": "名詞",
+      "translations": {
+        "en": "bus stop",
+        "tr": "otobüs durağı",
+        "de": "Bushaltestelle",
+        "es": "parada de autobús",
+        "fr": "arrêt de bus"
+      },
+      "sentences": [
+        {
+          "ja": "バス停でバスを待ちます。",
+          "furigana": "バス<ruby>停<rt>てい</rt></ruby>でバスを<ruby>待<rt>ま</rt></ruby>ちます。",
+          "romaji": "Basutei de basu o machimasu.",
+          "translations": {
+            "en": "I will wait for the bus at the bus stop.",
+            "tr": "Otobüs durağında otobüs bekleyeceğim.",
+            "de": "Ich warte an der Bushaltestelle auf den Bus.",
+            "es": "Esperaré al autobús en la parada.",
+            "fr": "J'attendrai le bus à l'arrêt de bus."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_761_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_761.mp3"
+    },
+    {
+      "id": "n5_vocab_762",
+      "word": "バス旅行",
+      "reading": "バスりょこう",
+      "romaji": "basuryokou",
+      "tag": "名詞",
+      "translations": {
+        "en": "bus tour, bus trip",
+        "tr": "otobüs yolculuğu",
+        "de": "Busreise",
+        "es": "viaje en autobús",
+        "fr": "voyage en bus"
+      },
+      "sentences": [
+        {
+          "ja": "父と母はバス旅行が大好きです。",
+          "furigana": "<ruby>父<rt>ちち</rt></ruby>と<ruby>母<rt>はは</rt></ruby>はバス<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
+          "romaji": "Chichi to haha wa basuryokou ga daisuki desu.",
+          "translations": {
+            "en": "My father and mother love bus trips.",
+            "tr": "Babam ve annem otobüs yolculuklarını çok sever.",
+            "de": "Mein Vater und meine Mutter lieben Busreisen.",
+            "es": "A mi padre y a mi madre les encantan los viajes en autobús.",
+            "fr": "Mon père et ma mère adorent les voyages en bus."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_762_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_762.mp3"
+    },
+    {
+      "id": "n5_vocab_763",
+      "word": "パン屋",
+      "reading": "パンや",
+      "romaji": "panya",
+      "tag": "名詞",
+      "translations": {
+        "en": "bakery",
+        "tr": "fırın / pastane",
+        "de": "Bäckerei",
+        "es": "panadería",
+        "fr": "boulangerie"
+      },
+      "sentences": [
+        {
+          "ja": "駅の中においしいパン屋があります。",
+          "furigana": "<ruby>駅<rt>えき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>においしいパン<ruby>屋<rt>や</rt></ruby>があります。",
+          "romaji": "Eki no naka ni oishii panya ga arimasu.",
+          "translations": {
+            "en": "There is a delicious bakery inside the station.",
+            "tr": "İstasyonun içinde lezzetli bir fırın var.",
+            "de": "Im Bahnhof gibt es eine leckere Bäckerei.",
+            "es": "Hay una panadería deliciosa dentro de la estación.",
+            "fr": "Il y a une délicieuse boulangerie à l'intérieur de la gare."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_763_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_763.mp3"
+    },
+    {
+      "id": "n5_vocab_764",
+      "word": "ひらがな",
+      "reading": "ひらがな",
+      "romaji": "hiragana",
+      "tag": "名詞",
+      "translations": {
+        "en": "Hiragana",
+        "tr": "Hiragana",
+        "de": "Hiragana",
+        "es": "Hiragana",
+        "fr": "Hiragana"
+      },
+      "sentences": [
+        {
+          "ja": "ひらがなで名前を書いてください。",
+          "furigana": "ひらがなで<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。",
+          "romaji": "Hiragana de namae o kaite kudasai.",
+          "translations": {
+            "en": "Please write your name in Hiragana.",
+            "tr": "Lütfen adınızı Hiragana ile yazın.",
+            "de": "Bitte schreiben Sie Ihren Namen in Hiragana.",
+            "es": "Por favor, escribe tu nombre en hiragana.",
+            "fr": "Veuillez écrire votre nom en hiragana."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_764_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_764.mp3"
+    },
+    {
+      "id": "n5_vocab_765",
+      "word": "文",
+      "reading": "ぶん",
+      "romaji": "bun",
+      "tag": "名詞",
+      "translations": {
+        "en": "sentence",
+        "tr": "cümle",
+        "de": "Satz",
+        "es": "oración / frase",
+        "fr": "phrase"
+      },
+      "sentences": [
+        {
+          "ja": "正しい文を一つ選んでください。",
+          "furigana": "<ruby>正<rt>ただ</rt></ruby>しい<ruby>文<rt>ぶん</rt></ruby>を一つ<ruby>選<rt>えら</rt></ruby>んでください。",
+          "romaji": "Tadashii bun o hitotsu erande kudasai.",
+          "translations": {
+            "en": "Please choose one correct sentence.",
+            "tr": "Lütfen bir tane doğru cümle seçin.",
+            "de": "Bitte wählen Sie einen richtigen Satz aus.",
+            "es": "Por favor, elige una oración correcta.",
+            "fr": "Veuillez choisir une phrase correcte."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_765_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_765.mp3"
+    },
+    {
+      "id": "n5_vocab_766",
+      "word": "僕",
+      "reading": "ぼく",
+      "romaji": "boku",
+      "tag": "代名詞",
+      "translations": {
+        "en": "I (masculine)",
+        "tr": "ben (eril)",
+        "de": "ich (männlich)",
+        "es": "yo (masculino)",
+        "fr": "je (masculin)"
+      },
+      "sentences": [
+        {
+          "ja": "僕は十四歳です。",
+          "furigana": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>十四歳<rt>じゅうよんさい</rt></ruby>です。",
+          "romaji": "Boku wa juuyonsai desu.",
+          "translations": {
+            "en": "I am fourteen years old.",
+            "tr": "Ben on dört yaşındayım.",
+            "de": "Ich bin vierzehn Jahre alt.",
+            "es": "Tengo catorce años.",
+            "fr": "J'ai quatorze ans."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_766_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_766.mp3"
+    },
+    {
+      "id": "n5_vocab_767",
+      "word": "本屋",
+      "reading": "ほんや",
+      "romaji": "honya",
+      "tag": "名詞",
+      "translations": {
+        "en": "bookshop, bookstore",
+        "tr": "kitapçı",
+        "de": "Buchhandlung",
+        "es": "librería",
+        "fr": "librairie"
+      },
+      "sentences": [
+        {
+          "ja": "本屋で辞書を買いました。",
+          "furigana": "<ruby>本屋<rt>ほんや</rt></ruby>で<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Honya de jisho o kaimashita.",
+          "translations": {
+            "en": "I bought a dictionary at the bookstore.",
+            "tr": "Kitapçıdan bir sözlük aldım.",
+            "de": "Ich habe ein Wörterbuch in der Buchhandlung gekauft.",
+            "es": "Compré un diccionario en la librería.",
+            "fr": "J'ai acheté un dictionnaire à la librairie."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_767_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_767.mp3"
+    },
+    {
+      "id": "n5_vocab_768",
+      "word": "持っていく",
+      "reading": "もっていく",
+      "romaji": "motteiku",
+      "tag": "動詞",
+      "translations": {
+        "en": "to take (something)",
+        "tr": "götürmek",
+        "de": "mitnehmen",
+        "es": "llevar",
+        "fr": "emporter"
+      },
+      "sentences": [
+        {
+          "ja": "お弁当を持って行きます。",
+          "furigana": "お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Obentou o motte ikimasu.",
+          "translations": {
+            "en": "I will take a lunch box.",
+            "tr": "Öğle yemeği kutumu götüreceğim.",
+            "de": "Ich nehme eine Lunchbox mit.",
+            "es": "Me llevaré una fiambrera.",
+            "fr": "Je vais emporter un panier-repas."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_768_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_768.mp3"
+    },
+    {
+      "id": "n5_vocab_769",
+      "word": "矢印",
+      "reading": "やじるし",
+      "romaji": "yajirushi",
+      "tag": "名詞",
+      "translations": {
+        "en": "arrow (symbol)",
+        "tr": "ok (sembol)",
+        "de": "Pfeil",
+        "es": "flecha",
+        "fr": "flèche"
+      },
+      "sentences": [
+        {
+          "ja": "矢印の方へ行ってください。",
+          "furigana": "<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ってください。",
+          "romaji": "Yajirushi no hou e itte kudasai.",
+          "translations": {
+            "en": "Please go in the direction of the arrow.",
+            "tr": "Lütfen ok yönünde ilerleyin.",
+            "de": "Bitte gehen Sie in Pfeilrichtung.",
+            "es": "Por favor, vaya en la dirección de la flecha.",
+            "fr": "Veuillez aller dans la direction de la flèche."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_769_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_769.mp3"
+    },
+    {
+      "id": "n5_vocab_770",
+      "word": "やる",
+      "reading": "やる",
+      "romaji": "yaru",
+      "tag": "動詞",
+      "translations": {
+        "en": "to do",
+        "tr": "yapmak",
+        "de": "machen / tun",
+        "es": "hacer",
+        "fr": "faire"
+      },
+      "sentences": [
+        {
+          "ja": "宿題をやりましょう。",
+          "furigana": "<ruby>宿題<rt>しゅくだい</rt></ruby>をやりましょう。",
+          "romaji": "Shukudai o yarimashou.",
+          "translations": {
+            "en": "Let's do the homework.",
+            "tr": "Ödevleri yapalım.",
+            "de": "Lass uns die Hausaufgaben machen.",
+            "es": "Hagamos los deberes.",
+            "fr": "Faisons les devoirs."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_770_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_770.mp3"
+    },
+    {
+      "id": "n5_vocab_771",
+      "word": "ラーメン",
+      "reading": "ラーメン",
+      "romaji": "raamen",
+      "tag": "名詞",
+      "translations": {
+        "en": "ramen",
+        "tr": "ramen",
+        "de": "Ramen",
+        "es": "ramen",
+        "fr": "ramen"
+      },
+      "sentences": [
+        {
+          "ja": "お昼にラーメンを食べました。",
+          "furigana": "お<ruby>昼<rt>ひる</rt></ruby>にラーメンを<ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Ohiru ni raamen o tabemashita.",
+          "translations": {
+            "en": "I ate ramen for lunch.",
+            "tr": "Öğle yemeğinde ramen yedim.",
+            "de": "Ich habe Ramen zum Mittagessen gegessen.",
+            "es": "Comí ramen para el almuerzo.",
+            "fr": "J'ai mangé des ramens au déjeuner."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_771_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_771.mp3"
+    },
+    {
+      "id": "n5_vocab_772",
+      "word": "旅行会社",
+      "reading": "りょこうがいしゃ",
+      "romaji": "ryokougaisha",
+      "tag": "名詞",
+      "translations": {
+        "en": "travel agency",
+        "tr": "seyahat acentesi",
+        "de": "Reisebüro",
+        "es": "agencia de viajes",
+        "fr": "agence de voyage"
+      },
+      "sentences": [
+        {
+          "ja": "旅行会社でツアーを予約しました。",
+          "furigana": "<ruby>旅行<rt>りょこう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>でツアーを<ruby>予約<rt>よやく</rt></ruby>しました。",
+          "romaji": "Ryokougaisha de tsuaa o yoyaku shimashita.",
+          "translations": {
+            "en": "I booked a tour at the travel agency.",
+            "tr": "Seyahat acentesinden tur rezervasyonu yaptım.",
+            "de": "Ich habe im Reisebüro eine Tour gebucht.",
+            "es": "Reservé un tour en la agencia de viajes.",
+            "fr": "J'ai réservé un tour à l'agence de voyage."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_772_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_772.mp3"
+    },
+    {
+      "id": "n5_vocab_773",
+      "word": "りんご",
+      "reading": "りんご",
+      "romaji": "ringo",
+      "tag": "名詞",
+      "translations": {
+        "en": "apple",
+        "tr": "elma",
+        "de": "Apfel",
+        "es": "manzana",
+        "fr": "pomme"
+      },
+      "sentences": [
+        {
+          "ja": "赤いいりんごを二つ食べました。",
+          "furigana": "<ruby>赤<rt>あか</rt></ruby>いいりんごを<ruby>二<rt>ふた</rt></ruby>つ<ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Akai ringo o futatsu tabemashita.",
+          "translations": {
+            "en": "I ate two red apples.",
+            "tr": "İki tane kırmızı elma yedim.",
+            "de": "Ich habe zwei rote Äpfel gegessen.",
+            "es": "Me comí dos manzanas rojas.",
+            "fr": "J'ai mangé deux pommes rouges."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_773_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_773.mp3"
+    },
+    {
+      "id": "n5_vocab_774",
+      "word": "例",
+      "reading": "れい",
+      "romaji": "rei",
+      "tag": "名詞",
+      "translations": {
+        "en": "example",
+        "tr": "örnek",
+        "de": "Beispiel",
+        "es": "ejemplo",
+        "fr": "exemple"
+      },
+      "sentences": [
+        {
+          "ja": "例を一つ教えてください。",
+          "furigana": "<ruby>例<rt>れい</rt></ruby>を一つ<ruby>教<rt>おし</rt></ruby>えてください。",
+          "romaji": "Rei o hitotsu oshiete kudasai.",
+          "translations": {
+            "en": "Please tell me one example.",
+            "tr": "Lütfen bana bir örnek verin.",
+            "de": "Bitte nennen Sie mir ein Beispiel.",
+            "es": "Por favor, dime un ejemplo.",
+            "fr": "S'il vous plaît, donnez-moi un exemple."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_774_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_774.mp3"
+    },
+    {
+      "id": "n5_vocab_775",
+      "word": "わたくし",
+      "reading": "わたくし",
+      "romaji": "watakushi",
+      "tag": "代名詞",
+      "translations": {
+        "en": "I (very formal)",
+        "tr": "ben (çok resmi)",
+        "de": "ich (sehr förmlich)",
+        "es": "yo (muy formal)",
+        "fr": "je (très formel)"
+      },
+      "sentences": [
+        {
+          "ja": "わたくしは田中と申します。",
+          "furigana": "わたくしは<ruby>田中<rt>たなか</rt></ruby>と<ruby>申<rt>もう</rt></ruby>します。",
+          "romaji": "Watakushi wa Tanaka to moushimasu.",
+          "translations": {
+            "en": "My name is Tanaka (very formal).",
+            "tr": "Benim adım Tanaka (çok resmi).",
+            "de": "Mein Name ist Tanaka (sehr förmlich).",
+            "es": "Me llamo Tanaka (muy formal).",
+            "fr": "Je m'appelle Tanaka (très formel)."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_775_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_775.mp3"
+    },
+    {
+      "id": "n5_vocab_776",
+      "word": "いえ",
+      "reading": "いえ",
+      "romaji": "ie",
+      "tag": "表現",
+      "translations": {
+        "en": "no",
+        "tr": "hayır (kısa)",
+        "de": "nein",
+        "es": "no",
+        "fr": "non"
+      },
+      "sentences": [
+        {
+          "ja": "「ありがとうございました。」「いえ、どういたしまして。」",
+          "furigana": "「ありがとうございました。」「いえ、どういたしまして。」",
+          "romaji": "\"Arigatou gozaimashita.\" \"Ie, douitashimashite.\"",
+          "translations": {
+            "en": "\"Thank you.\" \"No, you're welcome.\"",
+            "tr": "\"Teşekkür ederim.\" \"Hayır, rica ederim.\"",
+            "de": "\"Vielen Dank.\" \"Nein, gern geschehen.\"",
+            "es": "\"Gracias.\" \"No, de nada.\"",
+            "fr": "\"Merci.\" \"Non, de rien.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_776_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_776.mp3"
+    },
+    {
+      "id": "n5_vocab_777",
+      "word": "いただきます",
+      "reading": "いただきます",
+      "romaji": "itadakimasu",
+      "tag": "表現",
+      "translations": {
+        "en": "Let's eat / Thank you for the meal (before eating)",
+        "tr": "Afiyet olsun / Yemek için teşekkürler (yemeğe başlarken)",
+        "de": "Guten Appetit / Ich empfange (vor dem Essen)",
+        "es": "¡Buen provecho! / Gracias por la comida (antes de comer)",
+        "fr": "Bon appétit / Merci pour ce repas (avant de manger)"
+      },
+      "sentences": [
+        {
+          "ja": "手を洗って、いただきますと言いました。",
+          "furigana": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>って、いただきますと<ruby>言<rt>い</rt></ruby>いました。",
+          "romaji": "Te o aratte, itadakimasu to iimashita.",
+          "translations": {
+            "en": "I washed my hands and said 'itadakimasu'.",
+            "tr": "Ellerimi yıkadım ve 'itadakimasu' (yemeğe başlıyorum) dedim.",
+            "de": "Ich habe mir die Hände gewaschen und 'itadakimasu' gesagt.",
+            "es": "Me lavé las manos y dije 'itadakimasu'.",
+            "fr": "Je me suis lavé les mains et j'ai dit 'itadakimasu'."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_777_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_777.mp3"
+    },
+    {
+      "id": "n5_vocab_778",
+      "word": "いってきます",
+      "reading": "いってきます",
+      "romaji": "ittekimasu",
+      "tag": "表現",
+      "translations": {
+        "en": "I'm leaving (home)",
+        "tr": "Ben gidiyorum / Görüşürüz (evden çıkarken)",
+        "de": "Ich gehe jetzt (und komme wieder)",
+        "es": "Ya me voy (nos vemos luego)",
+        "fr": "Je y vais (je pars de la maison)"
+      },
+      "sentences": [
+        {
+          "ja": "「いってきます。」「いってらっしゃい。」",
+          "furigana": "「いってきます。」「いってらっしゃい。」",
+          "romaji": "\"Ittekimasu.\" \"Itterasshai.\"",
+          "translations": {
+            "en": "\"I'm leaving.\" \"Have a good day (Go and come back).\"",
+            "tr": "\"Ben gidiyorum.\" \"Güle güle git.\"",
+            "de": "\"Ich gehe jetzt.\" \"Komm gut zurück.\"",
+            "es": "\"Ya me voy.\" \"Que te vaya bien.\"",
+            "fr": "\"Je y vais.\" \"Bonne journée.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_778_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_778.mp3"
+    },
+    {
+      "id": "n5_vocab_779",
+      "word": "いらっしゃいませ",
+      "reading": "いらっしゃいませ",
+      "romaji": "irasshaimase",
+      "tag": "表現",
+      "translations": {
+        "en": "Welcome (to a shop/restaurant)",
+        "tr": "Hoş geldiniz (dükkan veya restoranlarda)",
+        "de": "Willkommen (in Geschäften/Restaurants)",
+        "es": "Bienvenido (en tiendas/restaurantes)",
+        "fr": "Bienvenue (dans un magasin/restaurant)"
+      },
+      "sentences": [
+        {
+          "ja": "お店に入ると「いらっしゃいませ」と言われました。",
+          "furigana": "お<ruby>店<rt>みせ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると「いらっしゃいませ」と<ruby>言<rt>い</rt></ruby>われました。",
+          "romaji": "Omise ni hairu to 'irasshaimase' to iwaremashita.",
+          "translations": {
+            "en": "When I entered the shop, they said 'Welcome'.",
+            "tr": "Dükkana girdiğimde 'Hoş geldiniz' dediler.",
+            "de": "Als ich den Laden betrat, hieß es 'Willkommen'.",
+            "es": "Al entrar en la tienda, dijeron 'Bienvenido'.",
+            "fr": "En entrant dans le magasin, on m'a dit 'Bienvenue'."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_779_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_779.mp3"
+    },
+    {
+      "id": "n5_vocab_780",
+      "word": "うーん",
+      "reading": "うーん",
+      "romaji": "uun",
+      "tag": "表現",
+      "translations": {
+        "en": "Well... / Let me see",
+        "tr": "Şey... / Hmmm...",
+        "de": "Nun... / Hm...",
+        "es": "Bueno... / A ver...",
+        "fr": "Euh... / Voyons..."
+      },
+      "sentences": [
+        {
+          "ja": "うーん、ちょっと考えさせてください。",
+          "furigana": "うーん、ちょっと<ruby>考<rt>かんが</rt></ruby>えさせてください。",
+          "romaji": "Uun, chotto kangaesasete kudasai.",
+          "translations": {
+            "en": "Well, let me think about it for a moment.",
+            "tr": "Şey, biraz düşünmeme izin verin.",
+            "de": "Hm, lassen Sie mich kurz nachdenken.",
+            "es": "Bueno, déjame pensarlo un momento.",
+            "fr": "Euh, laissez-moi y réfléchir un moment."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_780_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_780.mp3"
+    },
+    {
+      "id": "n5_vocab_781",
+      "word": "おげんきで",
+      "reading": "おげんきで",
+      "romaji": "ogenkide",
+      "tag": "表現",
+      "translations": {
+        "en": "Take care / All the best",
+        "tr": "Kendinize iyi bakın / Sağlıcakla kalın",
+        "de": "Machen Sie es gut / Passen Sie auf sich auf",
+        "es": "Cuídate / Que te vaya bien",
+        "fr": "Prenez soin de vous / Bonne continuation"
+      },
+      "sentences": [
+        {
+          "ja": "それでは、お元気で。",
+          "furigana": "それでは、お<ruby>元気<rt>げんき</rt></ruby>で。",
+          "romaji": "Soredewa, ogenkide.",
+          "translations": {
+            "en": "Well then, take care.",
+            "tr": "O zaman, kendinize iyi bakın.",
+            "de": "Nun, machen Sie es gut.",
+            "es": "Entonces, cuídate.",
+            "fr": "Alors, prenez soin de vous."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_781_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_781.mp3"
+    },
+    {
+      "id": "n5_vocab_782",
+      "word": "おねがいします",
+      "reading": "おねがいします",
+      "romaji": "onegaishimasu",
+      "tag": "表現",
+      "translations": {
+        "en": "Please",
+        "tr": "Lütfen / Rica ederim",
+        "de": "Bitte",
+        "es": "Por favor",
+        "fr": "S'il vous plaît"
+      },
+      "sentences": [
+        {
+          "ja": "これを一つお願いします。",
+          "furigana": "これを一つお<ruby>願<rt>ねが</rt></ruby>いします。",
+          "romaji": "Kore o hitotsu onegaishimasu.",
+          "translations": {
+            "en": "One of this, please.",
+            "tr": "Bundan bir tane lütfen.",
+            "de": "Einmal hiervon, bitte.",
+            "es": "Uno de estos, por favor.",
+            "fr": "Un comme ça, s'il vous plaît."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_782_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_782.mp3"
+    },
+    {
+      "id": "n5_vocab_783",
+      "word": "おやすみなさい",
+      "reading": "おやすみなさい",
+      "romaji": "oyasuminasai",
+      "tag": "表現",
+      "translations": {
+        "en": "Good night",
+        "tr": "İyi geceler / Allah rahatlık versin",
+        "de": "Gute Nacht",
+        "es": "Buenas noches",
+        "fr": "Bonne nuit"
+      },
+      "sentences": [
+        {
+          "ja": "寝る前に「おやすみなさい」と言います。",
+          "furigana": "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に「おやすみなさい」と<ruby>言<rt>い</rt></ruby>います。",
+          "romaji": "Neru mae ni 'oyasuminasai' to iimasu.",
+          "translations": {
+            "en": "I say 'good night' before going to bed.",
+            "tr": "Yatmadan önce 'iyi geceler' derim.",
+            "de": "Vor dem Schlafengehen sage ich 'Gute Nacht'.",
+            "es": "Digo 'buenas noches' antes de dormir.",
+            "fr": "Je dis 'bonne nuit' avant de dormir."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_783_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_783.mp3"
+    },
+    {
+      "id": "n5_vocab_784",
+      "word": "ごちそうさまでした",
+      "reading": "ごちそうさまでした",
+      "romaji": "gochisousamadeshita",
+      "tag": "表現",
+      "translations": {
+        "en": "Thank you for the meal (after eating)",
+        "tr": "Elinize sağlık / Yemek için teşekkürler (yemekten sonra)",
+        "de": "Danke für das Essen (nach dem Essen)",
+        "es": "Gracias por la comida (después de comer)",
+        "fr": "Merci pour ce repas (après manger)"
+      },
+      "sentences": [
+        {
+          "ja": "食べ終わって、ごちそうさまでしたと言いました。",
+          "furigana": "<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わって、ごちそうさまでしたと<ruby>言<rt>い</rt></ruby>いました。",
+          "romaji": "Tabe owatte, gochisousamadeshita to iimashita.",
+          "translations": {
+            "en": "I finished eating and said 'gochisousamadeshita'.",
+            "tr": "Yemeği bitirdim ve 'elinize sağlık' dedim.",
+            "de": "Ich habe aufgegessen und 'danke für das Essen' gesagt.",
+            "es": "Terminé de comer y dije 'gracias por la comida'.",
+            "fr": "J'ai fini de manger et j'ai dit 'merci pour ce repas'."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_784_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_784.mp3"
+    },
+    {
+      "id": "n5_vocab_785",
+      "word": "こんにちは",
+      "reading": "こんにちは",
+      "romaji": "konnichiwa",
+      "tag": "表現",
+      "translations": {
+        "en": "Hello / Good afternoon",
+        "tr": "Merhaba / İyi günler",
+        "de": "Guten Tag / Hallo",
+        "es": "Hola / Buenas tardes",
+        "fr": "Bonjour"
+      },
+      "sentences": [
+        {
+          "ja": "先生に「こんにちは」と挨拶しました。",
+          "furigana": "<ruby>先生<rt>せんせい</rt></ruby>に「こんにちは」と<ruby>挨拶<rt>あいさつ</rt></ruby>しました。",
+          "romaji": "Sensei ni 'konnichiwa' to aisatsu shimashita.",
+          "translations": {
+            "en": "I greeted the teacher with 'Hello'.",
+            "tr": "Öğretmene 'merhaba' diyerek selam verdim.",
+            "de": "Ich habe den Lehrer mit 'Guten Tag' begrüßt.",
+            "es": "Saludé al profesor con un 'hola'.",
+            "fr": "J'ai salué le professeur par un 'bonjour'."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_785_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_785.mp3"
+    },
+    {
+      "id": "n5_vocab_786",
+      "word": "さようなら",
+      "reading": "さようなら",
+      "romaji": "sayounara",
+      "tag": "表現",
+      "translations": {
+        "en": "Goodbye",
+        "tr": "Hoşça kalın / Güle güle / Elveda",
+        "de": "Auf Wiedersehen / Tschüss",
+        "es": "Adiós",
+        "fr": "Au revoir / Adieu"
+      },
+      "sentences": [
+        {
+          "ja": "「さようなら。」「また明日。」",
+          "furigana": "「さようなら。」「また<ruby>明日<rt>あした</rt></ruby>。」",
+          "romaji": "\"Sayounara.\" \"Mata ashita.\"",
+          "translations": {
+            "en": "\"Goodbye.\" \"See you tomorrow.\"",
+            "tr": "\"Hoşça kalın.\" \"Yarın görüşürüz.\"",
+            "de": "\"Auf Wiedersehen.\" \"Bis morgen.\"",
+            "es": "\"Adiós.\" \"Hasta mañana.\"",
+            "fr": "\"Au revoir.\" \"À demain.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_786_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_786.mp3"
+    },
+    {
+      "id": "n5_vocab_787",
+      "word": "しつれいしました",
+      "reading": "しつれいしました",
+      "romaji": "shitsureishimashita",
+      "tag": "表現",
+      "translations": {
+        "en": "I am sorry (for something I did) / Excuse me",
+        "tr": "Özür dilerim (yaptığım bir şey için) / Kusura bakmayın",
+        "de": "Verzeihung / Entschuldigen Sie (für etwas Vergangenes)",
+        "es": "Perdón / Disculpe (por lo ocurrido)",
+        "fr": "Je vous demande pardon / Excusez-moi (pour ce que j'ai fait)"
+      },
+      "sentences": [
+        {
+          "ja": "遅れて、失礼しました。",
+          "furigana": "<ruby>遅<rt>おく</rt></ruby>れて、<ruby>失礼<rt>しつれい</rt></ruby>しました。",
+          "romaji": "Okurete, shitsureishimashita.",
+          "translations": {
+            "en": "I'm sorry for being late.",
+            "tr": "Geciktiğim için kusura bakmayın.",
+            "de": "Entschuldigen Sie die Verspätung.",
+            "es": "Siento llegar tarde.",
+            "fr": "Désolé d'être en retard."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_787_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_787.mp3"
+    },
+    {
+      "id": "n5_vocab_788",
+      "word": "しつれいします",
+      "reading": "しつれいします",
+      "romaji": "shitsureishimasu",
+      "tag": "表現",
+      "translations": {
+        "en": "Excuse me / I'm going to commit a rudeness (entering/leaving/hanging up)",
+        "tr": "Afedersiniz / Müsaadenizle (içeri girerken, çıkarken, telefonu kapatırken)",
+        "de": "Entschuldigung / Verzeihung (beim Eintreten/Verlassen)",
+        "es": "Con permiso / Disculpe (al entrar/salir)",
+        "fr": "Excusez-moi / Je vous prie de m'excuser (en entrant/sortant)"
+      },
+      "sentences": [
+        {
+          "ja": "部屋に入るときに「失礼します」と言いました。",
+          "furigana": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るときに「<ruby>失礼<rt>しつれい</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>いました。",
+          "romaji": "Heya ni hairu toki ni 'shitsureishimasu' to iimashita.",
+          "translations": {
+            "en": "I said 'excuse me' when entering the room.",
+            "tr": "Odaya girerken 'müsaadenizle' (afedersiniz) dedim.",
+            "de": "Ich sagte 'Entschuldigung', als ich das Zimmer betrat.",
+            "es": "Dije 'con permiso' al entrar en la habitación.",
+            "fr": "J'ai dit 'excusez-moi' en entrant dans la pièce."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_788_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_788.mp3"
+    },
+    {
+      "id": "n5_vocab_789",
+      "word": "そうしましょう",
+      "reading": "そうしましょう",
+      "romaji": "soushimashou",
+      "tag": "表現",
+      "translations": {
+        "en": "Let's do that",
+        "tr": "Öyle yapalım",
+        "de": "Lassen Sie uns das so machen",
+        "es": "Hagamos eso",
+        "fr": "Faisons comme ça"
+      },
+      "sentences": [
+        {
+          "ja": "「一緒に帰りませんか。」「ええ、そうしましょう。」",
+          "furigana": "「<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りませんか。」「ええ、そうしましょう。」",
+          "romaji": "\"Issho ni kaerimasen ka.\" \"Ee, soushimashou.\"",
+          "translations": {
+            "en": "\"Shall we go home together?\" \"Yes, let's do that.\"",
+            "tr": "\"Beraber dönelim mi?\" \"Evet, öyle yapalım.\"",
+            "de": "\"Wollen wir zusammen nach Hause gehen?\" \"Ja, lassen Sie uns das machen.\"",
+            "es": "\"¿Quieres que volvamos juntos?\" \"Sí, hagamos eso.\"",
+            "fr": "\"Voulez-vous que nous rentrions ensemble ?\" \"Oui, faisons comme ça.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_789_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_789.mp3"
+    },
+    {
+      "id": "n5_vocab_790",
+      "word": "そうです",
+      "reading": "そうです",
+      "romaji": "sou desu",
+      "tag": "表現",
+      "translations": {
+        "en": "That's right / It is so",
+        "tr": "Evet, öyle / Doğru",
+        "de": "Das ist richtig / So ist es",
+        "es": "Así es / Es verdad",
+        "fr": "C'est ça / C'est exact"
+      },
+      "sentences": [
+        {
+          "ja": "「これはあなたの傘ですか。」「はい、そうです。」",
+          "furigana": "「これはあなたの<ruby>傘<rt>かさ</rt></ruby>ですか。」「はい、そうです。」",
+          "romaji": "\"Kore wa anata no kasa desu ka.\" \"Hai, sou desu.\"",
+          "translations": {
+            "en": "\"Is this your umbrella?\" \"Yes, it is.\"",
+            "tr": "\"Bu sizin şemsiyeniz mi?\" \"Evet, öyle.\"",
+            "de": "\"Ist das Ihr Schirm?\" \"Ja, das ist er.\"",
+            "es": "\"¿Es este su paraguas?\" \"Sí, así es.\"",
+            "fr": "\"Est-ce votre parapluie ?\" \"Oui, c'est ça.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_790_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_790.mp3"
+    },
+    {
+      "id": "n5_vocab_791",
+      "word": "そうですか",
+      "reading": "そうですか",
+      "romaji": "sou desu ka",
+      "tag": "表現",
+      "translations": {
+        "en": "Is that so? / I see",
+        "tr": "Öyle mi? / Anlıyorum",
+        "de": "Ach so / Tatsächlich?",
+        "es": "¿Ah, sí? / Ya veo",
+        "fr": "Ah bon ? / Je vois"
+      },
+      "sentences": [
+        {
+          "ja": "「明日は休みですよ。」「そうですか。わかりました。」",
+          "furigana": "「<ruby>明日<rt>あした</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みですよ。」「そうですか。<ruby>分<rt>わ</rt></ruby>かりました。」",
+          "romaji": "\"Ashita wa yasumi desu yo.\" \"Sou desu ka. Wakarimashita.\"",
+          "translations": {
+            "en": "\"Tomorrow is a holiday.\" \"Is that so? I understand.\"",
+            "tr": "\"Yarın tatil.\" \"Öyle mi? Tamam anladım.\"",
+            "de": "\"Morgen ist ein Feiertag.\" \"Ach so. Alles klar.\"",
+            "es": "\"Mañana es festivo.\" \"¿Ah, sí? Entendido.\"",
+            "fr": "\"Demain est un jour férié.\" \"Ah bon ? D'accord.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_791_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_791.mp3"
+    },
+    {
+      "id": "n5_vocab_792",
+      "word": "そうですね",
+      "reading": "そうですね",
+      "romaji": "sou desu ne",
+      "tag": "表現",
+      "translations": {
+        "en": "That's true, isn't it? / Well... (filler)",
+        "tr": "Öyle, değil mi? / Haklısın / Şey... (düşünürken)",
+        "de": "Das stimmt / Lassen Sie mich mal sehen",
+        "es": "Es verdad, ¿no? / Pues... (al pensar)",
+        "fr": "C'est vrai, n'est-ce pas ? / Eh bien... (en réfléchissant)"
+      },
+      "sentences": [
+        {
+          "ja": "「今日はいい天気ですね。」「そうですね。」",
+          "furigana": "「<ruby>今日<rt>きょう</rt></ruby>はいい<ruby>天気<rt>てんき</rt></ruby>ですね。」「そうですね。」",
+          "romaji": "\"Kyou wa ii tenki desu ne.\" \"Sou desu ne.\"",
+          "translations": {
+            "en": "\"Nice weather today, isn't it?\" \"It sure is.\"",
+            "tr": "\"Bugün hava çok güzel değil mi?\" \"Evet, öyle.\"",
+            "de": "\"Heute ist schönes Wetter, nicht wahr?\" \"Das stimmt.\"",
+            "es": "\"Hoy hace buen tiempo, ¿verdad?\" \"Es verdad.\"",
+            "fr": "\"Il fait beau aujourd'hui, n'est-ce pas ?\" \"C'est vrai.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_792_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_792.mp3"
+    },
+    {
+      "id": "n5_vocab_793",
+      "word": "ただいま",
+      "reading": "ただいま",
+      "romaji": "tadaima",
+      "tag": "表現",
+      "translations": {
+        "en": "I'm home",
+        "tr": "Ben geldim",
+        "de": "Ich bin wieder da",
+        "es": "Ya estoy en casa",
+        "fr": "Je suis de retour"
+      },
+      "sentences": [
+        {
+          "ja": "家に帰って「ただいま」と言いました。",
+          "furigana": "<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>って「ただいま」と<ruby>言<rt>い</rt></ruby>いました。",
+          "romaji": "Ie ni kaette 'tadaima' to iimashita.",
+          "translations": {
+            "en": "I went home and said 'I'm home'.",
+            "tr": "Eve dönünce 'ben geldim' dedim.",
+            "de": "Ich bin nach Hause gekommen und habe 'Ich bin wieder da' gesagt.",
+            "es": "Llegué a casa y dije 'ya estoy en casa'.",
+            "fr": "Je suis rentré à la maison et j'ai dit 'je suis de retour'."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_793_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_793.mp3"
+    },
+    {
+      "id": "n5_vocab_794",
+      "word": "では、また",
+      "reading": "では、また",
+      "romaji": "dewa mata",
+      "tag": "表現",
+      "translations": {
+        "en": "See you again",
+        "tr": "Sonra görüşürüz / Tekrar görüşmek üzere",
+        "de": "Bis dann / Bis bald",
+        "es": "Hasta luego / Hasta la vista",
+        "fr": "À bientôt / À plus tard"
+      },
+      "sentences": [
+        {
+          "ja": "それでは、今日はこれで終わります。では、また。",
+          "furigana": "それでは、<ruby>今日<rt>きょう</rt></ruby>はこれで<ruby>終<rt>お</rt></ruby>わります。では、また。",
+          "romaji": "Soredewa, kyou wa kore de owarimasu. Dewa mata.",
+          "translations": {
+            "en": "Well then, we'll finish for today. See you again.",
+            "tr": "O halde bugünlük bu kadar. Tekrar görüşürüz.",
+            "de": "Nun, dann machen wir für heute Schluss. Bis bald.",
+            "es": "Bueno, terminamos por hoy. Hasta luego.",
+            "fr": "Alors, nous finissons pour aujourd'hui. À bientôt."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_794_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_794.mp3"
+    },
+    {
+      "id": "n5_vocab_795",
+      "word": "どういたしまして",
+      "reading": "どういたしまして",
+      "romaji": "douitashimashite",
+      "tag": "表現",
+      "translations": {
+        "en": "You're welcome / Not at all",
+        "tr": "Rica ederim / Bir şey değil",
+        "de": "Gern geschehen / Keine Ursache",
+        "es": "De nada / No hay de qué",
+        "fr": "De rien / Je vous en prie"
+      },
+      "sentences": [
+        {
+          "ja": "「ありがとうございました。」「いいえ、どういたしまして。」",
+          "furigana": "「ありがとうございました。」「いいえ、どういたしまして。」",
+          "romaji": "\"Arigatou gozaimashita.\" \"Iie, douitashimashite.\"",
+          "translations": {
+            "en": "\"Thank you very much.\" \"No, you're welcome.\"",
+            "tr": "\"Çok teşekkür ederim.\" \"Hayır, rica ederim.\"",
+            "de": "\"Vielen Dank.\" \"Nein, gern geschehen.\"",
+            "es": "\"Muchas gracias.\" \"No, de nada.\"",
+            "fr": "\"Merci beaucoup.\" \"Non, de rien.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_795_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_795.mp3"
+    },
+    {
+      "id": "n5_vocab_796",
+      "word": "どうもありがとうございました",
+      "reading": "どうもありがとうございました",
+      "romaji": "doumo arigatou gozaimashita",
+      "tag": "表現",
+      "translations": {
+        "en": "Thank you very much (for what you did)",
+        "tr": "Çok teşekkür ederim (geçmişte yapılan bir şey için)",
+        "de": "Vielen Dank (für das, was Sie getan haben)",
+        "es": "Muchísimas gracias (por lo que hizo)",
+        "fr": "Merci infiniment (pour ce que vous avez fait)"
+      },
+      "sentences": [
+        {
+          "ja": "いろいろ助けてくれて、どうもありがとうございました。",
+          "furigana": "いろいろ<ruby>助<rt>たす</rt></ruby>けてくれて、どうもありがとうございました。",
+          "romaji": "Iroiro tasukete kurete, doumo arigatou gozaimashita.",
+          "translations": {
+            "en": "Thank you very much for all your help.",
+            "tr": "Tüm yardımlarınız için çok teşekkür ederim.",
+            "de": "Vielen Dank für Ihre ganze Hilfe.",
+            "es": "Muchísimas gracias por toda su ayuda.",
+            "fr": "Merci beaucoup pour toute votre aide."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_796_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_796.mp3"
+    },
+    {
+      "id": "n5_vocab_797",
+      "word": "はじめまして",
+      "reading": "はじめまして",
+      "romaji": "hajimemashite",
+      "tag": "表現",
+      "translations": {
+        "en": "Nice to meet you (for the first time)",
+        "tr": "Tanıştığımıza memnun oldum",
+        "de": "Freut mich, Sie kennenzulernen",
+        "es": "Mucho gusto / Encantado",
+        "fr": "Enchanté / Ravi de vous rencontrer"
+      },
+      "sentences": [
+        {
+          "ja": "「はじめまして。田中です。」",
+          "furigana": "「はじめまして。<ruby>田中<rt>たなか</rt></ruby>です。」",
+          "romaji": "\"Hajimemashite. Tanaka desu.\"",
+          "translations": {
+            "en": "\"Nice to meet you. I am Tanaka.\"",
+            "tr": "\"Memnun oldum. Ben Tanaka.\"",
+            "de": "\"Freut mich. Ich bin Tanaka.\"",
+            "es": "\"Mucho gusto. Soy Tanaka.\"",
+            "fr": "\"Enchanté. Je m'appelle Tanaka.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_797_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_797.mp3"
+    },
+    {
+      "id": "n5_vocab_798",
+      "word": "よろしく",
+      "reading": "よろしく",
+      "romaji": "yoroshiku",
+      "tag": "表現",
+      "translations": {
+        "en": "Please treat me well / Best regards",
+        "tr": "Memnun oldum / Lütfen bana iyi davranın (tanışırken veya ricada)",
+        "de": "Auf gute Zusammenarbeit / Angenehm",
+        "es": "Es un placer / Por favor, cuide de mí",
+        "fr": "Enchanté / Je m'en remets à vous"
+      },
+      "sentences": [
+        {
+          "ja": "「田中です。よろしくお願いします。」",
+          "furigana": "「<ruby>田中<rt>たなか</rt></ruby>です。よろしくお願いします。」",
+          "romaji": "\"Tanaka desu. Yoroshiku onegaishimasu.\"",
+          "translations": {
+            "en": "\"I am Tanaka. Pleased to meet you.\"",
+            "tr": "\"Ben Tanaka. Tanıştığımıza memnun oldum.\"",
+            "de": "\"Ich bin Tanaka. Auf gute Zusammenarbeit.\"",
+            "es": "\"Soy Tanaka. Mucho gusto.\"",
+            "fr": "\"Je m'appelle Tanaka. Ravi de faire votre connaissance.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_798_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_798.mp3"
+    },
+    {
+      "id": "n5_vocab_799",
+      "word": "こちらこそ",
+      "reading": "こちらこそ",
+      "romaji": "kochirakoso",
+      "tag": "表現",
+      "translations": {
+        "en": "Me too / Likewise",
+        "tr": "Ben de / Bilmukabele",
+        "de": "Gleichfalls / Ganz meinerseits",
+        "es": "Igualmente / El gusto es mío",
+        "fr": "Moi de même / De même"
+      },
+      "sentences": [
+        {
+          "ja": "「よろしくお願いします。」「こちらこそ。」",
+          "furigana": "「よろしくお願いします。」「こちらこそ。」",
+          "romaji": "\"Yoroshiku onegaishimasu.\" \"Kochirakoso.\"",
+          "translations": {
+            "en": "\"Nice to meet you.\" \"Likewise.\"",
+            "tr": "\"Memnun oldum.\" \"Ben de memnun oldum.\"",
+            "de": "\"Freut mich.\" \"Gleichfalls.\"",
+            "es": "\"Mucho gusto.\" \"Igualmente.\"",
+            "fr": "\"Enchanté.\" \"De même.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_799_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_799.mp3"
+    },
+    {
+      "id": "n5_vocab_800",
+      "word": "ごめんください",
+      "reading": "ごめんください",
+      "romaji": "gomenkudasai",
+      "tag": "表現",
+      "translations": {
+        "en": "Hello / Is anyone home? / May I come in?",
+        "tr": "Merhaba / Kimse var mı? / Kusura bakmayın (kapıda)",
+        "de": "Entschuldigung, ist jemand da?",
+        "es": "¿Hola? ¿Hay alguien? / Con permiso",
+        "fr": "Bonjour, y a-t-il quelqu'un ? / Puis-je entrer ?"
+      },
+      "sentences": [
+        {
+          "ja": "玄関で「ごめんください」と言いました。",
+          "furigana": "<ruby>玄関<rt>げんかん</rt></ruby>で「ごめんください」と<ruby>言<rt>い</rt></ruby>いました。",
+          "romaji": "Genkan de 'gomenkudasai' to iimashita.",
+          "translations": {
+            "en": "I said 'is anyone home?' at the entrance.",
+            "tr": "Girişte 'kimse var mı?' dedim.",
+            "de": "Ich sagte 'Ist jemand da?' am Eingang.",
+            "es": "Dije '¿hay alguien?' en la entrada.",
+            "fr": "J'ai dit 'y a-t-il quelqu'un ?' à l'entrée."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_800_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_800.mp3"
+    },
+    {
+      "id": "n5_vocab_801",
+      "word": "ごめんなさい",
+      "reading": "ごめんなさい",
+      "romaji": "gomennasai",
+      "tag": "表現",
+      "translations": {
+        "en": "I'm sorry",
+        "tr": "Özür dilerim / Üzgünüm",
+        "de": "Entschuldigung / Tut mir leid",
+        "es": "Lo siento / Perdón",
+        "fr": "Désolé / Pardon"
+      },
+      "sentences": [
+        {
+          "ja": "「ごめんなさい。忘れてしまいました。」",
+          "furigana": "「ごめんなさい。<ruby>忘<rt>わす</rt></ruby>れてしまいました。」",
+          "romaji": "\"Gomennasai. Wasurete shimaimashita.\"",
+          "translations": {
+            "en": "\"I'm sorry. I forgot.\"",
+            "tr": "\"Özür dilerim. Unuttum.\"",
+            "de": "\"Tut mir leid. Ich habe es vergessen.\"",
+            "es": "\"Lo siento. Se me olvidó.\"",
+            "fr": "\"Désolé. J'ai oublié.\""
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_801_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_801.mp3"
+    },
+    {
+      "id": "n5_vocab_802",
+      "word": "～えき",
+      "reading": "～えき",
+      "romaji": "...eki",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... station",
+        "tr": "... istasyonu",
+        "de": "... Bahnhof",
+        "es": "estación de ...",
+        "fr": "gare de ..."
+      },
+      "sentences": [
+        {
+          "ja": "目黒駅から歩いて三分ぐらいです。",
+          "furigana": "<ruby>目黒<rt>めぐろ</rt></ruby><ruby>駅<rt>えき</rt></ruby>から<ruby>歩<rt>ある</rt></ruby>いて<ruby>三<rt>さん</rt></ruby><ruby>分<rt>ぷん</rt></ruby>ぐらいです。",
+          "romaji": "Meguro eki kara aruite sanpun gurai desu.",
+          "translations": {
+            "en": "It's about a three-minute walk from Meguro Station.",
+            "tr": "Meguro İstasyonu'ndan yürüyerek yaklaşık üç dakikadır.",
+            "de": "Vom Bahnhof Meguro sind es etwa drei Minuten zu Fuß.",
+            "es": "Está a unos tres minutos a pie de la estación de Meguro.",
+            "fr": "C'est à environ trois minutes à pied de la gare de Meguro."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_802_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_802.mp3"
+    },
+    {
+      "id": "n5_vocab_803",
+      "word": "～えん",
+      "reading": "～えん",
+      "romaji": "...en",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... yen",
+        "tr": "... yen",
+        "de": "... Yen",
+        "es": "... yenes",
+        "fr": "... yens"
+      },
+      "sentences": [
+        {
+          "ja": "これは一万えんです。",
+          "furigana": "これは<ruby>一万<rt>いちまん</rt></ruby>えんです。",
+          "romaji": "Kore wa ichiman en desu.",
+          "translations": {
+            "en": "This is 10,000 yen.",
+            "tr": "Bu on bin yendir.",
+            "de": "Das sind 10.000 Yen.",
+            "es": "Esto cuesta 10.000 yenes.",
+            "fr": "C'est 10 000 yens."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_803_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_803.mp3"
+    },
+    {
+      "id": "n5_vocab_804",
+      "word": "～かい",
+      "reading": "～かい",
+      "romaji": "...kai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... floor",
+        "tr": "... kat",
+        "de": "... Stockwerk / Etage",
+        "es": "... planta / piso",
+        "fr": "... étage"
+      },
+      "sentences": [
+        {
+          "ja": "私の部屋は二階にあります。",
+          "furigana": "<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>は<ruby>二階<rt>にかい</rt></ruby>にあります。",
+          "romaji": "Watashi no heya wa nikai ni arimasu.",
+          "translations": {
+            "en": "My room is on the second floor.",
+            "tr": "Odam ikinci kattadır.",
+            "de": "Mein Zimmer ist im zweiten Stock.",
+            "es": "Mi habitación está en el segundo piso.",
+            "fr": "Ma chambre est au deuxième étage."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_804_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_804.mp3"
+    },
+    {
+      "id": "n5_vocab_805",
+      "word": "～かい",
+      "reading": "～かい",
+      "romaji": "...kai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... times",
+        "tr": "... defa / kere / kez",
+        "de": "... mal",
+        "es": "... veces",
+        "fr": "... fois"
+      },
+      "sentences": [
+        {
+          "ja": "この映画を二回見ました。",
+          "furigana": "この<ruby>映画<rt>えいが</rt></ruby>を<ruby>二回<rt>にかい</rt></ruby><ruby>見<rt>み</rt></ruby>ました。",
+          "romaji": "Kono eiga o nikai mimashita.",
+          "translations": {
+            "en": "I watched this movie twice.",
+            "tr": "Bu filmi iki kez izledim.",
+            "de": "Ich habe diesen Film zweimal gesehen.",
+            "es": "Vi esta película dos veces.",
+            "fr": "J'ai vu ce film deux fois."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_805_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_805.mp3"
+    },
+    {
+      "id": "n5_vocab_806",
+      "word": "～かかん",
+      "reading": "～かかん",
+      "romaji": "...kakan",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "for ... days",
+        "tr": "... gün boyunca",
+        "de": "... Tage lang",
+        "es": "por ... días",
+        "fr": "pendant ... jours"
+      },
+      "sentences": [
+        {
+          "ja": "三日間休みます。",
+          "furigana": "<ruby>三日間<rt>みっかかん</rt></ruby><ruby>休<rt>やす</rt></ruby>みます。",
+          "romaji": "Mikkakan yasumimasu.",
+          "translations": {
+            "en": "I will take a break for three days.",
+            "tr": "Üç gün tatil yapacağım.",
+            "de": "Ich werde drei Tage lang Pause machen.",
+            "es": "Descansaré durante tres días.",
+            "fr": "Je vais me reposer pendant trois jours."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_806_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_806.mp3"
+    },
+    {
+      "id": "n5_vocab_807",
+      "word": "～かげつ",
+      "reading": "～かげつ",
+      "romaji": "...kagetsu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "for ... months",
+        "tr": "... ay boyunca",
+        "de": "... Monate lang",
+        "es": "por ... meses",
+        "fr": "pendant ... mois"
+      },
+      "sentences": [
+        {
+          "ja": "三か月日本語を勉強しました。",
+          "furigana": "<ruby>三<rt>さん</rt></ruby>か<ruby>月<rt>げつ</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しました。",
+          "romaji": "Sankagetsu nihongo o benkyou shimashita.",
+          "translations": {
+            "en": "I studied Japanese for three months.",
+            "tr": "Üç ay boyunca Japonca çalıştım.",
+            "de": "Ich habe drei Monate lang Japanisch gelernt.",
+            "es": "Estudié japonés durante tres meses.",
+            "fr": "J'ai étudié le japonais pendant trois mois."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_807_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_807.mp3"
+    },
+    {
+      "id": "n5_vocab_808",
+      "word": "～かた",
+      "reading": "～かた",
+      "romaji": "...kata",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "how to ... / way of ...ing",
+        "tr": "... yapılış şekli / ...ma biçimi",
+        "de": "Art und Weise, wie man ... / wie man ...",
+        "es": "forma de ... / cómo ...",
+        "fr": "façon de ... / comment ..."
+      },
+      "sentences": [
+        {
+          "ja": "漢字の書き方を教えてください。",
+          "furigana": "<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>書<rt>か</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+          "romaji": "Kanji no kakikata o oshiete kudasai.",
+          "translations": {
+            "en": "Please teach me how to write kanji.",
+            "tr": "Lütfen bana kanji yazmayı öğretin.",
+            "de": "Bitte zeigen Sie mir, wie man Kanji schreibt.",
+            "es": "Por favor, enséñame cómo escribir kanji.",
+            "fr": "S'il vous plaît, apprenez-moi à écrire les kanjis."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_808_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_808.mp3"
+    },
+    {
+      "id": "n5_vocab_809",
+      "word": "～がつ",
+      "reading": "～がつ",
+      "romaji": "...gatsu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... month (January, February...)",
+        "tr": "... ayı (Ocak, Şubat...)",
+        "de": "... Monat (Januar, Februar...)",
+        "es": "mes de ... (enero, febrero...)",
+        "fr": "mois de ... (janvier, février...)"
+      },
+      "sentences": [
+        {
+          "ja": "一月、二月、三月...",
+          "furigana": "<ruby>一月<rt>いちがつ</rt></ruby>、<ruby>二月<rt>にがつ</rt></ruby>、<ruby>三月<rt>さんがつ</rt></ruby>...",
+          "romaji": "Ichigatsu, nigatsu, sangatsu...",
+          "translations": {
+            "en": "January, February, March...",
+            "tr": "Ocak, Şubat, Mart...",
+            "de": "Januar, Februar, März...",
+            "es": "Enero, febrero, marzo...",
+            "fr": "Janvier, février, mars..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_809_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_809.mp3"
+    },
+    {
+      "id": "n5_vocab_810",
+      "word": "～たがります",
+      "reading": "～たがります",
+      "romaji": "...tagarimasu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "(third person) wants to ...",
+        "tr": "(üçüncü şahıs) ...mak istiyor",
+        "de": "(dritte Person) möchte ...",
+        "es": "(tercera persona) quiere ...",
+        "fr": "(tierce personne) veut ..."
+      },
+      "sentences": [
+        {
+          "ja": "子供たちはディズニーランドに行きたがっています。",
+          "furigana": "<ruby>子供<rt>こども</rt></ruby>たちはディズニーランドに<ruby>行<rt>い</rt></ruby>きたがっています。",
+          "romaji": "Kodomotachi wa dizuniirando ni ikitagatte imasu.",
+          "translations": {
+            "en": "The children want to go to Disneyland.",
+            "tr": "Çocuklar Disneyland'e gitmek istiyor.",
+            "de": "Die Kinder möchten ins Disneyland gehen.",
+            "es": "Los niños quieren ir a Disneylandia.",
+            "fr": "Les enfants veulent aller à Disneyland."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_810_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_810.mp3"
+    },
+    {
+      "id": "n5_vocab_811",
+      "word": "～がわ",
+      "reading": "～がわ",
+      "romaji": "...gawa",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... side",
+        "tr": "... tarafı / yanı",
+        "de": "... Seite",
+        "es": "lado ...",
+        "fr": "côté ..."
+      },
+      "sentences": [
+        {
+          "ja": "左側を歩いてください。",
+          "furigana": "<ruby>左側<rt>ひだりがわ</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いてください。",
+          "romaji": "Hidarigawa o aruite kudasai.",
+          "translations": {
+            "en": "Please walk on the left side.",
+            "tr": "Lütfen sol taraftan yürüyün.",
+            "de": "Bitte gehen Sie auf der linken Seite.",
+            "es": "Por favor, camine por el lado izquierdo.",
+            "fr": "S'il vous plaît, marchez sur le côté gauche."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_811_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_811.mp3"
+    },
+    {
+      "id": "n5_vocab_812",
+      "word": "～キロ",
+      "reading": "～キロ",
+      "romaji": "...kiro",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... kg / ... km",
+        "tr": "... kilogram / ... kilometre",
+        "de": "... kg / ... km",
+        "es": "... kg / ... km",
+        "fr": "... kg / ... km"
+      },
+      "sentences": [
+        {
+          "ja": "りんごを二キロ買いました。",
+          "furigana": "りんごを<ruby>二<rt>に</rt></ruby>キロ<ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Ringo o nikiro kaimashita.",
+          "translations": {
+            "en": "I bought two kilograms of apples.",
+            "tr": "İki kilogram elma aldım.",
+            "de": "Ich habe zwei Kilo Äpfel gekauft.",
+            "es": "Compré dos kilos de manzanas.",
+            "fr": "J'ai acheté deux kilos de pommes."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_812_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_812.mp3"
+    },
+    {
+      "id": "n5_vocab_813",
+      "word": "～くらい／～ぐらい",
+      "reading": "～くらい／～ぐらい",
+      "romaji": "...kurai / ...gurai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "about ... / approximately ...",
+        "tr": "yaklaşık ... / ... kadar",
+        "de": "ungefähr ... / etwa ...",
+        "es": "alrededor de ... / aproximadamente ...",
+        "fr": "environ ... / à peu près ..."
+      },
+      "sentences": [
+        {
+          "ja": "二時間ぐらい勉強しました。",
+          "furigana": "<ruby>二時間<rt>にじかん</rt></ruby>ぐらい<ruby>勉強<rt>べんkyou</rt></ruby>しました。",
+          "romaji": "Nijikan gurai benkyou shimashita.",
+          "translations": {
+            "en": "I studied for about two hours.",
+            "tr": "Yaklaşık iki saat çalıştım.",
+            "de": "Ich habe etwa zwei Stunden gelernt.",
+            "es": "Estudié unas dos horas.",
+            "fr": "J'ai étudié environ deux heures."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_813_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_813.mp3"
+    },
+    {
+      "id": "n5_vocab_814",
+      "word": "～グラム",
+      "reading": "～グラム",
+      "romaji": "...guramu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... gram",
+        "tr": "... gram",
+        "de": "... Gramm",
+        "es": "... gramos",
+        "fr": "... grammes"
+      },
+      "sentences": [
+        {
+          "ja": "肉を五百グラムください。",
+          "furigana": "<ruby>肉<rt>にく</rt></ruby>を<ruby>五百<rt>ごひゃく</rt></ruby>グラムください。",
+          "romaji": "Niku o gohyaku guramu kudasai.",
+          "translations": {
+            "en": "Give me 500 grams of meat, please.",
+            "tr": "Lütfen bana beş yüz gram et verin.",
+            "de": "Geben Sie mir bitte 500 Gramm Fleisch.",
+            "es": "Deme 500 gramos de carne, por favor.",
+            "fr": "Donnez-moi 500 grammes de viande, s'il vous plaît."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_814_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_814.mp3"
+    },
+    {
+      "id": "n5_vocab_815",
+      "word": "～こ",
+      "reading": "～こ",
+      "romaji": "...ko",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for small objects",
+        "tr": "... tane (küçük nesneler için)",
+        "de": "Zählwort für kleine Gegenstände",
+        "es": "contador para objetos pequeños",
+        "fr": "compteur pour les petits objets"
+      },
+      "sentences": [
+        {
+          "ja": "りんごを三つ（三個）食べました。",
+          "furigana": "りんごを<ruby>三<rt>みっ</rt></ruby>つ（<ruby>三<rt>さん</rt></ruby><ruby>個<rt>こ</rt></ruby>）<ruby>食<rt>た</rt></ruby>べました。",
+          "romaji": "Ringo o mittsu (sanko) tabemashita.",
+          "translations": {
+            "en": "I ate three apples.",
+            "tr": "Üç tane elma yedim.",
+            "de": "Ich habe drei Äpfel gegessen.",
+            "es": "Comí tres manzanas.",
+            "fr": "J'ai mangé trois pommes."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_815_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_815.mp3"
+    },
+    {
+      "id": "n5_vocab_816",
+      "word": "～ご",
+      "reading": "～ご",
+      "romaji": "...go",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... language",
+        "tr": "... dili",
+        "de": "... Sprache",
+        "es": "idioma ...",
+        "fr": "langue ..."
+      },
+      "sentences": [
+        {
+          "ja": "日本語、英語、中国語...",
+          "furigana": "<ruby>日本語<rt>にほんご</rt></ruby>、<ruby>英語<rt>えいご</rt></ruby>、<ruby>中国語<rt>ちゅうごくご</rt></ruby>...",
+          "romaji": "Nihongo, eigo, chuugokugo...",
+          "translations": {
+            "en": "Japanese, English, Chinese...",
+            "tr": "Japonca, İngilizce, Çince...",
+            "de": "Japanisch, Englisch, Chinesisch...",
+            "es": "Japonés, inglés, chino...",
+            "fr": "Japonais, anglais, chinois..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_816_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_816.mp3"
+    },
+    {
+      "id": "n5_vocab_817",
+      "word": "～ごろ",
+      "reading": "～ごろ",
+      "romaji": "...goro",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "around ... (for time)",
+        "tr": "... sularında / ... civarında (zaman için)",
+        "de": "gegen ... (Zeit)",
+        "es": "alrededor de ... (tiempo)",
+        "fr": "vers ... (heure)"
+      },
+      "sentences": [
+        {
+          "ja": "二時ごろにそこへ行きます。",
+          "furigana": "<ruby>二時<rt>にじ</rt></ruby>ごろにそこへ<ruby>行<rt>い</rt></ruby>きます。",
+          "romaji": "Niji goro ni soko e ikimasu.",
+          "translations": {
+            "en": "I will go there around 2 o'clock.",
+            "tr": "Oraya saat iki sularında gideceğim.",
+            "de": "Ich werde gegen 2 Uhr dorthin gehen.",
+            "es": "Iré allí hacia las 2.",
+            "fr": "J'irai là-bas vers 2 heures."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_817_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_817.mp3"
+    },
+    {
+      "id": "n5_vocab_818",
+      "word": "～さい",
+      "reading": "～さい",
+      "romaji": "...sai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... year(s) old",
+        "tr": "... yaşında",
+        "de": "... Jahre alt",
+        "es": "... años de edad",
+        "fr": "... ans"
+      },
+      "sentences": [
+        {
+          "ja": "一歳、二歳、三歳...",
+          "furigana": "<ruby>一歳<rt>いっさい</rt></ruby>、<ruby>二歳<rt>にさい</rt></ruby>、<ruby>三歳<rt>さんさい</rt></ruby>...",
+          "romaji": "Issai, nisai, sansai...",
+          "translations": {
+            "en": "1 year old, 2 years old, 3 years old...",
+            "tr": "Bir yaşında, iki yaşında, üç yaşında...",
+            "de": "Ein Jahr alt, zwei Jahre alt, drei Jahre alt...",
+            "es": "1 año, 2 años, 3 años...",
+            "fr": "1 an, 2 ans, 3 ans..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_818_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_818.mp3"
+    },
+    {
+      "id": "n5_vocab_819",
+      "word": "～さつ",
+      "reading": "～さつ",
+      "romaji": "...satsu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for books",
+        "tr": "... tane (kitaplar için)",
+        "de": "Zählwort für Bücher",
+        "es": "contador para libros",
+        "fr": "compteur pour les livres"
+      },
+      "sentences": [
+        {
+          "ja": "本を一冊買いました。",
+          "furigana": "<ruby>本<rt>ほん</rt></ruby>を<ruby>一冊<rt>いっさつ</rt></ruby><ruby>買<rt>か</rt></ruby>いました。",
+          "romaji": "Hon o issatsu kaimashita.",
+          "translations": {
+            "en": "I bought one book.",
+            "tr": "Bir kitap aldım.",
+            "de": "Ich habe ein Buch gekauft.",
+            "es": "He comprado un libro.",
+            "fr": "J'ai acheté un livre."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_819_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_819.mp3"
+    },
+    {
+      "id": "n5_vocab_820",
+      "word": "～さん",
+      "reading": "～さん",
+      "romaji": "...san",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "Mr. / Mrs. / Miss",
+        "tr": "Sayın ... / ... Bey / ... Hanım",
+        "de": "Herr ... / Frau ...",
+        "es": "Sr. ... / Sra. ... / Srta. ...",
+        "fr": "M. ... / Mme ... / Mlle ..."
+      },
+      "sentences": [
+        {
+          "ja": "鈴木さん、佐藤さん...",
+          "furigana": "<ruby>鈴木<rt>すずき</rt></ruby>さん、<ruby>佐藤<rt>さとう</rt></ruby>さん...",
+          "romaji": "Suzuki-san, Satou-san...",
+          "translations": {
+            "en": "Mr. Suzuki, Mr. Sato...",
+            "tr": "Suzuki Bey, Sato Bey...",
+            "de": "Herr Suzuki, Herr Sato...",
+            "es": "Sr. Suzuki, Sr. Sato...",
+            "fr": "M. Suzuki, M. Sato..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_820_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_820.mp3"
+    },
+    {
+      "id": "n5_vocab_821",
+      "word": "～じ",
+      "reading": "～じ",
+      "romaji": "...ji",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... o'clock",
+        "tr": "saat ...",
+        "de": "... Uhr",
+        "es": "las ... (hora)",
+        "fr": "... heures"
+      },
+      "sentences": [
+        {
+          "ja": "今は三時です。",
+          "furigana": "<ruby>今<rt>いま</rt></ruby>は<ruby>三時<rt>さんじ</rt></ruby>です。",
+          "romaji": "Ima wa sanji desu.",
+          "translations": {
+            "en": "It's 3 o'clock now.",
+            "tr": "Şimdi saat üç.",
+            "de": "Es ist jetzt 3 Uhr.",
+            "es": "Son las tres ahora.",
+            "fr": "Il est 3 heures maintenant."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_821_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_821.mp3"
+    },
+    {
+      "id": "n5_vocab_822",
+      "word": "～じかん",
+      "reading": "～じかん",
+      "romaji": "...jikan",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... hour(s)",
+        "tr": "... saat (süre)",
+        "de": "... Stunde(n)",
+        "es": "... hora(s)",
+        "fr": "... heure(s)"
+      },
+      "sentences": [
+        {
+          "ja": "一時間、二時間、三時間...",
+          "furigana": "<ruby>一時間<rt>いちじかん</rt></ruby>、<ruby>二時間<rt>にじかん</rt></ruby>、<ruby>三時間<rt>さんじかん</rt></ruby>...",
+          "romaji": "Ichijikan, nijikan, sanjikan...",
+          "translations": {
+            "en": "1 hour, 2 hours, 3 hours...",
+            "tr": "Bir saat, iki saat, üç saat...",
+            "de": "1 Stunde, 2 Stunden, 3 Stunden...",
+            "es": "1 hora, 2 horas, 3 horas...",
+            "fr": "1 heure, 2 heures, 3 heures..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_822_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_822.mp3"
+    },
+    {
+      "id": "n5_vocab_823",
+      "word": "～しゅうかん",
+      "reading": "～しゅうかん",
+      "romaji": "...shuukan",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "for ... week(s)",
+        "tr": "... hafta boyunca",
+        "de": "... Woche(n) lang",
+        "es": "por ... semana(s)",
+        "fr": "pendant ... semaine(s)"
+      },
+      "sentences": [
+        {
+          "ja": "一週間、二週間、三週間...",
+          "furigana": "<ruby>一週間<rt>いっしゅうかん</rt></ruby>、<ruby>二週間<rt>にしゅうかん</rt></ruby>、<ruby>三週間<rt>さんしゅうかん</rt></ruby>...",
+          "romaji": "Isshuukan, nishuukan, sanshuukan...",
+          "translations": {
+            "en": "1 week, 2 weeks, 3 weeks...",
+            "tr": "Bir hafta, iki hafta, üç hafta...",
+            "de": "1 Woche, 2 Wochen, 3 Wochen...",
+            "es": "1 semana, 2 semanas, 3 semanas...",
+            "fr": "1 semaine, 2 semaines, 3 semaines..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_823_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_823.mp3"
+    },
+    {
+      "id": "n5_vocab_824",
+      "word": "～じん",
+      "reading": "～じん",
+      "romaji": "...jin",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... person / ... national",
+        "tr": "...lı / ...li (milliyet)",
+        "de": "...er (Nationalität)",
+        "es": "persona de ... / ...ense",
+        "fr": "...ien / ...ois (nationalité)"
+      },
+      "sentences": [
+        {
+          "ja": "日本人、アメリカ人、ドイツ人...",
+          "furigana": "<ruby>日本人<rt>にほんじん</rt></ruby>、アメリカ<ruby>人<rt>じん</rt></ruby>、ドイツ<ruby>人<rt>じん</rt></ruby>...",
+          "romaji": "Nihonjin, amerikajin, doitsujin...",
+          "translations": {
+            "en": "Japanese, American, German...",
+            "tr": "Japon, Amerikalı, Alman...",
+            "de": "Japaner, Amerikaner, Deutscher...",
+            "es": "Japonés, estadounidense, alemán...",
+            "fr": "Japonais, Américain, Allemand..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_824_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_824.mp3"
+    },
+    {
+      "id": "n5_vocab_825",
+      "word": "～すぎ",
+      "reading": "～すぎ",
+      "romaji": "...sugi",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "past ... / over ...",
+        "tr": "... geçe / ... geçiyor",
+        "de": "nach ... / über ...",
+        "es": "pasadas las ...",
+        "fr": "... passé"
+      },
+      "sentences": [
+        {
+          "ja": "二時すぎに東京に着きます。",
+          "furigana": "<ruby>二時<rt>にじ</rt></ruby>すぎに<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きます。",
+          "romaji": "Niji sugi ni Toukyou ni tsukimasu.",
+          "translations": {
+            "en": "I will arrive in Tokyo after 2 o'clock.",
+            "tr": "Saat ikiyi geçe Tokyo'ya varacağım.",
+            "de": "Ich werde nach 2 Uhr in Tokio ankommen.",
+            "es": "Llegaré a Tokio pasadas las 2.",
+            "fr": "J'arriverai à Tokyo après 2 heures."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_825_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_825.mp3"
+    },
+    {
+      "id": "n5_vocab_826",
+      "word": "～ずつ",
+      "reading": "～ずつ",
+      "romaji": "...zutsu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "each / at a time",
+        "tr": "...ar / ...er / her birine ...",
+        "de": "jeweils / pro ...",
+        "es": "cada ... / por ...",
+        "fr": "par ... / chacun"
+      },
+      "sentences": [
+        {
+          "ja": "これを二つずつください。",
+          "furigana": "これを<ruby>二<rt>ふた</rt></ruby>つずつください。",
+          "romaji": "Kore o futatsu zutsu kudasai.",
+          "translations": {
+            "en": "Please give me two of each.",
+            "tr": "Lütfen bunlardan ikişer tane verin.",
+            "de": "Geben Sie mir bitte jeweils zwei davon.",
+            "es": "Deme dos de cada uno, por favor.",
+            "fr": "S'il vous plaît, donnez-m'en deux de chaque."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_826_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_826.mp3"
+    },
+    {
+      "id": "n5_vocab_827",
+      "word": "～せんせい",
+      "reading": "～せんせい",
+      "romaji": "...sensei",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "Teacher ... / Professor ...",
+        "tr": "... öğretmen / ... hocam",
+        "de": "Lehrer ... / Professor ...",
+        "es": "Profesor ... / Maestro ...",
+        "fr": "Professeur ..."
+      },
+      "sentences": [
+        {
+          "ja": "鈴木先生はどこにいますか。",
+          "furigana": "<ruby>鈴木<rt>すずき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>はどこにいますか。",
+          "romaji": "Suzuki sensei wa doko ni imasu ka.",
+          "translations": {
+            "en": "Where is Teacher Suzuki?",
+            "tr": "Suzuki öğretmen nerede?",
+            "de": "Wo ist Lehrer Suzuki?",
+            "es": "¿Dónde está el profesor Suzuki?",
+            "fr": "Où est le professeur Suzuki ?"
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_827_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_827.mp3"
+    },
+    {
+      "id": "n5_vocab_828",
+      "word": "～だい",
+      "reading": "～だい",
+      "romaji": "...dai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for machines / vehicles",
+        "tr": "... tane (makine ve araçlar için)",
+        "de": "Zählwort für Maschinen / Fahrzeuge",
+        "es": "contador para máquinas / vehículos",
+        "fr": "compteur pour les machines / véhicules"
+      },
+      "sentences": [
+        {
+          "ja": "車が三台あります。",
+          "furigana": "<ruby>車<rt>くるま</rt></ruby>が<ruby>三台<rt>さんだい</rt></ruby>あります。",
+          "romaji": "Kuruma ga sandai arimasu.",
+          "translations": {
+            "en": "There are three cars.",
+            "tr": "Üç tane araba var.",
+            "de": "Es gibt drei Autos.",
+            "es": "Hay tres coches.",
+            "fr": "Il y a trois voitures."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_828_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_828.mp3"
+    },
+    {
+      "id": "n5_vocab_829",
+      "word": "～たち",
+      "reading": "～たち",
+      "romaji": "...tachi",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "(plural suffix for people)",
+        "tr": "...lar / ...ler (kişiler için çoğul eki)",
+        "de": "(Pluralsuffix für Personen)",
+        "es": "(sufijo plural para personas)",
+        "fr": "(suffixe pluriel pour les personnes)"
+      },
+      "sentences": [
+        {
+          "ja": "私たち、子供たち、あの人たち...",
+          "furigana": "<ruby>私<rt>わたし</rt></ruby>たち、<ruby>子供<rt>こども</rt></ruby>たち、あの<ruby>人<rt>ひと</rt></ruby>たち...",
+          "romaji": "Watashitachi, kodomotachi, anohitotachi...",
+          "translations": {
+            "en": "We, children, those people...",
+            "tr": "Biz, çocuklar, şu kişiler...",
+            "de": "Wir, Kinder, jene Leute...",
+            "es": "Nosotros, niños, aquellas personas...",
+            "fr": "Nous, les enfants, ces gens-là..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_829_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_829.mp3"
+    },
+    {
+      "id": "n5_vocab_830",
+      "word": "～ちゅう",
+      "reading": "～ちゅう",
+      "romaji": "...chuu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "during ... / in the middle of ...",
+        "tr": "... esnasında / ... sırasında",
+        "de": "während ... / mitten in ...",
+        "es": "durante ... / en medio de ...",
+        "fr": "pendant ... / au milieu de ..."
+      },
+      "sentences": [
+        {
+          "ja": "今会議中です。",
+          "furigana": "<ruby>今会議中<rt>いまかいぎちゅう</rt></ruby>です。",
+          "romaji": "Ima kaigichuu desu.",
+          "translations": {
+            "en": "I am in a meeting now.",
+            "tr": "Şu an toplantıdayım.",
+            "de": "Ich bin gerade in einer Besprechung.",
+            "es": "Estoy en una reunión ahora.",
+            "fr": "Je suis en réunion maintenant."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_830_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_830.mp3"
+    },
+    {
+      "id": "n5_vocab_831",
+      "word": "～つ",
+      "reading": "～つ",
+      "romaji": "...tsu",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for objects",
+        "tr": "... tane (nesneler için)",
+        "de": "Zählwort für Gegenstände",
+        "es": "contador para objetos",
+        "fr": "compteur pour les objets"
+      },
+      "sentences": [
+        {
+          "ja": "コーヒーを三つください。",
+          "furigana": "コーヒーを<ruby>三<rt>みっ</rt></ruby>つください。",
+          "romaji": "Koohii o mittsu kudasai.",
+          "translations": {
+            "en": "Please give me three coffees.",
+            "tr": "Lütfen üç tane kahve verin.",
+            "de": "Geben Sie mir bitte drei Kaffee.",
+            "es": "Deme tres cafés, por favor.",
+            "fr": "Donnez-moi trois cafés, s'il vous plaît."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_831_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_831.mp3"
+    },
+    {
+      "id": "n5_vocab_832",
+      "word": "～ど",
+      "reading": "～ど",
+      "romaji": "...do",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... times / ... degrees (temperature)",
+        "tr": "... defa / ... derece (sıcaklık)",
+        "de": "... mal / ... Grad (Temperatur)",
+        "es": "... veces / ... grados (temperatura)",
+        "fr": "... fois / ... degrés (température)"
+      },
+      "sentences": [
+        {
+          "ja": "もう一度言ってください。",
+          "furigana": "もう<ruby>一度<rt>いちど</rt></ruby><ruby>言<rt>い</rt></ruby>ってください。",
+          "romaji": "Mou ichido itte kudasai.",
+          "translations": {
+            "en": "Please say it once more.",
+            "tr": "Lütfen bir kez daha söyleyin.",
+            "de": "Bitte sagen Sie es noch einmal.",
+            "es": "Por favor, dígalo una vez más.",
+            "fr": "S'il vous plaît, dites-le encore une fois."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_832_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_832.mp3"
+    },
+    {
+      "id": "n5_vocab_833",
+      "word": "～にち",
+      "reading": "～にち",
+      "romaji": "...nichi",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... day of the month / for ... day(s)",
+        "tr": "... günü (ayın) / ... gün boyunca",
+        "de": "... Tag (des Monats) / für ... Tag(e)",
+        "es": "día ... (del mes) / por ... día(s)",
+        "fr": "... (jour du mois) / pendant ... jour(s)"
+      },
+      "sentences": [
+        {
+          "ja": "今日は十二日です。",
+          "furigana": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>十二日<rt>じゅうににち</rt></ruby>です。",
+          "romaji": "Kyou wa juuninichi desu.",
+          "translations": {
+            "en": "Today is the 12th.",
+            "tr": "Bugün ayın on ikisi.",
+            "de": "Heute ist der 12. Tag.",
+            "es": "Hoy es el día 12.",
+            "fr": "Aujourd'hui, c'est le 12."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_833_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_833.mp3"
+    },
+    {
+      "id": "n5_vocab_834",
+      "word": "～にん",
+      "reading": "～にん",
+      "romaji": "...nin",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for people",
+        "tr": "... kişi",
+        "de": "Zählwort für Personen",
+        "es": "contador para personas",
+        "fr": "compteur pour les personnes"
+      },
+      "sentences": [
+        {
+          "ja": "五人います。",
+          "furigana": "<ruby>五人<rt>ごにん</rt></ruby>います。",
+          "romaji": "Gonin imasu.",
+          "translations": {
+            "en": "There are five people.",
+            "tr": "Beş kişi var.",
+            "de": "Es sind fünf Personen.",
+            "es": "Hay cinco personas.",
+            "fr": "Il y a cinq personnes."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_834_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_834.mp3"
+    },
+    {
+      "id": "n5_vocab_835",
+      "word": "～ねん",
+      "reading": "～ねん",
+      "romaji": "...nen",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... year(s)",
+        "tr": "... yılı / ... yıl",
+        "de": "... Jahr(e)",
+        "es": "año ... / ... año(s)",
+        "fr": "l'an ... / ... an(s)"
+      },
+      "sentences": [
+        {
+          "ja": "二〇三〇年、二〇四〇年...",
+          "furigana": "二〇三〇<ruby>年<rt>ねん</rt></ruby>、二〇四〇<ruby>年<rt>ねん</rt></ruby>...",
+          "romaji": "Nisansanjuunen, nisanyonjuunen...",
+          "translations": {
+            "en": "Year 2030, year 2040...",
+            "tr": "2030 yılı, 2040 yılı...",
+            "de": "Jahr 2030, Jahr 2040...",
+            "es": "Año 2030, año 2040...",
+            "fr": "Année 2030, année 2040..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_835_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_835.mp3"
+    },
+    {
+      "id": "n5_vocab_836",
+      "word": "～はい／～ばい／～ぱい",
+      "reading": "～はい／～ばい／～ぱい",
+      "romaji": "...hai / ...bai / ...pai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for cups or glasses of drink",
+        "tr": "... bardak / ... kadeh (içecekler için)",
+        "de": "Zählwort für Tassen / Gläser",
+        "es": "contador para tazas o vasos",
+        "fr": "compteur pour les tasses ou verres"
+      },
+      "sentences": [
+        {
+          "ja": "コーヒーを二杯飲みました。",
+          "furigana": "コーヒーを<ruby>二杯<rt>にはい</rt></ruby><ruby>飲<rt>の</rt></ruby>みました。",
+          "romaji": "Koohii o nihai mimashita.",
+          "translations": {
+            "en": "I drank two cups of coffee.",
+            "tr": "İki fincan kahve içtim.",
+            "de": "Ich habe zwei Tassen Kaffee getrunken.",
+            "es": "Bebí dos tazas de café.",
+            "fr": "J'ai bu deux tasses de café."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_836_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_836.mp3"
+    },
+    {
+      "id": "n5_vocab_837",
+      "word": "～はん",
+      "reading": "～はん",
+      "romaji": "...han",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "half past (time) / half",
+        "tr": "... buçuk (zaman) / yarım",
+        "de": "halb ... (Uhrzeit) / halb",
+        "es": "... y media (hora) / medio",
+        "fr": "... et demie (heure) / demi"
+      },
+      "sentences": [
+        {
+          "ja": "今は九時半です。",
+          "furigana": "<ruby>今<rt>いま</rt></ruby>は<ruby>九時半<rt>くじはん</rt></ruby>です。",
+          "romaji": "Ima wa kujihan desu.",
+          "translations": {
+            "en": "It's 9:30 now.",
+            "tr": "Şimdi saat dokuz buçuk.",
+            "de": "Es ist jetzt halb zehn.",
+            "es": "Son las nueve y media ahora.",
+            "fr": "Il est neuf heures et demie maintenant."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_837_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_837.mp3"
+    },
+    {
+      "id": "n5_vocab_838",
+      "word": "～ばん",
+      "reading": "～ばん",
+      "romaji": "...ban",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "number ...",
+        "tr": "... numara",
+        "de": "Nummer ...",
+        "es": "número ...",
+        "fr": "numéro ..."
+      },
+      "sentences": [
+        {
+          "ja": "一番、二番、三番...",
+          "furigana": "<ruby>一番<rt>いちばん</rt></ruby>、<ruby>二番<rt>にばん</rt></ruby>、<ruby>三番<rt>さんばん</rt></ruby>...",
+          "romaji": "Ichiban, niban, sanban...",
+          "translations": {
+            "en": "Number 1, number 2, number 3...",
+            "tr": "Bir numara, iki numara, üç numara...",
+            "de": "Nummer 1, Nummer 2, Nummer 3...",
+            "es": "Número 1, número 2, número 3...",
+            "fr": "Numéro 1, numéro 2, numéro 3..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_838_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_838.mp3"
+    },
+    {
+      "id": "n5_vocab_839",
+      "word": "～ひき／～びき／～ぴき",
+      "reading": "～ひき／～びき／～ぴき",
+      "romaji": "...hiki / ...biki / ...piki",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for small animals",
+        "tr": "... tane (küçük hayvanlar için)",
+        "de": "Zählwort für kleine Tiere",
+        "es": "contador para animales pequeños",
+        "fr": "compteur pour les petits animaux"
+      },
+      "sentences": [
+        {
+          "ja": "猫が三匹います。",
+          "furigana": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>三匹<rt>さんびき</rt></ruby>います。",
+          "romaji": "Neko ga sanbiki imasu.",
+          "translations": {
+            "en": "There are three cats.",
+            "tr": "Üç tane kedi var.",
+            "de": "Es gibt drei Katzen.",
+            "es": "Hay tres gatos.",
+            "fr": "Il y a trois chats."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_839_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_839.mp3"
+    },
+    {
+      "id": "n5_vocab_840",
+      "word": "～ふん／～ぷん",
+      "reading": "～ふん／～ぷん",
+      "romaji": "...fun / ...pun",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... minute(s)",
+        "tr": "... dakika",
+        "de": "... Minute(n)",
+        "es": "... minuto(s)",
+        "fr": "... minute(s)"
+      },
+      "sentences": [
+        {
+          "ja": "五分待ちます。",
+          "furigana": "<ruby>五分<rt>ごふん</rt></ruby><ruby>待<rt>ま</rt></ruby>ちます。",
+          "romaji": "Gofun machimasu.",
+          "translations": {
+            "en": "I will wait for five minutes.",
+            "tr": "Beş dakika bekleyeceğim.",
+            "de": "Ich werde fünf Minuten warten.",
+            "es": "Esperaré cinco minutos.",
+            "fr": "Je vais attendre cinq minutes."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_840_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_840.mp3"
+    },
+    {
+      "id": "n5_vocab_841",
+      "word": "～ページ",
+      "reading": "～ページ",
+      "romaji": "...peeji",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "page ...",
+        "tr": "sayfa ...",
+        "de": "Seite ...",
+        "es": "página ...",
+        "fr": "page ..."
+      },
+      "sentences": [
+        {
+          "ja": "十三ページを見てください。",
+          "furigana": "<ruby>十三<rt>じゅうさん</rt></ruby>ページを<ruby>見<rt>み</rt></ruby>てください。",
+          "romaji": "Juusan peeji o mite kudasai.",
+          "translations": {
+            "en": "Please look at page 13.",
+            "tr": "Lütfen sayfa 13'e bakın.",
+            "de": "Bitte schauen Sie auf Seite 13.",
+            "es": "Por favor, mire la página 13.",
+            "fr": "Veuillez regarder la page 13."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_841_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_841.mp3"
+    },
+    {
+      "id": "n5_vocab_842",
+      "word": "～ほん／～ぼん／～ぽん",
+      "reading": "～ほん／～ぼん／～ぽん",
+      "romaji": "...hon / ...bon / ...pon",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for long cylindrical objects",
+        "tr": "... tane (uzun, silindirik nesneler için)",
+        "de": "Zählwort für lange, zylindrische Gegenstände",
+        "es": "contador para objetos largos y cilíndricos",
+        "fr": "compteur pour les objets longs et cylindriques"
+      },
+      "sentences": [
+        {
+          "ja": "傘が三本あります。",
+          "furigana": "<ruby>傘<rt>かさ</rt></ruby>が<ruby>三本<rt>さんぼん</rt></ruby>あります。",
+          "romaji": "Kasa ga sanbon arimasu.",
+          "translations": {
+            "en": "There are three umbrellas.",
+            "tr": "Üç tane şemsiye var.",
+            "de": "Es gibt drei Regenschirme.",
+            "es": "Hay tres paraguas.",
+            "fr": "Il y a trois parapluies."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_842_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_842.mp3"
+    },
+    {
+      "id": "n5_vocab_843",
+      "word": "～まい",
+      "reading": "～まい",
+      "romaji": "...mai",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "counter for thin flat objects",
+        "tr": "... tane (ince, düz nesneler için)",
+        "de": "Zählwort für flache Gegenstände",
+        "es": "contador para objetos planos y delgados",
+        "fr": "compteur pour les objets plats et fins"
+      },
+      "sentences": [
+        {
+          "ja": "紙を一枚ください。",
+          "furigana": "<ruby>紙<rt>かみ</rt></ruby>を<ruby>一枚<rt>いちまい</rt></ruby>ください。",
+          "romaji": "Kami o ichimai kudasai.",
+          "translations": {
+            "en": "Please give me a piece of paper.",
+            "tr": "Lütfen bana bir kağıt verin.",
+            "de": "Geben Sie mir bitte ein Blatt Papier.",
+            "es": "Deme una hoja de papel, por favor.",
+            "fr": "Donnez-moi une feuille de papier, s'il vous plaît."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_843_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_843.mp3"
+    },
+    {
+      "id": "n5_vocab_844",
+      "word": "～まえ",
+      "reading": "～まえ",
+      "romaji": "...mae",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... ago / before ...",
+        "tr": "... önce",
+        "de": "vor ...",
+        "es": "hace ... / antes de ...",
+        "fr": "il y a ... / avant ..."
+      },
+      "sentences": [
+        {
+          "ja": "二年前、日本に来ました。",
+          "furigana": "<ruby>二年前<rt>にねんまえ</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>ました。",
+          "romaji": "Ninen mae, nihon ni kimashita.",
+          "translations": {
+            "en": "I came to Japan two years ago.",
+            "tr": "İki yıl önce Japonya'ya geldim.",
+            "de": "Ich bin vor zwei Jahren nach Japan gekommen.",
+            "es": "Vine a Japón hace dos años.",
+            "fr": "Je suis venu au Japon il y a deux ans."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_844_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_844.mp3"
+    },
+    {
+      "id": "n5_vocab_845",
+      "word": "～メートル",
+      "reading": "～メートル",
+      "romaji": "...meetoru",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... meter(s)",
+        "tr": "... metre",
+        "de": "... Meter",
+        "es": "... metro(s)",
+        "fr": "... mètre(s)"
+      },
+      "sentences": [
+        {
+          "ja": "五百メートル泳ぎます。",
+          "furigana": "<ruby>五百<rt>ごひゃく</rt></ruby>メートル<ruby>泳<rt>およ</rt></ruby>ぎます。",
+          "romaji": "Gohyaku meetoru oyogimasu.",
+          "translations": {
+            "en": "I swim 500 meters.",
+            "tr": "Beş yüz metre yüzerim.",
+            "de": "Ich schwimme 500 Meter.",
+            "es": "Nado 500 metros.",
+            "fr": "Je nage 500 mètres."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_845_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_845.mp3"
+    },
+    {
+      "id": "n5_vocab_846",
+      "word": "～や",
+      "reading": "～や",
+      "romaji": "...ya",
+      "tag": "接尾辞",
+      "translations": {
+        "en": "... shop / ... store / seller",
+        "tr": "... dükkanı / ... mağazası / ...cı / ...ci",
+        "de": "...-Laden / ...-Geschäft / ...-Verkäufer",
+        "es": "tienda de ... / ...ería",
+        "fr": "magasin de ... / ...erie"
+      },
+      "sentences": [
+        {
+          "ja": "パン屋、魚屋、肉屋...",
+          "furigana": "パン<ruby>屋<rt>や</rt></ruby>、<ruby>魚屋<rt>さかなや</rt></ruby>、<ruby>肉屋<rt>にくや</rt></ruby>...",
+          "romaji": "Panya, sakanaya, nikuya...",
+          "translations": {
+            "en": "Bakery, fish shop, butcher shop...",
+            "tr": "Fırın, balıkçı, kasap...",
+            "de": "Bäckerei, Fischladen, Metzgerei...",
+            "es": "Panadería, pescadería, carnicería...",
+            "fr": "Boulangerie, poissonnerie, boucherie..."
+          },
+          "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_846_s1.mp3"
+        }
+      ],
+      "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_846.mp3"
     }
   ]
 }

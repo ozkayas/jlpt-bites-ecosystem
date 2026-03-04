@@ -1,0 +1,79 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_07_07m29s_08m35s",
+  "metadata": {
+    "level": "n5",
+    "topic": "としょかんで まちあわせ (Meeting at the library)",
+    "pattern_used": "Reconsideration"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "Create a 2×2 grid image with four equal square panels. Panel 1 (top-left, number 1): A simple building with a book icon (Library) and a clock showing 10:00. Panel 2 (top-right, number 2): A building with a Japanese post office symbol (〒) and a clock showing 10:30. Panel 3 (bottom-left, number 3): A building with a book icon (Library) and a clock showing 10:30. Panel 4 (bottom-right, number 4): A building with a Japanese post office symbol (〒) and a clock showing 10:00. Use minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick outlines, no shading, white background, high contrast, no text other than the numbers 1, 2, 3, 4 and the symbols.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Correct" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 2,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おとこのひとと おんなのひとが でんわで はなしています。 ふたりは あした どこで なんじに あいますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "もしもし、やまださん。 あしたは どこで あいますか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "ゆうびんきょくの まえは どうですか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あしたは あめですから、としょかんの なかで あいましょう。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "わかりました。 じゅうじに あいますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "すみません、じゅうじは ちょっと はやいです。 じゅうじはんに してください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。 じゅうじはんですね。 わかりました。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ふたりは あした どこで なんじに あいますか。" }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと おんなのひとが でんわで はなしています。 ふたりは あした どこで なんじに あいますか。",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "もしもし、やまださん。 あしたは どこで あいますか。" },
+      { "speaker": "Female_1", "text": "ゆうびんきょくの まえは どうですか。" },
+      { "speaker": "Male_1", "text": "あしたは あめですから、としょかんの なかで あいましょう。" },
+      { "speaker": "Female_1", "text": "わかりました。 じゅうじに あいますか。" },
+      { "speaker": "Male_1", "text": "すみません、じゅうじは ちょっと はやいです。 じゅうじはんに してください。" },
+      { "speaker": "Female_1", "text": "はい。 じゅうじはんですね。 わかりました。" }
+    ],
+    "question": "ふたりは あした どこで なんじに あいますか。"
+  },
+  "transcription_tr": {
+    "intro": "Bir erkek ve bir kadın telefonda konuşuyor. İkisi yarın nerede, saat kaçta buluşacak?",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Alo, Yamada Hanım. Yarın nerede buluşalım?" },
+      { "speaker": "Female_1", "text": "Postanenin önü nasıl olur?" },
+      { "speaker": "Male_1", "text": "Yarın yağmur yağacağı için kütüphanenin içinde buluşalım." },
+      { "speaker": "Female_1", "text": "Tamam. Saat 10'da mı buluşalım?" },
+      { "speaker": "Male_1", "text": "Affedersiniz, saat 10 biraz erken. Saat 10 buçuk yapalım lütfen." },
+      { "speaker": "Female_1", "text": "Tamam. 10 buçuk, değil mi? Anladım." }
+    ],
+    "question": "İkisi yarın nerede, saat kaçta buluşacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "電話", "reading": "でんわ", "tr": "telefon", "en": "telephone" },
+      { "word": "雨", "reading": "あめ", "tr": "yağmur", "en": "rain" },
+      { "word": "図書館", "reading": "としょかん", "tr": "kütüphane", "en": "library" },
+      { "word": "郵便局", "reading": "ゆうびんきょく", "tr": "postane", "en": "post office" },
+      { "word": "十時半", "reading": "じゅうじはん", "tr": "saat 10 buçuk", "en": "10:30" },
+      { "word": "早い", "reading": "はやい", "tr": "erken", "en": "early" }
+    ],
+    "grammar": [
+      { "point": "〜ましょう", "tr": "... yapalım", "en": "let's do ..." },
+      { "point": "〜は どうですか", "tr": "... nasıl olur? / ... ne dersin?", "en": "how about ...?" },
+      { "point": "〜に してください", "tr": "... yapın lütfen (karar)", "en": "please make it ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Kadın önce postaneyi (ゆうびんきょく) ve saat 10'u (じゅうじ) önerir. Ancak erkek yağmur nedeniyle kütüphaneyi (としょかん) ve saatin 10 buçuk (じゅうじはん) olmasını ister. Dolayısıyla doğru cevap kütüphane ve 10:30 olan (3) numaralı paneldir.",
+    "en": "The woman suggests the post office (ゆうびんきょく) and 10 o'clock (じゅうじ). However, the man asks to meet at the library (としょかん) due to rain and requests the time to be 10:30 (じゅうじはん). Therefore, the correct answer is the library at 10:30 in panel (3)."
+  }
+}

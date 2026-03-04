@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "きょうしつで まつ",
+            "tr": "Sınıfta Beklemek",
+            "en": "Waiting in the Classroom",
+            "de": "Warten im Klassenzimmer",
+            "fr": "Attendre dans la salle de classe",
+            "es": "Esperando en el aula",
+            "ko": "교실에서 기다리기"
+        }
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcriptions": {
+        "ja": {
+            "intro": "きょうしつで せんせいと がくせいが はなしています。 がくせいは どこに すわりますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "やまださん。" },
+                { "speaker": "女の人", "text": "はい。" },
+                { "speaker": "男の人", "text": "じむしつから ほんを もってきますから、 それまで あそこの そふぁーで まっていて ください。" },
+                { "speaker": "女の人", "text": "あの、つくえの そばの そふぁーですか。" },
+                { "speaker": "男の人", "text": "いいえ、ほんだなの そばの そふぁーに すわってください。" },
+                { "speaker": "女の人", "text": "はい. わかりました。" }
+            ],
+            "question": "がくせいは どこに すわりますか。"
+        },
+        "tr": {
+            "intro": "Sınıfta öğretmen ve öğrenci konuşuyor. Öğrenci nereye oturacak?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Yamada Hanım." },
+                { "speaker": "Kadın", "text": "Evet." },
+                { "speaker": "Erkek", "text": "Ofisten kitabı getirip geleceğim, o zamana kadar şuradaki koltukta bekleyin lütfen." },
+                { "speaker": "Kadın", "text": "Şey, masanın yanındaki koltuk mu?" },
+                { "speaker": "Erkek", "text": "Hayır, kitaplığın yanındaki koltuğa oturun lütfen." },
+                { "speaker": "Kadın", "text": "Tamam. Anladım." }
+            ],
+            "question": "Öğrenci nereye oturacak?"
+        },
+        "en": {
+            "intro": "A teacher and a student are talking in the classroom. Where will the student sit?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Ms. Yamada." },
+                { "speaker": "Woman", "text": "Yes." },
+                { "speaker": "Man", "text": "I'm going to bring a book from the office, so please wait on that sofa over there until then." },
+                { "speaker": "Woman", "text": "Um, the sofa near the desk?" },
+                { "speaker": "Man", "text": "No, please sit on the sofa near the bookshelf." },
+                { "speaker": "Woman", "text": "Okay. I understand." }
+            ],
+            "question": "Where will the student sit?"
+        },
+        "de": {
+            "intro": "Ein Lehrer und ein Schüler sprechen im Klassenzimmer. Wo wird der Schüler sitzen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Frau Yamada." },
+                { "speaker": "Frau", "text": "Ja." },
+                { "speaker": "Mann", "text": "Ich werde ein Buch aus dem Büro holen, also warten Sie bitte bis dahin auf diesem Sofa dort drüben." },
+                { "speaker": "Frau", "text": "Ähm, das Sofa in der Nähe des Schreibtisches?" },
+                { "speaker": "Mann", "text": "Nein, bitte setzen Sie sich auf das Sofa in der Nähe des Bücherregals." },
+                { "speaker": "Frau", "text": "Okay. Ich verstehe." }
+            ],
+            "question": "Wo wird der Schüler sitzen?"
+        },
+        "fr": {
+            "intro": "Un professeur et un élève parlent dans la salle de classe. Où l'élève va-t-il s'asseoir ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Mme Yamada." },
+                { "speaker": "Femme", "text": "Oui." },
+                { "speaker": "Homme", "text": "Je vais chercher un livre au bureau, alors attendez sur ce canapé là-bas en attendant." },
+                { "speaker": "Femme", "text": "Euh, le canapé près du bureau ?" },
+                { "speaker": "Homme", "text": "Non, s'il vous plaît, asseyez-vous sur le canapé près de la bibliothèque." },
+                { "speaker": "Femme", "text": "D'accord. Je comprends." }
+            ],
+            "question": "Où l'élève va-t-il s'asseoir ?"
+        },
+        "es": {
+            "intro": "Un profesor y un estudiante están hablando en el aula. ¿Dónde se sentará el estudiante?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Sra. Yamada." },
+                { "speaker": "Mujer", "text": "Sí." },
+                { "speaker": "Hombre", "text": "Voy a traer un libro de la oficina, así que por favor espere en ese sofá de allá hasta entonces." },
+                { "speaker": "Mujer", "text": "Este, ¿el sofá cerca del escritorio?" },
+                { "speaker": "Hombre", "text": "No, por favor siéntese en el sofá cerca de la estantería." },
+                { "speaker": "Mujer", "text": "Está bien. Entiendo." }
+            ],
+            "question": "¿Dónde se sentará el estudiante?"
+        },
+        "ko": {
+            "intro": "교실에서 선생님과 학생이 이야기하고 있습니다. 학생은 어디에 앉습니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "야마다 씨." },
+                { "speaker": "여자", "text": "네." },
+                { "speaker": "남자", "text": "사무실에서 책을 가져올 테니까, 그때까지 저기 있는 소파에서 기다려 주세요." },
+                { "speaker": "여자", "text": "저기, 책상 옆에 있는 소파인가요?" },
+                { "speaker": "남자", "text": "아니요, 책꽂이 옆에 있는 소파에 앉으세요." },
+                { "speaker": "여자", "text": "네. 알겠습니다." }
+            ],
+            "question": "학생은 어디에 앉습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "事務室",
+                "reading": "じむしつ",
+                "meanings": {
+                    "tr": "ofis / çalışma odası",
+                    "en": "office",
+                    "de": "Büro",
+                    "fr": "bureau (pièce)",
+                    "es": "oficina",
+                    "ko": "사무실"
+                }
+            },
+            {
+                "word": "本",
+                "reading": "ほん",
+                "meanings": {
+                    "tr": "kitap",
+                    "en": "book",
+                    "de": "Buch",
+                    "fr": "livre",
+                    "es": "libro",
+                    "ko": "책"
+                }
+            },
+            {
+                "word": "ソファー",
+                "reading": "そふぁー",
+                "meanings": {
+                    "tr": "koltuk / kanepe",
+                    "en": "sofa",
+                    "de": "Sofa",
+                    "fr": "canapé",
+                    "es": "sofá",
+                    "ko": "소파"
+                }
+            },
+            {
+                "word": "机",
+                "reading": "つくえ",
+                "meanings": {
+                    "tr": "masa",
+                    "en": "desk",
+                    "de": "Schreibtisch",
+                    "fr": "bureau (meuble)",
+                    "es": "escritorio",
+                    "ko": "책상"
+                }
+            },
+            {
+                "word": "本棚",
+                "reading": "ほんだな",
+                "meanings": {
+                    "tr": "kitaplık",
+                    "en": "bookshelf",
+                    "de": "Bücherregal",
+                    "fr": "bibliothèque (meuble)",
+                    "es": "estantería",
+                    "ko": "책꽂이 / 책장"
+                }
+            },
+            {
+                "word": "側",
+                "reading": "そば",
+                "meanings": {
+                    "tr": "yan / yan taraf",
+                    "en": "near / beside",
+                    "de": "neben / in der Nähe von",
+                    "fr": "à côté de / près de",
+                    "es": "al lado de / cerca de",
+                    "ko": "옆 / 곁"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜から",
+                "meanings": {
+                    "tr": "... için / ...-den dolayı",
+                    "en": "because / since",
+                    "de": "weil / da",
+                    "fr": "parce que / puisque",
+                    "es": "porque / ya que",
+                    "ko": "~하니까 / ~하기 때문에"
+                }
+            },
+            {
+                "point": "〜まで",
+                "meanings": {
+                    "tr": "...-e kadar",
+                    "en": "until",
+                    "de": "bis",
+                    "fr": "jusqu'à",
+                    "es": "hasta",
+                    "ko": "~까지"
+                }
+            },
+            {
+                "point": "〜て ください",
+                "meanings": {
+                    "tr": "lütfen ... yapın",
+                    "en": "please do ...",
+                    "de": "bitte machen Sie ...",
+                    "fr": "s'il vous plaît, faites ...",
+                    "es": "por favor, haga ...",
+                    "ko": "~해 주세요"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen öğrenciden beklemesini ister. Öğrenci masanın (つくえ) yanındaki koltuğu sorar ancak öğretmen hayır diyerek kitaplığın (ほんだな) yanındaki koltuğu (4) işaret eder. Dolayısıyla öğrenci kitaplığın yanındaki koltuğa oturacaktır.",
+        "en": "The teacher asks the student to wait. The student asks if they should wait on the sofa near the desk (つくえ), but the teacher says no and specifies the sofa near the bookshelf (ほんだな) at (4). Therefore, the student will sit on the sofa near the bookshelf.",
+        "de": "Der Lehrer bittet den Schüler zu warten. Der Schüler fragt, ob er auf dem Sofa in der Nähe des Schreibtisches (つくえ) warten soll, aber der Lehrer verneint und weist auf das Sofa in der Nähe des Bücherregals (ほんだな) bei (4) hin. Daher wird der Schüler auf dem Sofa in der Nähe des Bücherregals sitzen.",
+        "fr": "Le professeur demande à l'élève d'attendre. L'élève demande s'il doit attendre sur le canapé près du bureau (つくえ), mais le professeur dit non et précise le canapé près de la bibliothèque (ほんだな) en (4). Par conséquent, l'élève s'assiéra sur le canapé près de la bibliothèque.",
+        "es": "El profesor le pide al estudiante que espere. El estudiante pregunta si debe esperar en el sofá cerca del escritorio (つくえ), pero el profesor dice que no y especifica el sofá cerca de la estantería (ほんだな) en (4). Por lo tanto, el estudiante se sentará en el sofá cerca de la estantería.",
+        "ko": "선생님은 학생에게 기다리라고 합니다. 학생은 책상(つくえ) 옆 소파에서 기다려야 하는지 묻지만, 선생님은 아니라고 하며 책꽂이(ほんだな) 옆 소파(4번)를 지정합니다. 따라서 학생은 책꽂이 옆 소파에 앉게 됩니다."
+    }
+}

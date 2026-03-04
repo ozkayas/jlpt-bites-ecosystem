@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "旅行の じゅんび (Preparing for a trip - Which sweater?)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 3,
+    "transcription": {
+        "intro": "いえで おんなの こが りょこうの じゅんびを しています。 おんなの こは どの ふくを もっていきますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "おとうさん、わたしの さかなの セーターは どこですか。 りょこうに もっていきたいです。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あそこの つくえの うえに ありますよ。 はなの セーターですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、さかなの セーターです。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "この さかなの シャツですか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいえ、やまは さむいですから、セーターを もっていきます。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "わかりました。 これですね。"
+            }
+        ],
+        "question": "おんなの こは どの ふくを もっていきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "旅行",
+                "reading": "りょこう",
+                "tr": "seyahat",
+                "en": "trip"
+            },
+            {
+                "word": "服",
+                "reading": "ふく",
+                "tr": "kıyafet",
+                "en": "clothes"
+            },
+            {
+                "word": "セーター",
+                "reading": "セーター",
+                "tr": "kazak",
+                "en": "sweater"
+            },
+            {
+                "word": "シャツ",
+                "reading": "シャツ",
+                "tr": "tişört",
+                "en": "shirt"
+            },
+            {
+                "word": "花",
+                "reading": "はな",
+                "tr": "çiçek",
+                "en": "flower"
+            },
+            {
+                "word": "魚",
+                "reading": "さかな",
+                "tr": "balık",
+                "en": "fish"
+            },
+            {
+                "word": "寒い",
+                "reading": "さむい",
+                "tr": "soğuk",
+                "en": "cold"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜たいです",
+                "tr": "... istemek",
+                "en": "want to do ..."
+            },
+            {
+                "point": "〜から",
+                "tr": "... olduğu için",
+                "en": "because ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kız çocuğu üzerinde balık (さかな) resmi olan kazağını (セーター) arıyor. Baba önce çiçekli kazağı, sonra balıklı tişörtü (シャツ) soruyor ancak kız dağ soğuk olacağı için kazağı tercih ediyor. Doğru cevap balıklı kazak olan (4) numaralı paneldir.",
+        "en": "The girl is looking for her sweater (セーター) with a fish (さかな) icon. The father asks about the flower sweater and the fish shirt (シャツ), but the girl chooses the sweater because the mountain will be cold. The correct answer is the fish sweater in panel (4)."
+    }
+}

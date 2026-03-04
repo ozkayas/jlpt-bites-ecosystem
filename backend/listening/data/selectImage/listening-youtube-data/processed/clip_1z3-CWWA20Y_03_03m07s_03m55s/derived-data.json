@@ -1,0 +1,79 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_03_03m07s_03m55s",
+  "metadata": {
+    "level": "n5",
+    "topic": "旅行の じゅんび (Preparing for a trip - Which sweater?)",
+    "pattern_used": "Attribute Filter"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Simple clothing items displayed against a white background. Panel 1 (top-left, number 1): A short-sleeved t-shirt with a large single flower icon printed on the chest. Panel 2 (top-right, number 2): A short-sleeved t-shirt with a large single fish icon printed on the chest. Panel 3 (bottom-left, number 3): A long-sleeved thick sweater with a large single flower icon printed on the chest. Panel 4 (bottom-right, number 4): A long-sleeved thick sweater with a large single fish icon printed on the chest. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel. The flower and fish icons should be simple and bold.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Distractor_C" },
+      { "panel": 4, "logic_role": "Correct" }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "いえで おんなの こが りょこうの じゅんびを しています。 おんなの こは どの ふくを もっていきますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "おとうさん、わたしの さかなの セーターは どこですか。 りょこうに もっていきたいです。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あそこの つくえの うえに ありますよ。 はなの セーターですか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "いいえ、さかなの セーターです。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "この さかなの シャツですか。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "いいえ、やまは さむいですから、セーターを もっていきます。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "わかりました。 これですね。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなの こは どの ふくを もっていきますか。" }
+  ],
+  "transcription": {
+    "intro": "いえで おんなの こが りょこうの じゅんびを しています。 おんなの こは どの ふくを もっていきますか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "おとうさん、わたしの さかなの セーターは どこですか。 りょこうに もっていきたいです。" },
+      { "speaker": "Male_1", "text": "あそこの つくえの うえに ありますよ。 はなの セーターですか。" },
+      { "speaker": "Female_1", "text": "いいえ、さかなの セーターです。" },
+      { "speaker": "Male_1", "text": "この さかなの シャツですか。" },
+      { "speaker": "Female_1", "text": "いいえ、やまは さむいですから、セーターを もっていきます。" },
+      { "speaker": "Male_1", "text": "わかりました。 これですね。" }
+    ],
+    "question": "おんなの こは どの ふくを もっていきますか。"
+  },
+  "transcription_tr": {
+    "intro": "Evde bir kız çocuğu seyahat hazırlığı yapıyor. Kız çocuğu hangi kıyafeti yanına alacak?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Baba, benim balıklı kazağım nerede? Seyahate götürmek istiyorum." },
+      { "speaker": "Male_1", "text": "Şuradaki masanın üzerinde duruyor. Çiçekli kazak mı?" },
+      { "speaker": "Female_1", "text": "Hayır, balıklı kazak." },
+      { "speaker": "Male_1", "text": "Bu balıklı tişört mü?" },
+      { "speaker": "Female_1", "text": "Hayır, dağ soğuk olduğu için kazağı götüreceğim." },
+      { "speaker": "Male_1", "text": "Anladım. Bu, değil mi?" }
+    ],
+    "question": "Kız çocuğu hangi kıyafeti yanına alacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "旅行", "reading": "りょこう", "tr": "seyahat", "en": "trip" },
+      { "word": "服", "reading": "ふく", "tr": "kıyafet", "en": "clothes" },
+      { "word": "セーター", "reading": "セーター", "tr": "kazak", "en": "sweater" },
+      { "word": "シャツ", "reading": "シャツ", "tr": "tişört", "en": "shirt" },
+      { "word": "花", "reading": "はな", "tr": "çiçek", "en": "flower" },
+      { "word": "魚", "reading": "さかな", "tr": "balık", "en": "fish" },
+      { "word": "寒い", "reading": "さむい", "tr": "soğuk", "en": "cold" }
+    ],
+    "grammar": [
+      { "point": "〜たいです", "tr": "... istemek", "en": "want to do ..." },
+      { "point": "〜から", "tr": "... olduğu için", "en": "because ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Kız çocuğu üzerinde balık (さかな) resmi olan kazağını (セーター) arıyor. Baba önce çiçekli kazağı, sonra balıklı tişörtü (シャツ) soruyor ancak kız dağ soğuk olacağı için kazağı tercih ediyor. Doğru cevap balıklı kazak olan (4) numaralı paneldir.",
+    "en": "The girl is looking for her sweater (セーター) with a fish (さかな) icon. The father asks about the flower sweater and the fish shirt (シャツ), but the girl chooses the sweater because the mountain will be cold. The correct answer is the fish sweater in panel (4)."
+  }
+}

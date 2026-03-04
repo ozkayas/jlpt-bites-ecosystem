@@ -1,0 +1,73 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_04_04m09s_05m00s",
+  "metadata": {
+    "level": "n5",
+    "topic": "ゆうびんきょくの ばしょ (Location of the Post Office)",
+    "pattern_used": "Location"
+  },
+  "visual_prompts": {
+    "image_type": "map_diagram",
+    "image_prompt": "MANUAL_UPLOAD: User provided a custom map image with 4 numbered locations and a bank. 1: Hospital, 2: Post Office, 3: Restaurant, 4: Supermarket.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Correct" },
+      { "panel": 3, "logic_role": "Distractor_B" },
+      { "panel": 4, "logic_role": "Distractor_C" }
+    ]
+  },
+  "correct_option": 1,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おんなのひとが おとこのひとに みちを きいています。 ゆうびんきょくは どこですか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "すみません、あの、ゆうびんきょくへ いきたいです。 ゆうびんきょくは どこですか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "ゆうびんきょくですね。 あの かどを みぎへ まがってください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "みぎですね。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "はい。 まがってから まっすぐ いくと、 スーパーが あります。 ゆうびんきょくは その スーパーの となりです。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "スーパーの となりですね。 ありがとう ございます。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ゆうびんきょくは どこですか。" }
+  ],
+  "transcription": {
+    "intro": "おんなのひとが おとこのひとに みちを きいています。 ゆうびんきょくは どこですか。",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "すみません、あの、ゆうびんきょくへ いきたいです。 ゆうびんきょくは どこですか。" },
+      { "speaker": "Male_1", "text": "ゆうびんきょくですね。 あの かどを みぎへ まがってください。" },
+      { "speaker": "Female_1", "text": "みぎですね。" },
+      { "speaker": "Male_1", "text": "はい。 まがってから まっすぐ いくと、 スーパーが あります。 ゆうびんきょくは その スーパーの となりです。" },
+      { "speaker": "Female_1", "text": "スーパーの となりですね。 ありがとう ございます。" }
+    ],
+    "question": "ゆうびんきょくは どこですか。"
+  },
+  "transcription_tr": {
+    "intro": "Bir kadın bir adama yol soruyor. Postane nerede?",
+    "dialogue": [
+      { "speaker": "Female_1", "text": "Afedersiniz, postaneye gitmek istiyorum. Postane nerede?" },
+      { "speaker": "Male_1", "text": "Postane mi? Şu köşeden sağa dönün lütfen." },
+      { "speaker": "Female_1", "text": "Sağa, değil mi?" },
+      { "speaker": "Male_1", "text": "Evet. Döndükten sonra dümdüz giderseniz bir süpermarket var. Postane o süpermarketin yanındadır." },
+      { "speaker": "Female_1", "text": "Süpermarketin yanında, değil mi? Teşekkür ederim." }
+    ],
+    "question": "Postane nerede?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "郵便局", "reading": "ゆうびんきょく", "tr": "postane", "en": "post office" },
+      { "word": "スーパー", "reading": "スーパー", "tr": "süpermarket", "en": "supermarket" },
+      { "word": "隣", "reading": "となり", "tr": "yanı/yanında", "en": "next to" },
+      { "word": "角", "reading": "かど", "tr": "köşe", "en": "corner" },
+      { "word": "右", "reading": "みぎ", "tr": "sağ", "en": "right" }
+    ],
+    "grammar": [
+      { "point": "〜を まがってください", "tr": "...'dan dönün", "en": "please turn ..." },
+      { "point": "〜てから", "tr": "-dikten sonra", "en": "after doing ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Adam kadına köşeden sağa (みぎ) dönmesini ve süpermarketin (スーパー) yanındaki (となり) binaya bakmasını söyler. Haritada süpermarketin (4) yanındaki bina (2) numaradır.",
+    "en": "The man tells the woman to turn right (みぎ) at the corner and look for the building next to (となり) the supermarket (スーパー). On the map, building (2) is next to the supermarket (4)."
+  }
+}

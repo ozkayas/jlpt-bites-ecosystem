@@ -1,0 +1,79 @@
+{
+  "source_clip": "clip_7HfHdb5J3f4_02_08m45s_09m25s",
+  "metadata": {
+    "level": "n5",
+    "topic": "きょうしつで まつ (Waiting in the classroom)",
+    "pattern_used": "Location"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "Create a 2×2 grid image with four equal square panels. Each panel shows a simple room setting with a sofa and one distinct landmark object next to it. Panel 1 (top-left, number 1): A sofa next to a simple window. Panel 2 (top-right, number 2): A sofa next to a television set (TV) on a small stand. Panel 3 (bottom-left, number 3): A sofa next to a simple desk. Panel 4 (bottom-right, number 4): A sofa next to a tall bookshelf filled with books. Use minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick outlines, no shading, white background, high contrast, no text other than the numbers 1, 2, 3, 4.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Distractor_C" },
+      { "panel": 4, "logic_role": "Correct" }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "きょうしつで せんせいと がくせいが はなしています。 がくせいは どこに すわりますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "やまださん。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "じむしつから ほんを もってきますから、それまで あそこの そふぁーで まっていて ください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "あの、つくえの そばの そふぁーですか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "いいえ、ほんだなの そばの そふぁーに すわってください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。 わかりました。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "がくせいは どこに すわりますか。" }
+  ],
+  "transcription": {
+    "intro": "きょうしつで せんせいと がくせいが はなしています。 がくせいは どこに すわりますか。",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "やまださん。" },
+      { "speaker": "Female_1", "text": "はい。" },
+      { "speaker": "Male_1", "text": "じむしつから ほんを もってきますから、それまで あそこの そふぁーで まっていて ください。" },
+      { "speaker": "Female_1", "text": "あの、つくえの そばの そふぁーですか。" },
+      { "speaker": "Male_1", "text": "いいえ、ほんだなの そばの そふぁーに すわってください。" },
+      { "speaker": "Female_1", "text": "はい。 わかりました。" }
+    ],
+    "question": "がくせいは どこに すわりますか。"
+  },
+  "transcription_tr": {
+    "intro": "Sınıfta öğretmen ve öğrenci konuşuyor. Öğrenci nereye oturacak?",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Yamada Hanım." },
+      { "speaker": "Female_1", "text": "Evet." },
+      { "speaker": "Male_1", "text": "Ofisten kitabı getirip geleceğim, o zamana kadar şuradaki koltukta bekleyin lütfen." },
+      { "speaker": "Female_1", "text": "Şey, masanın yanındaki koltuk mu?" },
+      { "speaker": "Male_1", "text": "Hayır, kitaplığın yanındaki koltuğa oturun lütfen." },
+      { "speaker": "Female_1", "text": "Tamam. Anladım." }
+    ],
+    "question": "Öğrenci nereye oturacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "事務室", "reading": "じむしつ", "tr": "ofis / çalışma odası", "en": "office" },
+      { "word": "本", "reading": "ほん", "tr": "kitap", "en": "book" },
+      { "word": "ソファー", "reading": "そふぁー", "tr": "koltuk / kanepe", "en": "sofa" },
+      { "word": "机", "reading": "つくえ", "tr": "masa", "en": "desk" },
+      { "word": "本棚", "reading": "ほんだな", "tr": "kitaplık", "en": "bookshelf" },
+      { "word": "側", "reading": "そば", "tr": "yan / yan taraf", "en": "near / beside" }
+    ],
+    "grammar": [
+      { "point": "〜から", "tr": "... için / ...-den dolayı", "en": "because / since" },
+      { "point": "〜まで", "tr": "...-e kadar", "en": "until" },
+      { "point": "〜て ください", "tr": "lütfen ... yapın", "en": "please do ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Öğretmen öğrenciden beklemesini ister. Öğrenci masanın (つくえ) yanındaki koltuğu sorar ancak öğretmen hayır diyerek kitaplığın (ほんだな) yanındaki koltuğu (4) işaret eder. Dolayısıyla öğrenci kitaplığın yanındaki koltuğa oturacaktır.",
+    "en": "The teacher asks the student to wait. The student asks if they should wait on the sofa near the desk (つくえ), but the teacher says no and specifies the sofa near the bookshelf (ほんだな) at (4). Therefore, the student will sit on the sofa near the bookshelf."
+  }
+}

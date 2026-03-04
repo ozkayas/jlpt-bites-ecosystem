@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "としょかんで べんきょう (Studying at the library)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "としょかんで おとこのがくせいと おんなのがくせいが はなしています。 ふたりは なんじから いっしょに べんきょうしますか。",
+        "dialogue": [
+            {
+                "speaker": "男の人",
+                "text": "やamadさん、きょうは いっしょに べんきょうしませんか。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "いいですね。 なんじから しますか。 いまから しますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いまは いちじですね。 わたしは いちじはんまで ほんを よみます。 それから べんきょうしましょう。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "じゃあ、いちじはんから ですね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あ、すみません。 じむしつへ いかなければなりませんから、にじに してください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。 じゃあ、にじに としょかんで。"
+            }
+        ],
+        "question": "ふたりは なんじから いっしょに べんきょうしますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "勉強",
+                "reading": "べんきょう",
+                "tr": "ders çalışma",
+                "en": "study"
+            },
+            {
+                "word": "一緒",
+                "reading": "いっしょ",
+                "tr": "birlikte",
+                "en": "together"
+            },
+            {
+                "word": "一時",
+                "reading": "いちじ",
+                "tr": "saat 1",
+                "en": "1 o'clock"
+            },
+            {
+                "word": "一時半",
+                "reading": "いちじはん",
+                "tr": "saat 1 buçuk",
+                "en": "1:30"
+            },
+            {
+                "word": "二時",
+                "reading": "にじ",
+                "tr": "saat 2",
+                "en": "2 o'clock"
+            },
+            {
+                "word": "事務室",
+                "reading": "じむしつ",
+                "tr": "ofis",
+                "en": "office"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜ませんか",
+                "tr": "... yapalım mı? (teklif)",
+                "en": "won't you ...? / shall we ...?"
+            },
+            {
+                "point": "〜まで",
+                "tr": "...-e kadar",
+                "en": "until ..."
+            },
+            {
+                "point": "〜なければなりません",
+                "tr": "... yapmam gerekiyor / malı-malı",
+                "en": "must do ..."
+            },
+            {
+                "point": "〜に してください",
+                "tr": "... yapın lütfen (karar)",
+                "en": "please make it ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğrenciler birlikte çalışmaya karar verir. Saat şu an 1'dir (いちじ). Erkek 1 buçuğa (いちじはん) kadar kitap okuyacağını söyler ancak sonra ofise gitmesi gerektiğini fark edip saati 2 (にじ) olarak değiştirir. Dolayısıyla doğru cevap saat 2 olan (3) numaralı seçenektir.",
+        "en": "The students decide to study together. It is currently 1 o'clock (いちじ). The man says he will read until 1:30 (いちじはん), but then realizes he has to go to the office and changes the time to 2 o'clock (にじ). Therefore, the correct answer is 2 o'clock in panel (3)."
+    }
+}

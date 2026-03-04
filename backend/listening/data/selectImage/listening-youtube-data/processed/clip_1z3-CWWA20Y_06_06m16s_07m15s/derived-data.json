@@ -1,0 +1,80 @@
+{
+  "source_clip": "clip_1z3-CWWA20Y_06_06m16s_07m15s",
+  "metadata": {
+    "level": "n5",
+    "topic": "やまのぼりの じゅんび (Preparing for mountain climbing)",
+    "pattern_used": "Negative"
+  },
+  "visual_prompts": {
+    "image_type": "four_panel_grid",
+    "image_prompt": "A 2×2 grid image with four equal square panels, no borders or dividing lines between panels. Simple objects for mountain climbing displayed against a white background. Panel 1 (top-left, number 1): A simple camera with a lens. Panel 2 (top-right, number 2): A wide-brimmed sun hat. Panel 3 (bottom-left, number 3): A camera and a Japanese-style lunch box (obento). Panel 4 (bottom-right, number 4): A camera and a wide-brimmed sun hat. Minimalist black and white line art, Japanese language textbook illustration style, clean monochrome, thick clean outlines, no shading, white background, simple character design, instructional clipart style, high contrast, no text other than the small panel numbers 1, 2, 3, 4 in the top-left corner of each panel.",
+    "panel_map": [
+      { "panel": 1, "logic_role": "Distractor_A" },
+      { "panel": 2, "logic_role": "Distractor_B" },
+      { "panel": 3, "logic_role": "Distractor_C" },
+      { "panel": 4, "logic_role": "Correct" }
+    ]
+  },
+  "correct_option": 3,
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "やまださん、あしたは やまのぼりに いきますよ。 あさ ろくじに きてください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "わかりました。 なにを もっていきますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "あしたは あついですから、ぼうしを わすれないでください。 それから、かめらも もってきてください。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "おべんとうは どうしますか。 もっていきますか。" },
+    { "break": "0.5s" },
+    { "voice": "Male_1", "text": "おべんとうは わたしが もっていきますから、いりませんよ。" },
+    { "break": "0.5s" },
+    { "voice": "Female_1", "text": "はい。 わかりました。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "おんなのひとは なにを もっていきますか。" }
+  ],
+  "transcription": {
+    "intro": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "やまださん、あしたは やまのぼりに いきますよ。 あさ ろくじに きてください。" },
+      { "speaker": "Female_1", "text": "わかりました。 なにを もっていきますか。" },
+      { "speaker": "Male_1", "text": "あしたは あついですから、ぼうしを わすれないでください。 それから、かめらも もってきてください。" },
+      { "speaker": "Female_1", "text": "おべんとうは どうしますか。 もっていきますか。" },
+      { "speaker": "Male_1", "text": "おべんとうは わたしが もっていきますから、いりませんよ。" },
+      { "speaker": "Female_1", "text": "はい。 わかりました。" }
+    ],
+    "question": "おんなのひとは なにを もっていきますか。"
+  },
+  "transcription_tr": {
+    "intro": "Bir erkek ve bir kadın konuşuyor. Kadın yanına ne alacak?",
+    "dialogue": [
+      { "speaker": "Male_1", "text": "Yamada Hanım, yarın dağ tırmanışına gidiyoruz. Sabah saat 6'da gelin lütfen." },
+      { "speaker": "Female_1", "text": "Anladım. Yanıma ne alayım?" },
+      { "speaker": "Male_1", "text": "Yarın hava sıcak olacağı için şapkayı unutmayın lütfen. Ayrıca kamerayı da yanınızda getirin." },
+      { "speaker": "Female_1", "text": "Peki ya öğle yemeği? Getirmeli miyim?" },
+      { "speaker": "Male_1", "text": "Öğle yemeğini ben getireceğim, bu yüzden gerek yok." },
+      { "speaker": "Female_1", "text": "Tamam. Anladım." }
+    ],
+    "question": "Kadın yanına ne alacak?"
+  },
+  "analysis": {
+    "vocabulary": [
+      { "word": "山登り", "reading": "やまのぼり", "tr": "dağ tırmanışı", "en": "mountain climbing" },
+      { "word": "明日", "reading": "あした", "tr": "yarın", "en": "tomorrow" },
+      { "word": "朝", "reading": "あさ", "tr": "sabah", "en": "morning" },
+      { "word": "熱い", "reading": "あつい", "tr": "sıcak", "en": "hot" },
+      { "word": "帽子", "reading": "ぼうし", "tr": "şapka", "en": "hat" },
+      { "word": "カメラ", "reading": "カメラ", "tr": "kamera", "en": "camera" },
+      { "word": "お弁当", "reading": "おべんとう", "tr": "öğle yemeği paketi", "en": "lunch box" }
+    ],
+    "grammar": [
+      { "point": "〜ないでください", "tr": "... yapmayın", "en": "please do not ..." },
+      { "point": "〜も 〜てきてください", "tr": "...'yı da getirin", "en": "please also bring ..." },
+      { "point": "〜は わたしが もっていきます", "tr": "...'yı ben götüreceğim", "en": "I will bring ..." }
+    ]
+  },
+  "logic": {
+    "tr": "Adam kadından iki şey getirmesini ister: Şapka (ぼうし) ve kamera (カメラ). Kadın öğle yemeği (おべんとう) getirmeli miyim diye sorduğunda ise adam 'Ben getireceğim, gerek yok' diyerek onu eler. Dolayısıyla kadın sadece şapka ve kamera getirecektir (4).",
+    "en": "The man asks the woman to bring two things: a hat (ぼうし) and a camera (カメラ). When the woman asks if she should bring a lunch box (おべんとう), the man says he will bring it and she doesn't need to. Therefore, the woman will bring only the hat and the camera (4)."
+  }
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "パンやで パンを かいます (Buying bread at a bakery)"
+    },
+    "audio_url": null,
+    "image_url": null,
+    "correct_option": 2,
+    "transcription": {
+        "intro": "パンやで みせのひとと おとこのひとが はなしています。 みせのひとは パンを どうしますか。",
+        "dialogue": [
+            {
+                "speaker": "女の人",
+                "text": "いらっしゃいませ。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "すみません。この パンを みっつ ください。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい。これですね。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "あ、すみません。もう ひとつ おねがいします。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "はい。ふくろは いりますか。"
+            },
+            {
+                "speaker": "男の人",
+                "text": "いいえ、いりません。"
+            },
+            {
+                "speaker": "女の人",
+                "text": "わかりました。"
+            }
+        ],
+        "question": "みせのひとは パンを どうしますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "パンや",
+                "reading": "パンや",
+                "tr": "fırın",
+                "en": "bakery"
+            },
+            {
+                "word": "パン",
+                "reading": "パン",
+                "tr": "ekmek",
+                "en": "bread"
+            },
+            {
+                "word": "みっつ",
+                "reading": "みっつ",
+                "tr": "üç tane",
+                "en": "three (items)"
+            },
+            {
+                "word": "ひとつ",
+                "reading": "ひとつ",
+                "tr": "bir tane",
+                "en": "one (item)"
+            },
+            {
+                "word": "ふくろ",
+                "reading": "ふくろ",
+                "tr": "torba/poşet",
+                "en": "bag"
+            },
+            {
+                "word": "いります",
+                "reading": "いります",
+                "tr": "gerekli olmak / istemek",
+                "en": "to need"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "〜を ください",
+                "tr": "lütfen ... verin",
+                "en": "please give me ..."
+            },
+            {
+                "point": "もう 〜",
+                "tr": "bir tane daha",
+                "en": "another ..."
+            },
+            {
+                "point": "〜は いりますか",
+                "tr": "... lazım mı?",
+                "en": "do you need ...?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Adam önce üç ekmek (みっつ) istiyor, sonra bir tane daha (もう ひとつ) ekleyerek toplamda dört ekmek talep ediyor. Torba isteyip istemediği sorulduğunda ise istemediğini (いりません) belirtiyor. Bu durumda dükkan sahibi torbasız dört ekmek hazırlayacaktır (3).",
+        "en": "The man first asks for three loaves of bread (みっつ), then adds another one (もう ひとつ), requesting four loaves in total. When asked if he wants a bag, he says he doesn't need one (いりません). Therefore, the shopkeeper will prepare four loaves without a bag (3)."
+    }
+}
