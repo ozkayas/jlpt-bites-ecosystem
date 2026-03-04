@@ -1,102 +1,227 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "がっこうで みんなの ひるごはんを かってくる (Buying lunch for everyone at school)"
+        "topic": {
+            "ja": "がっこうで みんなの ひるごはんを かってくる",
+            "tr": "Okulda Herkes İçin Öğle Yemeği Almak",
+            "en": "Buying Lunch for Everyone at School",
+            "de": "Mittagessen für alle in der Schule kaufen",
+            "fr": "Acheter le déjeuner pour tout le monde à l'école",
+            "es": "Comprando el almuerzo para todos en la escuela",
+            "ko": "학교에서 모두의 점심을 사 오기"
+        }
     },
     "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/003/audio.mp3",
     "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/003/image.png",
     "correct_option": 1,
-    "transcription": {
-        "intro": "がっこうで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かってきますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "おなかが すきましたね。みんなの ひるごはんを かってきましょうか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "え、いいですか。ありがとうございます。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わたしは パンを たべます。さとうさんは？"
-            },
-            {
-                "speaker": "男の人",
-                "text": "わたしは おにぎりが いいです。きむらさんは ジュース、もりさんは おべんとうが いいと おもいます。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わかりました。じゃ、いってきます。"
-            }
-        ],
-        "question": "おんなのひとは なにを かってきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで おんなのひとと おとこのひとが はなしています。おんなのひとは なinを かってきますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "おなかが すきましたね。みんなの ひるごはんを かってきましょうか。" },
+                { "speaker": "男の人", "text": "え、いいですか。ありがとうございます。" },
+                { "speaker": "女の人", "text": "わたしは パンを たべます。さとうさんは？" },
+                { "speaker": "男の人", "text": "わたしは おにぎりが いいです。きむらさんは ジュース、もりさんは おべんとうが いいと おもいます。" },
+                { "speaker": "女の人", "text": "わかりました。じゃ、いってきます。" }
+            ],
+            "question": "おんなのひとは なにを かってきますか。"
+        },
+        "tr": {
+            "intro": "Okulda bir kadın ve bir erkek konuşuyor. Kadın ne satın alıp gelecek?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Karnım acıktı. Herkesin öğle yemeğini alıp geleyim mi?" },
+                { "speaker": "Erkek", "text": "A, olur mu? Teşekkür ederim." },
+                { "speaker": "Kadın", "text": "Ben ekmek (sandviç) yiyeceğim. Sato Bey ya siz?" },
+                { "speaker": "Erkek", "text": "Ben pirinç topu (onigiri) istiyorum. Kimura Hanım meyve suyu, Mori Bey ise bento (yemek kutusu) istiyor diye düşünüyorum." },
+                { "speaker": "Kadın", "text": "Anladım. O zaman gidiyorum." }
+            ],
+            "question": "Kadın ne satın alıp gelecek?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking at school. What will the woman go and buy?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "I'm hungry. Shall I go and buy lunch for everyone?" },
+                { "speaker": "Man", "text": "Oh, really? Thank you very much." },
+                { "speaker": "Woman", "text": "I'll have some bread. How about you, Mr. Sato?" },
+                { "speaker": "Man", "text": "I'd like a rice ball (onigiri). I think Ms. Kimura would like juice, and Mr. Mori would like a bento." },
+                { "speaker": "Woman", "text": "I see. Well, I'm off then." }
+            ],
+            "question": "What will the woman go and buy?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen in der Schule. Was wird die Frau kaufen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Ich habe Hunger. Soll ich für alle Mittagessen kaufen gehen?" },
+                { "speaker": "Mann", "text": "Oh, wirklich? Vielen Dank." },
+                { "speaker": "Frau", "text": "Ich esse Brot. Und Sie, Herr Sato?" },
+                { "speaker": "Mann", "text": "Ich hätte gerne ein Reisbällchen (Onigiri). Ich denke, Frau Kimura hätte gerne Saft und Herr Mori ein Bento." },
+                { "speaker": "Frau", "text": "Verstehe. Dann gehe ich jetzt los." }
+            ],
+            "question": "Was wird die Frau kaufen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent à l'école. Qu'est-ce que la femme va aller acheter ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "J'ai faim. Et si j'allais acheter le déjeuner pour tout le monde ?" },
+                { "speaker": "Homme", "text": "Oh, vraiment ? Merci beaucoup." },
+                { "speaker": "Femme", "text": "Je vais manger du pain. Et vous, M. Sato ?" },
+                { "speaker": "Homme", "text": "Je voudrais une boule de riz (onigiri). Je pense que Mme Kimura voudrait du jus et M. Mori un bento." },
+                { "speaker": "Femme", "text": "Je vois. Bon, j'y vais alors." }
+            ],
+            "question": "Qu'est-ce que la femme va aller acheter ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando en la escuela. ¿Qué va a ir a comprar la mujer?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Tengo hambre. ¿Qué tal si voy a comprar el almuerzo para todos?" },
+                { "speaker": "Hombre", "text": "Oh, ¿de verdad? Muchas gracias." },
+                { "speaker": "Mujer", "text": "Yo comeré pan. ¿Y usted, Sr. Sato?" },
+                { "speaker": "Hombre", "text": "Yo quiero una bola de arroz (onigiri). Creo que a la Sra. Kimura le gustaría un zumo y al Sr. Mori un bento." },
+                { "speaker": "Mujer", "text": "Entiendo. Bueno, me voy entonces." }
+            ],
+            "question": "¿Qué va a ir a comprar la mujer?"
+        },
+        "ko": {
+            "intro": "학교에서 여자와 남자가 이야기하고 있습니다. 여자는 무엇을 사 옵니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "배가 고프네요. 모두의 점심을 사 올까요?" },
+                { "speaker": "남자", "text": "어, 그래도 될까요? 감사합니다." },
+                { "speaker": "여자", "text": "저는 빵을 먹을게요. 사토 씨는요?" },
+                { "speaker": "남자", "text": "저는 주먹밥(오니기리)이 좋아요. 기무라 씨는 주스, 모리 씨는 도시락(벤토)이 좋을 것 같아요." },
+                { "speaker": "여자", "text": "알겠습니다. 그럼 다녀올게요." }
+            ],
+            "question": "여자는 무엇을 사 옵니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "おなかが すく",
+                "word": "お腹が空く",
                 "reading": "おなかがすく",
-                "tr": "karnı acıkmak",
-                "en": "to get hungry"
+                "meanings": {
+                    "tr": "karnı acıkmak",
+                    "en": "to get hungry",
+                    "de": "hungrig werden",
+                    "fr": "avoir faim",
+                    "es": "tener hambre",
+                    "ko": "배가 고프다"
+                }
             },
             {
-                "word": "ひるごはん",
+                "word": "昼ご飯",
                 "reading": "ひるごはん",
-                "tr": "öğle yemeği",
-                "en": "lunch"
+                "meanings": {
+                    "tr": "öğle yemeği",
+                    "en": "lunch",
+                    "de": "Mittagessen",
+                    "fr": "déjeuner",
+                    "es": "almuerzo",
+                    "ko": "점심 식사"
+                }
             },
             {
                 "word": "パン",
                 "reading": "ぱん",
-                "tr": "ekmek / sandviç ekmeği",
-                "en": "bread / bun"
+                "meanings": {
+                    "tr": "ekmek / sandviç ekmeği",
+                    "en": "bread / bun",
+                    "de": "Brot",
+                    "fr": "pain",
+                    "es": "pan",
+                    "ko": "빵"
+                }
             },
             {
                 "word": "おにぎり",
                 "reading": "おにぎり",
-                "tr": "pirinç topu",
-                "en": "rice ball"
+                "meanings": {
+                    "tr": "pirinç topu",
+                    "en": "rice ball",
+                    "de": "Reisbällchen",
+                    "fr": "boule de riz",
+                    "es": "bola de arroz",
+                    "ko": "주먹밥 / 오니기리"
+                }
             },
             {
                 "word": "ジュース",
                 "reading": "じゅーす",
-                "tr": "meyve suyu",
-                "en": "juice"
+                "meanings": {
+                    "tr": "meyve suyu",
+                    "en": "juice",
+                    "de": "Saft",
+                    "fr": "jus",
+                    "es": "zumo / jugo",
+                    "ko": "주스"
+                }
             },
             {
-                "word": "おべんとう",
+                "word": "お弁当",
                 "reading": "おべんとう",
-                "tr": "hazır yemek kutusu (bento)",
-                "en": "lunch box (bento)"
+                "meanings": {
+                    "tr": "hazır yemek kutusu (bento)",
+                    "en": "lunch box (bento)",
+                    "de": "Lunchbox (Bento)",
+                    "fr": "boîte à déjeuner (bento)",
+                    "es": "caja de almuerzo (bento)",
+                    "ko": "도시락 / 벤토"
+                }
             },
             {
-                "word": "かってくる",
+                "word": "買って来る",
                 "reading": "かってくる",
-                "tr": "satın alıp gelmek",
-                "en": "to go and buy"
+                "meanings": {
+                    "tr": "satın alıp gelmek",
+                    "en": "to go and buy",
+                    "de": "kaufen gehen",
+                    "fr": "aller acheter",
+                    "es": "ir a comprar",
+                    "ko": "사 오다"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～ましょうか",
-                "tr": "...-alım mı? (yardım teklifi)",
-                "en": "Shall I/we ...? (offering)"
+                "meanings": {
+                    "tr": "...-alım mı? (yardım teklifi)",
+                    "en": "Shall I/we ...? (offering)",
+                    "de": "Soll ich/wir ...?",
+                    "fr": "Puis-je ...? / Est-ce que je ...?",
+                    "es": "¿Quiere que ...? / ¿Hacemos ...?",
+                    "ko": "~할까요? (제의)"
+                }
             },
             {
                 "point": "～が いいです",
-                "tr": "...-yı tercih ederim",
-                "en": "I'd like ... / I prefer ..."
+                "meanings": {
+                    "tr": "...-yı tercih ederim",
+                    "en": "I'd like ... / I prefer ...",
+                    "de": "Ich hätte gerne ...",
+                    "fr": "Je voudrais ... / Je préfère ...",
+                    "es": "Me gustaría ... / Prefiero ...",
+                    "ko": "~이/가 좋습니다 (선호)"
+                }
             },
             {
                 "point": "～と おもいます",
-                "tr": "... diye düşünüyorum",
-                "en": "I think that ..."
+                "meanings": {
+                    "tr": "... diye düşünüyorum",
+                    "en": "I think that ...",
+                    "de": "Ich glaube, dass ... / Ich denke, dass ...",
+                    "fr": "Je pense que ...",
+                    "es": "Creo que ... / Pienso que ...",
+                    "ko": "~라고 생각합니다"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın 4 kişi için alışveriş yapacak: kendisi için パン, さとう için おにぎり, きむら için ジュース, もり için おべんとう. Doğru cevap 2: dört ürün de var. 1: ジュース yok — きむらさんın siparişi unutulmuş. 3: おにぎり yok — さとうさんın siparişi unutulmuş. 4: パン yok — kadın kendisi için almayı unutmuş.",
-        "en": "The woman will shop for 4 people: bread for herself, onigiri for Sato, juice for Kimura, bento for Mori. Correct answer is 2: all four items present. 1: No juice — Kimura's order forgotten. 3: No onigiri — Sato's order forgotten. 4: No bread — forgot her own item."
+        "tr": "Kadın 4 kişi için alışveriş yapacak: kendisi için パン, Sato için おにぎり, Kimura için ジュース, Mori için おべんとう. Doğru cevap: dört ürünün de olduğu görseldir.",
+        "en": "The woman will shop for 4 people: bread for herself, onigiri for Sato, juice for Kimura, and bento for Mori. The correct answer is the image with all four items.",
+        "de": "Die Frau wird für 4 Personen einkaufen: Brot für sich selbst, Onigiri für Sato, Saft für Kimura und Bento für Mori. Die richtige Antwort ist das Bild mit allen vier Artikeln.",
+        "fr": "La femme va faire des courses pour 4 personnes : du pain pour elle-même, un onigiri pour Sato, du jus pour Kimura et un bento pour Mori. La réponse correcte est l'image avec les quatre articles.",
+        "es": "La mujer comprará para 4 personas: pan para ella, onigiri para Sato, zumo para Kimura y bento para Mori. La respuesta correcta es la imagen con los cuatro artículos.",
+        "ko": "여자는 4인분을 사러 갑니다. 본인용 빵, 사토 씨용 주먹밥, 기무라 씨용 주스, 모리 씨용 도시락을 사야 합니다. 정답은 네 가지가 모두 있는 그림입니다."
     }
 }

@@ -1,109 +1,194 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "くだものやで りんごと バナナを かう (Buying apples and a banana at a fruit store)"
+        "topic": {
+            "ja": "くだものやで りんごと バナナを かう",
+            "tr": "Manavda Elma ve Muz Almak",
+            "en": "Buying Apples and a Banana at a Fruit Store",
+            "de": "Äpfel und eine Banane in einem Obstladen kaufen",
+            "fr": "Acheter des pommes et une banane chez le marchand de fruits",
+            "es": "Comprando manzanas y un plátano en la frutería",
+            "ko": "과일 가게에서 사과와 바나나 사기"
+        }
     },
     "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/audio.mp3",
     "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/image.png",
     "correct_option": 3,
-    "transcription": {
-        "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "すみません、はちじゅうえんの りんごを ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "なんこですか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "よんこ おねがいします。それから、バナナも いっぽん ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "バナナは いくらですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "バナナは いっぽん ひゃくにじゅうえんです。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "ありがとうございます。"
-            }
-        ],
-        "question": "おんなのひとは ぜんぶで いくら はらいますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "すみません、はちじゅうえんの りんごを ください。" },
+                { "speaker": "男の人", "text": "なんこですか。" },
+                { "speaker": "女の人", "text": "よんこ おねがいします。それから、バナナも いっぽん ください。" },
+                { "speaker": "男の人", "text": "はい。" },
+                { "speaker": "女の人", "text": "バナナは いくらですか。" },
+                { "speaker": "男の人", "text": "バナナは いっぽん ひゃくにじゅうえんです。" },
+                { "speaker": "女の人", "text": "ありがとうございます。" }
+            ],
+            "question": "おんなのひとは ぜんぶで いくら はらいますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Kadın toplamda ne kadar ödeyecek?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Affedersiniz, seksen yenlik elmalardan verin lütfen." },
+                { "speaker": "Erkek", "text": "Kaç tane?" },
+                { "speaker": "Kadın", "text": "Dört tane rica ediyorum. Bir de bir tane muz verin lütfen." },
+                { "speaker": "Erkek", "text": "Tamam." },
+                { "speaker": "Kadın", "text": "Muz ne kadar?" },
+                { "speaker": "Erkek", "text": "Muzun tanesi yüz yirmi yendir." },
+                { "speaker": "Kadın", "text": "Teşekkür ederim." }
+            ],
+            "question": "Kadın toplamda ne kadar ödeyecek?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. How much will the woman pay in total?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Excuse me, please give me the eighty-yen apples." },
+                { "speaker": "Man", "text": "How many?" },
+                { "speaker": "Woman", "text": "Four, please. Also, please give me one banana." },
+                { "speaker": "Man", "text": "Yes." },
+                { "speaker": "Woman", "text": "How much is the banana?" },
+                { "speaker": "Man", "text": "The banana is one hundred and twenty yen each." },
+                { "speaker": "Woman", "text": "Thank you very much." }
+            ],
+            "question": "How much will the woman pay in total?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen miteinander. Wie viel wird die Frau insgesamt bezahlen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Entschuldigung, geben Sie mir bitte die Äpfel für achtzig Yen." },
+                { "speaker": "Mann", "text": "Wie viele?" },
+                { "speaker": "Frau", "text": "Vier bitte. Und geben Sie mir bitte auch eine Banane." },
+                { "speaker": "Mann", "text": "Ja." },
+                { "speaker": "Frau", "text": "Wie viel kostet die Banane?" },
+                { "speaker": "Mann", "text": "Die Banane kostet einhundertzwanzig Yen das Stück." },
+                { "speaker": "Frau", "text": "Vielen Dank." }
+            ],
+            "question": "Wie viel wird die Frau insgesamt bezahlen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Combien la femme va-t-elle payer au total ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Excusez-moi, donnez-moi les pommes à quatre-vingts yens s'il vous plaît." },
+                { "speaker": "Homme", "text": "Combien en voulez-vous ?" },
+                { "speaker": "Femme", "text": "Quatre, s'il vous plaît. Et donnez-moi aussi une banane." },
+                { "speaker": "Homme", "text": "Oui." },
+                { "speaker": "Femme", "text": "Combien coûte la banane ?" },
+                { "speaker": "Homme", "text": "La banane coûte cent vingt yens l'unité." },
+                { "speaker": "Femme", "text": "Merci beaucoup." }
+            ],
+            "question": "Combien la femme va-t-elle payer au total ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Cuánto pagará la mujer en total?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Disculpe, déme las manzanas de ochenta yenes, por favor." },
+                { "speaker": "Hombre", "text": "¿Cuántas?" },
+                { "speaker": "Mujer", "text": "Cuatro, por favor. Y también déme un plátano." },
+                { "speaker": "Hombre", "text": "Sí." },
+                { "speaker": "Mujer", "text": "¿Cuánto cuesta el plátano?" },
+                { "speaker": "Hombre", "text": "El plátano cuesta ciento veinte yenes la unidad." },
+                { "speaker": "Mujer", "text": "Muchas gracias." }
+            ],
+            "question": "¿Cuánto pagará la mujer en total?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 여자는 모두 얼마를 냅니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "실례합니다, 80엔짜리 사과를 주세요." },
+                { "speaker": "남자", "text": "몇 개인가요?" },
+                { "speaker": "여자", "text": "네 개 부탁해요. 그리고 바나나도 하나 주세요." },
+                { "speaker": "남자", "text": "네." },
+                { "speaker": "여자", "text": "바나나는 얼마인가요?" },
+                { "speaker": "남자", "text": "바나나는 하나에 120엔입니다." },
+                { "speaker": "여자", "text": "감사합니다." }
+            ],
+            "question": "여자는 모두 얼마를 냅니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "りんご",
+                "word": "林檎",
                 "reading": "りんご",
-                "tr": "elma",
-                "en": "apple"
+                "meanings": {
+                    "tr": "elma",
+                    "en": "apple",
+                    "de": "Apfel",
+                    "fr": "pomme",
+                    "es": "manzana",
+                    "ko": "사과"
+                }
             },
             {
                 "word": "バナナ",
                 "reading": "ばなな",
-                "tr": "muz",
-                "en": "banana"
+                "meanings": {
+                    "tr": "muz",
+                    "en": "banana",
+                    "de": "Banane",
+                    "fr": "banane",
+                    "es": "plátano",
+                    "ko": "바나나"
+                }
             },
             {
-                "word": "くだものや",
-                "reading": "くだものや",
-                "tr": "meyve dükkanı",
-                "en": "fruit store"
+                "word": "八十円",
+                "reading": "はちじゅうえん",
+                "meanings": {
+                    "tr": "seksen yen",
+                    "en": "80 yen",
+                    "de": "achtzig Yen",
+                    "fr": "quatre-vingts yens",
+                    "es": "ochenta yenes",
+                    "ko": "80엔"
+                }
             },
             {
-                "word": "いくら",
-                "reading": "いくら",
-                "tr": "ne kadar (fiyat)",
-                "en": "how much (price)"
-            },
-            {
-                "word": "ぜんぶで",
-                "reading": "ぜんぶで",
-                "tr": "toplamda",
-                "en": "in total"
-            },
-            {
-                "word": "はらう",
-                "reading": "はらう",
-                "tr": "ödemek",
-                "en": "to pay"
+                "word": "百二十円",
+                "reading": "ひゃくにじゅうえん",
+                "meanings": {
+                    "tr": "yüz yirmi yen",
+                    "en": "120 yen",
+                    "de": "einhundertzwanzig Yen",
+                    "fr": "cent vingt yens",
+                    "es": "ciento veinte yenes",
+                    "ko": "120엔"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～をください",
-                "tr": "... lütfen (... verir misiniz?)",
-                "en": "please give me ..."
+                "meanings": {
+                    "tr": "lütfen ... verin",
+                    "en": "please give me ...",
+                    "de": "bitte geben Sie mir ...",
+                    "fr": "donnez-moi ... s'il vous plaît",
+                    "es": "por favor, déme ...",
+                    "ko": "~을/를 주세요"
+                }
             },
             {
-                "point": "～こ",
-                "tr": "Yuvarlak/genel nesneler için sayma eki: よんこ (4 tane)",
-                "en": "Counter for small round objects: よんこ (4 pieces)"
-            },
-            {
-                "point": "～ほん／ぽん",
-                "tr": "Uzun/ince nesneler için sayma eki: いっぽん (1 tane)",
-                "en": "Counter for long/thin objects: いっぽん (1 piece)"
-            },
-            {
-                "point": "それから",
-                "tr": "ve ondan sonra / ayrıca",
-                "en": "and then / also"
+                "point": "～個 / ～本",
+                "meanings": {
+                    "tr": "Sayıcılar (tane / adet)",
+                    "en": "Counters (general / long objects)",
+                    "de": "Zählformen",
+                    "fr": "Compteurs",
+                    "es": "Contadores",
+                    "ko": "수량사 (~개 / ~자루)"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın 80 yenlik 4 elma (80×4=320 yen) ve 120 yenlik 1 muz alıyor. Toplam: 320+120=440 yen → doğru cevap 4. 1: Sadece bir elmanın birim fiyatını hatırlamış (80 yen). 2: 4 elmayı hesaplamış ama muzu unutmuş (320 yen). 3: Miktarları karıştırmış — 4 muz + 1 elma (120×4+80=560 yen).",
-        "en": "The woman buys 4 apples at 80 yen each (80×4=320 yen) and 1 banana at 120 yen. Total: 320+120=440 yen → correct answer is 4. 1: Only remembered the unit price of one apple (80 yen). 2: Calculated 4 apples but forgot the banana (320 yen). 3: Confused the quantities — 4 bananas + 1 apple (120×4+80=560 yen)."
+        "tr": "Kadın 80 yenlik 4 elma (320 yen) ve 120 yenlik 1 muz alır. Toplamda 440 yen öder. Doğru cevap 4. seçenektir.",
+        "en": "The woman buys 4 apples at 80 yen each (320 yen) and 1 banana at 120 yen. She pays 440 yen in total. The correct answer is option 4.",
+        "de": "Die Frau kauft 4 Äpfel zu je 80 Yen (320 Yen) und 1 Banane für 120 Yen. Sie bezahlt insgesamt 440 Yen. Die richtige Antwort ist Option 4.",
+        "fr": "La femme achète 4 pommes à 80 yens chacune (320 yens) et 1 banane à 120 yens. Elle paie 440 yens au total. La réponse correcte est l'option 4.",
+        "es": "La mujer compra 4 manzanas a 80 yenes cada una (320 yenes) y 1 plátano por 120 yenes. Paga 440 yenes en total. La respuesta correcta es la opción 4.",
+        "ko": "여자는 80엔짜리 사과 4개(320엔)와 120엔짜리 바나나 1개를 삽니다. 총 440엔을 냅니다. 정답은 4번입니다."
     }
 }

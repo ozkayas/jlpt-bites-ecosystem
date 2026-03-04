@@ -1,96 +1,180 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "のーとを　えらぶ (Choosing a notebook)"
+        "topic": {
+            "ja": "のーとを　えらぶ",
+            "tr": "Defter Seçmek",
+            "en": "Choosing a Notebook",
+            "de": "Ein Notizbuch auswählen",
+            "fr": "Choisir un cahier",
+            "es": "Eligiendo un cuaderno",
+            "ko": "노트 고르기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 2,
-    "transcription": {
-        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "すみません、その　のーとを　みせてください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "あ, この　あおいの　ですか？"
-            },
-            {
-                "speaker": "女の人",
-                "text": "いいえ、あかいの　です。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "こちらの　おおきい　ほうでしょうか？"
-            },
-            {
-                "speaker": "女の人",
-                "text": "いいえ、ちいさい　ほうです。"
-            }
-        ],
-        "question": "おんなのひとは　どの　のーとを　かいますか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？",
+            "dialogue": [
+                { "speaker": "女の人", "text": "すみません、その　のーとを　みせてください。" },
+                { "speaker": "男の人", "text": "あ、この　あおいの　ですか？" },
+                { "speaker": "女の人", "text": "いいえ、あかいの　です。" },
+                { "speaker": "男の人", "text": "こちらの　おおきい　ほうでしょうか？" },
+                { "speaker": "女の人", "text": "いいえ、ちいさい　ほうです。" }
+            ],
+            "question": "おんなのひとは　どの　のーとを　かいますか？"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Kadın hangi defteri satın alacak?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Affedersiniz, şu defteri gösterebilir misiniz?" },
+                { "speaker": "Erkek", "text": "A, şu mavi olan mı?" },
+                { "speaker": "Kadın", "text": "Hayır, kırmızı olan." },
+                { "speaker": "Erkek", "text": "Buradaki şu büyük olan mı?" },
+                { "speaker": "Kadın", "text": "Hayır, küçük olan." }
+            ],
+            "question": "Kadın hangi defteri satın alacak?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. Which notebook will the woman buy?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Excuse me, could you show me that notebook?" },
+                { "speaker": "Man", "text": "Oh, this blue one?" },
+                { "speaker": "Woman", "text": "No, the red one." },
+                { "speaker": "Man", "text": "Is it this large one?" },
+                { "speaker": "Woman", "text": "No, the small one." }
+            ],
+            "question": "Which notebook will the woman buy?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen miteinander. Welches Notizbuch wird die Frau kaufen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Entschuldigung, könnten Sie mir bitte dieses Notizbuch zeigen?" },
+                { "speaker": "Mann", "text": "Oh, dieses blaue hier?" },
+                { "speaker": "Frau", "text": "Nein, das rote." },
+                { "speaker": "Mann", "text": "Dieses große hier?" },
+                { "speaker": "Frau", "text": "Nein, das kleine." }
+            ],
+            "question": "Welches Notizbuch wird die Frau kaufen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Quel cahier la femme va-t-elle acheter ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Excusez-moi, pourriez-vous me montrer ce cahier ?" },
+                { "speaker": "Homme", "text": "Ah, ce bleu-là ?" },
+                { "speaker": "Femme", "text": "Non, le rouge." },
+                { "speaker": "Homme", "text": "Celui qui est grand ?" },
+                { "speaker": "Femme", "text": "Non, le petit." }
+            ],
+            "question": "Quel cahier la femme va-t-elle acheter ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Qué cuaderno comprará la mujer?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Disculpe, ¿podría enseñarme ese cuaderno?" },
+                { "speaker": "Hombre", "text": "Ah, ¿este azul?" },
+                { "speaker": "Mujer", "text": "No, el rojo." },
+                { "speaker": "Hombre", "text": "¿Este grande de aquí?" },
+                { "speaker": "Mujer", "text": "No, el pequeño." }
+            ],
+            "question": "¿Qué cuaderno comprará la mujer?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 여자는 어느 노트를 삽니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "실례합니다, 그 노트를 좀 보여 주세요." },
+                { "speaker": "남자", "text": "아, 이 파란색 건가요?" },
+                { "speaker": "여자", "text": "아니요, 빨간색 거예요." },
+                { "speaker": "남자", "text": "여기 이 큰 건가요?" },
+                { "speaker": "여자", "text": "아니요, 작은 거예요." }
+            ],
+            "question": "여자는 어느 노트를 삽니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "のーと",
+                "word": "ノート",
                 "reading": "のーと",
-                "tr": "defter",
-                "en": "notebook"
+                "meanings": {
+                    "tr": "defter",
+                    "en": "notebook",
+                    "de": "Notizbuch",
+                    "fr": "cahier",
+                    "es": "cuaderno",
+                    "ko": "노트"
+                }
             },
             {
-                "word": "みせる",
+                "word": "見せる",
                 "reading": "みせる",
-                "tr": "göstermek",
-                "en": "to show"
+                "meanings": {
+                    "tr": "göstermek",
+                    "en": "to show",
+                    "de": "zeigen",
+                    "fr": "montrer",
+                    "es": "mostrar",
+                    "ko": "보여주다"
+                }
             },
             {
-                "word": "あおい",
-                "reading": "あおい",
-                "tr": "mavi",
-                "en": "blue"
-            },
-            {
-                "word": "あかい",
+                "word": "赤い",
                 "reading": "あかい",
-                "tr": "kırmızı",
-                "en": "red"
+                "meanings": {
+                    "tr": "kırmızı",
+                    "en": "red",
+                    "de": "rot",
+                    "fr": "rouge",
+                    "es": "rojo",
+                    "ko": "빨갛다"
+                }
             },
             {
-                "word": "おおきい",
-                "reading": "おおきい",
-                "tr": "büyük",
-                "en": "big / large"
-            },
-            {
-                "word": "ちいさい",
+                "word": "小さい",
                 "reading": "ちいさい",
-                "tr": "küçük",
-                "en": "small"
+                "meanings": {
+                    "tr": "küçük",
+                    "en": "small",
+                    "de": "klein",
+                    "fr": "petit",
+                    "es": "pequeño",
+                    "ko": "작다"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～を　みせてください",
-                "tr": "Lütfen ...yı/yi gösterin",
-                "en": "Please show me..."
-            },
-            {
-                "point": "～の",
-                "tr": "Sıfattan sonra gelerek 'olanı' anlamı katar",
-                "en": "Noun substitute"
+                "meanings": {
+                    "tr": "Lütfen ...yı gösterin",
+                    "en": "Please show me ...",
+                    "de": "Bitte zeigen Sie mir ...",
+                    "fr": "Montrez-moi ... s'il vous plaît",
+                    "es": "Por favor, enséñeme ...",
+                    "ko": "~을/를 보여 주세요"
+                }
             },
             {
                 "point": "～ほう",
-                "tr": "... olanı / ... tarafı",
-                "en": "the one"
+                "meanings": {
+                    "tr": "... olanı / ... tarafı",
+                    "en": "the one (comparative)",
+                    "de": "die Seite / der/die/das ...",
+                    "fr": "le côté / celui ...",
+                    "es": "el lado / el que es ...",
+                    "ko": "~쪽 / ~한 것"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın mavi defter (1) ve (4) seçeneklerini değil, kırmızı olan (2) ve (3) seçeneklerini görmek istiyor. Kırmızı defterler arasından ise büyük olanı (2) değil, küçük olanı (3) seçiyor.",
-        "en": "The woman rejects the blue notebooks (1) and (4), wanting the red one instead (2 and 3). Among the red ones, she chooses the small one (3) over the large one (2)."
+        "tr": "Kadın kırmızı ve küçük olan defteri seçer. Doğru cevap 3. seçenektir.",
+        "en": "The woman chooses the red and small notebook. The correct answer is option 3.",
+        "de": "Die Frau wählt das rote und kleine Notizbuch. Die richtige Antwort ist Option 3.",
+        "fr": "La femme choisit le cahier rouge et petit. La réponse correcte est l'option 3.",
+        "es": "La mujer elige el cuaderno rojo y pequeño. La respuesta correcta es la opción 3.",
+        "ko": "여자는 빨간색이고 작은 노트를 선택합니다. 정답은 3번입니다."
     }
 }

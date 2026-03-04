@@ -11,7 +11,8 @@
         "tr": "buluşmak / görüşmek",
         "de": "treffen",
         "es": "encontrarse",
-        "fr": "rencontrer"
+        "fr": "rencontrer",
+        "ko": "만나다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_001.mp3",
       "sentences": [
@@ -24,7 +25,8 @@
             "tr": "İstasyonda bir arkadaşımla buluşacağım.",
             "de": "Ich werde einen Freund am Bahnhof treffen.",
             "es": "Me encontrare con un amigo en la estación.",
-            "fr": "Je vais rencontrer un ami à la gare."
+            "fr": "Je vais rencontrer un ami à la gare.",
+            "ko": "역에서 친구를 만납니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_001_s1.mp3"
         }
@@ -41,7 +43,8 @@
         "tr": "mavi",
         "de": "Blau",
         "es": "azul",
-        "fr": "bleu"
+        "fr": "bleu",
+        "ko": "파랑 / 파란색"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_002.mp3",
       "sentences": [
@@ -54,7 +57,8 @@
             "tr": "Gökyüzü mavidir.",
             "de": "Der Himmel ist blau.",
             "es": "El cielo es azul.",
-            "fr": "Le ciel est bleu."
+            "fr": "Le ciel est bleu.",
+            "ko": "하늘은 파랗습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_002_s1.mp3"
         }
@@ -71,7 +75,8 @@
         "tr": "mavi (sıfat)",
         "de": "blau",
         "es": "azul",
-        "fr": "bleu"
+        "fr": "bleu",
+        "ko": "파랗다 / 파란"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_003.mp3",
       "sentences": [
@@ -84,7 +89,8 @@
             "tr": "Mavi bir gömlek giyiyorum.",
             "de": "Ich trage ein blaues Hemd.",
             "es": "Llevo puesta una camisa azul.",
-            "fr": "Je porte une chemise bleue."
+            "fr": "Je porte une chemise bleue.",
+            "ko": "파란 셔츠를 입고 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_003_s1.mp3"
         }
@@ -101,7 +107,8 @@
         "tr": "kırmızı",
         "de": "Rot",
         "es": "rojo",
-        "fr": "rouge"
+        "fr": "rouge",
+        "ko": "빨강 / 빨간색"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_004.mp3",
       "sentences": [
@@ -114,7 +121,8 @@
             "tr": "Kırmızıyı severim.",
             "de": "Ich mag Rot.",
             "es": "Me gusta el rojo.",
-            "fr": "J'aime le rouge."
+            "fr": "J'aime le rouge.",
+            "ko": "빨간색을 좋아합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_004_s1.mp3"
         }
@@ -131,7 +139,8 @@
         "tr": "kırmızı (sıfat)",
         "de": "rot",
         "es": "rojo",
-        "fr": "rouge"
+        "fr": "rouge",
+        "ko": "빨갛다 / 빨간"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_005.mp3",
       "sentences": [
@@ -144,7 +153,8 @@
             "tr": "Kırmızı bir elma yedim.",
             "de": "Ich habe einen roten Apfel gegessen.",
             "es": "Comí una manzana roja.",
-            "fr": "J'ai mangé une pomme rouge."
+            "fr": "J'ai mangé une pomme rouge.",
+            "ko": "빨간 사과를 먹었습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_005_s1.mp3"
         }
@@ -161,7 +171,8 @@
         "tr": "aydınlık / neşeli",
         "de": "hell",
         "es": "brillante",
-        "fr": "lumineux"
+        "fr": "lumineux",
+        "ko": "밝다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_006.mp3",
       "sentences": [
@@ -174,7 +185,8 @@
             "tr": "Bu oda aydınlık.",
             "de": "Dieses Zimmer ist hell.",
             "es": "Esta habitación es luminosa.",
-            "fr": "Cette pièce est lumineuse."
+            "fr": "Cette pièce est lumineuse.",
+            "ko": "이 방은 밝습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_006_s1.mp3"
         }
@@ -191,7 +203,8 @@
         "tr": "sonbahar",
         "de": "Herbst",
         "es": "otoño",
-        "fr": "automne"
+        "fr": "automne",
+        "ko": "가을"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_007.mp3",
       "sentences": [
@@ -204,7 +217,8 @@
             "tr": "Sonbahar serindir.",
             "de": "Der Herbst ist kühl.",
             "es": "El otoño es fresco.",
-            "fr": "L'automne est frais."
+            "fr": "L'automne est frais.",
+            "ko": "가을은 시원합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_007_s1.mp3"
         }
@@ -221,7 +235,8 @@
         "tr": "açılmak",
         "de": "sich öffnen",
         "es": "abrirse",
-        "fr": "s'ouvrir"
+        "fr": "s'ouvrir",
+        "ko": "열리다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_008.mp3",
       "sentences": [
@@ -234,7 +249,8 @@
             "tr": "Kapı açıldı.",
             "de": "Die Tür öffnete sich.",
             "es": "La puerta se abrió.",
-            "fr": "La porte s'est ouverte."
+            "fr": "La porte s'est ouverte.",
+            "ko": "문이 열렸습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_008_s1.mp3"
         }
@@ -251,7 +267,8 @@
         "tr": "açmak",
         "de": "öffnen",
         "es": "abrir",
-        "fr": "ouvrir"
+        "fr": "ouvrir",
+        "ko": "열다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_009.mp3",
       "sentences": [
@@ -264,7 +281,8 @@
             "tr": "Lütfen pencereyi açın.",
             "de": "Bitte öffnen Sie das Fenster.",
             "es": "Por favor, abre la ventana.",
-            "fr": "Ouvrez la fenêtre, s'il vous plaît."
+            "fr": "Ouvrez la fenêtre, s'il vous plaît.",
+            "ko": "창문을 열어 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_009_s1.mp3"
         }
@@ -281,7 +299,8 @@
         "tr": "yukarı kaldırmak / vermek",
         "de": "heben / geben",
         "es": "levantar / dar",
-        "fr": "lever / donner"
+        "fr": "lever / donner",
+        "ko": "올리다 / 주다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_010.mp3",
       "sentences": [
@@ -294,7 +313,8 @@
             "tr": "Lütfen elinizi kaldırın.",
             "de": "Bitte heben Sie die Hand.",
             "es": "Por favor, levante la mano.",
-            "fr": "Levez la main, s'il vous plaît."
+            "fr": "Levez la main, s'il vous plaît.",
+            "ko": "손을 들어 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_010_s1.mp3"
         }
@@ -311,7 +331,8 @@
         "tr": "sabah",
         "de": "Morgen",
         "es": "mañana",
-        "fr": "matin"
+        "fr": "matin",
+        "ko": "아침"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_011.mp3",
       "sentences": [
@@ -324,7 +345,8 @@
             "tr": "Sabah saat altıda uyanırım.",
             "de": "Ich stehe morgens um sechs Uhr auf.",
             "es": "Me despierto a las seis de la mañana.",
-            "fr": "Je me réveille à six heures du matin."
+            "fr": "Je me réveille à six heures du matin.",
+            "ko": "아침 6시에 일어납니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_011_s1.mp3"
         }
@@ -341,7 +363,8 @@
         "tr": "kahvaltı",
         "de": "Frühstück",
         "es": "desayuno",
-        "fr": "petit-déjeuner"
+        "fr": "petit-déjeuner",
+        "ko": "아침 식사 / 아침밥"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_012.mp3",
       "sentences": [
@@ -354,7 +377,8 @@
             "tr": "Kahvaltı yaptın mı?",
             "de": "Hast du gefrühstückt?",
             "es": "¿Has desayunado?",
-            "fr": "As-tu pris ton petit-déjeuner ?"
+            "fr": "As-tu pris ton petit-déjeuner ?",
+            "ko": "아침 식사를 했습니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_012_s1.mp3"
         }
@@ -371,7 +395,8 @@
         "tr": "yarından sonraki gün",
         "de": "übermorgen",
         "es": "pasado mañana",
-        "fr": "après-demain"
+        "fr": "après-demain",
+        "ko": "내일 모레 / 모레"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_013.mp3",
       "sentences": [
@@ -384,7 +409,8 @@
             "tr": "Yarından sonra sınav var.",
             "de": "Übermorgen gibt es einen Test.",
             "es": "Hay un examen pasado mañana.",
-            "fr": "Il y a un examen après-demain."
+            "fr": "Il y a un examen après-demain.",
+            "ko": "내일 모레 시험이 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_013_s1.mp3"
         }
@@ -401,7 +427,8 @@
         "tr": "ayak / bacak",
         "de": "Fuß / Bein",
         "es": "pie / pierna",
-        "fr": "pied / jambe"
+        "fr": "pied / jambe",
+        "ko": "발 / 다리"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_014.mp3",
       "sentences": [
@@ -414,7 +441,8 @@
             "tr": "Ayağım ağrıyor.",
             "de": "Mein Bein tut weh.",
             "es": "Me duele la pierna.",
-            "fr": "Ma jambe me fait mal."
+            "fr": "Ma jambe me fait mal.",
+            "ko": "다리가 아픕니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_014_s1.mp3"
         }
@@ -431,7 +459,8 @@
         "tr": "yarın",
         "de": "morgen",
         "es": "mañana",
-        "fr": "demain"
+        "fr": "demain",
+        "ko": "내일"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_015.mp3",
       "sentences": [
@@ -444,7 +473,8 @@
             "tr": "Yarın tatil.",
             "de": "Morgen ist ein Feiertag.",
             "es": "Mañana es festivo.",
-            "fr": "Demain est un jour férié."
+            "fr": "Demain est un jour férié.",
+            "ko": "내일은 쉽니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_015_s1.mp3"
         }
@@ -461,7 +491,8 @@
         "tr": "orası / şurası (uzak)",
         "de": "dort drüben",
         "es": "allá",
-        "fr": "là-bas"
+        "fr": "là-bas",
+        "ko": "저기"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_016.mp3",
       "sentences": [
@@ -474,7 +505,8 @@
             "tr": "Şurada bir banka var.",
             "de": "Dort drüben ist eine Bank.",
             "es": "Allá hay un banco.",
-            "fr": "Il y a une banque là-bas."
+            "fr": "Il y a une banque là-bas.",
+            "ko": "저기에 은행이 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_016_s1.mp3"
         }
@@ -491,7 +523,8 @@
         "tr": "oynamak / vakit geçirmek",
         "de": "spielen",
         "es": "jugar",
-        "fr": "jouer"
+        "fr": "jouer",
+        "ko": "놀다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_017.mp3",
       "sentences": [
@@ -504,7 +537,8 @@
             "tr": "Hadi parkta oynayalım.",
             "de": "Lass uns im Park spielen.",
             "es": "Juguemos en el parque.",
-            "fr": "Jouons dans le parc."
+            "fr": "Jouons dans le parc.",
+            "ko": "공원에서 놉시다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_017_s1.mp3"
         }
@@ -521,7 +555,8 @@
         "tr": "ılık / sıcak (hava)",
         "de": "warm",
         "es": "cálido",
-        "fr": "chaud"
+        "fr": "chaud",
+        "ko": "따뜻하다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_018.mp3",
       "sentences": [
@@ -534,7 +569,8 @@
             "tr": "Bugün hava ılık, değil mi?",
             "de": "Heute ist es warm, nicht wahr?",
             "es": "Hoy hace calor, ¿verdad?",
-            "fr": "Il fait chaud aujourd'hui, n'est-ce pas ?"
+            "fr": "Il fait chaud aujourd'hui, n'est-ce pas ?",
+            "ko": "오늘은 따뜻하네요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_018_s1.mp3"
         }
@@ -551,7 +587,8 @@
         "tr": "baş / kafa",
         "de": "Kopf",
         "es": "cabeza",
-        "fr": "tête"
+        "fr": "tête",
+        "ko": "머리"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_019.mp3",
       "sentences": [
@@ -564,7 +601,8 @@
             "tr": "O zekidir.",
             "de": "Er ist schlau.",
             "es": "Él es inteligente.",
-            "fr": "Il est intelligent."
+            "fr": "Il est intelligent.",
+            "ko": "머리가 좋습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_019_s1.mp3"
         }
@@ -581,7 +619,8 @@
         "tr": "yeni",
         "de": "neu",
         "es": "nuevo",
-        "fr": "nouveau"
+        "fr": "nouveau",
+        "ko": "새롭다 / 새"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_020.mp3",
       "sentences": [
@@ -594,7 +633,8 @@
             "tr": "Yeni bir kitap aldım.",
             "de": "Ich habe ein neues Buch gekauft.",
             "es": "Compré un libro nuevo.",
-            "fr": "J'ai acheté un nouveau livre."
+            "fr": "J'ai acheté un nouveau livre.",
+            "ko": "새 책을 샀습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_020_s1.mp3"
         }
@@ -611,7 +651,8 @@
         "tr": "o taraf (resmi)",
         "de": "dort drüben",
         "es": "allá",
-        "fr": "là-bas"
+        "fr": "là-bas",
+        "ko": "저쪽"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_021.mp3",
       "sentences": [
@@ -624,7 +665,8 @@
             "tr": "Lütfen o tarafa gidin.",
             "de": "Bitte gehen Sie dort entlang.",
             "es": "Por favor, vaya por allí.",
-            "fr": "Veuillez aller par là."
+            "fr": "Veuillez aller par là.",
+            "ko": "저쪽으로 가십시오."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_021_s1.mp3"
         }
@@ -641,7 +683,8 @@
         "tr": "kalın",
         "de": "dick",
         "es": "grueso",
-        "fr": "épais"
+        "fr": "épais",
+        "ko": "두껍다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_022.mp3",
       "sentences": [
@@ -654,7 +697,8 @@
             "tr": "Bu kitap kalındır.",
             "de": "Dieses Buch ist dick.",
             "es": "Este libro es grueso.",
-            "fr": "Ce livre est épais."
+            "fr": "Ce livre est épais.",
+            "ko": "이 책은 두껍습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_022_s1.mp3"
         }
@@ -671,7 +715,8 @@
         "tr": "sıcak (hava)",
         "de": "heiß",
         "es": "caluroso",
-        "fr": "chaud"
+        "fr": "chaud",
+        "ko": "덥다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_023.mp3",
       "sentences": [
@@ -684,7 +729,8 @@
             "tr": "Yazın çok sıcaktır.",
             "de": "Der Sommer ist sehr heiß.",
             "es": "El verano es muy caluroso.",
-            "fr": "L'été est très chaud."
+            "fr": "L'été est très chaud.",
+            "ko": "여름은 매우 덥습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_023_s1.mp3"
         }
@@ -701,7 +747,8 @@
         "tr": "sıcak (nesne)",
         "de": "heiß",
         "es": "caliente",
-        "fr": "chaud"
+        "fr": "chaud",
+        "ko": "뜨겁다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_024.mp3",
       "sentences": [
@@ -714,7 +761,8 @@
             "tr": "Sıcak çay içerim.",
             "de": "Ich trinke heißen Tee.",
             "es": "Bebo té caliente.",
-            "fr": "Je bois du thé chaud."
+            "fr": "Je bois du thé chaud.",
+            "ko": "뜨거운 차를 마십니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_024_s1.mp3"
         }
@@ -731,7 +779,8 @@
         "tr": "sonra / ardından",
         "de": "nach",
         "es": "después",
-        "fr": "après"
+        "fr": "après",
+        "ko": "뒤 / 후"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_025.mp3",
       "sentences": [
@@ -744,7 +793,8 @@
             "tr": "Yemekten sonra kahve içerim.",
             "de": "Nach dem Essen trinke ich Kaffee.",
             "es": "Bebo café después de la comida.",
-            "fr": "Je bois du café après le repas."
+            "fr": "Je bois du café après le repas.",
+            "ko": "식사 후에 커피를 마십니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_025_s1.mp3"
         }

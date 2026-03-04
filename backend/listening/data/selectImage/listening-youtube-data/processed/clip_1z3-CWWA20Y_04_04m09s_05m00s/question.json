@@ -1,85 +1,192 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ゆうびんきょくの ばしょ (Location of the Post Office)"
+        "topic": {
+            "ja": "ゆうびんきょくの ばしょ",
+            "tr": "Postanenin Yeri",
+            "en": "Location of the Post Office",
+            "de": "Standort der Post",
+            "fr": "L'emplacement de la poste",
+            "es": "Ubicación de la oficina de correos",
+            "ko": "우체국 위치"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "おんなのひとが おとこのひとに みちを きいています。 ゆうびんきょくは どこですか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "すみません、あの、ゆうびんきょくへ いきたいです。 ゆうびんきょくは どこですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "ゆうびんきょくですね。 あの かどを みぎへ まがってください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "みぎですね。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。 まがってから まっすぐ いくと、 スーパーが あります。 ゆうびんきょくは その スーパーの となりです。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "スーパーの となりですね。 ありがとう ございます。"
-            }
-        ],
-        "question": "ゆうびんきょくは どこですか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとが おとこのひとに みちを きいています。 ゆうびんきょく は どこですか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "すみません、あの、ゆうびんきょくへ いきたいです。 ゆうびんきょくは どこですか。" },
+                { "speaker": "男の人", "text": "ゆうびんきょくですね。 あの かどを みぎへ まがってください。" },
+                { "speaker": "女の人", "text": "みぎですね。" },
+                { "speaker": "男の人", "text": "はい。 まがってから まっすぐ いくと、 スーパーが あります。 ゆうびんきょくは その スーパーの となりです。" },
+                { "speaker": "女の人", "text": "スーパーの となりですね. ありがとう ございます。" }
+            ],
+            "question": "ゆうびんきょくは どこですか。"
+        },
+        "tr": {
+            "intro": "Bir kadın bir erkeğe yol soruyor. Postane nerede?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Affedersiniz, şey, postaneye gitmek istiyorum. Postane nerede?" },
+                { "speaker": "Erkek", "text": "Postane mi? Şu köşeden sağa dönün lütfen." },
+                { "speaker": "Kadın", "text": "Sağ, değil mi?" },
+                { "speaker": "Erkek", "text": "Evet. Döndükten sonra dümdüz giderseniz bir süpermarket var. Postane, o süpermarketin yanındadır." },
+                { "speaker": "Kadın", "text": "Süpermarketin yanında, anladım. Teşekkür ederim." }
+            ],
+            "question": "Postane nerede?"
+        },
+        "en": {
+            "intro": "A woman is asking a man for directions. Where is the post office?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Excuse me, um, I want to go to the post office. Where is the post office?" },
+                { "speaker": "Man", "text": "The post office, right. Please turn right at that corner." },
+                { "speaker": "Woman", "text": "Right, okay." },
+                { "speaker": "Man", "text": "Yes. After turning, if you go straight, there is a supermarket. The post office is next to that supermarket." },
+                { "speaker": "Woman", "text": "Next to the supermarket. Thank you very much." }
+            ],
+            "question": "Where is the post office?"
+        },
+        "de": {
+            "intro": "Eine Frau fragt einen Mann nach dem Weg. Wo ist die Post?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Entschuldigung, ich möchte zur Post gehen. Wo ist die Post?" },
+                { "speaker": "Mann", "text": "Die Post, ja. Bitte biegen Sie an dieser Ecke rechts ab." },
+                { "speaker": "Frau", "text": "Rechts, alles klar." },
+                { "speaker": "Mann", "text": "Ja. Wenn Sie nach dem Abbiegen geradeaus gehen, kommt ein Supermarkt. Die Post ist direkt neben diesem Supermarkt." },
+                { "speaker": "Frau", "text": "Neben dem Supermarkt. Vielen Dank." }
+            ],
+            "question": "Wo ist die Post?"
+        },
+        "fr": {
+            "intro": "Une femme demande son chemin à un homme. Où est la poste ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Excusez-moi, je voudrais aller à la poste. Où est la poste ?" },
+                { "speaker": "Homme", "text": "La poste, d'accord. Veuillez tourner à droite à ce coin." },
+                { "speaker": "Femme", "text": "À droite, c'est ça ?" },
+                { "speaker": "Homme", "text": "Oui. Après avoir tourné, si vous allez tout droit, il y a un supermarché. La poste est juste à côté de ce supermarché." },
+                { "speaker": "Femme", "text": "À côté du supermarché. Merci beaucoup." }
+            ],
+            "question": "Où est la poste ?"
+        },
+        "es": {
+            "intro": "Una mujer le pregunta a un hombre por una dirección. ¿Dónde está la oficina de correos?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Disculpe, este, quiero ir a la oficina de correos. ¿Dónde está la oficina de correos?" },
+                { "speaker": "Hombre", "text": "La oficina de correos, sí. Gire a la derecha en esa esquina, por favor." },
+                { "speaker": "Mujer", "text": "A la derecha, ¿verdad?" },
+                { "speaker": "Hombre", "text": "Sí. Después de girar, si sigue recto, hay un supermercado. La oficina de correos está al lado de ese supermercado." },
+                { "speaker": "Mujer", "text": "Al lado del supermercado. Muchas gracias." }
+            ],
+            "question": "¿Dónde está la oficina de correos?"
+        },
+        "ko": {
+            "intro": "여자가 남자에게 길을 묻고 있습니다. 우체국은 어디입니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "실례합니다, 저기, 우체국에 가고 싶어요. 우체국은 어디인가요?" },
+                { "speaker": "남자", "text": "우체국이요. 저 모퉁이에서 오른쪽으로 꺾으세요." },
+                { "speaker": "여자", "text": "오른쪽이군요." },
+                { "speaker": "남자", "text": "네. 꺾어서 똑바로 가면 슈퍼마켓이 있습니다. 우체국은 그 슈퍼마켓 옆이에요." },
+                { "speaker": "여자", "text": "슈퍼마켓 옆이군요. 감사합니다." }
+            ],
+            "question": "우체국은 어디입니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
                 "word": "郵便局",
                 "reading": "ゆうびんきょく",
-                "tr": "postane",
-                "en": "post office"
+                "meanings": {
+                    "tr": "postane",
+                    "en": "post office",
+                    "de": "Postamt",
+                    "fr": "bureau de poste",
+                    "es": "oficina de correos",
+                    "ko": "우체국"
+                }
             },
             {
                 "word": "スーパー",
-                "reading": "スーパー",
-                "tr": "süpermarket",
-                "en": "supermarket"
+                "reading": "すーぱー",
+                "meanings": {
+                    "tr": "süpermarket",
+                    "en": "supermarket",
+                    "de": "Supermarkt",
+                    "fr": "supermarché",
+                    "es": "supermercado",
+                    "ko": "슈퍼 / 마트"
+                }
             },
             {
                 "word": "隣",
                 "reading": "となり",
-                "tr": "yanı/yanında",
-                "en": "next to"
+                "meanings": {
+                    "tr": "yan / yanında",
+                    "en": "next to",
+                    "de": "neben",
+                    "fr": "à côté de",
+                    "es": "al lado de",
+                    "ko": "옆"
+                }
             },
             {
                 "word": "角",
                 "reading": "かど",
-                "tr": "köşe",
-                "en": "corner"
+                "meanings": {
+                    "tr": "köşe",
+                    "en": "corner",
+                    "de": "Ecke",
+                    "fr": "coin",
+                    "es": "esquina",
+                    "ko": "모퉁이 / 코너"
+                }
             },
             {
                 "word": "右",
                 "reading": "みぎ",
-                "tr": "sağ",
-                "en": "right"
+                "meanings": {
+                    "tr": "sağ",
+                    "en": "right",
+                    "de": "rechts",
+                    "fr": "droite",
+                    "es": "derecha",
+                    "ko": "오른쪽"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "〜を まがってください",
-                "tr": "...'dan dönün",
-                "en": "please turn ..."
+                "meanings": {
+                    "tr": "...'dan dönün",
+                    "en": "please turn ...",
+                    "de": "bitte biegen Sie an ... ab",
+                    "fr": "tournez à ... s'il vous plaît",
+                    "es": "gire en ... por favor",
+                    "ko": "~을/를 도세요 / 꺾으세요"
+                }
             },
             {
                 "point": "〜てから",
-                "tr": "-dikten sonra",
-                "en": "after doing ..."
+                "meanings": {
+                    "tr": "-dikten sonra",
+                    "en": "after doing ...",
+                    "de": "nachdem ...",
+                    "fr": "après avoir ...",
+                    "es": "después de ...",
+                    "ko": "~하고 나서"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Adam kadına köşeden sağa (みぎ) dönmesini ve süpermarketin (スーパー) yanındaki (となり) binaya bakmasını söyler. Haritada süpermarketin (4) yanındaki bina (2) numaradır.",
-        "en": "The man tells the woman to turn right (みぎ) at the corner and look for the building next to (となり) the supermarket (スーパー). On the map, building (2) is next to the supermarket (4)."
+        "tr": "Kadın sağa döner ve süpermarketin yanındaki postaneyi bulur. Doğru cevap süpermarketin yanındaki (2) numaralı binadır.",
+        "en": "The woman turns right and finds the post office next to the supermarket. The correct answer is building (2) next to the supermarket.",
+        "de": "Die Frau biegt rechts ab und findet die Post neben dem Supermarkt. Die richtige Antwort ist Gebäude (2) neben dem Supermarkt.",
+        "fr": "La femme tourne à droite et trouve la poste à côté du supermarché. La réponse correcte est le bâtiment (2) à côté du supermarché.",
+        "es": "La mujer gira a la derecha y encuentra la oficina de correos al lado del supermercado. La respuesta correcta es el edificio (2) al lado del supermercado.",
+        "ko": "여자는 오른쪽으로 꺾어서 슈퍼마켓 옆에 있는 우체국을 찾습니다. 정답은 슈퍼마켓 옆에 있는 2번 건물입니다."
     }
 }

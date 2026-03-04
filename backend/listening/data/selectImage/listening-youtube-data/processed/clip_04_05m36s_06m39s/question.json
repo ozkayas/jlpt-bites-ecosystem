@@ -1,91 +1,204 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "こんばんの　くだものを　えらぶ (Choosing fruits for tonight)"
+        "topic": {
+            "ja": "こんばんの　くだものを　えらぶ",
+            "tr": "Bu Akşamki Meyveleri Seçmek",
+            "en": "Choosing Fruits for Tonight",
+            "de": "Früchte für heute Abend auswählen",
+            "fr": "Choisir les fruits pour ce soir",
+            "es": "Eligiendo las frutas para esta noche",
+            "ko": "오늘 밤 과일 고르기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 2,
-    "transcription": {
-        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "こんばんの　あまいいものを　つくりましょう。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "わかりました。この　みどりの　ぶどうも　いれますか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "ぶどうは　あしたの　あさ　たべましょう。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "わかりました。"
-            }
-        ],
-        "question": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？",
+            "dialogue": [
+                { "speaker": "女の人", "text": "こんばんの　あまいものを　つくりましょう。" },
+                { "speaker": "女の人", "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。" },
+                { "speaker": "男の人", "text": "わかりました。この　みどりの　ぶどうも　いれますか。" },
+                { "speaker": "女の人", "text": "ぶどうは　あしたの　あさ　たべましょう。" },
+                { "speaker": "男の人", "text": "わかりました。" }
+            ],
+            "question": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkek bu akşam için hangi meyveleri seçecek?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Bu akşam için tatlı bir şeyler yapalım." },
+                { "speaker": "Kadın", "text": "Şu kırmızı ve küçük elmalardan iki tane, sonra da sarı ve büyük muzdan bir tane kullanın lütfen." },
+                { "speaker": "Erkek", "text": "Anladım. Bu yeşil üzümleri de koyacak mıyız?" },
+                { "speaker": "Kadın", "text": "Üzümleri yarın sabah yiyelim." },
+                { "speaker": "Erkek", "text": "Tamam." }
+            ],
+            "question": "Erkek bu akşam için hangi meyveleri seçecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. Which fruits will the man choose for tonight?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Let's make something sweet for tonight." },
+                { "speaker": "Woman", "text": "Please use two of these small red apples. And then, one large yellow banana." },
+                { "speaker": "Man", "text": "Understood. Should I also include these green grapes?" },
+                { "speaker": "Woman", "text": "Let's eat the grapes tomorrow morning." },
+                { "speaker": "Man", "text": "Okay." }
+            ],
+            "question": "Which fruits will the man choose for tonight?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Welche Früchte wird der Mann für heute Abend auswählen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Lass uns für heute Abend etwas Süßes machen." },
+                { "speaker": "Frau", "text": "Bitte nimm zwei von diesen kleinen roten Äpfeln. Und dann noch eine große gelbe Banane." },
+                { "speaker": "Mann", "text": "Verstanden. Soll ich auch diese grünen Weintrauben dazutun?" },
+                { "speaker": "Frau", "text": "Die Weintrauben essen wir morgen früh." },
+                { "speaker": "Mann", "text": "Alles klar." }
+            ],
+            "question": "Welche Früchte wird der Mann für heute Abend auswählen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Quels fruits l'homme va-t-il choisir pour ce soir ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Faisons quelque chose de sucré pour ce soir." },
+                { "speaker": "Femme", "text": "Veuillez utiliser deux de ces petites pommes rouges. Et ensuite, une grande banane jaune." },
+                { "speaker": "Homme", "text": "Compris. Dois-je aussi inclure ces raisins verts ?" },
+                { "speaker": "Femme", "text": "Mangeons les raisins demain matin." },
+                { "speaker": "Homme", "text": "D'accord." }
+            ],
+            "question": "Quels fruits l'homme va-t-il choisir pour ce soir ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué frutas elegirá el hombre para esta noche?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Hagamos algo dulce para esta noche." },
+                { "speaker": "Mujer", "text": "Por favor, usa dos de estas manzanas rojas pequeñas. Y luego, un plátano amarillo grande." },
+                { "speaker": "Hombre", "text": "Entendido. ¿Incluyo también estas uvas verdes?" },
+                { "speaker": "Mujer", "text": "Comamos las uvas mañana por la mañana." },
+                { "speaker": "Hombre", "text": "De acuerdo." }
+            ],
+            "question": "¿Qué frutas elegirá el hombre para esta noche?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자는 오늘 밤 어떤 과일을 고릅니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "오늘 밤에 먹을 달콤한 것을 만들어요." },
+                { "speaker": "여자", "text": "이 빨갛고 작은 사과 두 개, 그리고 노랗고 큰 바나나 한 개를 사용해 주세요." },
+                { "speaker": "남자", "text": "알겠습니다. 이 초록색 포도도 넣을까요?" },
+                { "speaker": "여자", "text": "포도는 내일 아침에 먹어요." },
+                { "speaker": "남자", "text": "알겠습니다." }
+            ],
+            "question": "남자는 오늘 밤 어떤 과일을 고릅니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "くだもの",
+                "word": "果物",
                 "reading": "くだもの",
-                "tr": "meyve",
-                "en": "fruit"
+                "meanings": {
+                    "tr": "meyve",
+                    "en": "fruit",
+                    "de": "Obst / Frucht",
+                    "fr": "fruit",
+                    "es": "fruta",
+                    "ko": "과일"
+                }
             },
             {
-                "word": "りんご",
+                "word": "林檎",
                 "reading": "りんご",
-                "tr": "elma",
-                "en": "apple"
+                "meanings": {
+                    "tr": "elma",
+                    "en": "apple",
+                    "de": "Apfel",
+                    "fr": "pomme",
+                    "es": "manzana",
+                    "ko": "사과"
+                }
             },
             {
-                "word": "ばなな",
+                "word": "バナナ",
                 "reading": "ばなな",
-                "tr": "muz",
-                "en": "banana"
+                "meanings": {
+                    "tr": "muz",
+                    "en": "banana",
+                    "de": "Banane",
+                    "fr": "banane",
+                    "es": "plátano",
+                    "ko": "바나나"
+                }
             },
             {
-                "word": "ぶどう",
+                "word": "葡萄",
                 "reading": "ぶどう",
-                "tr": "üzüm",
-                "en": "grapes"
+                "meanings": {
+                    "tr": "üzüm",
+                    "en": "grapes",
+                    "de": "Weintrauben",
+                    "fr": "raisin",
+                    "es": "uva",
+                    "ko": "포도"
+                }
             },
             {
-                "word": "あかくて",
+                "word": "赤くて",
                 "reading": "あかくて",
-                "tr": "kırmızı (ve)",
-                "en": "red (and)"
+                "meanings": {
+                    "tr": "kırmızı (ve)",
+                    "en": "red (and)",
+                    "de": "rot (und)",
+                    "fr": "rouge (et)",
+                    "es": "rojo (y)",
+                    "ko": "빨갛고"
+                }
             },
             {
-                "word": "きいろくて",
+                "word": "黄色くて",
                 "reading": "きいろくて",
-                "tr": "sarı (ve)",
-                "en": "yellow (and)"
+                "meanings": {
+                    "tr": "sarı (ve)",
+                    "en": "yellow (and)",
+                    "de": "gelb (und)",
+                    "fr": "jaune (et)",
+                    "es": "amarillo (y)",
+                    "ko": "노랗고"
+                }
             }
         ],
         "grammar": [
             {
-                "point": "～を　ふたつ / ひとつ",
-                "tr": "Sayma ekleri (iki tane / bir tane)",
-                "en": "Counters (two items / one item)"
+                "point": "～を ふたつ / ひとつ",
+                "meanings": {
+                    "tr": "Sayma ekleri (iki tane / bir tane)",
+                    "en": "Counters (two items / one item)",
+                    "de": "Zählform (zwei Stück / eins)",
+                    "fr": "Compteurs (deux / un)",
+                    "es": "Contadores (dos / uno)",
+                    "ko": "수량사 (두 개 / 한 개)"
+                }
             },
             {
                 "point": "～ましょう",
-                "tr": "Hadi ... yapalım (istek/teklif)",
-                "en": "Let's ... (suggestion)"
+                "meanings": {
+                    "tr": "Hadi ... yapalım",
+                    "en": "Let's ...",
+                    "de": "Lass uns ...",
+                    "fr": "Faisons ...",
+                    "es": "Vamos a ...",
+                    "ko": "~합시다 / ~하자"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın bu akşam için 2 küçük elma ve 1 büyük muz kullanılmasını söyler. Üzümün yarın sabah yeneceğini belirttiği için üzüm bu akşamki seçime dahil değildir. (3) numaralı panel 2 elma ve 1 muz ile doğru cevaptır. Diğer paneller miktar hataları veya yarınki üzümü içerdikleri için yanlıştır.",
-        "en": "The woman instructs to use 2 small apples and 1 large banana for tonight. Since she specifies that the grapes are for tomorrow morning, they are not included in tonight's selection. Panel (3) is the correct answer with 2 apples and 1 banana. Other panels are incorrect due to quantity errors or inclusion of tomorrow's grapes."
+        "tr": "Kadın 2 küçük elma ve 1 büyük muz ister. Üzümlerin yarın sabah yeneceğini söyler.",
+        "en": "The woman wants 2 small apples and 1 large banana. She says the grapes will be eaten tomorrow morning.",
+        "de": "Die Frau möchte 2 kleine Äpfel und 1 große Banane. Sie sagt, die Trauben werden morgen früh gegessen.",
+        "fr": "La femme veut 2 petites pommes et 1 grande banane. Elle dit que les raisins seront mangés demain matin.",
+        "es": "La mujer quiere 2 manzanas pequeñas y 1 plátano grande. Dice que las uvas se comerán mañana por la mañana.",
+        "ko": "여자는 작은 사과 2개와 큰 바나나 1개를 요청합니다. 포도는 내일 아침에 먹을 것이라고 말합니다."
     }
 }

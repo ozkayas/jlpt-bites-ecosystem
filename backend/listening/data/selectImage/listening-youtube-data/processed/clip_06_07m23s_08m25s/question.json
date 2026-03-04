@@ -1,91 +1,204 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ともだちの　うちに　いく (Going to a friend's house)"
+        "topic": {
+            "ja": "ともだちの　うちに　いく",
+            "tr": "Arkadaşının Evine Gitmek",
+            "en": "Going to a Friend's House",
+            "de": "Zu einem Freund nach Hause gehen",
+            "fr": "Aller chez un ami",
+            "es": "Yendo a casa de un amigo",
+            "ko": "친구 집에 가기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 2,
-    "transcription": {
-        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　いつ　おんなのひとの　うちに　いきますか？",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "あしたの　ろくじに　そちらに　いっても　いいですか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "すみません。あしたの　すいようびは　ちょっと　いそがしいです。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "もくようびか　きんようびは　どうですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "うーん。もくようびは　だめですが、あさっての　きんようびは　だいじょうぶです。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "はい、わかりました。あさっての　ろくじですね。おまちしています。"
-            }
-        ],
-        "question": "おとこのひとは　いつ　おんなのひとの　うちに　いきますか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　いつ　おんなのひとの　うちに　いきますか？",
+            "dialogue": [
+                { "speaker": "男の人", "text": "あしたの　ろくじに　そちらに　いっても　いいですか。" },
+                { "speaker": "女の人", "text": "すみません. あしたの　すいようびは　ちょっと　いそがしいです。" },
+                { "speaker": "女の人", "text": "もくようびか　きんようびは　どうですか。" },
+                { "speaker": "男の人", "text": "うーん. もくようびは　だめですが、あさっての　きんようびは　だいじょうぶです。" },
+                { "speaker": "女の人", "text": "はい、わかりました. あさっての　ろくじですね. おまちしています。" }
+            ],
+            "question": "おとこのひとは　いつ　おんなのひとの　うちに　いきますか？"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkek, kadının evine ne zaman gidecek?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Yarın saat altıda oraya gelebilir miyim?" },
+                { "speaker": "Kadın", "text": "Üzgünüm. Yarın, Çarşamba günü biraz meşgulüm." },
+                { "speaker": "Kadın", "text": "Perşembe veya Cuma nasıl olur?" },
+                { "speaker": "Erkek", "text": "Mmm. Perşembe olmaz ama yarından sonraki gün, yani Cuma günü uygundur." },
+                { "speaker": "Kadın", "text": "Tamam, anladım. Yarından sonraki gün saat altıda değil mi? Bekliyorum." }
+            ],
+            "question": "Erkek, kadının evine ne zaman gidecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. When will the man go to the woman's house?",
+            "dialogue": [
+                { "speaker": "Man", "text": "May I visit you tomorrow at six o'clock?" },
+                { "speaker": "Woman", "text": "I'm sorry. I'm a bit busy tomorrow, Wednesday." },
+                { "speaker": "Woman", "text": "How about Thursday or Friday?" },
+                { "speaker": "Man", "text": "Hmm. Thursday is no good, but the day after tomorrow, Friday, is fine." },
+                { "speaker": "Woman", "text": "Okay, I see. The day after tomorrow at six, right? I'll be waiting." }
+            ],
+            "question": "When will the man go to the woman's house?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Wann wird der Mann zum Haus der Frau gehen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Darf ich Sie morgen um sechs Uhr besuchen?" },
+                { "speaker": "Frau", "text": "Entschuldigung. Morgen, am Mittwoch, bin ich etwas beschäftigt." },
+                { "speaker": "Frau", "text": "Wie wäre es mit Donnerstag oder Freitag?" },
+                { "speaker": "Mann", "text": "Hm. Donnerstag geht nicht, aber übermorgen, am Freitag, passt es." },
+                { "speaker": "Frau", "text": "Alles klar. Übermorgen um sechs Uhr, richtig? Ich erwarte Sie." }
+            ],
+            "question": "Wann wird der Mann zum Haus der Frau gehen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Quand l'homme ira-t-il chez la femme ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Puis-je venir chez vous demain à six heures ?" },
+                { "speaker": "Femme", "text": "Je suis désolée. Demain mercredi, je suis un peu occupée." },
+                { "speaker": "Femme", "text": "Que diriez-vous de jeudi ou vendredi ?" },
+                { "speaker": "Homme", "text": "Hmm. Jeudi, ça ne va pas, mais après-demain vendredi, c'est bon." },
+                { "speaker": "Femme", "text": "D'accord, j'ai compris. Après-demain à six heures, c'est ça ? Je vous attendrai." }
+            ],
+            "question": "Quand l'homme ira-t-il chez la femme ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Cuándo irá el hombre a casa de la mujer?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "¿Puedo ir a visitarte mañana a las seis?" },
+                { "speaker": "Mujer", "text": "Lo siento. Mañana miércoles estoy un poco ocupada." },
+                { "speaker": "Mujer", "text": "¿Qué tal el jueves o el viernes?" },
+                { "speaker": "Hombre", "text": "Mmm. El jueves no me va bien, pero pasado mañana viernes está bien." },
+                { "speaker": "Mujer", "text": "Está bien, entiendo. Pasado mañana a las seis, ¿verdad? Te espero." }
+            ],
+            "question": "¿Cuándo irá el hombre a casa de la mujer?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자는 언제 여자의 집에 갑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "내일 6시에 그쪽으로 가도 될까요?" },
+                { "speaker": "여자", "text": "죄송합니다. 내일 수요일은 좀 바빠서요." },
+                { "speaker": "여자", "text": "목요일이나 금요일은 어떠신가요?" },
+                { "speaker": "남자", "text": "음. 목요일은 안 되지만, 내일모레 금요일은 괜찮습니다." },
+                { "speaker": "여자", "text": "네, 알겠습니다. 내일모레 6시네요. 기다리고 있을게요." }
+            ],
+            "question": "남자는 언제 여자의 집에 갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "あした",
+                "word": "明日",
                 "reading": "あした",
-                "tr": "yarın",
-                "en": "tomorrow"
+                "meanings": {
+                    "tr": "yarın",
+                    "en": "tomorrow",
+                    "de": "morgen",
+                    "fr": "demain",
+                    "es": "mañana",
+                    "ko": "내일"
+                }
             },
             {
-                "word": "あさって",
+                "word": "明後日",
                 "reading": "あさって",
-                "tr": "yarından sonraki gün",
-                "en": "the day after tomorrow"
+                "meanings": {
+                    "tr": "yarından sonraki gün",
+                    "en": "the day after tomorrow",
+                    "de": "übermorgen",
+                    "fr": "après-demain",
+                    "es": "pasado mañana",
+                    "ko": "내일모레"
+                }
             },
             {
-                "word": "すいようび",
+                "word": "水曜日",
                 "reading": "すいようび",
-                "tr": "Çarşamba",
-                "en": "Wednesday"
+                "meanings": {
+                    "tr": "Çarşamba",
+                    "en": "Wednesday",
+                    "de": "Mittwoch",
+                    "fr": "mercredi",
+                    "es": "miércoles",
+                    "ko": "수요일"
+                }
             },
             {
-                "word": "もくようび",
+                "word": "木曜日",
                 "reading": "もくようび",
-                "tr": "Perşembe",
-                "en": "Thursday"
+                "meanings": {
+                    "tr": "Perşembe",
+                    "en": "Thursday",
+                    "de": "Donnerstag",
+                    "fr": "jeudi",
+                    "es": "jueves",
+                    "ko": "목요일"
+                }
             },
             {
-                "word": "きんようび",
+                "word": "金曜日",
                 "reading": "きんようび",
-                "tr": "Cuma",
-                "en": "Friday"
+                "meanings": {
+                    "tr": "Cuma",
+                    "en": "Friday",
+                    "de": "Freitag",
+                    "fr": "vendredi",
+                    "es": "viernes",
+                    "ko": "금요일"
+                }
             },
             {
-                "word": "いそがしい",
+                "word": "忙しい",
                 "reading": "いそがしい",
-                "tr": "meşgul",
-                "en": "busy"
+                "meanings": {
+                    "tr": "meşgul",
+                    "en": "busy",
+                    "de": "beschäftigt",
+                    "fr": "occupé",
+                    "es": "ocupado",
+                    "ko": "바쁘다"
+                }
             }
         ],
         "grammar": [
             {
-                "point": "～ても　いいですか",
-                "tr": "... yapabilir miyim? (izin isteme)",
-                "en": "May I ...? (asking permission)"
+                "point": "～ても いいですか",
+                "meanings": {
+                    "tr": "... yapabilir miyim? (izin)",
+                    "en": "May I ...? (asking permission)",
+                    "de": "Darf ich ...?",
+                    "fr": "Puis-je ...? / Est-ce que je peux ...?",
+                    "es": "¿Puedo ...? / ¿Se puede ...?",
+                    "ko": "~해도 됩니까?"
+                }
             },
             {
-                "point": "～は　どうですか",
-                "tr": "... ne dersiniz? / ... nasıl?",
-                "en": "How about ...?"
+                "point": "～は どうですか",
+                "meanings": {
+                    "tr": "... ne dersiniz? / ... nasıl?",
+                    "en": "How about ...?",
+                    "de": "Wie wäre es mit ...?",
+                    "fr": "Que diriez-vous de ...?",
+                    "es": "¿Qué tal ...? / ¿Qué te parece ...?",
+                    "ko": "~은/는 어떠신가요?"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Adam arkadaşına yarın (Çarşamba) gitmek istiyor ancak kadın meşgul olduğunu söyleyip Perşembe veya Cuma'yı öneriyor. Adam Perşembe'nin uygun olmadığını, yarından sonraki günün (Cuma - 3) uygun olduğunu söyler. Çarşamba (1), Perşembe (2) ve Cumartesi (4) yanıltıcı seçeneklerdir.",
-        "en": "The man wants to visit his friend tomorrow (Wednesday), but the woman says she is busy and suggests Thursday or Friday. The man says Thursday is not good, but the day after tomorrow (Friday - 3) is fine. Wednesday (1), Thursday (2), and Saturday (4) are distractors."
+        "tr": "Adam Çarşamba gitmek ister ama kadın müsait değildir. Cuma günü (3) için anlaşırlar.",
+        "en": "The man wants to go on Wednesday, but the woman is not free. They agree on Friday (3).",
+        "de": "Der Mann möchte am Mittwoch kommen, aber die Frau hat keine Zeit. Sie einigen sich auf Freitag (3).",
+        "fr": "L'homme veut venir mercredi, mais la femme n'est pas libre. Ils se mettent d'accord pour vendredi (3).",
+        "es": "El hombre quiere ir el miércoles, pero la mujer no está libre. Quedan para el viernes (3).",
+        "ko": "남자는 수요일에 가고 싶어 하지만 여자가 시간이 안 됩니다. 결국 금요일(3번)로 결정합니다."
     }
 }

@@ -1,98 +1,220 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ピクニックのじゅんび (Picnic preparation)"
+        "topic": {
+            "ja": "ピクニックのじゅんび",
+            "tr": "Piknik Hazırlığı",
+            "en": "Picnic Preparation",
+            "de": "Picknick-Vorbereitung",
+            "fr": "Préparation du pique-nique",
+            "es": "Preparación para el picnic",
+            "ko": "소풍 준비"
+        }
     },
     "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/004/audio.mp3",
     "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/004/image.png",
     "correct_option": 2,
-    "transcription": {
-        "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは なにを もっていきますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "らいしゅうは ピクニックですね。わたしは サンドイッチを もっていきます。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "じゃあ、わたしは のみものを もっていきます。なにが いいですか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "そうですね。コーヒーと みずを にほんずつ おねがいします。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "わかりました。にほんずつですね。"
-            }
-        ],
-        "question": "おとこのひとは なにを もっていきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは なにを もっていきますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "らいしゅうは ピクニックですね。わたしは サンドイッチを もっていきます。" },
+                { "speaker": "男の人", "text": "じゃあ、わたしは のみものを もっていきます。なにが いいですか。" },
+                { "speaker": "女の人", "text": "そうですね。コーヒーと みずを にほんずつ おねがいします。" },
+                { "speaker": "男の人", "text": "わかりました。にほんずつですね。" }
+            ],
+            "question": "おとこのひとは なにを もっていきますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkek yanında ne götürecek?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Haftaya piknik var değil mi? Ben sandviç getireceğim." },
+                { "speaker": "Erkek", "text": "O zaman ben içecek getireyim. Ne istersiniz?" },
+                { "speaker": "Kadın", "text": "Bakalım... İkişer tane kahve ve su rica ediyorum." },
+                { "speaker": "Erkek", "text": "Anladım. İkişer tane, değil mi?" }
+            ],
+            "question": "Erkek yanında ne götürecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the man take with him?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Next week is the picnic, right? I'll bring sandwiches." },
+                { "speaker": "Man", "text": "Then I'll bring drinks. What would you like?" },
+                { "speaker": "Woman", "text": "Let's see... Two coffees and two waters, please." },
+                { "speaker": "Man", "text": "Understood. Two of each, right?" }
+            ],
+            "question": "What will the man take with him?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Was wird der Mann mitbringen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Nächste Woche ist das Picknick, oder? Ich bringe Sandwiches mit." },
+                { "speaker": "Mann", "text": "Dann bringe ich Getränke mit. Was hätten Sie gerne?" },
+                { "speaker": "Frau", "text": "Mal sehen... Zwei Kaffees und zwei Wasser, bitte." },
+                { "speaker": "Mann", "text": "Verstanden. Jeweils zwei, richtig?" }
+            ],
+            "question": "Was wird der Mann mitbringen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Qu'est-ce que l'homme va apporter ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "La semaine prochaine, c'est le pique-nique, n'est-ce pas ? J'apporterai des sandwichs." },
+                { "speaker": "Homme", "text": "Alors j'apporterai des boissons. Qu'est-ce que vous aimeriez ?" },
+                { "speaker": "Femme", "text": "Voyons... Deux cafés et deux eaux, s'il vous plaît." },
+                { "speaker": "Homme", "text": "Compris. Deux de chaque, c'est ça ?" }
+            ],
+            "question": "Qu'est-ce que l'homme va apporter ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué llevará el hombre?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "La semana que viene es el picnic, ¿verdad? Yo llevaré sándwiches." },
+                { "speaker": "Hombre", "text": "Entonces yo llevaré bebidas. ¿Qué les gustaría?" },
+                { "speaker": "Mujer", "text": "A ver... Dos cafés y dos aguas, por favor." },
+                { "speaker": "Hombre", "text": "Entendido. Dos de cada uno, ¿verdad?" }
+            ],
+            "question": "¿Qué llevará el hombre?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자는 무엇을 가져갑니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "다음 주는 소풍이네요. 저는 샌드위치를 가져갈게요." },
+                { "speaker": "남자", "text": "그럼 제가 음료수를 가져갈게요. 무엇이 좋을까요?" },
+                { "speaker": "여자", "text": "음, 커피랑 물을 두 개씩 부탁해요." },
+                { "speaker": "남자", "text": "알겠습니다. 두 개씩이군요." }
+            ],
+            "question": "남자는 무엇을 가져갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
                 "word": "ピクニック",
                 "reading": "ぴくにっく",
-                "tr": "piknik",
-                "en": "picnic"
+                "meanings": {
+                    "tr": "piknik",
+                    "en": "picnic",
+                    "de": "Picknick",
+                    "fr": "pique-nique",
+                    "es": "picnic",
+                    "ko": "소풍 / 피크닉"
+                }
             },
             {
                 "word": "サンドイッチ",
                 "reading": "さんどいっち",
-                "tr": "sandviç",
-                "en": "sandwich"
+                "meanings": {
+                    "tr": "sandviç",
+                    "en": "sandwich",
+                    "de": "Sandwich",
+                    "fr": "sandwich",
+                    "es": "sándwich",
+                    "ko": "샌드위치"
+                }
             },
             {
-                "word": "のみもの",
+                "word": "飲み物",
                 "reading": "のみもの",
-                "tr": "içecek",
-                "en": "drink"
+                "meanings": {
+                    "tr": "içecek",
+                    "en": "drink",
+                    "de": "Getränk",
+                    "fr": "boisson",
+                    "es": "bebida",
+                    "ko": "음료수 / 마실 것"
+                }
             },
             {
-                "word": "もっていく",
+                "word": "持って行く",
                 "reading": "もっていく",
-                "tr": "götürmek",
-                "en": "to take / to bring"
+                "meanings": {
+                    "tr": "götürmek",
+                    "en": "to take / to bring",
+                    "de": "mitnehmen",
+                    "fr": "apporter / emmener",
+                    "es": "llevar",
+                    "ko": "가져가다"
+                }
             },
             {
                 "word": "コーヒー",
                 "reading": "こーひー",
-                "tr": "kahve",
-                "en": "coffee"
+                "meanings": {
+                    "tr": "kahve",
+                    "en": "coffee",
+                    "de": "Kaffee",
+                    "fr": "café",
+                    "es": "café",
+                    "ko": "커피"
+                }
             },
             {
-                "word": "みず",
+                "word": "水",
                 "reading": "みず",
-                "tr": "su",
-                "en": "water"
+                "meanings": {
+                    "tr": "su",
+                    "en": "water",
+                    "de": "Wasser",
+                    "fr": "eau",
+                    "es": "agua",
+                    "ko": "물"
+                }
             },
             {
-                "word": "にほんずつ",
+                "word": "二本ずつ",
                 "reading": "にほんずつ",
-                "tr": "ikişer tane (silindirik nesneler için)",
-                "en": "two each (counter for cylindrical objects)"
+                "meanings": {
+                    "tr": "ikişer tane (silindirik)",
+                    "en": "two each (cylindrical)",
+                    "de": "jeweils zwei (zylindrisch)",
+                    "fr": "deux de chaque (cylindrique)",
+                    "es": "dos de cada (cilíndrico)",
+                    "ko": "두 개씩 (길고 가는 물건)"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～ね",
-                "tr": "onaylama / teyit eki",
-                "en": "confirmation particle"
+                "meanings": {
+                    "tr": "onaylama / teyit eki",
+                    "en": "confirmation particle",
+                    "de": "Bestätigungspartikel",
+                    "fr": "particule de confirmation",
+                    "es": "partícula de confirmación",
+                    "ko": "~군요 / ~네요 (확인)"
+                }
             },
             {
                 "point": "～ずつ",
-                "tr": "her birinden / -şar, -şer",
-                "en": "each / at a time"
+                "meanings": {
+                    "tr": "her birinden / -şar, -şer",
+                    "en": "each / at a time",
+                    "de": "jeweils",
+                    "fr": "chacun / à la fois",
+                    "es": "cada uno / por vez",
+                    "ko": "~씩"
+                }
             },
             {
                 "point": "～おねがいします",
-                "tr": "lütfen / rica ederim",
-                "en": "please (requesting something)"
+                "meanings": {
+                    "tr": "lütfen / rica ederim",
+                    "en": "please (requesting)",
+                    "de": "bitte (bei einer Bitte)",
+                    "fr": "s'il vous plaît",
+                    "es": "por favor",
+                    "ko": "~부탁합니다"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın sandviç getireceğini söylediği için adamın görevi içecek getirmektir. Kadın, kahve ve su ikişer tane (にほんずつ) istediği için adam iki tür içecekten ikişer tane getirecektir. Doğru cevap (3): iki kahve kutusu ve iki su şişesi. (1) yanlış çünkü sandviç içeriyor; sandviç kadının getireceği şeydir. (2) yanlış çünkü üç kahve ve bir su var, doğru oran değil. (4) yanlış çünkü bir kahve ve üç su var, doğru oran değil.",
-        "en": "Since the woman says she will bring sandwiches, the man's job is to bring drinks. The woman requests two coffees and two waters (にほんずつ), so the man will bring two of each type. The correct answer is (3): two coffee cans and two water bottles. (1) is wrong because it includes a sandwich, which the woman is bringing. (2) is wrong because it has three coffees and one water, not the correct ratio. (4) is wrong because it has one coffee and three waters, not the correct ratio."
+        "tr": "Kadın sandviç getireceğini söyler, bu yüzden adam içecek getirecektir. Kadın, kahve ve su ikişer tane (にほんずつ) istediği için doğru cevap iki kahve ve iki suyun olduğu görseldir.",
+        "en": "The woman says she will bring sandwiches, so the man will bring drinks. Since she asks for two coffees and two waters (にほんずつ), the correct answer is the image with two of each.",
+        "de": "Die Frau sagt, sie bringe Sandwiches mit, also bringt der Mann Getränke mit. Da sie nach zwei Kaffees und zwei Wasser (にほんずつ) fragt, ist die richtige Antwort das Bild mit jeweils zwei davon.",
+        "fr": "La femme dit qu'elle apportera des sandwichs, donc l'homme apportera des boissons. Comme elle demande deux cafés et deux eaux (にほんずつ), la réponse correcte est l'image avec deux de chaque.",
+        "es": "La mujer dice que traerá sándwiches, por lo que el hombre traerá bebidas. Como ella pide dos cafés y dos aguas (にほんずつ), la respuesta correcta es la imagen con dos de cada uno.",
+        "ko": "여자가 샌드위치를 가져온다고 했으므로 남자는 음료수를 가져가게 됩니다. 여자가 커피와 물을 두 개씩(にほんずつ) 요청했으므로, 정답은 각각 두 개씩 있는 그림입니다."
     }
 }

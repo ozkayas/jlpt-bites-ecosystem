@@ -1,79 +1,169 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "くらすの　しゃしんを　みて　はなす (Talking while looking at a class photo)"
+        "topic": {
+            "ja": "くらすの　しゃしんを　みて　はなす",
+            "tr": "Sınıf Fotoğrafı Hakkında Konuşmak",
+            "en": "Talking about a Class Photo",
+            "de": "Über ein Klassenfoto sprechen",
+            "fr": "Parler d'une photo de classe",
+            "es": "Hablando sobre una foto de clase",
+            "ko": "학급 사진을 보며 이야기하기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 2,
-    "transcription": {
-        "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。たなかさんは　どの　ひとですか？",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "これは　くらすの　しゃしんですか？"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？"
-            },
-            {
-                "speaker": "男の人",
-                "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです。くろい　しゃつを　きて　います。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "ああ、この　ひとが　たなかさんですか。"
-            }
-        ],
-        "question": "たなかさんは　どの　ひとですか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。 たなかさんは　どの　ひとですか？",
+            "dialogue": [
+                { "speaker": "女の人", "text": "これは　くらすの　しゃしんですか？" },
+                { "speaker": "男の人", "text": "はい。" },
+                { "speaker": "女の人", "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？" },
+                { "speaker": "男の人", "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです. くろい　しゃつを　きています。" },
+                { "speaker": "女の人", "text": "ああ、この　ひとが　たなかさんですか。" }
+            ],
+            "question": "たなかさんは　どの　ひとですか？"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek fotoğrafa bakarak konuşuyor. Tanaka Bey hangisidir?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Bu sınıf fotoğrafı mı?" },
+                { "speaker": "Erkek", "text": "Evet." },
+                { "speaker": "Kadın", "text": "Şu şapka takan kişi Tanaka Bey mi?" },
+                { "speaker": "Erkek", "text": "Hayır, o Honda Bey. Tanaka Bey buradaki. Siyah tişört giyiyor." },
+                { "speaker": "Kadın", "text": "Aa, Tanaka Bey bu kişi mi?" }
+            ],
+            "question": "Tanaka Bey hangisidir?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking while looking at a photo. Which one is Mr. Tanaka?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Is this a class photo?" },
+                { "speaker": "Man", "text": "Yes." },
+                { "speaker": "Woman", "text": "Is the person wearing a hat Mr. Tanaka?" },
+                { "speaker": "Man", "text": "No, that's Mr. Honda. Mr. Tanaka is this one. He is wearing a black shirt." },
+                { "speaker": "Woman", "text": "Oh, so this person is Mr. Tanaka?" }
+            ],
+            "question": "Which one is Mr. Tanaka?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen miteinander, während sie ein Foto ansehen. Wer ist Herr Tanaka?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Ist das ein Klassenfoto?" },
+                { "speaker": "Mann", "text": "Ja." },
+                { "speaker": "Frau", "text": "Ist die Person mit dem Hut Herr Tanaka?" },
+                { "speaker": "Mann", "text": "Nein, das ist Herr Honda. Herr Tanaka ist dieser hier. Er trägt ein schwarzes Hemd." },
+                { "speaker": "Frau", "text": "Ach, diese Person ist Herr Tanaka?" }
+            ],
+            "question": "Wer ist Herr Tanaka?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent en regardant une photo. Qui est M. Tanaka ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "C'est une photo de classe ?" },
+                { "speaker": "Homme", "text": "Oui." },
+                { "speaker": "Femme", "text": "Est-ce que la personne qui porte un chapeau est M. Tanaka ?" },
+                { "speaker": "Homme", "text": "Non, c'est M. Honda. M. Tanaka est celui-ci. Il porte une chemise noire." },
+                { "speaker": "Femme", "text": "Ah, c'est lui M. Tanaka ?" }
+            ],
+            "question": "Qui est M. Tanaka ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando mientras miran una foto. ¿Quién es el Sr. Tanaka?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "¿Es esta una foto de clase?" },
+                { "speaker": "Hombre", "text": "Sí." },
+                { "speaker": "Mujer", "text": "¿La persona que lleva sombrero es el Sr. Tanaka?" },
+                { "speaker": "Hombre", "text": "No, ese es el Sr. Honda. El Sr. Tanaka es este. Lleva una camisa negra." },
+                { "speaker": "Mujer", "text": "Ah, ¿esta persona es el Sr. Tanaka?" }
+            ],
+            "question": "¿Quién es el Sr. Tanaka?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 사진을 보며 이야기하고 있습니다. 다나카 씨는 어느 분입니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "이건 학급 사진인가요?" },
+                { "speaker": "남자", "text": "네." },
+                { "speaker": "여자", "text": "이 모자를 쓰고 있는 사람이 다나카 씨인가요?" },
+                { "speaker": "남자", "text": "아니요, 그 사람은 혼다 씨예요. 다나카 씨는 여기 있어요. 검은 셔츠를 입고 있어요." },
+                { "speaker": "여자", "text": "아, 이 사람이 다나카 씨군요." }
+            ],
+            "question": "다나카 씨는 어느 분입니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "ぼうし",
+                "word": "帽子",
                 "reading": "ぼうし",
-                "tr": "şapka",
-                "en": "hat"
+                "meanings": {
+                    "tr": "şapka",
+                    "en": "hat",
+                    "de": "Hut",
+                    "fr": "chapeau",
+                    "es": "sombrero",
+                    "ko": "모자"
+                }
             },
             {
-                "word": "かぶる",
+                "word": "被る",
                 "reading": "かぶる",
-                "tr": "(şapka) takmak / giymek",
-                "en": "to wear (on head)"
+                "meanings": {
+                    "tr": "(şapka vb.) takmak",
+                    "en": "to wear (on head)",
+                    "de": "tragen (Kopf)",
+                    "fr": "porter (tête)",
+                    "es": "llevar puesto (cabeza)",
+                    "ko": "쓰다 (모자 등)"
+                }
             },
             {
-                "word": "くろい",
+                "word": "黒い",
                 "reading": "くろい",
-                "tr": "siyah",
-                "en": "black"
+                "meanings": {
+                    "tr": "siyah",
+                    "en": "black",
+                    "de": "schwarz",
+                    "fr": "noir",
+                    "es": "negro",
+                    "ko": "검다"
+                }
             },
             {
-                "word": "しゃつ",
-                "reading": "しゃつ",
-                "tr": "tişört / gömlek",
-                "en": "shirt"
+                "word": "着る",
+                "reading": "きる",
+                "meanings": {
+                    "tr": "(üst kıyafet) giymek",
+                    "en": "to wear (upper body)",
+                    "de": "tragen (Oberkörper)",
+                    "fr": "porter (corps)",
+                    "es": "llevar puesto (cuerpo)",
+                    "ko": "입다"
+                }
             }
         ],
         "grammar": [
             {
-                "point": "～を　きて　います",
-                "tr": "... giyiyor / giymiş durumda",
-                "en": "wearing (clothes)"
-            },
-            {
-                "point": "～を　かぶって　います",
-                "tr": "... takıyor (şapka vb.)",
-                "en": "wearing (hat)"
+                "point": "～を　～て　います",
+                "meanings": {
+                    "tr": "... giyiyor (durum)",
+                    "en": "is wearing ... (state)",
+                    "de": "trägt ...",
+                    "fr": "porte ...",
+                    "es": "lleva puesto ...",
+                    "ko": "~을/를 입고/쓰고 있습니다"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın şapka takan kişinin (2) Tanaka olup olmadığını sorar ancak o Honda'dır. Tanaka, siyah tişört giyen (3) kişidir. At kuyruklu kız (1) ve beyaz tişörtlü kız (4) diğer çeldiricilerdir.",
-        "en": "The woman asks if the person wearing a hat (2) is Tanaka, but that is Honda. Tanaka is the person wearing a black shirt (3). The girl with a ponytail (1) and the girl in a white shirt (4) are distractors."
+        "tr": "Kadın şapka takan kişinin Tanaka olup olmadığını sorar, erkek ise Tanaka'nın siyah tişört giyen kişi olduğunu söyler. Doğru cevap 3. seçenektir.",
+        "en": "The woman asks if the person wearing a hat is Tanaka, but the man clarifies that Tanaka is the one wearing a black shirt. The correct answer is option 3.",
+        "de": "Die Frau fragt, ob die Person mit dem Hut Tanaka ist, aber der Mann stellt klar, dass Tanaka derjenige ist, der ein schwarzes Hemd trägt. Die richtige Antwort ist Option 3.",
+        "fr": "La femme demande si la personne qui porte un chapeau est Tanaka, mais l'homme précise que Tanaka est celui qui porte une chemise noire. La réponse correcte est l'option 3.",
+        "es": "La mujer pregunta si la persona con sombrero es Tanaka, pero el hombre aclara que Tanaka es el que lleva una camisa negra. La respuesta correcta es la opción 3.",
+        "ko": "여자는 모자를 쓴 사람이 다나카 씨인지 묻지만, 남자는 검은 셔츠를 입은 사람이 다나카 씨라고 설명합니다. 정답은 3번입니다."
     }
 }

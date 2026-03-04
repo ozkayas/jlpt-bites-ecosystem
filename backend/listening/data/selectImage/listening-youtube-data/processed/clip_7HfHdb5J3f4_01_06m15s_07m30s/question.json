@@ -1,93 +1,185 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ハンカチを かいます (Buying a handkerchief)"
+        "topic": {
+            "ja": "ハンカチを かいます",
+            "tr": "Mendil Satın Almak",
+            "en": "Buying a Handkerchief",
+            "de": "Ein Taschentuch kaufen",
+            "fr": "Acheter un mouchoir",
+            "es": "Comprando un pañuelo",
+            "ko": "손수건 사기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "デパートで おんなのひとと みせのひとが はなしています。 おんなのひとは どの ハンカチを かいますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "すみません、どうぶつの ハンカチは ありますか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。 いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "うーん、ちいさい ねこが いいです。 これを ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "ありがとうございます。"
-            }
-        ],
-        "question": "おんなのひとは どの ハンカチを かいますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "デパートで おんなのひとと みせのひとが はなしています。 おんなのひとは どの ハンカチを かいますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "すみません、どうぶつの ハンカチは ありますか。" },
+                { "speaker": "男の人", "text": "はい. いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。" },
+                { "speaker": "女の人", "text": "うーん、ちいさい ねこが いいです. これを ください。" },
+                { "speaker": "男の人", "text": "ありがとうございます。" }
+            ],
+            "question": "おんなのひとは どの ハンカチを かいますか。"
+        },
+        "tr": {
+            "intro": "Büyük mağazada bir kadın ve bir tezgahtar konuşuyor. Kadın hangi mendili satın alacak?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Affedersiniz, hayvan desenli mendiliniz var mı?" },
+                { "speaker": "Erkek", "text": "Evet. Köpekli ve kedili mendillerimiz var. Köpekli olanda iki büyük köpek var. Kedili olanda ise dört küçük kedi var." },
+                { "speaker": "Kadın", "text": "Mmm, küçük kedili olanı istiyorum. Bunu verin lütfen." },
+                { "speaker": "Erkek", "text": "Teşekkür ederim." }
+            ],
+            "question": "Kadın hangi mendili satın alacak?"
+        },
+        "en": {
+            "intro": "A woman and a shop assistant are talking at a department store. Which handkerchief will the woman buy?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Excuse me, do you have any animal handkerchiefs?" },
+                { "speaker": "Man", "text": "Yes. We have dog handkerchiefs and cat handkerchiefs. The dog one has two large dogs. The cat one has four small cats." },
+                { "speaker": "Woman", "text": "Hmm, I'd like the small cats one. This one, please." },
+                { "speaker": "Man", "text": "Thank you very much." }
+            ],
+            "question": "Which handkerchief will the woman buy?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Verkäufer sprechen in einem Kaufhaus. Welches Taschentuch wird die Frau kaufen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Entschuldigung, haben Sie Taschentücher mit Tieren?" },
+                { "speaker": "Mann", "text": "Ja. Wir haben Taschentücher mit Hunden und mit Katzen. Auf dem mit Hunden sind zwei große Hunde. Auf dem mit Katzen sind vier kleine Katzen." },
+                { "speaker": "Frau", "text": "Hm, ich hätte gerne das mit den kleinen Katzen. Das hier bitte." },
+                { "speaker": "Mann", "text": "Vielen Dank." }
+            ],
+            "question": "Welches Taschentuch wird die Frau kaufen?"
+        },
+        "fr": {
+            "intro": "Une femme et un vendeur parlent dans un grand magasin. Quel mouchoir la femme va-t-elle acheter ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Excusez-moi, avez-vous des mouchoirs avec des animaux ?" },
+                { "speaker": "Homme", "text": "Oui. Nous avons des mouchoirs avec des chiens et avec des chats. Celui avec les chiens en a deux grands. Celui avec les chats en a quatre petits." },
+                { "speaker": "Femme", "text": "Hum, je voudrais celui avec les petits chats. Celui-ci s'il vous plaît." },
+                { "speaker": "Homme", "text": "Merci beaucoup." }
+            ],
+            "question": "Quel mouchoir la femme va-t-elle acheter ?"
+        },
+        "es": {
+            "intro": "Una mujer y un dependiente están hablando en unos grandes almacenes. ¿Qué pañuelo comprará la mujer?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Disculpe, ¿tiene pañuelos de animales?" },
+                { "speaker": "Hombre", "text": "Sí. Tenemos pañuelos de perros y de gatos. El de perros tiene dos grandes. El de gatos tiene cuatro pequeños." },
+                { "speaker": "Mujer", "text": "Mmm, quiero el de los gatos pequeños. Este, por favor." },
+                { "speaker": "Hombre", "text": "Muchas gracias." }
+            ],
+            "question": "¿Qué pañuelo comprará la mujer?"
+        },
+        "ko": {
+            "intro": "백화점에서 여자와 점원이 이야기하고 있습니다. 여자는 어느 손수건을 삽니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "실례합니다, 동물 무늬 손수건이 있나요?" },
+                { "speaker": "점원", "text": "네. 강아지 손수건과 고양이 손수건이 있어요. 강아지는 큰 것이 두 마리 있고, 고양이는 작은 것이 네 마리 있어요." },
+                { "speaker": "여자", "text": "음, 작은 고양이가 좋겠네요. 이걸로 주세요." },
+                { "speaker": "점원", "text": "감사합니다." }
+            ],
+            "question": "여자는 어느 손수건을 삽니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
                 "word": "ハンカチ",
-                "reading": "ハンカチ",
-                "tr": "mendil",
-                "en": "handkerchief"
+                "reading": "はんかち",
+                "meanings": {
+                    "tr": "mendil",
+                    "en": "handkerchief",
+                    "de": "Taschentuch",
+                    "fr": "mouchoir",
+                    "es": "pañuelo",
+                    "ko": "손수건"
+                }
             },
             {
                 "word": "動物",
                 "reading": "どうぶつ",
-                "tr": "hayvan",
-                "en": "animal"
+                "meanings": {
+                    "tr": "hayvan",
+                    "en": "animal",
+                    "de": "Tier",
+                    "fr": "animal",
+                    "es": "animal",
+                    "ko": "동물"
+                }
             },
             {
                 "word": "犬",
                 "reading": "いぬ",
-                "tr": "köpek",
-                "en": "dog"
+                "meanings": {
+                    "tr": "köpek",
+                    "en": "dog",
+                    "de": "Hund",
+                    "fr": "chien",
+                    "es": "perro",
+                    "ko": "개 / 강아지"
+                }
             },
             {
                 "word": "猫",
                 "reading": "ねこ",
-                "tr": "kedi",
-                "en": "cat"
+                "meanings": {
+                    "tr": "kedi",
+                    "en": "cat",
+                    "de": "Katze",
+                    "fr": "chat",
+                    "es": "gato",
+                    "ko": "고양이"
+                }
             },
             {
-                "word": "匹",
-                "reading": "ひき",
-                "tr": "küçük hayvanlar için sayıcı",
-                "en": "counter for small animals"
-            },
-            {
-                "word": "大きい",
-                "reading": "おおきい",
-                "tr": "büyük",
-                "en": "large"
-            },
-            {
-                "word": "小さい",
-                "reading": "ちいさい",
-                "tr": "küçük",
-                "en": "small"
+                "word": "四匹",
+                "reading": "よんひき",
+                "meanings": {
+                    "tr": "dört tane (küçük hayvan)",
+                    "en": "four (small animals)",
+                    "de": "vier Stück (kleine Tiere)",
+                    "fr": "quatre (petits animaux)",
+                    "es": "cuatro (animales pequeños)",
+                    "ko": "네 마리"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "〜のが いいです",
-                "tr": "... olanı iyidir / ... olanı istiyorum",
-                "en": "... is good / I prefer the ... one"
+                "meanings": {
+                    "tr": "... olanı iyidir / istiyorum",
+                    "en": "... is good / I'd like the ... one",
+                    "de": "... ist gut / ich hätte gerne das ...",
+                    "fr": "... est bien / je voudrais celui ...",
+                    "es": "... está bien / quiero el ...",
+                    "ko": "~하는 것이 좋습니다 / ~한 것이 좋아요"
+                }
             },
             {
                 "point": "〜を ください",
-                "tr": "lütfen ... verin",
-                "en": "please give me ..."
+                "meanings": {
+                    "tr": "lütfen ... verin",
+                    "en": "please give me ...",
+                    "de": "bitte geben Sie mir ...",
+                    "fr": "donnez-moi ... s'il vous plaît",
+                    "es": "por favor, déme ...",
+                    "ko": "~을/를 주세요"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın hayvanlı (どうぶつ) bir mendil ister. Tezgahtar iki seçenek sunar: İki tane büyük köpeği olan mendil (1) veya dört tane küçük kedisi olan mendil (2). Kadın küçük kedili olanı seçer. Çiçekli (3) ve meyveli (4) mendiller hayvanlı olmadığı için elenir.",
-        "en": "The woman wants an animal (どうぶつ) handkerchief. The clerk offers two options: one with two large dogs (1) and one with four small cats (2). The woman chooses the small cat one. The flower (3) and fruit (4) patterns are rejected as they are not animal patterns."
+        "tr": "Kadın dört küçük kedi desenli olan mendili seçer. Doğru cevap 2. seçenektir.",
+        "en": "The woman chooses the handkerchief with four small cats. The correct answer is option 2.",
+        "de": "Die Frau wählt das Taschentuch mit vier kleinen Katzen. Die richtige Antwort ist Option 2.",
+        "fr": "La femme choisit le mouchoir avec quatre petits chats. La réponse correcte est l'option 2.",
+        "es": "La mujer elige el pañuelo con cuatro gatos pequeños. La respuesta correcta es la opción 2.",
+        "ko": "여자는 작은 고양이 네 마리가 있는 손수건을 선택합니다. 정답은 2번입니다."
     }
 }

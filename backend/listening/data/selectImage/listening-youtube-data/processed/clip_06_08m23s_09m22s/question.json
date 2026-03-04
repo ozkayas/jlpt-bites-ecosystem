@@ -1,102 +1,204 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "がっこうでの　こうどう (Actions at school)"
+        "topic": {
+            "ja": "がっこうでの　こうどう",
+            "tr": "Okuldaki Görevler",
+            "en": "Actions at School",
+            "de": "Aktivitäten in der Schule",
+            "fr": "Actions à l'école",
+            "es": "Acciones en la escuela",
+            "ko": "학교에서의 행동"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなして　います。がくせいは　がっこうで　はじめに　なにを　しますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "せんせい、すみません。いま　おきました。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "そうですか。じゃあ、はやく　がっこうに　きて　ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わたしは　これから　としょかんに　いきますから、きょうしつで　まどを　あけて　ください。それから、つくえを　ふいて　ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい、わかりました。"
-            }
-        ],
-        "question": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "でんわで　おとこの　がくせいと　おんなの　せんせいが　はなしています。がくせいは　がっこうで　はじめに　なにを　しますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "せんせい、すみません。いま　おきました。" },
+                { "speaker": "女の人", "text": "そうですか。じゃあ、はやく　がっこうに　きてください。" },
+                { "speaker": "男の人", "text": "はい。" },
+                { "speaker": "女の人", "text": "わたしは　これから　としょかんに　いきますから、きょうしつで　まどを　あけてください。それから、つくえを　ふいてください。" },
+                { "speaker": "男の人", "text": "はい、わかりました。" }
+            ],
+            "question": "がくせいは　がっこうで　はじめに　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Telefonda bir erkek öğrenci ve bir kadın öğretmen konuşuyor. Öğrenci okulda ilk önce ne yapacak?",
+            "dialogue": [
+                { "speaker": "Öğrenci", "text": "Öğretmenim, özür dilerim. Şimdi uyandım." },
+                { "speaker": "Öğretmen", "text": "Öyle mi? O zaman hemen okula gelin." },
+                { "speaker": "Öğrenci", "text": "Tamam." },
+                { "speaker": "Öğretmen", "text": "Ben şimdi kütüphaneye gideceğim için, sınıfta pencereyi açın lütfen. Ondan sonra da masaları silin." },
+                { "speaker": "Öğrenci", "text": "Tamam, anladım." }
+            ],
+            "question": "Öğrenci okulda ilk önce ne yapacak?"
+        },
+        "en": {
+            "intro": "A male student and a female teacher are talking on the phone. What will the student do first at school?",
+            "dialogue": [
+                { "speaker": "Student", "text": "Teacher, I'm sorry. I just woke up." },
+                { "speaker": "Teacher", "text": "I see. Well, please come to school quickly." },
+                { "speaker": "Student", "text": "Yes." },
+                { "speaker": "Teacher", "text": "I'm going to the library now, so please open the window in the classroom. After that, please wipe the desks." },
+                { "speaker": "Student", "text": "Yes, I understand." }
+            ],
+            "question": "What will the student do first at school?"
+        },
+        "de": {
+            "intro": "Ein Schüler und eine Lehrerin sprechen am Telefon. Was wird der Schüler in der Schule zuerst tun?",
+            "dialogue": [
+                { "speaker": "Schüler", "text": "Frau Lehrerin, es tut mir leid. Ich bin gerade erst aufgewacht." },
+                { "speaker": "Lehrerin", "text": "Ach ja? Dann kommen Sie bitte schnell zur Schule." },
+                { "speaker": "Schüler", "text": "Ja." },
+                { "speaker": "Lehrerin", "text": "Ich gehe jetzt in die Bibliothek, also öffnen Sie bitte das Fenster im Klassenzimmer. Danach wischen Sie bitte die Tische ab." },
+                { "speaker": "Schüler", "text": "Ja, verstanden." }
+            ],
+            "question": "Was wird der Schüler in der Schule zuerst tun?"
+        },
+        "fr": {
+            "intro": "Un étudiant et une enseignante parlent au téléphone. Que va faire l'étudiant en premier à l'école ?",
+            "dialogue": [
+                { "speaker": "Étudiant", "text": "Madame, je suis désolé. Je viens de me réveiller." },
+                { "speaker": "Enseignante", "text": "Ah bon ? Alors venez vite à l'école s'il vous plaît." },
+                { "speaker": "Étudiant", "text": "Oui." },
+                { "speaker": "Enseignante", "text": "Comme je vais à la bibliothèque maintenant, veuillez ouvrir la fenêtre dans la salle de classe. Ensuite, essuyez les bureaux s'il vous plaît." },
+                { "speaker": "Étudiant", "text": "Oui, j'ai compris." }
+            ],
+            "question": "Que va faire l'étudiant en premier à l'école ?"
+        },
+        "es": {
+            "intro": "Un estudiante y una profesora están hablando por teléfono. ¿Qué hará el estudiante primero en la escuela?",
+            "dialogue": [
+                { "speaker": "Estudiante", "text": "Profesora, lo siento. Me acabo de despertar." },
+                { "speaker": "Profesora", "text": "¿Ah, sí? Entonces, ven rápido a la escuela, por favor." },
+                { "speaker": "Estudiante", "text": "Sí." },
+                { "speaker": "Profesora", "text": "Como ahora me voy a la biblioteca, abre la ventana en el aula, por favor. Después de eso, limpia las mesas." },
+                { "speaker": "Estudiante", "text": "Sí, entiendo." }
+            ],
+            "question": "¿Qué hará el estudiante primero en la escuela?"
+        },
+        "ko": {
+            "intro": "전화로 남학생과 여자 선생님이 이야기하고 있습니다. 학생은 학교에서 처음에 무엇을 합니까?",
+            "dialogue": [
+                { "speaker": "학생", "text": "선생님, 죄송합니다. 지금 일어났어요." },
+                { "speaker": "선생님", "text": "그래요? 그럼 빨리 학교에 오세요." },
+                { "speaker": "학생", "text": "네." },
+                { "speaker": "선생님", "text": "저는 지금부터 도서관에 갈 거니까, 교실 창문을 열어 주세요. 그러고 나서 책상을 닦아 주세요." },
+                { "speaker": "학생", "text": "네, 알겠습니다." }
+            ],
+            "question": "학생은 학교에서 처음에 무엇을 합니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "おきる",
+                "word": "起きる",
                 "reading": "おきる",
-                "tr": "uyanmak",
-                "en": "to wake up"
+                "meanings": {
+                    "tr": "uyanmak",
+                    "en": "to wake up",
+                    "de": "aufwachen",
+                    "fr": "se réveiller",
+                    "es": "despertarse",
+                    "ko": "일어나다"
+                }
             },
             {
-                "word": "はやく",
+                "word": "早く",
                 "reading": "はやく",
-                "tr": "hızlıca / erken",
-                "en": "quickly / early"
+                "meanings": {
+                    "tr": "hızlıca / erken",
+                    "en": "quickly / early",
+                    "de": "schnell / früh",
+                    "fr": "vite / tôt",
+                    "es": "rápido / temprano",
+                    "ko": "빨리 / 일찍"
+                }
             },
             {
-                "word": "としょかん",
-                "reading": "としょかん",
-                "tr": "kütüphane",
-                "en": "library"
-            },
-            {
-                "word": "まど",
+                "word": "窓",
                 "reading": "まど",
-                "tr": "pencere",
-                "en": "window"
+                "meanings": {
+                    "tr": "pencere",
+                    "en": "window",
+                    "de": "Fenster",
+                    "fr": "fenêtre",
+                    "es": "ventana",
+                    "ko": "창문"
+                }
             },
             {
-                "word": "あける",
+                "word": "開ける",
                 "reading": "あける",
-                "tr": "açmak",
-                "en": "to open"
+                "meanings": {
+                    "tr": "açmak",
+                    "en": "to open",
+                    "de": "öffnen",
+                    "fr": "ouvrir",
+                    "es": "abrir",
+                    "ko": "열다"
+                }
             },
             {
-                "word": "つくえ",
+                "word": "机",
                 "reading": "つくえ",
-                "tr": "masa / sıra",
-                "en": "desk"
+                "meanings": {
+                    "tr": "masa / sıra",
+                    "en": "desk",
+                    "de": "Schreibtisch",
+                    "fr": "bureau / table",
+                    "es": "escritorio / mesa",
+                    "ko": "책상"
+                }
             },
             {
-                "word": "ふく",
+                "word": "拭く",
                 "reading": "ふく",
-                "tr": "silmek",
-                "en": "to wipe"
+                "meanings": {
+                    "tr": "silmek",
+                    "en": "to wipe",
+                    "de": "abwischen",
+                    "fr": "essuyer",
+                    "es": "limpiar / frotar",
+                    "ko": "닦다"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～てください",
-                "tr": "Lütfen ... yapın",
-                "en": "Please do ..."
+                "meanings": {
+                    "tr": "Lütfen ... yapın",
+                    "en": "Please do ...",
+                    "de": "Bitte ... machen",
+                    "fr": "S'il vous plaît, faites ...",
+                    "es": "Por favor, haga ...",
+                    "ko": "~해 주세요"
+                }
             },
             {
                 "point": "～から",
-                "tr": "-den dolayı / çünkü",
-                "en": "because / since"
-            },
-            {
-                "point": "それから",
-                "tr": "ondan sonra / daha sonra",
-                "en": "after that / and then"
+                "meanings": {
+                    "tr": "-den dolayı / çünkü",
+                    "en": "because / since",
+                    "de": "weil / da",
+                    "fr": "parce que / puisque",
+                    "es": "porque / ya que",
+                    "ko": "~니까 / ~하기 때문에"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Öğretmen, kendisi kütüphaneye gideceği için öğrenciden okula vardığında ilk olarak pencereyi açmasını (2), ardından masaları silmesini (3) ister. Bu yüzden ilk eylem pencereyi açmaktır. Elleri yıkamak (1) ve kütüphaneye gitmek (4 - öğretmenin yapacağı iş) yanıltıcı seçeneklerdir.",
-        "en": "The teacher tells the student that she is going to the library, so she asks him to first open the window (2) and then wipe the desks (3) when he arrives. Therefore, the first action is opening the window. Washing hands (1) and going to the library (4 - the teacher's action) are distractors."
+        "tr": "Öğretmen, kendisi kütüphaneye gideceği için öğrenciden okula vardığında ilk olarak pencereyi açmasını (2) ister. Daha sonra masaları silmesini söyler.",
+        "en": "The teacher is going to the library, so she asks the student to first open the window (2) and then wipe the desks when he arrives.",
+        "de": "Die Lehrerin geht in die Bibliothek, also bittet sie den Schüler, zuerst das Fenster zu öffnen (2) und dann die Tische abzuwischen, wenn er ankommt.",
+        "fr": "L'enseignante va à la bibliothèque, elle demande donc à l'étudiant d'ouvrir d'abord la fenêtre (2) puis d'essuyer les bureaux à son arrivée.",
+        "es": "La profesora se va a la biblioteca, así que le pide al estudiante que primero abra la ventana (2) y luego limpie las mesas cuando llegue.",
+        "ko": "선생님은 도서관에 가야 하므로, 학생에게 도착하면 먼저 창문을 열고(2번) 그 다음에 책상을 닦으라고 말합니다."
     }
 }

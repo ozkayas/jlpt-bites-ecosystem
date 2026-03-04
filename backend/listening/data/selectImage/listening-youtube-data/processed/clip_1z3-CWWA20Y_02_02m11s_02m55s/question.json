@@ -1,100 +1,190 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "あしたの よていと まちあわせ (Tomorrow's plans and meeting place)"
+        "topic": {
+            "ja": "あしたの よていと まちあわせ",
+            "tr": "Yarının Planı ve Buluşma Yeri",
+            "en": "Tomorrow's Plans and Meeting Place",
+            "de": "Pläne für morgen und Treffpunkt",
+            "fr": "Plans pour demain et lieu de rendez-vous",
+            "es": "Planes para mañana y lugar de encuentro",
+            "ko": "내일의 일정과 만남 장소"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "きょうしつで せんせいが はなしています。 がくせいは あしたの あさ どこで せんせいに あいますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "みなさん、あしたは あたらしい まちを みに いきます。 じゅうじの バスに のりますよ。 まちには おおきい としょかんが あります。 きれいな デパートも あります。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "あしたは ぎんこうに きてから いきますか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "いいえ、ゆうびんきょくに きてください。 くじはんに まっています。"
-            }
-        ],
-        "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの バスに のりますよ。まちには おおきい としょかんが あります。きれいな デパートも あります。" },
+                { "speaker": "女の人", "text": "あしたは ぎんこうに きてから いきますか。" },
+                { "speaker": "男の人", "text": "いいえ、ゆうびんきょくに きてください。くじはんに まっています。" }
+            ],
+            "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
+        },
+        "tr": {
+            "intro": "Sınıfta öğretmen konuşuyor. Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat on otobüsüne bineceğiz. Şehirde büyük bir kütüphane var. Ayrıca güzel bir departmanlı mağaza da var." },
+                { "speaker": "Kadın", "text": "Yarın bankaya gelip mi gideceğiz?" },
+                { "speaker": "Erkek", "text": "Hayır, postaneye gelin lütfen. Saat dokuz buçukta bekliyor olacağım." }
+            ],
+            "question": "Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?"
+        },
+        "en": {
+            "intro": "A teacher is talking in the classroom. Where will the students meet the teacher tomorrow morning?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Everyone, tomorrow we are going to see the new town. We will take the ten o'clock bus. There is a large library in the town. There is also a beautiful department store." },
+                { "speaker": "Woman", "text": "Will we meet at the bank tomorrow?" },
+                { "speaker": "Man", "text": "No, please come to the post office. I will be waiting at nine-thirty." }
+            ],
+            "question": "Where will the students meet the teacher tomorrow morning?"
+        },
+        "de": {
+            "intro": "Ein Lehrer spricht im Klassenzimmer. Wo werden die Schüler den Lehrer morgen früh treffen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Alle zusammen, morgen werden wir uns die neue Stadt ansehen. Wir nehmen den Bus um zehn Uhr. In der Stadt gibt es eine große Bibliothek. Es gibt auch ein schönes Kaufhaus." },
+                { "speaker": "Frau", "text": "Treffen wir uns morgen bei der Bank?" },
+                { "speaker": "Mann", "text": "Nein, bitte kommen Sie zur Post. Ich warte dort um halb zehn." }
+            ],
+            "question": "Wo werden die Schüler den Lehrer morgen früh treffen?"
+        },
+        "fr": {
+            "intro": "Un professeur parle dans la salle de classe. Où les élèves retrouveront-ils le professeur demain matin ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Tout le monde, demain nous allons visiter la nouvelle ville. Nous prendrons le bus de dix heures. Il y a une grande bibliothèque en ville. Il y a aussi un beau grand magasin." },
+                { "speaker": "Femme", "text": "On se retrouve à la banque demain ?" },
+                { "speaker": "Homme", "text": "Non, venez à la poste s'il vous plaît. Je vous attendrai à neuf heures et demie." }
+            ],
+            "question": "Où les élèves retrouveront-ils le professeur demain matin ?"
+        },
+        "es": {
+            "intro": "Un profesor está hablando en el aula. ¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Todos, mañana vamos a ver la ciudad nueva. Tomaremos el autobús de las diez. Hay una biblioteca grande en la ciudad. También hay unos grandes almacenes bonitos." },
+                { "speaker": "Mujer", "text": "¿Vendremos mañana al banco primero?" },
+                { "speaker": "Hombre", "text": "No, por favor vengan a la oficina de correos. Estaré esperando a las nueve y media." }
+            ],
+            "question": "¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?"
+        },
+        "ko": {
+            "intro": "교실에서 선생님이 이야기하고 있습니다. 학생들은 내일 아침 어디에서 선생님을 만납니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "여러분, 내일은 새로운 마을을 보러 갑니다. 10시 버스를 탈 거예요. 마을에는 큰 도서관이 있습니다. 예쁜 백화점도 있어요." },
+                { "speaker": "여자", "text": "내일은 은행에 왔다가 가나요?" },
+                { "speaker": "남자", "text": "아니요, 우체국으로 오세요. 9시 반에 기다리고 있을게요." }
+            ],
+            "question": "학생들은 내일 아침 어디에서 선생님을 만납니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "あたらしい",
+                "word": "新しい",
                 "reading": "あたらしい",
-                "tr": "yeni",
-                "en": "new"
+                "meanings": {
+                    "tr": "yeni",
+                    "en": "new",
+                    "de": "neu",
+                    "fr": "nouveau",
+                    "es": "nuevo",
+                    "ko": "새로운"
+                }
             },
             {
                 "word": "郵便局",
                 "reading": "ゆうびんきょく",
-                "tr": "postane",
-                "en": "post office"
+                "meanings": {
+                    "tr": "postane",
+                    "en": "post office",
+                    "de": "Postamt",
+                    "fr": "bureau de poste",
+                    "es": "oficina de correos",
+                    "ko": "우체국"
+                }
             },
             {
                 "word": "銀行",
                 "reading": "ぎんこう",
-                "tr": "banka",
-                "en": "bank"
+                "meanings": {
+                    "tr": "banka",
+                    "en": "bank",
+                    "de": "Bank",
+                    "fr": "banque",
+                    "es": "banco",
+                    "ko": "은행"
+                }
             },
             {
                 "word": "デパート",
-                "reading": "デパート",
-                "tr": "departmanlı mağaza",
-                "en": "department store"
+                "reading": "でぱーと",
+                "meanings": {
+                    "tr": "departmanlı mağaza",
+                    "en": "department store",
+                    "de": "Kaufhaus",
+                    "fr": "grand magasin",
+                    "es": "grandes almacenes",
+                    "ko": "백화점"
+                }
             },
             {
                 "word": "図書館",
                 "reading": "としょかん",
-                "tr": "kütüphane",
-                "en": "library"
-            },
-            {
-                "word": "まち",
-                "reading": "まち",
-                "tr": "şehir, kasaba",
-                "en": "town, city"
+                "meanings": {
+                    "tr": "kütüphane",
+                    "en": "library",
+                    "de": "Bibliothek",
+                    "fr": "bibliothèque",
+                    "es": "biblioteca",
+                    "ko": "도서관"
+                }
             },
             {
                 "word": "バス",
-                "reading": "バス",
-                "tr": "otobüs",
-                "en": "bus"
-            },
-            {
-                "word": "にのる",
-                "reading": "にのる",
-                "tr": "binmek (araç)",
-                "en": "to ride, to board"
+                "reading": "ばす",
+                "meanings": {
+                    "tr": "otobüs",
+                    "en": "bus",
+                    "de": "Bus",
+                    "fr": "bus",
+                    "es": "autobús",
+                    "ko": "버스"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "〜てから",
-                "tr": "-dikten sonra / yaptıktan sonra",
-                "en": "after doing something"
+                "meanings": {
+                    "tr": "-dikten sonra",
+                    "en": "after doing ...",
+                    "de": "nachdem ...",
+                    "fr": "après avoir ...",
+                    "es": "después de ...",
+                    "ko": "~하고 나서"
+                }
             },
             {
                 "point": "〜てください",
-                "tr": "lütfen ... yapın (rica)",
-                "en": "please do something"
-            },
-            {
-                "point": "〜ています",
-                "tr": "-iyor (şimdiki zaman/durum)",
-                "en": "is doing / state of being"
+                "meanings": {
+                    "tr": "lütfen ... yapın",
+                    "en": "please do ...",
+                    "de": "bitte machen Sie ...",
+                    "fr": "s'il vous plaît, faites ...",
+                    "es": "por favor, haga ...",
+                    "ko": "~해 주세요"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Öğrenci, 'Bankaya (1) gelip mi gideceğiz?' diye sorar. Öğretmen ise 'Hayır, postaneye (2) gelin' diyerek buluşma noktasının postane olduğunu netleştirir. Kütüphane (3) ve departmanlı mağaza (4) ise şehirde görülecek yerler olarak geçmektedir ancak buluşma noktası değillerdir.",
-        "en": "The student asks, 'Do we go after coming to the bank (1)?'. The teacher clarifies the meeting point by saying 'No, please come to the post office (2)'. The library (3) and department store (4) are mentioned as places to visit in the city but are not the meeting point."
+        "tr": "Öğrenci bankaya mı gelineceğini sorar, öğretmen 'Hayır, postaneye gelin' diyerek postaneyi (2) işaret eder.",
+        "en": "The student asks if they should meet at the bank, but the teacher says 'No, please come to the post office' (2).",
+        "de": "Die Schülerin fragt, ob sie zur Bank kommen sollen, aber der Lehrer sagt: 'Nein, bitte kommen Sie zur Post' (2).",
+        "fr": "L'élève demande s'il faut se retrouver à la banque, mais le professeur répond : 'Non, venez à la poste' (2).",
+        "es": "La estudiante pregunta si deben ir al banco, pero el profesor dice: 'No, por favor vengan a la oficina de correos' (2).",
+        "ko": "학생은 은행에 와야 하는지 묻지만, 선생님은 아니라고 하며 우체국(2번)으로 오라고 말합니다."
     }
 }

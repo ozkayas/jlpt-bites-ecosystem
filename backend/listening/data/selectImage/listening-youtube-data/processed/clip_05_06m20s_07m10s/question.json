@@ -1,71 +1,166 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "Directions and Locations"
+        "topic": {
+            "ja": "ゆうびんきょくの　ばしょを　きく",
+            "tr": "Postanenin Yerini Sormak",
+            "en": "Asking for the Location of the Post Office",
+            "de": "Nach dem Standort der Post fragen",
+            "fr": "Demander l'emplacement de la poste",
+            "es": "Preguntando por la ubicación de la oficina de correos",
+            "ko": "우체국 위치 묻기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 0,
-    "transcription": {
-        "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは どこへ いきますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "すみません。ゆうびんきょくに いきたいんですが。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "ゆうびんきょくですか。まず このみちを まっすぐ いってください。あそこに こんびにが ありますね。あの みちを ひだりに まがってください。としょかんの となりに ありますよ。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "わかりました。ありがとうございます。"
-            }
-        ],
-        "question": "おとこのひとは どこへ いきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと おんなのひとが はなしています。おとこのひとは どこへ いきますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "すみません。ゆうびんきょくに いきたいんですが。" },
+                { "speaker": "女の人", "text": "ゆうびんきょくですか。まず このみちを まっすぐ いってください。あそこに こんびにが ありますね。あの みちを ひだりに まがってください。としょかんの となりに ありますよ。" },
+                { "speaker": "男の人", "text": "わかりました。ありがとうございます。" }
+            ],
+            "question": "おとこのひとは どこへ いきますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkek nereye gidecek?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Affedersiniz. Postaneye gitmek istiyordum." },
+                { "speaker": "Kadın", "text": "Postane mi? Önce bu yoldan dümdüz gidin. Orada bir market var, değil mi? O yoldan sola dönün. Kütüphanenin hemen yanındadır." },
+                { "speaker": "Erkek", "text": "Anladım. Teşekkür ederim." }
+            ],
+            "question": "Erkek nereye gidecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. Where will the man go?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Excuse me. I'd like to go to the post office." },
+                { "speaker": "Woman", "text": "The post office? First, go straight down this street. There's a convenience store over there, right? Turn left at that street. It's right next to the library." },
+                { "speaker": "Man", "text": "I see. Thank you very much." }
+            ],
+            "question": "Where will the man go?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Wohin wird der Mann gehen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Entschuldigung. Ich möchte gerne zur Post gehen." },
+                { "speaker": "Frau", "text": "Zur Post? Gehen Sie zuerst diese Straße geradeaus. Dort drüben ist ein Lebensmittelladen, oder? Biegen Sie an dieser Straße links ab. Es ist direkt neben der Bibliothek." },
+                { "speaker": "Mann", "text": "Verstehe. Vielen Dank." }
+            ],
+            "question": "Wohin wird der Mann gehen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Où l'homme va-t-il aller ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Excusez-moi. J'aimerais aller à la poste." },
+                { "speaker": "Femme", "text": "La poste ? Tout d'abord, allez tout droit dans cette rue. Il y a une supérette là-bas, n'est-ce pas ? Tournez à gauche dans cette rue. C'est juste à côté de la bibliothèque." },
+                { "speaker": "Homme", "text": "Je vois. Merci beaucoup." }
+            ],
+            "question": "Où l'homme va-t-il aller ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿A dónde irá el hombre?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Disculpe. Me gustaría ir a la oficina de correos." },
+                { "speaker": "Mujer", "text": "¿La oficina de correos? Primero, vaya recto por esta calle. Hay una tienda de conveniencia allá, ¿verdad? Gire a la izquierda en esa calle. Está justo al lado de la biblioteca." },
+                { "speaker": "Hombre", "text": "Entiendo. Muchas gracias." }
+            ],
+            "question": "¿A dónde irá el hombre?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자는 어디로 갑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "실례합니다. 우체국에 가고 싶은데요." },
+                { "speaker": "여자", "text": "우체국요? 우선 이 길을 쭉 가세요. 저기에 편의점이 있지요? 저 길에서 왼쪽으로 꺾으세요. 도서관 옆에 있어요." },
+                { "speaker": "남자", "text": "알겠습니다. 감사합니다." }
+            ],
+            "question": "남자는 어디로 갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "ゆうびんきょく",
+                "word": "郵便局",
                 "reading": "ゆうびんきょく",
-                "tr": "postane",
-                "en": "post office"
+                "meanings": {
+                    "tr": "postane",
+                    "en": "post office",
+                    "de": "Postamt",
+                    "fr": "bureau de poste",
+                    "es": "oficina de correos",
+                    "ko": "우체국"
+                }
             },
             {
-                "word": "ひだり",
+                "word": "左",
                 "reading": "ひだり",
-                "tr": "sol",
-                "en": "left"
+                "meanings": {
+                    "tr": "sol",
+                    "en": "left",
+                    "de": "links",
+                    "fr": "gauche",
+                    "es": "izquierda",
+                    "ko": "왼쪽"
+                }
             },
             {
-                "word": "としょかん",
+                "word": "図書館",
                 "reading": "としょかん",
-                "tr": "kütüphane",
-                "en": "library"
+                "meanings": {
+                    "tr": "kütüphane",
+                    "en": "library",
+                    "de": "Bibliothek",
+                    "fr": "bibliothèque",
+                    "es": "biblioteca",
+                    "ko": "도서관"
+                }
             },
             {
-                "word": "こんびに",
+                "word": "コンビニ",
                 "reading": "こんびに",
-                "tr": "market",
-                "en": "convenience store"
+                "meanings": {
+                    "tr": "market / bakkal",
+                    "en": "convenience store",
+                    "de": "Lebensmittelladen / Konbini",
+                    "fr": "supérette / konbini",
+                    "es": "tienda de conveniencia",
+                    "ko": "편의점"
+                }
             }
         ],
         "grammar": [
             {
-                "point": "～に いきたい",
-                "tr": "-e gitmek istemek",
-                "en": "want to go to"
+                "point": "～に行きたい",
+                "meanings": {
+                    "tr": "-e gitmek istemek",
+                    "en": "want to go to",
+                    "de": "möchte nach ... gehen",
+                    "fr": "vouloir aller à ...",
+                    "es": "querer ir a ...",
+                    "ko": "~에 가고 싶다"
+                }
             },
             {
-                "point": "～に まがる",
-                "tr": "-e sapmak / dönmek",
-                "en": "to turn (direction)"
+                "point": "～に曲がる",
+                "meanings": {
+                    "tr": "-e sapmak / dönmek",
+                    "en": "to turn (direction)",
+                    "de": "in Richtung ... abbiegen",
+                    "fr": "tourner à / vers ...",
+                    "es": "girar a / hacia ...",
+                    "ko": "~으로 꺾다 / 돌다"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Adam postaneye (ゆうびんきょく) gitmek istediğini söylüyor. Kadın ona marketin (こんびに) oradan sola (ひだり) dönmesini ve postanenin kütüphanenin (としょかん) yanında (となり) olduğunu söylüyor. Haritada (1) numaralı bina kütüphanenin yanındadır, bu yüzden doğru cevap (1)'dir.",
-        "en": "The man wants to go to the post office (yuubinkyoku). The woman tells him to turn left (hidari) at the convenience store (konbini) and that the post office is next to (tonari) the library (toshokan). On the map, building (1) is next to the library, so the correct answer is (1)."
+        "tr": "Kadın, marketin oradan sola dönmesini ve postanenin kütüphanenin hemen yanında (1) olduğunu söyler.",
+        "en": "The woman says to turn left at the convenience store and that the post office is right next to the library (1).",
+        "de": "Die Frau sagt, man solle am Konbini links abbiegen und die Post befinde sich direkt neben der Bibliothek (1).",
+        "fr": "La femme dit de tourner à gauche à la supérette et que la poste se trouve juste à côté de la bibliothèque (1).",
+        "es": "La mujer dice que gire a la izquierda en la tienda de conveniencia y que la oficina de correos está justo al lado de la biblioteca (1).",
+        "ko": "여자는 편의점에서 왼쪽으로 꺾으라고 하며, 우체국은 도서관 바로 옆(1번)에 있다고 설명합니다."
     }
 }

@@ -1,128 +1,265 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ゆうびんきょくで　かきかたを　きく (Asking how to fill out a form at the post office)"
+        "topic": {
+            "ja": "ゆうびんきょくで　かきかたを　きく",
+            "tr": "Postanede Form Doldurmak",
+            "en": "Filling out a Form at the Post Office",
+            "de": "Ein Formular bei der Post ausfüllen",
+            "fr": "Remplir un formulaire à la poste",
+            "es": "Completar un formulario en la oficina de correos",
+            "ko": "우체국에서 쓰는 법 묻기"
+        }
     },
     "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/audio.mp3",
     "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/image.png",
     "correct_option": 2,
-    "transcription": {
-        "intro": "ゆうびんきょくで　ゆうびんきょくの　ひとと　おとこの　ひとが　はなしています。おとこの　ひとは　かみに　どう　かきますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "この　かみに　おなまえを　かいてください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "おなまえの　したに　じゅうしょを　かいてください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "じゅうしょは　かんじで　かいて、うえに　ひらがなを　かいてくださいね。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "いちばん　したには　ゆうびんばんごうを　かいてください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "あのう、おなまえは　えいごで　かきますか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "いいえ、かたかなで　おねがいします。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい、わかりました。"
-            }
-        ],
-        "question": "おとこの　ひとは　かみに　どう　かきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "ゆうびんきょくで　ゆうびんきょくの　ひとと　おとこの　ひとが　はなしています。おとこの　ひとは　かみに　どう　かきますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "この　かみに　おなまえを　かいてください。" },
+                { "speaker": "女の人", "text": "おなまえの　したに　じゅうしょを　かいてください。" },
+                { "speaker": "女の人", "text": "じゅうしょは　かんじで　かいて、うえに　ひらがなを　かいてくださいね。" },
+                { "speaker": "女の人", "text": "いちばん　したには　ゆうびんばんごうを　かいてください。" },
+                { "speaker": "男の人", "text": "あのう、おなまえは　えいごで　かきますか。" },
+                { "speaker": "女の人", "text": "いいえ、かたかなで　おねがいします。" },
+                { "speaker": "男の人", "text": "はい、わかりました。" }
+            ],
+            "question": "おとこの　ひとは　かみに　どう　かきますか。"
+        },
+        "tr": {
+            "intro": "Postanede bir görevli ve bir erkek konuşuyor. Erkek kağıda nasıl yazacak?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Bu kağıda isminizi yazın lütfen." },
+                { "speaker": "Kadın", "text": "İsminizin altına adresi yazın lütfen." },
+                { "speaker": "Kadın", "text": "Adresi kanji ile yazıp, üzerine hiragana yazın lütfen." },
+                { "speaker": "Kadın", "text": "En alta posta kodunu yazın lütfen." },
+                { "speaker": "Erkek", "text": "Şey, ismi İngilizce mi yazacağım?" },
+                { "speaker": "Kadın", "text": "Hayır, katakana ile lütfen." },
+                { "speaker": "Erkek", "text": "Tamam, anladım." }
+            ],
+            "question": "Erkek kağıda nasıl yazacak?"
+        },
+        "en": {
+            "intro": "A staff member and a man are talking at the post office. How will the man write on the paper?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Please write your name on this paper." },
+                { "speaker": "Woman", "text": "Please write your address below your name." },
+                { "speaker": "Woman", "text": "Please write the address in kanji and write hiragana above it." },
+                { "speaker": "Woman", "text": "Please write the postal code at the very bottom." },
+                { "speaker": "Man", "text": "Um, should I write my name in English?" },
+                { "speaker": "Woman", "text": "No, please write it in katakana." },
+                { "speaker": "Man", "text": "Okay, I understand." }
+            ],
+            "question": "How will the man write on the paper?"
+        },
+        "de": {
+            "intro": "Ein Mitarbeiter und ein Mann sprechen in der Post. Wie wird der Mann auf das Papier schreiben?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Bitte schreiben Sie Ihren Namen auf dieses Papier." },
+                { "speaker": "Frau", "text": "Bitte schreiben Sie Ihre Adresse unter Ihren Namen." },
+                { "speaker": "Frau", "text": "Bitte schreiben Sie die Adresse in Kanji und schreiben Sie Hiragana darüber." },
+                { "speaker": "Frau", "text": "Bitte schreiben Sie die Postleitzahl ganz unten hin." },
+                { "speaker": "Mann", "text": "Ähm, soll ich meinen Namen auf Englisch schreiben?" },
+                { "speaker": "Frau", "text": "Nein, bitte schreiben Sie ihn in Katakana." },
+                { "speaker": "Mann", "text": "Okay, ich verstehe." }
+            ],
+            "question": "Wie wird der Mann auf das Papier schreiben?"
+        },
+        "fr": {
+            "intro": "Un employé et un homme parlent à la poste. Comment l'homme va-t-il écrire sur le papier ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Veuillez écrire votre nom sur ce papier." },
+                { "speaker": "Femme", "text": "Veuillez écrire votre adresse sous votre nom." },
+                { "speaker": "Femme", "text": "Veuillez écrire l'adresse en kanji et écrire les hiraganas au-dessus." },
+                { "speaker": "Femme", "text": "Veuillez écrire le code postal tout en bas." },
+                { "speaker": "Homme", "text": "Euh, dois-je écrire mon nom en anglais ?" },
+                { "speaker": "Femme", "text": "Non, en katakana s'il vous plaît." },
+                { "speaker": "Homme", "text": "D'accord, je comprends." }
+            ],
+            "question": "Comment l'homme va-t-il écrire sur le papier ?"
+        },
+        "es": {
+            "intro": "Un empleado y un hombre están hablando en la oficina de correos. ¿Cómo escribirá el hombre en el papel?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Por favor, escriba su nombre en este papel." },
+                { "speaker": "Mujer", "text": "Por favor, escriba su dirección debajo de su nombre." },
+                { "speaker": "Mujer", "text": "Por favor, escriba la dirección en kanji y escriba hiragana encima." },
+                { "speaker": "Mujer", "text": "Por favor, escriba el código postal al final de todo." },
+                { "speaker": "Hombre", "text": "Este... ¿escribo mi nombre en inglés?" },
+                { "speaker": "Mujer", "text": "No, en katakana, por favor." },
+                { "speaker": "Hombre", "text": "Está bien, entiendo." }
+            ],
+            "question": "¿Cómo escribirá el hombre en el papel?"
+        },
+        "ko": {
+            "intro": "우체국에서 우체국 직원과 남자가 이야기하고 있습니다. 남자는 종이에 어떻게 씁니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "이 종이에 성함을 써 주세요." },
+                { "speaker": "여자", "text": "성함 아래에 주소를 써 주세요." },
+                { "speaker": "여자", "text": "주소는 한자로 쓰고, 그 위에 히라가나를 써 주세요." },
+                { "speaker": "여자", "text": "맨 아래에는 우편번호를 써 주세요." },
+                { "speaker": "남자", "text": "저기, 이름은 영어로 쓰나요?" },
+                { "speaker": "여자", "text": "아니요, 가타카나로 부탁드립니다." },
+                { "speaker": "남자", "text": "네, 알겠습니다." }
+            ],
+            "question": "남자는 종이에 어떻게 씁니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "ゆうびんきょく",
+                "word": "郵便局",
                 "reading": "ゆうびんきょく",
-                "tr": "postane",
-                "en": "post office"
+                "meanings": {
+                    "tr": "postane",
+                    "en": "post office",
+                    "de": "Postamt",
+                    "fr": "bureau de poste",
+                    "es": "oficina de correos",
+                    "ko": "우체국"
+                }
             },
             {
-                "word": "ゆうびんばんごう",
+                "word": "郵便番号",
                 "reading": "ゆうびんばんごう",
-                "tr": "posta kodu",
-                "en": "postal code"
+                "meanings": {
+                    "tr": "posta kodu",
+                    "en": "postal code",
+                    "de": "Postleitzahl",
+                    "fr": "code postal",
+                    "es": "código postal",
+                    "ko": "우편번호"
+                }
             },
             {
-                "word": "かみ",
-                "reading": "かみ",
-                "tr": "kağıt",
-                "en": "paper"
-            },
-            {
-                "word": "なまえ",
+                "word": "名前",
                 "reading": "なまえ",
-                "tr": "isim",
-                "en": "name"
+                "meanings": {
+                    "tr": "isim",
+                    "en": "name",
+                    "de": "Name",
+                    "fr": "nom",
+                    "es": "nombre",
+                    "ko": "이름 / 성함"
+                }
             },
             {
-                "word": "じゅうしょ",
+                "word": "住所",
                 "reading": "じゅうしょ",
-                "tr": "adres",
-                "en": "address"
+                "meanings": {
+                    "tr": "adres",
+                    "en": "address",
+                    "de": "Adresse",
+                    "fr": "adresse",
+                    "es": "dirección",
+                    "ko": "주소"
+                }
             },
             {
-                "word": "かんじ",
+                "word": "漢字",
                 "reading": "かんじ",
-                "tr": "kanji",
-                "en": "kanji"
+                "meanings": {
+                    "tr": "kanji",
+                    "en": "kanji",
+                    "de": "Kanji",
+                    "fr": "kanji",
+                    "es": "kanji",
+                    "ko": "한자"
+                }
             },
             {
-                "word": "ひらがな",
+                "word": "平仮名",
                 "reading": "ひらがな",
-                "tr": "hiragana",
-                "en": "hiragana"
+                "meanings": {
+                    "tr": "hiragana",
+                    "en": "hiragana",
+                    "de": "Hiragana",
+                    "fr": "hiragana",
+                    "es": "hiragana",
+                    "ko": "히라가나"
+                }
             },
             {
-                "word": "かたかな",
+                "word": "片仮名",
                 "reading": "かたかな",
-                "tr": "katakana",
-                "en": "katakana"
+                "meanings": {
+                    "tr": "katakana",
+                    "en": "katakana",
+                    "de": "Katakana",
+                    "fr": "katakana",
+                    "es": "katakana",
+                    "ko": "가타카나"
+                }
             },
             {
-                "word": "した",
+                "word": "下",
                 "reading": "した",
-                "tr": "alt / aşağı",
-                "en": "below / bottom"
+                "meanings": {
+                    "tr": "alt / aşağı",
+                    "en": "below / bottom",
+                    "de": "unten / unter",
+                    "fr": "bas / dessous",
+                    "es": "abajo / debajo",
+                    "ko": "아래 / 밑"
+                }
             },
             {
-                "word": "うえ",
+                "word": "上",
                 "reading": "うえ",
-                "tr": "üst / yukarı",
-                "en": "above / top"
+                "meanings": {
+                    "tr": "üst / yukarı",
+                    "en": "above / top",
+                    "de": "oben / über",
+                    "fr": "haut / dessus",
+                    "es": "arriba / encima",
+                    "ko": "위"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～てください",
-                "tr": "lütfen ... yapın (rica)",
-                "en": "please do ... (request)"
+                "meanings": {
+                    "tr": "lütfen ... yapın (rica)",
+                    "en": "please do ... (request)",
+                    "de": "bitte machen Sie ...",
+                    "fr": "s'il vous plaît, faites ...",
+                    "es": "por favor, haga ...",
+                    "ko": "~해 주세요"
+                }
             },
             {
                 "point": "～のしたに / ～のうえに",
-                "tr": "...'nın altına / ...'nın üstüne",
-                "en": "below ... / above ..."
+                "meanings": {
+                    "tr": "...'nın altına / ...'nın üstüne",
+                    "en": "below ... / above ...",
+                    "de": "unter ... / über ...",
+                    "fr": "sous ... / au-dessus de ...",
+                    "es": "debajo de ... / encima de ...",
+                    "ko": "~의 밑에 / ~의 위에"
+                }
             },
             {
                 "point": "～で（かきます）",
-                "tr": "... ile / ... yazısıyla yazmak",
-                "en": "to write in ... (script/language)"
+                "meanings": {
+                    "tr": "... ile / ... yazısıyla yazmak",
+                    "en": "to write in ... (script/language)",
+                    "de": "auf ... schreiben (Schrift)",
+                    "fr": "écrire en ... (écriture)",
+                    "es": "escribir en ... (escritura)",
+                    "ko": "~으로 (쓰다)"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Görevli kadın formun nasıl doldurulacağını adım adım açıklar: isim katakanaya, adres kanjiye (üstünde hiragana furigana ile), posta kodu en alta. Adam İngilizce ile yazıp yazamayacağını sorar; kadın katakanaya yapmasını söyler. Doğru görsel Panel 3'tür: katakana isim + üstünde hiraganalı kanji adres + posta kodu. Distractor_A (Panel 1): isim Roman harflerle (yanlış), adres doğru formatta. Distractor_B (Panel 2): isim katakana (doğru) ama adres sadece kanji, hiragana yok (yanlış). Distractor_C (Panel 4): hem isim Roman harflerle hem adres sadece kanji (ikisi de yanlış).",
-        "en": "The female staff member explains step by step: name in katakana, address in kanji with hiragana furigana above, postal code at the bottom. The man asks if he should write in English; she says katakana. The correct image is Panel 3: katakana name + kanji address with hiragana above + postal code. Distractor_A (Panel 1): name in Roman letters (wrong), address in correct format. Distractor_B (Panel 2): name in katakana (correct) but address in kanji only without hiragana (wrong). Distractor_C (Panel 4): both name in Roman letters and address in kanji only (both wrong)."
+        "tr": "Görevli kadın formun nasıl doldurulacağını açıklar: isim katakanaya, adres kanjiye (üstünde hiragana furigana ile), posta kodu en alta. Doğru görsel Panel 3'tür.",
+        "en": "The staff member explains the steps: name in katakana, address in kanji with hiragana furigana above, and postal code at the bottom. The correct image is Panel 3.",
+        "de": "Die Mitarbeiterin erklärt die Schritte: Name in Katakana, Adresse in Kanji mit Hiragana darüber und die Postleitzahl ganz unten. Das richtige Bild ist Feld 3.",
+        "fr": "L'employée explique les étapes : nom en katakana, adresse en kanji avec hiraganas au-dessus, et code postal tout en bas. L'image correcte est le Panneau 3.",
+        "es": "La empleada explica los pasos: nombre en katakana, dirección en kanji con hiragana encima, y código postal al final. La imagen correcta es el Panel 3.",
+        "ko": "직원은 성함은 가타카나로, 주소는 한자로 쓰되 그 위에 히라가나를 쓰고, 우편번호는 맨 아래에 쓰라고 설명합니다. 정답은 3번 패널입니다."
     }
 }

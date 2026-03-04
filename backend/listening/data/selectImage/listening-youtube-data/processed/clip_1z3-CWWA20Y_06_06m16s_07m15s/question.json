@@ -1,106 +1,187 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "やまのぼりの じゅんび (Preparing for mountain climbing)"
+        "topic": {
+            "ja": "やまのぼりの じゅんび",
+            "tr": "Dağ Tırmanışı Hazırlığı",
+            "en": "Preparing for Mountain Climbing",
+            "de": "Vorbereitung zum Bergsteigen",
+            "fr": "Préparation pour la randonnée en montagne",
+            "es": "Preparación para escalar una montaña",
+            "ko": "등산 준비"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 3,
-    "transcription": {
-        "intro": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "やまださん、あしたは やまのぼりに いきますよ。 あさ ろくじに きてください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わかりました。 なにを もっていきますか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "あしたは あついですから、ぼうしを わすれないでください。 それから、かめらも もってきてください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "おべんとうは どうしますか。 もっていきますか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "おべんとうは わたしが もっていきますから、いりませんよ。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "はい。 わかりました。"
-            }
-        ],
-        "question": "おんなのひとは なにを もっていきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと おんなのひとが はなしています。 おんなのひとは なにを もっていきますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "やまださん、あしたは やまのぼりに いきますよ。 あさ ろくじに きてください。" },
+                { "speaker": "女の人", "text": "わかりました。 なにを もっていきますか。" },
+                { "speaker": "男の人", "text": "あしたは あついですから、ぼうしを わすれないでください。 それから、かめらも もってきてください。" },
+                { "speaker": "女の人", "text": "おべんとうは どうしますか。 もっていきますか。" },
+                { "speaker": "男の人", "text": "おべんとうは わたしが もっていきますから、いりませんよ。" },
+                { "speaker": "女の人", "text": "はい。 わかりました。" }
+            ],
+            "question": "おんなのひとは なにを もっていきますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın yanında ne götürecek?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Yamada Hanım, yarın dağ tırmanışına gidiyoruz. Sabah saat altıda gelin lütfen." },
+                { "speaker": "Kadın", "text": "Anladım. Yanımda ne getireyim?" },
+                { "speaker": "Erkek", "text": "Yarın hava sıcak olacağı için şapkanızı unutmayın lütfen. Bir de kamera getirin." },
+                { "speaker": "Kadın", "text": "Öğle yemeği ne olacak? Getireyim mi?" },
+                { "speaker": "Erkek", "text": "Yemeği ben getireceğim, o yüzden gerek yok." },
+                { "speaker": "Kadın", "text": "Tamam. Anladım." }
+            ],
+            "question": "Kadın yanında ne götürecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the woman take with her?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Ms. Yamada, we're going mountain climbing tomorrow. Please come at six in the morning." },
+                { "speaker": "Woman", "text": "I see. What should I bring?" },
+                { "speaker": "Man", "text": "It will be hot tomorrow, so please don't forget your hat. Also, please bring a camera." },
+                { "speaker": "Woman", "text": "What about lunch? Should I bring it?" },
+                { "speaker": "Man", "text": "I'll bring the lunch, so you don't need to." },
+                { "speaker": "Woman", "text": "Okay. I understand." }
+            ],
+            "question": "What will the woman take with her?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Was wird die Frau mitnehmen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Frau Yamada, morgen gehen wir bergsteigen. Bitte kommen Sie um sechs Uhr morgens." },
+                { "speaker": "Frau", "text": "Verstanden. Was soll ich mitbringen?" },
+                { "speaker": "Mann", "text": "Morgen wird es heiß sein, also vergessen Sie bitte Ihren Hut nicht. Und bringen Sie bitte auch eine Kamera mit." },
+                { "speaker": "Frau", "text": "Was ist mit dem Mittagessen? Soll ich es mitbringen?" },
+                { "speaker": "Mann", "text": "Das Mittagessen bringe ich mit, also brauchen Sie keins." },
+                { "speaker": "Frau", "text": "In Ordnung. Ich verstehe." }
+            ],
+            "question": "Was wird die Frau mitnehmen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Qu'est-ce que la femme va emporter ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Mme Yamada, nous allons faire de la randonnée demain. Veuillez venir à six heures du matin." },
+                { "speaker": "Femme", "text": "D'accord. Qu'est-ce que je dois apporter ?" },
+                { "speaker": "Homme", "text": "Il fera chaud demain, alors n'oubliez pas votre chapeau s'il vous plaît. Et apportez aussi un appareil photo." },
+                { "speaker": "Femme", "text": "Et pour le déjeuner ? Est-ce que j'en apporte ?" },
+                { "speaker": "Homme", "text": "C'est moi qui apporte le déjeuner, donc ce n'est pas la peine." },
+                { "speaker": "Femme", "text": "D'accord. Je comprends." }
+            ],
+            "question": "Qu'est-ce que la femme va emporter ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué se llevará la mujer?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Sra. Yamada, mañana vamos a la montaña. Por favor, venga a las seis de la mañana." },
+                { "speaker": "Mujer", "text": "Entendido. ¿Qué debo llevar?" },
+                { "speaker": "Hombre", "text": "Mañana hará calor, así que no olvide su sombrero, por favor. Y también traiga una cámara." },
+                { "speaker": "Mujer", "text": "¿Y la comida? ¿La llevo?" },
+                { "speaker": "Hombre", "text": "La comida la llevo yo, así que no hace falta." },
+                { "speaker": "Mujer", "text": "Está bien. Entiendo." }
+            ],
+            "question": "¿Qué se llevará la mujer?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 무엇을 가져갑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "야마다 씨, 내일은 등산을 갑니다. 아침 6시에 오세요." },
+                { "speaker": "여자", "text": "알겠습니다. 무엇을 가져가야 하나요?" },
+                { "speaker": "남자", "text": "내일은 더우니까 모자를 잊지 마세요. 그리고 카메라랑 가져오세요." },
+                { "speaker": "여자", "text": "도시락은 어떻게 하나요? 가져갈까요?" },
+                { "speaker": "남자", "text": "도시락은 제가 가져갈 거니까 안 가져오셔도 돼요." },
+                { "speaker": "여자", "text": "네. 알겠습니다." }
+            ],
+            "question": "여자는 무엇을 가져갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
                 "word": "山登り",
                 "reading": "やまのぼり",
-                "tr": "dağ tırmanışı",
-                "en": "mountain climbing"
-            },
-            {
-                "word": "明日",
-                "reading": "あした",
-                "tr": "yarın",
-                "en": "tomorrow"
-            },
-            {
-                "word": "朝",
-                "reading": "あさ",
-                "tr": "sabah",
-                "en": "morning"
-            },
-            {
-                "word": "熱い",
-                "reading": "あつい",
-                "tr": "sıcak",
-                "en": "hot"
+                "meanings": {
+                    "tr": "dağ tırmanışı",
+                    "en": "mountain climbing",
+                    "de": "Bergsteigen",
+                    "fr": "randonnée en montagne",
+                    "es": "escalada / montañismo",
+                    "ko": "등산"
+                }
             },
             {
                 "word": "帽子",
                 "reading": "ぼうし",
-                "tr": "şapka",
-                "en": "hat"
+                "meanings": {
+                    "tr": "şapka",
+                    "en": "hat",
+                    "de": "Hut / Mütze",
+                    "fr": "chapeau / casquette",
+                    "es": "sombrero / gorra",
+                    "ko": "모자"
+                }
             },
             {
                 "word": "カメラ",
-                "reading": "カメラ",
-                "tr": "kamera",
-                "en": "camera"
+                "reading": "かめら",
+                "meanings": {
+                    "tr": "kamera",
+                    "en": "camera",
+                    "de": "Kamera",
+                    "fr": "appareil photo",
+                    "es": "cámara",
+                    "ko": "카메라"
+                }
             },
             {
                 "word": "お弁当",
                 "reading": "おべんとう",
-                "tr": "öğle yemeği paketi",
-                "en": "lunch box"
+                "meanings": {
+                    "tr": "öğle yemeği paketi",
+                    "en": "lunch box",
+                    "de": "Lunchbox / Bento",
+                    "fr": "panier-repas / bento",
+                    "es": "comida para llevar / bento",
+                    "ko": "도시락"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "〜ないでください",
-                "tr": "... yapmayın",
-                "en": "please do not ..."
+                "meanings": {
+                    "tr": "... yapmayın",
+                    "en": "please do not ...",
+                    "de": "bitte nicht ...",
+                    "fr": "ne ... pas s'il vous plaît",
+                    "es": "no ... por favor",
+                    "ko": "~하지 마세요"
+                }
             },
             {
-                "point": "〜も 〜てきてください",
-                "tr": "...'yı da getirin",
-                "en": "please also bring ..."
-            },
-            {
-                "point": "〜は わたしが もっていきます",
-                "tr": "...'yı ben götüreceğim",
-                "en": "I will bring ..."
+                "point": "〜から",
+                "meanings": {
+                    "tr": "... olduğu için / ...-den dolayı",
+                    "en": "because ...",
+                    "de": "weil ...",
+                    "fr": "parce que ...",
+                    "es": "porque ...",
+                    "ko": "~니까 / ~하기 때문에"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Adam kadından iki şey getirmesini ister: Şapka (ぼうし) ve kamera (カメラ). Kadın öğle yemeği (おべんとう) getirmeli miyim diye sorduğunda ise adam 'Ben getireceğim, gerek yok' diyerek onu eler. Dolayısıyla kadın sadece şapka ve kamera getirecektir (4).",
-        "en": "The man asks the woman to bring two things: a hat (ぼうし) and a camera (カメラ). When the woman asks if she should bring a lunch box (おべんとう), the man says he will bring it and she doesn't need to. Therefore, the woman will bring only the hat and the camera (4)."
+        "tr": "Adam şapka ve kamera ister ancak yemeği kendisinin getireceğini söyleyerek yemeği eler. Doğru cevap şapka ve kameradır (4).",
+        "en": "The man asks for a hat and a camera but excludes the lunch by saying he will bring it. Correct answer is the hat and camera (4).",
+        "de": "Der Mann verlangt einen Hut und eine Kamera, schließt aber das Mittagessen aus, da er es selbst mitbringt. Die richtige Antwort ist Hut und Kamera (4).",
+        "fr": "L'homme demande un chapeau et un appareil photo mais exclut le déjeuner en disant qu'il l'apportera lui-même. La réponse correcte est le chapeau et l'appareil photo (4).",
+        "es": "El hombre pide un sombrero y una cámara, pero excluye la comida diciendo que la traerá él mismo. La respuesta correcta es el sombrero y la cámara (4).",
+        "ko": "남자는 모자와 카메라를 가져오라고 하지만, 도시락은 본인이 가져올 것이라고 합니다. 정답은 모자와 카메라가 있는 4번입니다."
     }
 }

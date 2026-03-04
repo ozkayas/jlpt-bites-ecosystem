@@ -1,90 +1,203 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "みんなの ものを かう (Buying things for everyone)"
+        "topic": {
+            "ja": "みんなの ものを かう",
+            "tr": "Herkes İçin Alışveriş Yapmak",
+            "en": "Buying Things for Everyone",
+            "de": "Dinge für alle kaufen",
+            "fr": "Acheter des choses pour tout le monde",
+            "es": "Comprando cosas para todos",
+            "ko": "모두의 물건 사기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "みんなの ものを かってきましょうか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "え、いいですか。ありがとうございます。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わたしは かさを かいます。すずきさんも かさですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わかりました。じゃ、いってきます。"
-            }
-        ],
-        "question": "おんなのひとは なにを かいますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。",
+            "dialogue": [
+                { "speaker": "女の人", "text": "みんなの ものを かってきましょうか。" },
+                { "speaker": "男の人", "text": "え、いいですか。ありがとうございます。" },
+                { "speaker": "女の人", "text": "わたしは かさを かいます。すずきさんも かさですか。" },
+                { "speaker": "男の人", "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。" },
+                { "speaker": "女の人", "text": "わかりました。じゃ、いってきます。" }
+            ],
+            "question": "おんなのひとは なにを かいますか。"
+        },
+        "tr": {
+            "intro": "Bir mağazada bir kadın ve bir erkek konuşuyor. Kadın ne satın alacak?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Herkesin eşyasını alıp geleyim mi?" },
+                { "speaker": "Erkek", "text": "A, olur mu? Teşekkür ederim." },
+                { "speaker": "Kadın", "text": "Ben şemsiye alacağım. Suzuki Bey de mi şemsiye istiyor?" },
+                { "speaker": "Erkek", "text": "Hayır. Suzuki Bey ve Yamamoto Bey'in matara istediğini düşünüyorum." },
+                { "speaker": "Kadın", "text": "Anladım. O zaman gidiyorum." }
+            ],
+            "question": "Kadın ne satın alacak?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking at a store. What will the woman buy?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "Shall I go and buy things for everyone?" },
+                { "speaker": "Man", "text": "Oh, really? Thank you very much." },
+                { "speaker": "Woman", "text": "I'm buying an umbrella. Does Mr. Suzuki want an umbrella too?" },
+                { "speaker": "Man", "text": "No. I think Mr. Suzuki and Mr. Yamamoto would like water bottles." },
+                { "speaker": "Woman", "text": "I see. Well, I'm off then." }
+            ],
+            "question": "What will the woman buy?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen in einem Geschäft. Was wird die Frau kaufen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Soll ich für alle einkaufen gehen?" },
+                { "speaker": "Mann", "text": "Oh, wirklich? Vielen Dank." },
+                { "speaker": "Frau", "text": "Ich kaufe einen Regenschirm. Möchte Herr Suzuki auch einen Regenschirm?" },
+                { "speaker": "Mann", "text": "Nein. Ich glaube, Herr Suzuki und Herr Yamamoto hätten gerne Trinkflaschen." },
+                { "speaker": "Frau", "text": "Verstehe. Dann gehe ich jetzt los." }
+            ],
+            "question": "Was wird die Frau kaufen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent dans un magasin. Qu'est-ce que la femme va acheter ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Et si j'allais acheter des choses pour tout le monde ?" },
+                { "speaker": "Homme", "text": "Oh, vraiment ? Merci beaucoup." },
+                { "speaker": "Femme", "text": "Je vais acheter un parapluie. M. Suzuki veut aussi un parapluie ?" },
+                { "speaker": "Homme", "text": "Non. Je pense que M. Suzuki et M. Yamamoto aimeraient des gourdes." },
+                { "speaker": "Femme", "text": "Je vois. Bon, j'y vais alors." }
+            ],
+            "question": "Qu'est-ce que la femme va acheter ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando en una tienda. ¿Qué va a comprar la mujer?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "¿Qué tal si voy a comprar cosas para todos?" },
+                { "speaker": "Hombre", "text": "Oh, ¿de verdad? Muchas gracias." },
+                { "speaker": "Mujer", "text": "Yo voy a comprar un paraguas. ¿El Sr. Suzuki también quiere un paraguas?" },
+                { "speaker": "Hombre", "text": "No. Creo que al Sr. Suzuki y al Sr. Yamamoto les gustarían botellas de agua." },
+                { "speaker": "Mujer", "text": "Entiendo. Bueno, me voy entonces." }
+            ],
+            "question": "¿Qué va a comprar la mujer?"
+        },
+        "ko": {
+            "intro": "가게에서 여자와 남자가 이야기하고 있습니다. 여자는 무엇을 삽니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "모두의 물건을 사 올까요?" },
+                { "speaker": "남자", "text": "어, 그래도 될까요? 감사합니다." },
+                { "speaker": "여자", "text": "저는 우산을 살 거예요. 스즈키 씨도 우산인가요?" },
+                { "speaker": "남자", "text": "아니요. 스즈키 씨와 야마모토 씨는 물통(수이토)이 좋을 것 같아요." },
+                { "speaker": "여자", "text": "알겠습니다. 그럼 다녀올게요." }
+            ],
+            "question": "여자는 무엇을 삽니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "かさ",
+                "word": "傘",
                 "reading": "かさ",
-                "tr": "şemsiye",
-                "en": "umbrella"
+                "meanings": {
+                    "tr": "şemsiye",
+                    "en": "umbrella",
+                    "de": "Regenschirm",
+                    "fr": "parapluie",
+                    "es": "paraguas",
+                    "ko": "우산"
+                }
             },
             {
-                "word": "かばん",
+                "word": "鞄",
                 "reading": "かばん",
-                "tr": "çanta",
-                "en": "bag"
+                "meanings": {
+                    "tr": "çanta",
+                    "en": "bag",
+                    "de": "Tasche",
+                    "fr": "sac",
+                    "es": "bolso / maleta",
+                    "ko": "가방"
+                }
             },
             {
-                "word": "すいとう",
+                "word": "水筒",
                 "reading": "すいとう",
-                "tr": "matara / su şişesi",
-                "en": "water bottle / flask"
+                "meanings": {
+                    "tr": "matara / su şişesi",
+                    "en": "water bottle / flask",
+                    "de": "Trinkflasche",
+                    "fr": "gourde",
+                    "es": "botella de agua / cantimplora",
+                    "ko": "물통 / 보틀"
+                }
             },
             {
-                "word": "ちがいます",
+                "word": "違います",
                 "reading": "ちがいます",
-                "tr": "hayır / farklı / değil",
-                "en": "no / that's different / incorrect"
+                "meanings": {
+                    "tr": "hayır / farklı / değil",
+                    "en": "no / that's different / incorrect",
+                    "de": "nein / falsch / anders",
+                    "fr": "non / ce n'est pas ça",
+                    "es": "no / es diferente / no es así",
+                    "ko": "아닙니다 / 틀립니다"
+                }
             },
             {
                 "word": "みんな",
                 "reading": "みんな",
-                "tr": "herkes",
-                "en": "everyone"
+                "meanings": {
+                    "tr": "herkes",
+                    "en": "everyone",
+                    "de": "alle",
+                    "fr": "tout le monde",
+                    "es": "todos / todo el mundo",
+                    "ko": "모두 / 여러분"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～ましょうか",
-                "tr": "...-(a/e)yım mı? (yardım teklifi)",
-                "en": "Shall I...? (offering to help)"
+                "meanings": {
+                    "tr": "...-(a/e)yım mı? (yardım teklifi)",
+                    "en": "Shall I...? (offering to help)",
+                    "de": "Soll ich...?",
+                    "fr": "Puis-je...? / Est-ce que je...?",
+                    "es": "¿Quiere que...? / ¿Hago...?",
+                    "ko": "~할까요? (제의)"
+                }
             },
             {
                 "point": "～が いいです",
-                "tr": "...-ı/yı tercih ederim / ...-ı/yı istiyorum",
-                "en": "I'd like... / I prefer..."
+                "meanings": {
+                    "tr": "...-ı/yı tercih ederim / ...-ı/yı istiyorum",
+                    "en": "I'd like... / I prefer...",
+                    "de": "Ich hätte gerne...",
+                    "fr": "Je voudrais... / Je préfère...",
+                    "es": "Me gustaría... / Prefiero...",
+                    "ko": "~이/가 좋습니다 (선호)"
+                }
             },
             {
                 "point": "～と おもいます",
-                "tr": "...diye düşünüyorum",
-                "en": "I think that..."
+                "meanings": {
+                    "tr": "...diye düşünüyorum",
+                    "en": "I think that...",
+                    "de": "Ich glaube, dass... / Ich denke, dass...",
+                    "fr": "Je pense que...",
+                    "es": "Creo que... / Pienso que...",
+                    "ko": "~라고 생각합니다"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın kendisi için şemsiye alacak. Suzuki ve Yamamoto ise matara istiyor. Doğru seçenek (2): 1 şemsiye + 2 matara. (1) yanlıştır çünkü şemsiye yerine çanta var. (3) yanlıştır çünkü mataralar eksik. (4) yanlıştır çünkü şemsiye sayısı yanlış (2 şemsiye + 1 matara).",
-        "en": "The woman will buy an umbrella for herself, and 2 water bottles for Suzuki and Yamamoto. The correct answer is (2): 1 umbrella + 2 water bottles. (1) is wrong because it has a bag instead of an umbrella. (3) is wrong because the water bottles are missing. (4) is wrong because the quantities are swapped (2 umbrellas + 1 water bottle)."
+        "tr": "Kadın kendisi için şemsiye (かさ), diğer iki kişi için matara (すいとう) alacak. Doğru cevap: 1 şemsiye ve 2 mataranın olduğu görseldir.",
+        "en": "The woman will buy an umbrella for herself and water bottles for the other two people. The correct answer is the image with 1 umbrella and 2 water bottles.",
+        "de": "Die Frau kauft einen Regenschirm für sich selbst und Trinkflaschen für die anderen zwei Personen. Die richtige Antwort ist das Bild mit 1 Regenschirm und 2 Trinkflaschen.",
+        "fr": "La femme va acheter un parapluie pour elle-même et des gourdes pour les deux autres personnes. La réponse correcte est l'image avec 1 parapluie et 2 gourdes.",
+        "es": "La mujer comprará un paraguas para ella y botellas de agua para las otras dos personas. La respuesta correcta es la imagen con 1 paraguas y 2 botellas de agua.",
+        "ko": "여자는 본인용 우산(かさ) 한 개와 다른 두 사람을 위한 물통(すいとう) 두 개를 삽니다. 정답은 우산 한 개와 물통 두 개가 있는 그림입니다."
     }
 }

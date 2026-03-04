@@ -1,71 +1,166 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "パーティーの　じかん (Time of the party)"
+        "topic": {
+            "ja": "パーティーの　じかん",
+            "tr": "Parti Zamanı",
+            "en": "Party Time",
+            "de": "Partyzeit",
+            "fr": "L'heure de la fête",
+            "es": "La hora de la fiesta",
+            "ko": "파티 시간"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 1,
-    "transcription": {
-        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "あしたの　ぱーてぃーは　ろくじからです。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "わかりました。では、そのじかんに　いきます。"
-            }
-        ],
-        "question": "おんなのひとは　なんじに　いきますか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？",
+            "dialogue": [
+                { "speaker": "男の人", "text": "あしたの　ぱーてぃーは　ろくじからです。" },
+                { "speaker": "男の人", "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。" },
+                { "speaker": "女の人", "text": "わかりました。では、そのじかんに　いきます。" }
+            ],
+            "question": "おんなのひとは　なんじに　いきますか？"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın saat kaçta gidecek?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Yarınki parti saat altıda başlıyor." },
+                { "speaker": "Erkek", "text": "Biraz hazırlık yapacağımız için yirmi dakika önce gelin lütfen." },
+                { "speaker": "Kadın", "text": "Anladım. O zaman o saatte gideceğim." }
+            ],
+            "question": "Kadın saat kaçta gidecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What time will the woman go?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Tomorrow's party starts at six o'clock." },
+                { "speaker": "Man", "text": "We need to do some preparation, so please come twenty minutes before." },
+                { "speaker": "Woman", "text": "Understood. I will go at that time then." }
+            ],
+            "question": "What time will the woman go?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau sprechen miteinander. Um wie viel Uhr wird die Frau gehen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Die Party morgen beginnt um sechs Uhr." },
+                { "speaker": "Mann", "text": "Wir müssen noch etwas vorbereiten, also kommen Sie bitte zwanzig Minuten vorher." },
+                { "speaker": "Frau", "text": "Verstanden. Dann werde ich um diese Zeit kommen." }
+            ],
+            "question": "Um wie viel Uhr wird die Frau gehen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. À quelle heure la femme va-t-elle y aller ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "La fête de demain commence à six heures." },
+                { "speaker": "Homme", "text": "Nous devons faire quelques préparatifs, alors venez vingt minutes avant s'il vous plaît." },
+                { "speaker": "Femme", "text": "D'accord. J'irai à cette heure-là alors." }
+            ],
+            "question": "À quelle heure la femme va-t-elle y aller ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿A qué hora irá la mujer?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "La fiesta de mañana empieza a las seis." },
+                { "speaker": "Hombre", "text": "Tenemos que hacer algunos preparativos, así que por favor ven veinte minutos antes." },
+                { "speaker": "Mujer", "text": "Entendido. Iré a esa hora entonces." }
+            ],
+            "question": "¿A qué hora irá la mujer?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 몇 시에 갑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "내일 파티는 6시부터입니다." },
+                { "speaker": "남자", "text": "준비를 좀 해야 하니까, 20분 전에 와 주세요." },
+                { "speaker": "여자", "text": "알겠습니다. 그럼 그때 갈게요." }
+            ],
+            "question": "여자는 몇 시에 갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "ぱーてぃー",
+                "word": "パーティー",
                 "reading": "ぱーてぃー",
-                "tr": "parti",
-                "en": "party"
+                "meanings": {
+                    "tr": "parti",
+                    "en": "party",
+                    "de": "Party",
+                    "fr": "fête / party",
+                    "es": "fiesta",
+                    "ko": "파티"
+                }
             },
             {
-                "word": "ろくじ",
+                "word": "六時",
                 "reading": "ろくじ",
-                "tr": "saat altı",
-                "en": "six o'clock"
+                "meanings": {
+                    "tr": "saat altı",
+                    "en": "six o'clock",
+                    "de": "sechs Uhr",
+                    "fr": "six heures",
+                    "es": "las seis",
+                    "ko": "6시"
+                }
             },
             {
-                "word": "じゅんび",
+                "word": "準備",
                 "reading": "じゅんび",
-                "tr": "hazırlık",
-                "en": "preparation"
+                "meanings": {
+                    "tr": "hazırlık",
+                    "en": "preparation",
+                    "de": "Vorbereitung",
+                    "fr": "préparatifs",
+                    "es": "preparación",
+                    "ko": "준비"
+                }
             },
             {
-                "word": "にじゅっぷんまえ",
+                "word": "二十分前",
                 "reading": "にじゅっぷんまえ",
-                "tr": "yirmi dakika önce",
-                "en": "twenty minutes before"
+                "meanings": {
+                    "tr": "yirmi dakika önce",
+                    "en": "twenty minutes before",
+                    "de": "zwanzig Minuten vorher",
+                    "fr": "vingt minutes avant",
+                    "es": "veinte minutos antes",
+                    "ko": "20분 전"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～から",
-                "tr": "-den itibaren",
-                "en": "from"
+                "meanings": {
+                    "tr": "-den itibaren",
+                    "en": "from",
+                    "de": "ab / von",
+                    "fr": "à partir de",
+                    "es": "desde",
+                    "ko": "~부터"
+                }
             },
             {
                 "point": "～てください",
-                "tr": "lütfen ... yapın",
-                "en": "please do ..."
+                "meanings": {
+                    "tr": "lütfen ... yapın",
+                    "en": "please do ...",
+                    "de": "bitte machen Sie ...",
+                    "fr": "s'il vous plaît, faites ...",
+                    "es": "por favor, haga ...",
+                    "ko": "~해 주세요"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Parti saat 18:00'de (ろくじ) başlıyor. Adam, hazırlık (じゅんび) için kadından 20 dakika önce (にじゅっぷんまえ) gelmesini istiyor. 18:00'den 20 dakika çıkarıldığında sonuç 17:40 olur. 17:20 (Hatalı çıkarma), 18:00 (Başlangıç saati) ve 18:20 (Hatalı toplama) yanıltıcı seçeneklerdir.",
-        "en": "The party starts at 18:00 (6-ji). The man asks the woman to come 20 minutes before (nijuppun-mae) for preparation (junbi). Subtracting 20 minutes from 18:00 results in 17:40. Distractors include 17:20 (incorrect subtraction), 18:00 (start time), and 18:20 (incorrect addition)."
+        "tr": "Parti 18:00'de başlıyor. Hazırlık için 20 dakika önce gelinmesi istendiği için doğru cevap 17:40'tır.",
+        "en": "The party starts at 18:00. Since she is asked to come 20 minutes before for preparation, the correct answer is 17:40.",
+        "de": "Die Party beginnt um 18:00 Uhr. Da sie gebeten wird, zwanzig Minuten vorher zur Vorbereitung zu kommen, ist die richtige Antwort 17:40 Uhr.",
+        "fr": "La fête commence à 18h00. Comme on lui demande de venir 20 minutes avant pour les préparatifs, la réponse correcte est 17h40.",
+        "es": "La fiesta empieza a las 18:00. Como se le pide que venga 20 minutos antes para la preparación, la respuesta correcta es las 17:40.",
+        "ko": "파티는 18:00에 시작합니다. 준비를 위해 20분 전에 오라고 했으므로 정답은 17:40입니다."
     }
 }

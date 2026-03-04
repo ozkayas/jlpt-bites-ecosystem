@@ -1,85 +1,192 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "ほんを　とりに　いく (Going to pick up a book)"
+        "topic": {
+            "ja": "ほんを　とりに　いく",
+            "tr": "Kitap Almaya Gitmek",
+            "en": "Going to Pick Up a Book",
+            "de": "Ein Buch abholen gehen",
+            "fr": "Aller chercher un livre",
+            "es": "Yendo a recoger un libro",
+            "ko": "책 찾으러 가기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 3,
-    "transcription": {
-        "intro": "でんわで　としょかんの　ひとと　おんなの　ひとが　はなして　います. おんなの　ひとは　いつ　としょかんに　いきますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "おでんわ　ありがとう　ございます. ちゅうおう　としょかんです。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "すみません. ほんを　かりたいのですが、げつようびの　よる　いっても　いいですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "もうしわけ　ありません. げつようびは　おやすみです. かようびは　どうですか。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "かようびですか. わかりました. ごご　いっても　いいですか。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい、だいじょうぶですよ。"
-            }
-        ],
-        "question": "おんなの　ひとは　いつ　としょかんに　いきますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "でんわで　としょかんの　ひとと　おんなの　ひとが　はなしています。おんなの　ひとは　いつ　としょかんに　いきますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "おでんわ　ありがとうございます。ちゅうおう　としょかんです。" },
+                { "speaker": "女の人", "text": "すみません。ほんを　かりたいのですが、げつようびの　よる　いっても　いいですか。" },
+                { "speaker": "男の人", "text": "もうしわけ　ありません。げつようびは　おやすみです。かようびは　どうですか。" },
+                { "speaker": "女の人", "text": "かようびですか。わかりました。ごご　いっても　いいですか。" },
+                { "speaker": "男の人", "text": "はい、だいじょうぶですよ。" }
+            ],
+            "question": "おんなの　ひとは　いつ　としょかんに　いきますか。"
+        },
+        "tr": {
+            "intro": "Telefonda kütüphane görevlisi ve bir kadın konuşuyor. Kadın kütüphaneye ne zaman gidecek?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Aradığınız için teşekkürler. Merkez Kütüphanesi." },
+                { "speaker": "Kadın", "text": "Affedersiniz. Kitap ödünç almak istiyorum, Pazartesi akşamı gelebilir miyim?" },
+                { "speaker": "Erkek", "text": "Çok üzgünüm. Pazartesi günleri kapalıyız. Salı günü nasıl?" },
+                { "speaker": "Kadın", "text": "Salı mı? Anladım. Öğleden sonra gelebilir miyim?" },
+                { "speaker": "Erkek", "text": "Evet, gelebilirsiniz." }
+            ],
+            "question": "Kadın kütüphaneye ne zaman gidecek?"
+        },
+        "en": {
+            "intro": "A library staff member and a woman are talking on the phone. When will the woman go to the library?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Thank you for calling. This is the Central Library." },
+                { "speaker": "Woman", "text": "Excuse me. I'd like to borrow a book, can I come on Monday evening?" },
+                { "speaker": "Man", "text": "I'm sorry. We are closed on Mondays. How about Tuesday?" },
+                { "speaker": "Woman", "text": "Tuesday? I see. Can I come in the afternoon?" },
+                { "speaker": "Man", "text": "Yes, that's fine." }
+            ],
+            "question": "When will the woman go to the library?"
+        },
+        "de": {
+            "intro": "Ein Bibliotheksmitarbeiter und eine Frau sprechen am Telefon miteinander. Wann wird die Frau in die Bibliothek gehen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Vielen Dank für Ihren Anruf. Hier ist die Zentralbibliothek." },
+                { "speaker": "Frau", "text": "Entschuldigung. Ich möchte gerne ein Buch ausleihen. Kann ich am Montagabend kommen?" },
+                { "speaker": "Mann", "text": "Es tut mir leid. Montags haben wir geschlossen. Wie wäre es mit Dienstag?" },
+                { "speaker": "Frau", "text": "Dienstag? Verstehe. Kann ich am Nachmittag kommen?" },
+                { "speaker": "Mann", "text": "Ja, das ist kein Problem." }
+            ],
+            "question": "Wann wird die Frau in die Bibliothek gehen?"
+        },
+        "fr": {
+            "intro": "Un employé de bibliothèque et une femme parlent au téléphone. Quand la femme ira-t-elle à la bibliothèque ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Merci de votre appel. Bibliothèque centrale." },
+                { "speaker": "Femme", "text": "Excusez-moi. J'aimerais emprunter un livre, puis-je venir lundi soir ?" },
+                { "speaker": "Homme", "text": "Je suis désolé. Nous sommes fermés le lundi. Que diriez-vous de mardi ?" },
+                { "speaker": "Femme", "text": "Mardi ? Je vois. Puis-je venir l'après-midi ?" },
+                { "speaker": "Homme", "text": "Oui, c'est possible." }
+            ],
+            "question": "Quand la femme ira-t-elle à la bibliothèque ?"
+        },
+        "es": {
+            "intro": "Un empleado de la biblioteca y una mujer están hablando por teléfono. ¿Cuándo irá la mujer a la biblioteca?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Gracias por llamar. Biblioteca Central." },
+                { "speaker": "Mujer", "text": "Disculpe. Me gustaría pedir prestado un libro, ¿puedo ir el lunes por la noche?" },
+                { "speaker": "Hombre", "text": "Lo siento mucho. Los lunes estamos cerrados. ¿Qué tal el martes?" },
+                { "speaker": "Mujer", "text": "¿El martes? Entiendo. ¿Puedo ir por la tarde?" },
+                { "speaker": "Hombre", "text": "Sí, no hay problema." }
+            ],
+            "question": "¿Cuándo irá la mujer a la biblioteca?"
+        },
+        "ko": {
+            "intro": "전화로 도서관 직원과 여자가 이야기하고 있습니다. 여자는 언제 도서관에 갑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "전화 주셔서 감사합니다. 중앙 도서관입니다." },
+                { "speaker": "여자", "text": "실례합니다. 책을 빌리고 싶은데, 월요일 저녁에 가도 될까요?" },
+                { "speaker": "남자", "text": "죄송합니다. 월요일은 휴관입니다. 화요일은 어떠신가요?" },
+                { "speaker": "여자", "text": "화요일요? 알겠습니다. 오후에 가도 될까요?" },
+                { "speaker": "남자", "text": "네, 괜찮습니다." }
+            ],
+            "question": "여자는 언제 도서관에 갑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "としょかん",
+                "word": "図書館",
                 "reading": "としょかん",
-                "tr": "kütüphane",
-                "en": "library"
+                "meanings": {
+                    "tr": "kütüphane",
+                    "en": "library",
+                    "de": "Bibliothek",
+                    "fr": "bibliothèque",
+                    "es": "biblioteca",
+                    "ko": "도서관"
+                }
             },
             {
-                "word": "げつようび",
+                "word": "月曜日",
                 "reading": "げつようび",
-                "tr": "Pazartesi",
-                "en": "Monday"
+                "meanings": {
+                    "tr": "Pazartesi",
+                    "en": "Monday",
+                    "de": "Montag",
+                    "fr": "lundi",
+                    "es": "lunes",
+                    "ko": "월요일"
+                }
             },
             {
-                "word": "かようび",
+                "word": "火曜日",
                 "reading": "かようび",
-                "tr": "Salı",
-                "en": "Tuesday"
+                "meanings": {
+                    "tr": "Salı",
+                    "en": "Tuesday",
+                    "de": "Dienstag",
+                    "fr": "mardi",
+                    "es": "martes",
+                    "ko": "화요일"
+                }
             },
             {
-                "word": "かりる",
+                "word": "借りる",
                 "reading": "かりる",
-                "tr": "ödünç almak",
-                "en": "to borrow"
+                "meanings": {
+                    "tr": "ödünç almak",
+                    "en": "to borrow",
+                    "de": "ausleihen",
+                    "fr": "emprunter",
+                    "es": "pedir prestado",
+                    "ko": "빌리다"
+                }
             },
             {
-                "word": "ごご",
+                "word": "午後",
                 "reading": "ごご",
-                "tr": "öğleden sonra",
-                "en": "afternoon"
+                "meanings": {
+                    "tr": "öğleden sonra",
+                    "en": "afternoon",
+                    "de": "Nachmittag",
+                    "fr": "après-midi",
+                    "es": "tarde",
+                    "ko": "오후"
+                }
             }
         ],
         "grammar": [
             {
-                "point": "～は　おやすみです",
-                "tr": "... kapalıdır / tatildir",
-                "en": "is closed / is on holiday"
+                "point": "～はお休みです",
+                "meanings": {
+                    "tr": "... kapalıdır / tatildir",
+                    "en": "is closed / is on holiday",
+                    "de": "hat geschlossen / ist ein Ruhetag",
+                    "fr": "est fermé / est en congé",
+                    "es": "está cerrado / es festivo",
+                    "ko": "~은/는 휴일입니다 / 쉽니다"
+                }
             },
             {
-                "point": "～は　どうですか",
-                "tr": "... nasıldır? / ... ne dersiniz?",
-                "en": "How about ...?"
+                "point": "～はどうですか",
+                "meanings": {
+                    "tr": "... nasıldır? / ... ne dersiniz?",
+                    "en": "How about ...?",
+                    "de": "Wie wäre es mit ...?",
+                    "fr": "Que diriez-vous de ...?",
+                    "es": "¿Qué tal ...? / ¿Qué le parece ...?",
+                    "ko": "~은/는 어떠신가요?"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Kadın kütüphaneye Pazartesi akşamı (1) gitmek istiyor ancak kütüphane o gün kapalıdır. Görevli Salı gününü önerir. Kadın Salı öğleden sonra (4) gelmeyi kabul eder. Pazartesi gündüz (2) ve Salı sabah (3) yanıltıcı seçeneklerdir.",
-        "en": "The woman wants to go to the library on Monday evening (1), but the library is closed that day. The clerk suggests Tuesday. The woman agrees to come on Tuesday afternoon (4). Monday daytime (2) and Tuesday morning (3) are distractors."
+        "tr": "Kütüphane Pazartesi kapalıdır. Kadın Salı günü öğleden sonra gelmeyi kabul eder. Doğru cevap (4).",
+        "en": "The library is closed on Monday. The woman agrees to come on Tuesday afternoon. Correct answer is (4).",
+        "de": "Die Bibliothek ist montags geschlossen. Die Frau erklärt sich bereit, am Dienstagnachmittag zu kommen. Die richtige Antwort ist (4).",
+        "fr": "La bibliothèque est fermée le lundi. La femme accepte de venir mardi après-midi. La réponse correcte est (4).",
+        "es": "La biblioteca está cerrada los lunes. La mujer acepta ir el martes por la tarde. La respuesta correcta es (4).",
+        "ko": "도서관은 월요일에 쉽니다. 여자는 화요일 오후에 오기로 합니다. 정답은 4번입니다."
     }
 }

@@ -1,81 +1,185 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "こうえんに　いく　でんしゃを　えらぶ (Choosing the train to the park)"
+        "topic": {
+            "ja": "こうえんに　いく　でんしゃを　えらぶ",
+            "tr": "Parka Giden Treni Seçmek",
+            "en": "Choosing the Train to the Park",
+            "de": "Den Zug zum Park auswählen",
+            "fr": "Choisir le train pour aller au parc",
+            "es": "Eligiendo el tren hacia el parque",
+            "ko": "공원에 가는 기차 고르기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 3,
-    "transcription": {
-        "intro": "がっこうで　せんせいが　がくせいに　はなして　います。がくせいは　あしたの　あさ　どのでんしゃに　のりますか。",
-        "dialogue": [
-            {
-                "speaker": "男の人",
-                "text": "あしたは　こうえんに　いきます。でんしゃで　きて　ください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "こうえんへ　いく　でんしゃは　じゅうばんと　じゅうにばんですが、あさは　じゅうにばんの　でんしゃは　ありません。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "ですから、あしたの　あさは　じゅうばんの　あおい　でんしゃに　のって　ください。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "はい、わかりました。"
-            }
-        ],
-        "question": "がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで　せんせいが　がくせいに　はなしています。がくせいは　あしたの　あさ　どのでんしゃに　のりますか。",
+            "dialogue": [
+                { "speaker": "男の人", "text": "あしたは　こうえんに　いきます。でんしゃで　きてください。" },
+                { "speaker": "男の人", "text": "こうえんへ　いく　でんしゃは　じゅうばんと　じゅうにばんですが、あさは　じゅうにばんの　でんしゃは　ありません。" },
+                { "speaker": "男の人", "text": "ですから、あしたの　あさは　じゅうばんの　あおい　でんしゃに　のってください。" },
+                { "speaker": "女の人", "text": "はい、わかりました。" }
+            ],
+            "question": "がくせいは　あしたの　あさ　どのでんしゃに　のりますか。"
+        },
+        "tr": {
+            "intro": "Okulda öğretmen öğrencilere konuşuyor. Öğrenciler yarın sabah hangi trene binecekler?",
+            "dialogue": [
+                { "speaker": "Erkek", "text": "Yarın parka gideceğiz. Trenle gelin lütfen." },
+                { "speaker": "Erkek", "text": "Parka giden trenler 10 ve 12 numaralı trenlerdir ama sabah 12 numaralı tren yoktur." },
+                { "speaker": "Erkek", "text": "Bu yüzden, yarın sabah 10 numaralı mavi trene binin lütfen." },
+                { "speaker": "Kadın", "text": "Tamam, anladım." }
+            ],
+            "question": "Öğrenciler yarın sabah hangi trene binecekler?"
+        },
+        "en": {
+            "intro": "A teacher is talking to students at school. Which train will the students take tomorrow morning?",
+            "dialogue": [
+                { "speaker": "Man", "text": "Tomorrow we are going to the park. Please come by train." },
+                { "speaker": "Man", "text": "The trains to the park are numbers 10 and 12, but there is no number 12 train in the morning." },
+                { "speaker": "Man", "text": "Therefore, please take the blue train number 10 tomorrow morning." },
+                { "speaker": "Woman", "text": "Yes, I understand." }
+            ],
+            "question": "Which train will the students take tomorrow morning?"
+        },
+        "de": {
+            "intro": "Ein Lehrer spricht in der Schule zu den Schülern. Welchen Zug werden die Schüler morgen früh nehmen?",
+            "dialogue": [
+                { "speaker": "Mann", "text": "Morgen gehen wir in den Park. Bitte kommen Sie mit dem Zug." },
+                { "speaker": "Mann", "text": "Die Züge zum Park sind die Nummern 10 und 12, aber morgens fährt kein Zug der Nummer 12." },
+                { "speaker": "Mann", "text": "Nehmen Sie daher bitte morgen früh den blauen Zug Nummer 10." },
+                { "speaker": "Frau", "text": "Ja, verstanden." }
+            ],
+            "question": "Welchen Zug werden die Schüler morgen früh nehmen?"
+        },
+        "fr": {
+            "intro": "Un professeur parle aux élèves à l'école. Quel train les élèves prendront-ils demain matin ?",
+            "dialogue": [
+                { "speaker": "Homme", "text": "Demain, nous allons au parc. Veuillez venir en train." },
+                { "speaker": "Homme", "text": "Les trains pour le parc sont les numéros 10 et 12, mais il n'y a pas de train numéro 12 le matin." },
+                { "speaker": "Homme", "text": "Par conséquent, veuillez prendre le train bleu numéro 10 demain matin." },
+                { "speaker": "Femme", "text": "D'accord, j'ai compris." }
+            ],
+            "question": "Quel train les élèves prendront-ils demain matin ?"
+        },
+        "es": {
+            "intro": "Un profesor está hablando con los estudiantes en la escuela. ¿Qué tren tomarán los estudiantes mañana por la mañana?",
+            "dialogue": [
+                { "speaker": "Hombre", "text": "Mañana vamos al parque. Por favor, vengan en tren." },
+                { "speaker": "Hombre", "text": "Los trenes que van al parque son el 10 y el 12, pero por la mañana no hay tren número 12." },
+                { "speaker": "Hombre", "text": "Por lo tanto, por favor tomen el tren azul número 10 mañana por la mañana." },
+                { "speaker": "Mujer", "text": "Sí, entiendo." }
+            ],
+            "question": "¿Qué tren tomarán los estudiantes mañana por la mañana?"
+        },
+        "ko": {
+            "intro": "학교에서 선생님이 학생들에게 이야기하고 있습니다. 학생들은 내일 아침 어떤 기차를 탑니까?",
+            "dialogue": [
+                { "speaker": "남자", "text": "내일은 공원에 갑니다. 기차로 오세요." },
+                { "speaker": "남자", "text": "공원에 가는 기차는 10번과 12번이지만, 아침에는 12번 기차가 없습니다." },
+                { "speaker": "남자", "text": "그러니까, 내일 아침에는 10번 파란색 기차를 타세요." },
+                { "speaker": "여자", "text": "네, 알겠습니다." }
+            ],
+            "question": "학생들은 내일 아침 어떤 기차를 탑니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "こうえん",
+                "word": "公園",
                 "reading": "こうえん",
-                "tr": "park",
-                "en": "park"
+                "meanings": {
+                    "tr": "park",
+                    "en": "park",
+                    "de": "Park",
+                    "fr": "parc",
+                    "es": "parque",
+                    "ko": "공원"
+                }
             },
             {
-                "word": "でんしゃ",
+                "word": "電車",
                 "reading": "でんしゃ",
-                "tr": "tren",
-                "en": "train"
+                "meanings": {
+                    "tr": "tren",
+                    "en": "train",
+                    "de": "Zug",
+                    "fr": "train",
+                    "es": "tren",
+                    "ko": "기차 / 전철"
+                }
             },
             {
-                "word": "じゅうばん",
+                "word": "十番",
                 "reading": "じゅうばん",
-                "tr": "10 numara",
-                "en": "number 10"
+                "meanings": {
+                    "tr": "10 numara",
+                    "en": "number 10",
+                    "de": "Nummer 10",
+                    "fr": "numéro 10",
+                    "es": "número 10",
+                    "ko": "10번"
+                }
             },
             {
-                "word": "あおい",
+                "word": "青い",
                 "reading": "あおい",
-                "tr": "mavi",
-                "en": "blue"
+                "meanings": {
+                    "tr": "mavi",
+                    "en": "blue",
+                    "de": "blau",
+                    "fr": "bleu",
+                    "es": "azul",
+                    "ko": "파란색"
+                }
             },
             {
                 "word": "ありません",
                 "reading": "ありません",
-                "tr": "yok / bulunmuyor",
-                "en": "there isn't / doesn't exist"
+                "meanings": {
+                    "tr": "yok / bulunmuyor",
+                    "en": "there isn't / doesn't exist",
+                    "de": "gibt es nicht",
+                    "fr": "il n'y a pas",
+                    "es": "no hay",
+                    "ko": "없습니다"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～ですが",
-                "tr": "...-dır ama / ancak",
-                "en": "is ..., but"
+                "meanings": {
+                    "tr": "...-dır ama / ancak",
+                    "en": "is ..., but",
+                    "de": "ist ..., aber",
+                    "fr": "est ..., mais",
+                    "es": "es ..., pero",
+                    "ko": "~입니다만"
+                }
             },
             {
                 "point": "ですから",
-                "tr": "bu yüzden",
-                "en": "therefore"
+                "meanings": {
+                    "tr": "bu yüzden",
+                    "en": "therefore",
+                    "de": "deshalb",
+                    "fr": "c'est pourquoi / donc",
+                    "es": "por eso / por lo tanto",
+                    "ko": "그러니까 / 그래서"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Öğretmen parka giden 10 ve 12 numaralı trenlerden bahseder ancak 12 numaranın sabah çalışmadığını belirtir. Yarın sabah için öğrencilere 10 numaralı mavi trene (4) binmeleri talimatını verir. 10 beyaz (1), 12 beyaz (2) ve 12 mavi (3) yanıltıcı seçeneklerdir.",
-        "en": "The teacher mentions trains 10 and 12 for the park but notes that number 12 doesn't run in the morning. He instructs the students to take the blue train number 10 (4) for tomorrow morning. Distractors include 10 white (1), 12 white (2), and 12 blue (3)."
+        "tr": "Öğretmen 12 numaranın sabah olmadığını söyler ve öğrencilere 10 numaralı mavi trene (4) binmelerini söyler.",
+        "en": "The teacher says number 12 doesn't run in the morning and tells students to take the blue train number 10 (4).",
+        "de": "Der Lehrer sagt, dass Nummer 12 morgens nicht fährt, und weist die Schüler an, den blauen Zug Nummer 10 (4) zu nehmen.",
+        "fr": "Le professeur dit que le numéro 12 ne circule pas le matin et demande aux élèves de prendre le train bleu numéro 10 (4).",
+        "es": "El profesor dice que el número 12 no circula por la mañana y les dice a los alumnos que tomen el tren azul número 10 (4).",
+        "ko": "선생님은 12번 기차는 아침에 없다고 하며, 10번 파란색 기차(4번)를 타라고 말합니다."
     }
 }

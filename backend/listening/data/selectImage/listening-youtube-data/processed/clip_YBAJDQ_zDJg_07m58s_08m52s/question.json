@@ -1,132 +1,180 @@
 {
     "metadata": {
         "level": "N5",
-        "topic": "びょういんで くすりの のみかたを きく (Listening to medicine instructions)"
+        "topic": {
+            "ja": "びょういんで くすりの のみかたを きく",
+            "tr": "Hastanede İlaç Kullanımını Dinlemek",
+            "en": "Listening to Medicine Instructions at the Hospital",
+            "de": "Anweisungen zur Medikamenteneinnahme im Krankenhaus",
+            "fr": "Instructions pour prendre les médicaments à l'hôpital",
+            "es": "Instrucciones para tomar medicamentos en el hospital",
+            "ko": "병원에서 약 먹는 법 듣기"
+        }
     },
     "audio_url": null,
     "image_url": null,
     "correct_option": 2,
-    "transcription": {
-        "intro": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？",
-        "dialogue": [
-            {
-                "speaker": "女の人",
-                "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "はい。"
-            },
-            {
-                "speaker": "女の人",
-                "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。"
-            },
-            {
-                "speaker": "男の人",
-                "text": "ひとつですか？"
-            },
-            {
-                "speaker": "女の人",
-                "text": "いいえ、ふたつ のんでください。"
-            }
-        ],
-        "question": "おとこのひとは あさごはんの あと どの くすりを のみますか？"
+    "transcriptions": {
+        "ja": {
+            "intro": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？",
+            "dialogue": [
+                { "speaker": "女の人", "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。" },
+                { "speaker": "男の人", "text": "はい。" },
+                { "speaker": "女の人", "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。" },
+                { "speaker": "男の人", "text": "ひとつですか？" },
+                { "speaker": "女の人", "text": "いいえ、ふたつ のんでください。" }
+            ],
+            "question": "おとこのひとは あさごはんの あと どの くすりを のみますか？"
+        },
+        "tr": {
+            "intro": "Hastanede bir kadın ve bir erkek konuşuyor. Erkek kahvaltıdan sonra hangi ilacı içecek?",
+            "dialogue": [
+                { "speaker": "Kadın", "text": "Bu büyük ilaç sabah ve akşam günde iki kez yemeklerden sonra içilmelidir." },
+                { "speaker": "Erkek", "text": "Tamam." },
+                { "speaker": "Kadın", "text": "Bir de şu küçük kırmızı ilacı sadece kahvaltıdan sonra için lütfen." },
+                { "speaker": "Erkek", "text": "Bir tane mi?" },
+                { "speaker": "Kadın", "text": "Hayır, iki tane için lütfen." }
+            ],
+            "question": "Erkek kahvaltıdan sonra hangi ilacı içecek?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking at a hospital. Which medicine will the man take after breakfast?",
+            "dialogue": [
+                { "speaker": "Woman", "text": "This large medicine should be taken twice a day, in the morning and evening, after meals." },
+                { "speaker": "Man", "text": "Yes." },
+                { "speaker": "Woman", "text": "Also, please take this small red medicine only after breakfast." },
+                { "speaker": "Man", "text": "One pill?" },
+                { "speaker": "Woman", "text": "No, please take two." }
+            ],
+            "question": "Which medicine will the man take after breakfast?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann sprechen in einem Krankenhaus miteinander. Welche Medizin wird der Mann nach dem Frühstück einnehmen?",
+            "dialogue": [
+                { "speaker": "Frau", "text": "Diese große Medizin soll zweimal täglich, morgens und abends, nach den Mahlzeiten eingenommen werden." },
+                { "speaker": "Mann", "text": "Ja." },
+                { "speaker": "Frau", "text": "Und diese kleine rote Medizin nehmen Sie bitte nur nach dem Frühstück ein." },
+                { "speaker": "Mann", "text": "Eine Tablette?" },
+                { "speaker": "Frau", "text": "Nein, nehmen Sie bitte zwei." }
+            ],
+            "question": "Welche Medizin wird der Mann nach dem Frühstück einnehmen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent dans un hôpital. Quel médicament l'homme va-t-il prendre après le petit-déjeuner ?",
+            "dialogue": [
+                { "speaker": "Femme", "text": "Ce gros médicament doit être pris deux fois par jour, le matin et le soir, après les repas." },
+                { "speaker": "Homme", "text": "Oui." },
+                { "speaker": "Femme", "text": "Et ce petit médicament rouge, prenez-le seulement après le petit-déjeuner s'il vous plaît." },
+                { "speaker": "Homme", "text": "Un seul ?" },
+                { "speaker": "Femme", "text": "Non, prenez-en deux s'il vous plaît." }
+            ],
+            "question": "Quel médicament l'homme va-t-il prendre après le petit-déjeuner ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando en un hospital. ¿Qué medicina tomará el hombre después del desayuno?",
+            "dialogue": [
+                { "speaker": "Mujer", "text": "Esta medicina grande debe tomarse dos veces al día, por la mañana y por la noche, después de las comidas." },
+                { "speaker": "Hombre", "text": "Sí." },
+                { "speaker": "Mujer", "text": "Y esta medicina pequeña roja, tómela solo después del desayuno, por favor." },
+                { "speaker": "Hombre", "text": "¿Una sola?" },
+                { "speaker": "Mujer", "text": "No, tome dos, por favor." }
+            ],
+            "question": "¿Qué medicina tomará el hombre después del desayuno?"
+        },
+        "ko": {
+            "intro": "병원에서 여자와 남자가 이야기하고 있습니다. 남자는 아침 식사 후에 어떤 약을 먹습니까?",
+            "dialogue": [
+                { "speaker": "여자", "text": "이 큰 약은 아침과 저녁 하루 두 번 식사 후에 드세요." },
+                { "speaker": "남자", "text": "네." },
+                { "speaker": "여자", "text": "그리고 이 작은 빨간 약은 아침 식사 후에만 드세요." },
+                { "speaker": "남자", "text": "한 개인가요?" },
+                { "speaker": "여자", "text": "아니요, 두 개 드세요." }
+            ],
+            "question": "남자는 아침 식사 후에 어떤 약을 먹습니까?"
+        }
     },
     "analysis": {
         "vocabulary": [
             {
-                "word": "びょういん",
-                "reading": "びょういん",
-                "tr": "hastane",
-                "en": "hospital"
-            },
-            {
-                "word": "くすり",
+                "word": "薬",
                 "reading": "くすり",
-                "tr": "ilaç",
-                "en": "medicine"
+                "meanings": {
+                    "tr": "ilaç",
+                    "en": "medicine",
+                    "de": "Medizin / Medikament",
+                    "fr": "médicament",
+                    "es": "medicina / medicamento",
+                    "ko": "약"
+                }
             },
             {
-                "word": "おおきい",
-                "reading": "おおきい",
-                "tr": "büyük",
-                "en": "large"
-            },
-            {
-                "word": "ちいさい",
-                "reading": "ちいさい",
-                "tr": "küçük",
-                "en": "small"
-            },
-            {
-                "word": "あかい",
-                "reading": "あかい",
-                "tr": "kırmızı",
-                "en": "red"
-            },
-            {
-                "word": "あさごはん",
+                "word": "朝ご飯",
                 "reading": "あさごはん",
-                "tr": "kahvaltı",
-                "en": "breakfast"
+                "meanings": {
+                    "tr": "kahvaltı",
+                    "en": "breakfast",
+                    "de": "Frühstück",
+                    "fr": "petit-déjeuner",
+                    "es": "desayuno",
+                    "ko": "아침 식사"
+                }
             },
             {
-                "word": "あさ",
-                "reading": "あさ",
-                "tr": "sabah",
-                "en": "morning"
-            },
-            {
-                "word": "よる",
-                "reading": "よる",
-                "tr": "gece",
-                "en": "night"
-            },
-            {
-                "word": "いちにち",
-                "reading": "いちにち",
-                "tr": "bir gün",
-                "en": "one day"
-            },
-            {
-                "word": "～かい",
-                "reading": "かい",
-                "tr": "kere / defa",
-                "en": "times (counter)"
-            },
-            {
-                "word": "しょくじ",
-                "reading": "しょくじ",
-                "tr": "yemek",
-                "en": "meal"
+                "word": "一日二回",
+                "reading": "いちにちにかい",
+                "meanings": {
+                    "tr": "günde iki kez",
+                    "en": "twice a day",
+                    "de": "zweimal täglich",
+                    "fr": "deux fois par jour",
+                    "es": "dos veces al día",
+                    "ko": "하루 두 번"
+                }
             },
             {
                 "word": "飲む",
                 "reading": "のむ",
-                "tr": "içmek (ilaç kullanmak)",
-                "en": "to drink (to take medicine)"
+                "meanings": {
+                    "tr": "içmek (ilaç kullanmak)",
+                    "en": "to drink (to take medicine)",
+                    "de": "trinken (einnehmen)",
+                    "fr": "boire (prendre un médicament)",
+                    "es": "beber (tomar medicina)",
+                    "ko": "마시다 (약을 먹다)"
+                }
             }
         ],
         "grammar": [
             {
                 "point": "～だけ",
-                "tr": "sadece",
-                "en": "only"
+                "meanings": {
+                    "tr": "sadece",
+                    "en": "only",
+                    "de": "nur",
+                    "fr": "seulement",
+                    "es": "solo",
+                    "ko": "~만"
+                }
             },
             {
-                "point": "～てください",
-                "tr": "lütfen ... yapın",
-                "en": "please do ..."
-            },
-            {
-                "point": "～の あと",
-                "tr": "...-den sonra",
-                "en": "after ..."
+                "point": "～のあと",
+                "meanings": {
+                    "tr": "...-den sonra",
+                    "en": "after ...",
+                    "de": "nach ...",
+                    "fr": "après ...",
+                    "es": "después de ...",
+                    "ko": "~후에"
+                }
             }
         ]
     },
     "logic": {
-        "tr": "Büyük ilaç sabah ve akşam yemeklerinden sonra içilmelidir. Küçük kırmızı ilaç ise sadece kahvaltıdan sonra 2 adet içilmelidir. Bu durumda adam kahvaltıdan sonra hem 1 adet büyük ilacı hem de 2 adet küçük ilacı içmelidir. Doğru cevap büyük ve küçük hapların bir arada bulunduğu (3) numaralı paneldir.",
-        "en": "The large medicine should be taken after meals in the morning and evening. The small red medicine should be taken only after breakfast, and the quantity is 2. Therefore, after breakfast, the man must take one large pill and two small pills. The correct answer is panel (3)."
+        "tr": "Adam kahvaltıdan sonra 1 büyük hap ve 2 küçük hap içmelidir. Doğru cevap 3. seçenektir.",
+        "en": "The man must take 1 large pill and 2 small pills after breakfast. The correct answer is option 3.",
+        "de": "Der Mann muss nach dem Frühstück 1 große Tablette und 2 kleine Tabletten einnehmen. Die richtige Antwort ist Option 3.",
+        "fr": "L'homme doit prendre 1 gros comprimé et 2 petits après le petit-déjeuner. La réponse correcte est l'option 3.",
+        "es": "El hombre debe tomar 1 pastilla grande y 2 pequeñas después del desayuno. La respuesta correcta es la opción 3.",
+        "ko": "남자는 아침 식사 후에 큰 약 한 개와 작은 약 두 개를 먹어야 합니다. 정답은 3번입니다."
     }
 }
