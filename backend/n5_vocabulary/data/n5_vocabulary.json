@@ -811,7 +811,8 @@
         "tr": "sen / siz",
         "de": "du / Sie",
         "es": "tú / usted",
-        "fr": "tu / vous"
+        "fr": "tu / vous",
+        "ko": "당신 / 너"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_026.mp3",
       "sentences": [
@@ -824,7 +825,8 @@
             "tr": "Adın nedir?",
             "de": "Wie heißen Sie?",
             "es": "¿Cómo te llamas?",
-            "fr": "Comment t'appelles-tu ?"
+            "fr": "Comment t'appelles-tu ?",
+            "ko": "당신의 이름은 무엇입니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_026_s1.mp3"
         }
@@ -841,7 +843,8 @@
         "tr": "ağabey (kendi)",
         "de": "älterer Bruder",
         "es": "hermano mayor",
-        "fr": "grand frère"
+        "fr": "grand frère",
+        "ko": "형 / 오빠"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_027.mp3",
       "sentences": [
@@ -854,7 +857,8 @@
             "tr": "Ağabeyim üniversite öğrencisidir.",
             "de": "Mein älterer Bruder ist Student.",
             "es": "Mi hermano mayor es estudiante universitario.",
-            "fr": "Mon frère aîné est étudiant."
+            "fr": "Mon frère aîné est étudiant.",
+            "ko": "형은 대학생입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_027_s1.mp3"
         }
@@ -871,7 +875,8 @@
         "tr": "abla (kendi)",
         "de": "ältere Schwester",
         "es": "hermana mayor",
-        "fr": "grande sœur"
+        "fr": "grande sœur",
+        "ko": "누나 / 언니"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_028.mp3",
       "sentences": [
@@ -884,7 +889,8 @@
             "tr": "Ablam öğretmendir.",
             "de": "Meine ältere Schwester ist Lehrerin.",
             "es": "Mi hermana mayor es profesora.",
-            "fr": "Ma sœur aînée est professeur."
+            "fr": "Ma sœur aînée est professeur.",
+            "ko": "누나는 선생님입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_028_s1.mp3"
         }
@@ -901,7 +907,8 @@
         "tr": "şey... / afedersiniz (söze başlarken)",
         "de": "äh / nun",
         "es": "esto... / eh",
-        "fr": "euh..."
+        "fr": "euh...",
+        "ko": "저기 / 음"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_029.mp3",
       "sentences": [
@@ -914,7 +921,8 @@
             "tr": "Şey, afedersiniz.",
             "de": "Ähm, Entschuldigung.",
             "es": "Eh, disculpe.",
-            "fr": "Euh, excusez-moi."
+            "fr": "Euh, excusez-moi.",
+            "ko": "저기, 죄송합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_029_s1.mp3"
         }
@@ -931,7 +939,8 @@
         "tr": "apartman dairesi",
         "de": "Wohnung",
         "es": "apartamento",
-        "fr": "appartement"
+        "fr": "appartement",
+        "ko": "아파트"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_030.mp3",
       "sentences": [
@@ -944,7 +953,8 @@
             "tr": "Bir apartman dairesinde yaşıyorum.",
             "de": "Ich wohne in einer Wohnung.",
             "es": "Vivo en un apartamento.",
-            "fr": "J'habite dans un appartement."
+            "fr": "J'habite dans un appartement.",
+            "ko": "아파트에 살고 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_030_s1.mp3"
         }
@@ -961,7 +971,8 @@
         "tr": "yıkanmak / duş almak",
         "de": "baden / duschen",
         "es": "bañarse",
-        "fr": "prendre un bain"
+        "fr": "prendre un bain",
+        "ko": "샤워를 하다 / 끼얹다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_031.mp3",
       "sentences": [
@@ -974,7 +985,8 @@
             "tr": "Duş alırım.",
             "de": "Ich dusche.",
             "es": "Me ducho.",
-            "fr": "Je prends une douche."
+            "fr": "Je prends une douche.",
+            "ko": "샤워를 합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_031_s1.mp3"
         }
@@ -991,7 +1003,8 @@
         "tr": "tehlikeli",
         "de": "gefährlich",
         "es": "peligroso",
-        "fr": "dangereux"
+        "fr": "dangereux",
+        "ko": "위험하다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_032.mp3",
       "sentences": [
@@ -1004,7 +1017,8 @@
             "tr": "Burası tehlikelidir.",
             "de": "Hier ist es gefährlich.",
             "es": "Aquí es peligroso.",
-            "fr": "C'est dangereux ici."
+            "fr": "C'est dangereux ici.",
+            "ko": "여기는 위험합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_032_s1.mp3"
         }
@@ -1021,7 +1035,8 @@
         "tr": "tatlı",
         "de": "süß",
         "es": "dulce",
-        "fr": "sucré"
+        "fr": "sucré",
+        "ko": "달다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_033.mp3",
       "sentences": [
@@ -1034,7 +1049,8 @@
             "tr": "Bu tatlı/şekerleme tatlıdır.",
             "de": "Diese Süßigkeit ist süß.",
             "es": "Este dulce es dulce.",
-            "fr": "Ce bonbon est sucré."
+            "fr": "Ce bonbon est sucré.",
+            "ko": "이 과자는 답니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_033_s1.mp3"
         }
@@ -1051,7 +1067,8 @@
         "tr": "pek fazla / çok (olumsuzla)",
         "de": "nicht sehr",
         "es": "no muy",
-        "fr": "pas très"
+        "fr": "pas très",
+        "ko": "별로 / 그다지 (부정과 함께)"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_034.mp3",
       "sentences": [
@@ -1064,7 +1081,8 @@
             "tr": "Pek fazla yemem.",
             "de": "Ich esse nicht viel.",
             "es": "No como mucho.",
-            "fr": "Je ne mange pas beaucoup."
+            "fr": "Je ne mange pas beaucoup.",
+            "ko": "별로 먹지 않습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_034_s1.mp3"
         }
@@ -1081,7 +1099,8 @@
         "tr": "yağmur",
         "de": "Regen",
         "es": "lluvia",
-        "fr": "pluie"
+        "fr": "pluie",
+        "ko": "비"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_035.mp3",
       "sentences": [
@@ -1094,7 +1113,8 @@
             "tr": "Yağmur yağıyor.",
             "de": "Es regnet.",
             "es": "Está lloviendo.",
-            "fr": "Il pleut."
+            "fr": "Il pleut.",
+            "ko": "비가 내리고 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_035_s1.mp3"
         }
@@ -1111,7 +1131,8 @@
         "tr": "şekerleme / akide şekeri",
         "de": "Süßigkeit",
         "es": "caramelo",
-        "fr": "bonbon"
+        "fr": "bonbon",
+        "ko": "사탕"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_036.mp3",
       "sentences": [
@@ -1124,7 +1145,8 @@
             "tr": "Şeker yiyorum.",
             "de": "Ich esse Bonbons.",
             "es": "Como caramelos.",
-            "fr": "Je mange des bonbons."
+            "fr": "Je mange des bonbons.",
+            "ko": "사탕을 먹습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_036_s1.mp3"
         }
@@ -1141,7 +1163,8 @@
         "tr": "yıkamak",
         "de": "waschen",
         "es": "lavar",
-        "fr": "laver"
+        "fr": "laver",
+        "ko": "씻다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_037.mp3",
       "sentences": [
@@ -1154,7 +1177,8 @@
             "tr": "Lütfen ellerinizi yıkayın.",
             "de": "Bitte waschen Sie sich die Hände.",
             "es": "Por favor, lávate las manos.",
-            "fr": "Veuillez vous laver les mains."
+            "fr": "Veuillez vous laver les mains.",
+            "ko": "손을 씻어 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_037_s1.mp3"
         }
@@ -1171,7 +1195,8 @@
         "tr": "var / olmak (cansızlar için)",
         "de": "sein / haben",
         "es": "haber / tener",
-        "fr": "être / avoir"
+        "fr": "être / avoir",
+        "ko": "있다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_038.mp3",
       "sentences": [
@@ -1184,7 +1209,8 @@
             "tr": "Masanın üzerinde bir kitap var.",
             "de": "Auf dem Schreibtisch liegt ein Buch.",
             "es": "Hay un libro sobre el escritorio.",
-            "fr": "Il y a un livre sur le bureau."
+            "fr": "Il y a un livre sur le bureau.",
+            "ko": "책상 위에 책이 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_038_s1.mp3"
         }
@@ -1201,7 +1227,8 @@
         "tr": "yürümek",
         "de": "laufen / zu Fuß gehen",
         "es": "caminar",
-        "fr": "marcher"
+        "fr": "marcher",
+        "ko": "걷다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_039.mp3",
       "sentences": [
@@ -1214,7 +1241,8 @@
             "tr": "Okula kadar yürüyorum.",
             "de": "Ich gehe zu Fuß zur Schule.",
             "es": "Voy caminando a la escuela.",
-            "fr": "Je vais à l'école à pied."
+            "fr": "Je vais à l'école à pied.",
+            "ko": "학교까지 걷습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_039_s1.mp3"
         }
@@ -1231,7 +1259,8 @@
         "tr": "şu (uzak)",
         "de": "das da",
         "es": "aquello",
-        "fr": "cela"
+        "fr": "cela",
+        "ko": "저것"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_040.mp3",
       "sentences": [
@@ -1244,7 +1273,8 @@
             "tr": "Şu nedir?",
             "de": "Was ist das dort drüben?",
             "es": "¿Qué es aquello?",
-            "fr": "Qu'est-ce que c'est là-bas ?"
+            "fr": "Qu'est-ce que c'est là-bas ?",
+            "ko": "저것은 무엇입니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_040_s1.mp3"
         }
@@ -1261,7 +1291,8 @@
         "tr": "hayır",
         "de": "nein",
         "es": "no",
-        "fr": "non"
+        "fr": "non",
+        "ko": "아니요"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_041.mp3",
       "sentences": [
@@ -1274,7 +1305,8 @@
             "tr": "Hayır, öyle değil.",
             "de": "Nein, das stimmt nicht.",
             "es": "No, no es así.",
-            "fr": "Non, ce n'est pas ça."
+            "fr": "Non, ce n'est pas ça.",
+            "ko": "아니요, 틀립니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_041_s1.mp3"
         }
@@ -1291,7 +1323,8 @@
         "tr": "söylemek / demek",
         "de": "sagen",
         "es": "decir",
-        "fr": "dire"
+        "fr": "dire",
+        "ko": "말하다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_042.mp3",
       "sentences": [
@@ -1304,7 +1337,8 @@
             "tr": "Lütfen adınızı söyleyin.",
             "de": "Bitte sagen Sie Ihren Namen.",
             "es": "Por favor, diga su nombre.",
-            "fr": "Veuillez dire votre nom."
+            "fr": "Veuillez dire votre nom.",
+            "ko": "이름을 말해 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_042_s1.mp3"
         }
@@ -1321,7 +1355,8 @@
         "tr": "ev",
         "de": "Haus",
         "es": "casa",
-        "fr": "maison"
+        "fr": "maison",
+        "ko": "집"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_043.mp3",
       "sentences": [
@@ -1334,7 +1369,8 @@
             "tr": "Eve dönüyorum.",
             "de": "Ich gehe nach Hause.",
             "es": "Me voy a casa.",
-            "fr": "Je rentre à la maison."
+            "fr": "Je rentre à la maison.",
+            "ko": "집에 돌아갑니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_043_s1.mp3"
         }
@@ -1351,7 +1387,8 @@
         "tr": "gitmek",
         "de": "gehen",
         "es": "ir",
-        "fr": "aller"
+        "fr": "aller",
+        "ko": "가다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_044.mp3",
       "sentences": [
@@ -1364,7 +1401,8 @@
             "tr": "Mağazaya gidiyorum.",
             "de": "Ich gehe ins Kaufhaus.",
             "es": "Voy a los grandes almacenes.",
-            "fr": "Je vais au grand magasin."
+            "fr": "Je vais au grand magasin.",
+            "ko": "백화점에 갑니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_044_s1.mp3"
         }
@@ -1381,7 +1419,8 @@
         "tr": "kaç tane / kaç yaşında",
         "de": "wie viele",
         "es": "cuántos",
-        "fr": "combien"
+        "fr": "combien",
+        "ko": "몇 개 / 몇 살"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_045.mp3",
       "sentences": [
@@ -1394,7 +1433,8 @@
             "tr": "Kaç tane elma aldın?",
             "de": "Wie viele Äpfel hast du gekauft?",
             "es": "¿Cuántas manzanas compraste?",
-            "fr": "Combien de pommes as-tu achetées ?"
+            "fr": "Combien de pommes as-tu achetées ?",
+            "ko": "사과를 몇 개 샀습니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_045_s1.mp3"
         }
@@ -1411,7 +1451,8 @@
         "tr": "ne kadar (fiyat)",
         "de": "wie viel",
         "es": "cuánto",
-        "fr": "combien"
+        "fr": "combien",
+        "ko": "얼마"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_046.mp3",
       "sentences": [
@@ -1424,7 +1465,8 @@
             "tr": "Bu ne kadar?",
             "de": "Wie viel kostet das?",
             "es": "¿Cuánto cuesta esto?",
-            "fr": "Combien ça coûte ?"
+            "fr": "Combien ça coûte ?",
+            "ko": "이것은 얼마입니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_046_s1.mp3"
         }
@@ -1441,7 +1483,8 @@
         "tr": "gölet / havuz",
         "de": "Teich",
         "es": "estanque",
-        "fr": "étang"
+        "fr": "étang",
+        "ko": "연못"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_047.mp3",
       "sentences": [
@@ -1454,7 +1497,8 @@
             "tr": "Gölette balık var.",
             "de": "Im Teich gibt es Fische.",
             "es": "Hay peces en el estanque.",
-            "fr": "Il y a des poissons dans l'étang."
+            "fr": "Il y a des poissons dans l'étang.",
+            "ko": "연못에 물고기가 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_047_s1.mp3"
         }
@@ -1471,7 +1515,8 @@
         "tr": "doktor",
         "de": "Arzt",
         "es": "médico",
-        "fr": "médecin"
+        "fr": "médecin",
+        "ko": "의사"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_048.mp3",
       "sentences": [
@@ -1484,7 +1529,8 @@
             "tr": "Doktor olacağım.",
             "de": "Ich werde Arzt.",
             "es": "Me haré médico.",
-            "fr": "Je deviendrai médecin."
+            "fr": "Je deviendrai médecin.",
+            "ko": "의사가 됩니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_048_s1.mp3"
         }
@@ -1501,7 +1547,8 @@
         "tr": "sandalye",
         "de": "Stuhl",
         "es": "silla",
-        "fr": "chaise"
+        "fr": "chaise",
+        "ko": "의자"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_049.mp3",
       "sentences": [
@@ -1514,7 +1561,8 @@
             "tr": "Lütfen sandalyeye oturun.",
             "de": "Bitte setzen Sie sich auf den Stuhl.",
             "es": "Por favor, siéntate en la silla.",
-            "fr": "Veuillez vous asseoir sur la chaise."
+            "fr": "Veuillez vous asseoir sur la chaise.",
+            "ko": "의자에 앉아 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_049_s1.mp3"
         }
@@ -1531,7 +1579,8 @@
         "tr": "meşgul",
         "de": "beschäftigt",
         "es": "ocupado",
-        "fr": "occupé"
+        "fr": "occupé",
+        "ko": "바쁘다"
       },
       "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/words/n5_vocab_050.mp3",
       "sentences": [
@@ -1544,7 +1593,8 @@
             "tr": "Bugün meşgulüm.",
             "de": "Heute bin ich beschäftigt.",
             "es": "Hoy estoy ocupado.",
-            "fr": "Je suis occupé aujourd'hui."
+            "fr": "Je suis occupé aujourd'hui.",
+            "ko": "오늘은 바쁩니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_050_s1.mp3"
         }
@@ -1561,7 +1611,8 @@
         "tr": "ağrılı / acıyan",
         "de": "schmerzhaft",
         "es": "doloroso",
-        "fr": "douloureux"
+        "fr": "douloureux",
+        "ko": "아프다"
       },
       "sentences": [
         {
@@ -1573,7 +1624,8 @@
             "tr": "Karnım ağrıyor.",
             "de": "Mein Bauch tut weh.",
             "es": "Me duele el estómago.",
-            "fr": "J'ai mal au ventre."
+            "fr": "J'ai mal au ventre.",
+            "ko": "배가 아픕니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_051_s1.mp3"
         }
@@ -1591,7 +1643,8 @@
         "tr": "bir",
         "de": "eins",
         "es": "uno",
-        "fr": "un"
+        "fr": "un",
+        "ko": "일 / 하나"
       },
       "sentences": [
         {
@@ -1603,7 +1656,8 @@
             "tr": "Birden başlayalım.",
             "de": "Lassen Sie uns bei eins anfangen.",
             "es": "Empecemos desde uno.",
-            "fr": "Commençons par un."
+            "fr": "Commençons par un.",
+            "ko": "일(1)부터 시작합시다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_052_s1.mp3"
         }
@@ -1621,7 +1675,8 @@
         "tr": "bir gün",
         "de": "ein Tag",
         "es": "un día",
-        "fr": "un jour"
+        "fr": "un jour",
+        "ko": "하루 / 하루 종일"
       },
       "sentences": [
         {
@@ -1633,7 +1688,8 @@
             "tr": "Bir gün yirmi dört saattir.",
             "de": "Ein Tag hat vierundzwanzig Stunden.",
             "es": "Un día tiene veinticuatro horas.",
-            "fr": "Un jour fait vingt-quatre heures."
+            "fr": "Un jour fait vingt-quatre heures.",
+            "ko": "하루는 24시간입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_053_s1.mp3"
         }
@@ -1651,7 +1707,8 @@
         "tr": "en çok / birinci",
         "de": "am meisten",
         "es": "el más",
-        "fr": "le plus"
+        "fr": "le plus",
+        "ko": "가장 / 제일 / 첫 번째"
       },
       "sentences": [
         {
@@ -1663,7 +1720,8 @@
             "tr": "En çok suşiyi severim.",
             "de": "Ich mag Sushi am liebsten.",
             "es": "Lo que más me gusta es el sushi.",
-            "fr": "C'est le sushi que j'aime le plus."
+            "fr": "C'est le sushi que j'aime le plus.",
+            "ko": "초밥을 가장 좋아합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_054_s1.mp3"
         }
@@ -1681,7 +1739,8 @@
         "tr": "ne zaman",
         "de": "wann",
         "es": "cuándo",
-        "fr": "quand"
+        "fr": "quand",
+        "ko": "언제"
       },
       "sentences": [
         {
@@ -1693,7 +1752,8 @@
             "tr": "Japonya'ya ne zaman gideceksin?",
             "de": "Wann gehen Sie nach Japan?",
             "es": "¿Cuándo vas a Japón?",
-            "fr": "Quand vas-tu au Japon ?"
+            "fr": "Quand vas-tu au Japon ?",
+            "ko": "언제 일본에 갑니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_055_s1.mp3"
         }
@@ -1711,7 +1771,8 @@
         "tr": "ayın beşinci günü",
         "de": "der fünfte Tag",
         "es": "el día cinco",
-        "fr": "le cinq"
+        "fr": "le cinq",
+        "ko": "5일 / 다섯째 날"
       },
       "sentences": [
         {
@@ -1723,7 +1784,8 @@
             "tr": "Ayın beşi tatildir.",
             "de": "Am Fünften ist ein Feiertag.",
             "es": "El día cinco es festivo.",
-            "fr": "Le cinq est un jour férié."
+            "fr": "Le cinq est un jour férié.",
+            "ko": "5일은 쉽니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_056_s1.mp3"
         }
@@ -1741,7 +1803,8 @@
         "tr": "evvelsi yıl / iki yıl önce",
         "de": "vorletztes Jahr",
         "es": "hace dos años",
-        "fr": "il y a deux ans"
+        "fr": "il y a deux ans",
+        "ko": "재작년 / 엊그제"
       },
       "sentences": [
         {
@@ -1753,7 +1816,8 @@
             "tr": "Japonya'ya iki yıl önce geldim.",
             "de": "Ich bin vorletztes Jahr nach Japan gekommen.",
             "es": "Vine a Japón el año antepasado.",
-            "fr": "Je suis venu au Japon il y a deux ans."
+            "fr": "Je suis venu au Japon il y a deux ans.",
+            "ko": "재작년에 일본에 왔습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_057_s1.mp3"
         }
@@ -1771,7 +1835,8 @@
         "tr": "birlikte / beraber",
         "de": "zusammen",
         "es": "junto",
-        "fr": "ensemble"
+        "fr": "ensemble",
+        "ko": "함께 / 같이"
       },
       "sentences": [
         {
@@ -1783,7 +1848,8 @@
             "tr": "Hadi beraber dönelim.",
             "de": "Lass uns zusammen nach Hause gehen.",
             "es": "Volvamos a casa juntos.",
-            "fr": "Rentrons ensemble."
+            "fr": "Rentrons ensemble.",
+            "ko": "함께 돌아갑시다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_058_s1.mp3"
         }
@@ -1801,7 +1867,8 @@
         "tr": "beş (tane)",
         "de": "fünf",
         "es": "cinco",
-        "fr": "cinq"
+        "fr": "cinq",
+        "ko": "다섯 / 다섯 개"
       },
       "sentences": [
         {
@@ -1813,7 +1880,8 @@
             "tr": "Beş tane yumurta aldım.",
             "de": "Ich habe fünf Eier gekauft.",
             "es": "Compré cinco huevos.",
-            "fr": "J'ai acheté cinq œufs."
+            "fr": "J'ai acheté cinq œufs.",
+            "ko": "계란을 다섯 개 샀습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_059_s1.mp3"
         }
@@ -1831,7 +1899,8 @@
         "tr": "her zaman",
         "de": "immer",
         "es": "siempre",
-        "fr": "toujours"
+        "fr": "toujours",
+        "ko": "언제나 / 항상"
       },
       "sentences": [
         {
@@ -1843,7 +1912,8 @@
             "tr": "Her zaman için teşekkürler.",
             "de": "Vielen Dank wie immer.",
             "es": "Gracias como siempre.",
-            "fr": "Merci comme toujours."
+            "fr": "Merci comme toujours.",
+            "ko": "항상 감사합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_060_s1.mp3"
         }
@@ -1861,7 +1931,8 @@
         "tr": "köpek",
         "de": "Hund",
         "es": "perro",
-        "fr": "chien"
+        "fr": "chien",
+        "ko": "개 / 강아지"
       },
       "sentences": [
         {
@@ -1873,7 +1944,8 @@
             "tr": "Beyaz bir köpek var.",
             "de": "Dort ist ein weißer Hund.",
             "es": "Hay un perro blanco.",
-            "fr": "Il y a un chien blanc."
+            "fr": "Il y a un chien blanc.",
+            "ko": "하얀 개가 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_061_s1.mp3"
         }
@@ -1891,7 +1963,8 @@
         "tr": "şimdi",
         "de": "jetzt",
         "es": "ahora",
-        "fr": "maintenant"
+        "fr": "maintenant",
+        "ko": "지금"
       },
       "sentences": [
         {
@@ -1903,7 +1976,8 @@
             "tr": "Şimdi saat on.",
             "de": "Es ist jetzt zehn Uhr.",
             "es": "Ahora son las diez.",
-            "fr": "Il est dix heures maintenant."
+            "fr": "Il est dix heures maintenant.",
+            "ko": "지금은 10시입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_062_s1.mp3"
         }
@@ -1921,7 +1995,8 @@
         "tr": "anlam",
         "de": "Bedeutung",
         "es": "significado",
-        "fr": "signification"
+        "fr": "signification",
+        "ko": "의미 / 뜻"
       },
       "sentences": [
         {
@@ -1933,7 +2008,8 @@
             "tr": "Bu kelimenin anlamı nedir?",
             "de": "Was ist die Bedeutung dieses Wortes?",
             "es": "¿Cuál es el significado de esta palabra?",
-            "fr": "Quel est le sens de ce mot ?"
+            "fr": "Quel est le sens de ce mot ?",
+            "ko": "이 단어의 의미는 무엇입니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_063_s1.mp3"
         }
@@ -1951,7 +2027,8 @@
         "tr": "kız kardeş (küçük)",
         "de": "jüngere Schwester",
         "es": "hermana menor",
-        "fr": "petite sœur"
+        "fr": "petite sœur",
+        "ko": "여동생"
       },
       "sentences": [
         {
@@ -1963,7 +2040,8 @@
             "tr": "Kız kardeşim ilkokul öğrencisidir.",
             "de": "Meine jüngere Schwester ist Grundschülerin.",
             "es": "Mi hermana menor es estudiante de primaria.",
-            "fr": "Ma petite sœur est à l'école primaire."
+            "fr": "Ma petite sœur est à l'école primaire.",
+            "ko": "여동생은 초등학생입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_064_s1.mp3"
         }
@@ -1981,7 +2059,8 @@
         "tr": "hoş olmayan / istemem",
         "de": "unangenehm",
         "es": "desagradable",
-        "fr": "désagréable"
+        "fr": "désagréable",
+        "ko": "싫다 / 아니 / 싫어함"
       },
       "sentences": [
         {
@@ -1993,7 +2072,8 @@
             "tr": "Onu istemem / hoş değil.",
             "de": "Das mag ich nicht.",
             "es": "No quiero eso.",
-            "fr": "Je n'aime pas ça / Pas question."
+            "fr": "Je n'aime pas ça / Pas question.",
+            "ko": "그것은 싫습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_065_s1.mp3"
         }
@@ -2011,7 +2091,8 @@
         "tr": "giriş",
         "de": "Eingang",
         "es": "entrada",
-        "fr": "entrée"
+        "fr": "entrée",
+        "ko": "입구"
       },
       "sentences": [
         {
@@ -2023,7 +2104,8 @@
             "tr": "Giriş nerede?",
             "de": "Wo ist der Eingang?",
             "es": "¿Dónde está la entrada?",
-            "fr": "Où est l'entrée ?"
+            "fr": "Où est l'entrée ?",
+            "ko": "입구는 어디입니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_066_s1.mp3"
         }
@@ -2041,7 +2123,8 @@
         "tr": "var / olmak (canlılar için)",
         "de": "sein",
         "es": "haber / estar",
-        "fr": "être"
+        "fr": "être",
+        "ko": "있다 (생물)"
       },
       "sentences": [
         {
@@ -2053,7 +2136,8 @@
             "tr": "Bahçede bir kedi var.",
             "de": "Im Garten ist eine Katze.",
             "es": "Hay un gato en el jardín.",
-            "fr": "Il y a un chat dans le jardin."
+            "fr": "Il y a un chat dans le jardin.",
+            "ko": "마당에 고양이가 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_067_s1.mp3"
         }
@@ -2071,7 +2155,8 @@
         "tr": "ihtiyaç duymak / gerekmek",
         "de": "brauchen",
         "es": "necesitar",
-        "fr": "avoir besoin"
+        "fr": "avoir besoin",
+        "ko": "필요하다"
       },
       "sentences": [
         {
@@ -2083,7 +2168,8 @@
             "tr": "Paraya ihtiyacım var.",
             "de": "Ich brauche Geld.",
             "es": "Necesito dinero.",
-            "fr": "J'ai besoin d'argent."
+            "fr": "J'ai besoin d'argent.",
+            "ko": "돈이 필요합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_068_s1.mp3"
         }
@@ -2101,7 +2187,8 @@
         "tr": "içine koymak",
         "de": "hineintun",
         "es": "meter",
-        "fr": "mettre dans"
+        "fr": "mettre dans",
+        "ko": "넣다"
       },
       "sentences": [
         {
@@ -2113,7 +2200,8 @@
             "tr": "Kitabı çantaya koydum.",
             "de": "Ich habe das Buch in die Tasche gesteckt.",
             "es": "Puse el libro en el bolso.",
-            "fr": "J'ai mis le livre dans le sac."
+            "fr": "J'ai mis le livre dans le sac.",
+            "ko": "가방에 책을 넣었습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_069_s1.mp3"
         }
@@ -2131,7 +2219,8 @@
         "tr": "renk",
         "de": "Farbe",
         "es": "color",
-        "fr": "couleur"
+        "fr": "couleur",
+        "ko": "색 / 색깔"
       },
       "sentences": [
         {
@@ -2143,7 +2232,8 @@
             "tr": "Hangi rengi seversin?",
             "de": "Welche Farbe magst du?",
             "es": "¿Qué color te gusta?",
-            "fr": "Quelle couleur aimes-tu ?"
+            "fr": "Quelle couleur aimes-tu ?",
+            "ko": "무슨 색을 좋아합니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_070_s1.mp3"
         }
@@ -2161,7 +2251,8 @@
         "tr": "çeşitli / türlü",
         "de": "verschieden",
         "es": "varios",
-        "fr": "divers"
+        "fr": "divers",
+        "ko": "여러 가지 / 다양함"
       },
       "sentences": [
         {
@@ -2173,7 +2264,8 @@
             "tr": "Çeşitli dükkanlar var.",
             "de": "Es gibt verschiedene Läden.",
             "es": "Hay varias tiendas.",
-            "fr": "Il y a divers magasins."
+            "fr": "Il y a divers magasins.",
+            "ko": "여러 가지 가게가 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_071_s1.mp3"
         }
@@ -2191,7 +2283,8 @@
         "tr": "üst / üzerinde",
         "de": "oben",
         "es": "arriba",
-        "fr": "dessus"
+        "fr": "dessus",
+        "ko": "위"
       },
       "sentences": [
         {
@@ -2203,7 +2296,8 @@
             "tr": "Masanın üzerinde tükenmez kalem var.",
             "de": "Auf dem Tisch liegt ein Stift.",
             "es": "Hay un bolígrafo sobre el escritorio.",
-            "fr": "Il y a un stylo sur le bureau."
+            "fr": "Il y a un stylo sur le bureau.",
+            "ko": "책상 위에 펜이 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_072_s1.mp3"
         }
@@ -2221,7 +2315,8 @@
         "tr": "arka / arkasında",
         "de": "hinten",
         "es": "atrás",
-        "fr": "derrière"
+        "fr": "derrière",
+        "ko": "뒤 / 뒷쪽"
       },
       "sentences": [
         {
@@ -2233,7 +2328,8 @@
             "tr": "Arkada Tanaka bey var.",
             "de": "Hinter Ihnen ist Herr Tanaka.",
             "es": "El Sr. Tanaka está detrás de ti.",
-            "fr": "M. Tanaka est derrière vous."
+            "fr": "M. Tanaka est derrière vous.",
+            "ko": "뒤에 다나카 씨가 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_073_s1.mp3"
         }
@@ -2251,7 +2347,8 @@
         "tr": "ince / zayıf (tat)",
         "de": "dünn",
         "es": "delgado",
-        "fr": "fin"
+        "fr": "fin",
+        "ko": "얇다"
       },
       "sentences": [
         {
@@ -2263,7 +2360,8 @@
             "tr": "Bu kitap incedir.",
             "de": "Dieses Buch ist dünn.",
             "es": "Este libro es delgado.",
-            "fr": "Ce livre est mince."
+            "fr": "Ce livre est mince.",
+            "ko": "이 책은 얇습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_074_s1.mp3"
         }
@@ -2281,7 +2379,8 @@
         "tr": "şarkı",
         "de": "Lied",
         "es": "canción",
-        "fr": "chanson"
+        "fr": "chanson",
+        "ko": "노래"
       },
       "sentences": [
         {
@@ -2293,7 +2392,8 @@
             "tr": "Japonca şarkılar söylüyorum.",
             "de": "Ich singe japanische Lieder.",
             "es": "Canto canciones japonesas.",
-            "fr": "Je chante des chansons japonaises."
+            "fr": "Je chante des chansons japonaises.",
+            "ko": "일본 노래를 부릅니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_075_s1.mp3"
         }
@@ -2311,7 +2411,8 @@
         "tr": "şarkı söylemek",
         "de": "singen",
         "es": "cantar",
-        "fr": "chanter"
+        "fr": "chanter",
+        "ko": "노래하다 / 부르다"
       },
       "sentences": [
         {
@@ -2323,7 +2424,8 @@
             "tr": "Hadi beraber şarkı söyleyelim.",
             "de": "Lass uns zusammen singen.",
             "es": "Cantemos juntos.",
-            "fr": "Chantons ensemble."
+            "fr": "Chantons ensemble.",
+            "ko": "함께 노래합시다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_076_s1.mp3"
         }
@@ -2341,7 +2443,8 @@
         "tr": "doğmak",
         "de": "geboren werden",
         "es": "nacer",
-        "fr": "naître"
+        "fr": "naître",
+        "ko": "태어나다"
       },
       "sentences": [
         {
@@ -2353,7 +2456,8 @@
             "tr": "Ben Türkiye'de doğdum.",
             "de": "Ich wurde in der Türkei geboren.",
             "es": "Nací en Turquía.",
-            "fr": "Je suis né en Turquie."
+            "fr": "Je suis né en Turquie.",
+            "ko": "저는 터키에서 태어났습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_077_s1.mp3"
         }
@@ -2371,7 +2475,8 @@
         "tr": "deniz",
         "de": "Meer",
         "es": "mar",
-        "fr": "mer"
+        "fr": "mer",
+        "ko": "바다"
       },
       "sentences": [
         {
@@ -2383,7 +2488,8 @@
             "tr": "Yazın denize giderim.",
             "de": "Im Sommer gehe ich ans Meer.",
             "es": "Voy al mar en verano.",
-            "fr": "Je vais à la mer en été."
+            "fr": "Je vais à la mer en été.",
+            "ko": "여름에 바다에 갑니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_078_s1.mp3"
         }
@@ -2401,7 +2507,8 @@
         "tr": "satmak",
         "de": "verkaufen",
         "es": "vender",
-        "fr": "vendre"
+        "fr": "vendre",
+        "ko": "팔다"
       },
       "sentences": [
         {
@@ -2413,7 +2520,8 @@
             "tr": "Eski kitaplarımı sattım.",
             "de": "Ich habe meine alten Bücher verkauft.",
             "es": "Vendí mis libros viejos.",
-            "fr": "J'ai vendu mes vieux livres."
+            "fr": "J'ai vendu mes vieux livres.",
+            "ko": "옛날 책(헌 책)을 팔았습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_079_s1.mp3"
         }
@@ -2431,7 +2539,8 @@
         "tr": "gürültülü / sesli",
         "de": "laut",
         "es": "ruidoso",
-        "fr": "bruyant"
+        "fr": "bruyant",
+        "ko": "시끄럽다"
       },
       "sentences": [
         {
@@ -2443,7 +2552,8 @@
             "tr": "Dışarısı gürültülü.",
             "de": "Draußen ist es laut.",
             "es": "Afuera hay ruido.",
-            "fr": "C'est bruyant dehors."
+            "fr": "C'est bruyant dehors.",
+            "ko": "밖이 시끄럽습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_080_s1.mp3"
         }
@@ -2461,7 +2571,8 @@
         "tr": "ceket / palto / üst giysi",
         "de": "Jacke",
         "es": "chaqueta",
-        "fr": "veste"
+        "fr": "veste",
+        "ko": "겉옷 / 상의"
       },
       "sentences": [
         {
@@ -2473,7 +2584,8 @@
             "tr": "Ceketimi çıkaracağım.",
             "de": "Ich ziehe meine Jacke aus.",
             "es": "Me quitaré la chaqueta.",
-            "fr": "Je vais enlever ma veste."
+            "fr": "Je vais enlever ma veste.",
+            "ko": "겉옷을 벗습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_081_s1.mp3"
         }
@@ -2491,7 +2603,8 @@
         "tr": "resim / tablo",
         "de": "Bild",
         "es": "dibujo",
-        "fr": "image"
+        "fr": "image",
+        "ko": "그림"
       },
       "sentences": [
         {
@@ -2503,7 +2616,8 @@
             "tr": "Resim yapıyorum.",
             "de": "Ich zeichne ein Bild.",
             "es": "Hago un dibujo.",
-            "fr": "Je fais un dessin."
+            "fr": "Je fais un dessin.",
+            "ko": "그림을 그립니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_082_s1.mp3"
         }
@@ -2521,7 +2635,8 @@
         "tr": "film",
         "de": "Film",
         "es": "película",
-        "fr": "film"
+        "fr": "film",
+        "ko": "영화"
       },
       "sentences": [
         {
@@ -2533,7 +2648,8 @@
             "tr": "Dün film izledim.",
             "de": "Gestern habe ich einen Film gesehen.",
             "es": "Ayer vi una película.",
-            "fr": "Hier, j'ai regardé un film."
+            "fr": "Hier, j'ai regardé un film.",
+            "ko": "어제 영화를 봤습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_083_s1.mp3"
         }
@@ -2551,7 +2667,8 @@
         "tr": "sinema",
         "de": "Kino",
         "es": "cine",
-        "fr": "cinéma"
+        "fr": "cinéma",
+        "ko": "영화관"
       },
       "sentences": [
         {
@@ -2563,7 +2680,8 @@
             "tr": "Sinemaya gidiyorum.",
             "de": "Ich gehe ins Kino.",
             "es": "Voy al cine.",
-            "fr": "Je vais au cinéma."
+            "fr": "Je vais au cinéma.",
+            "ko": "영화관에 갑니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_084_s1.mp3"
         }
@@ -2581,7 +2699,8 @@
         "tr": "İngilizce",
         "de": "Englisch",
         "es": "inglés",
-        "fr": "anglais"
+        "fr": "anglais",
+        "ko": "영어"
       },
       "sentences": [
         {
@@ -2593,7 +2712,8 @@
             "tr": "İngilizce konuşuyorum.",
             "de": "Ich spreche Englisch.",
             "es": "Hablo inglés.",
-            "fr": "Je parle anglais."
+            "fr": "Je parle anglais.",
+            "ko": "영어를 말합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_085_s1.mp3"
         }
@@ -2611,7 +2731,8 @@
         "tr": "evet / hı-hı",
         "de": "ja",
         "es": "sí",
-        "fr": "oui"
+        "fr": "oui",
+        "ko": "네 / 예"
       },
       "sentences": [
         {
@@ -2623,7 +2744,8 @@
             "tr": "Evet, öyledir.",
             "de": "Ja, das ist richtig.",
             "es": "Sí, es cierto.",
-            "fr": "Oui, c'est vrai."
+            "fr": "Oui, c'est vrai.",
+            "ko": "네, 그렇습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_086_s1.mp3"
         }
@@ -2641,7 +2763,8 @@
         "tr": "istasyon / durak",
         "de": "Bahnhof",
         "es": "estación",
-        "fr": "gare"
+        "fr": "gare",
+        "ko": "역"
       },
       "sentences": [
         {
@@ -2653,7 +2776,8 @@
             "tr": "İstasyondan yürüyorum.",
             "de": "Ich gehe vom Bahnhof aus zu Fuß.",
             "es": "Camino desde la estación.",
-            "fr": "Je marche depuis la gare."
+            "fr": "Je marche depuis la gare.",
+            "ko": "역에서부터 걷습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_087_s1.mp3"
         }
@@ -2671,7 +2795,8 @@
         "tr": "asansör",
         "de": "Aufzug",
         "es": "ascensor",
-        "fr": "ascenseur"
+        "fr": "ascenseur",
+        "ko": "엘리베이터"
       },
       "sentences": [
         {
@@ -2683,7 +2808,8 @@
             "tr": "Asansöre biniyorum.",
             "de": "Ich fahre mit dem Aufzug.",
             "es": "Subo al ascensor.",
-            "fr": "Je prends l'ascenseur."
+            "fr": "Je prends l'ascenseur.",
+            "ko": "엘리베이터를 탑니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_088_s1.mp3"
         }
@@ -2701,7 +2827,8 @@
         "tr": "kurşun kalem",
         "de": "Bleistift",
         "es": "lápiz",
-        "fr": "crayon"
+        "fr": "crayon",
+        "ko": "연필"
       },
       "sentences": [
         {
@@ -2713,7 +2840,8 @@
             "tr": "Kurşun kalemle yazıyorum.",
             "de": "Ich schreibe mit einem Bleistift.",
             "es": "Escribo con un lápiz.",
-            "fr": "J'écris avec un crayon."
+            "fr": "J'écris avec un crayon.",
+            "ko": "연필로 씁니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_089_s1.mp3"
         }
@@ -2731,7 +2859,8 @@
         "tr": "lezzetli / güzel (tat)",
         "de": "lecker",
         "es": "delicioso",
-        "fr": "délicieux"
+        "fr": "délicieux",
+        "ko": "맛있다"
       },
       "sentences": [
         {
@@ -2743,7 +2872,8 @@
             "tr": "Bu yemek lezzetlidir.",
             "de": "Dieses Essen ist lecker.",
             "es": "Esta comida está deliciosa.",
-            "fr": "Ce plat est délicieux."
+            "fr": "Ce plat est délicieux.",
+            "ko": "이 요리는 맛있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_090_s1.mp3"
         }
@@ -2761,7 +2891,8 @@
         "tr": "çok / fazla sayıda",
         "de": "viele",
         "es": "mucho",
-        "fr": "beaucoup"
+        "fr": "beaucoup",
+        "ko": "많다"
       },
       "sentences": [
         {
@@ -2773,7 +2904,8 @@
             "tr": "Çok insan var.",
             "de": "Es gibt viele Leute.",
             "es": "Hay mucha gente.",
-            "fr": "Il y a beaucoup de monde."
+            "fr": "Il y a beaucoup de monde.",
+            "ko": "사람이 많습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_091_s1.mp3"
         }
@@ -2791,7 +2923,8 @@
         "tr": "büyük",
         "de": "groß",
         "es": "grande",
-        "fr": "grand"
+        "fr": "grand",
+        "ko": "크다"
       },
       "sentences": [
         {
@@ -2803,7 +2936,8 @@
             "tr": "Büyük bir evdir.",
             "de": "Es ist ein großes Haus.",
             "es": "Es una casa grande.",
-            "fr": "C'est une grande maison."
+            "fr": "C'est une grande maison.",
+            "ko": "큰 집입니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_092_s1.mp3"
         }
@@ -2821,7 +2955,8 @@
         "tr": "kalabalık / çok sayıda kişi",
         "de": "viele Leute",
         "es": "mucha gente",
-        "fr": "beaucoup de gens"
+        "fr": "beaucoup de gens",
+        "ko": "많은 사람 / 여럿"
       },
       "sentences": [
         {
@@ -2833,7 +2968,8 @@
             "tr": "Çok sayıda öğrenci var.",
             "de": "Es gibt viele Studenten.",
             "es": "Hay muchos estudiantes.",
-            "fr": "Il y a beaucoup d'étudiants."
+            "fr": "Il y a beaucoup d'étudiants.",
+            "ko": "학생이 많이 있습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_093_s1.mp3"
         }
@@ -2851,7 +2987,8 @@
         "tr": "anne",
         "de": "Mutter",
         "es": "madre",
-        "fr": "mère"
+        "fr": "mère",
+        "ko": "어머니 / 엄마"
       },
       "sentences": [
         {
@@ -2863,7 +3000,8 @@
             "tr": "Anneniz nasıllar?",
             "de": "Wie geht es deiner Mutter?",
             "es": "¿Cómo está tu madre?",
-            "fr": "Comment va ta mère ?"
+            "fr": "Comment va ta mère ?",
+            "ko": "어머니는 잘 지내시나요?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_094_s1.mp3"
         }
@@ -2881,7 +3019,8 @@
         "tr": "atıştırmalık / tatlı / şekerleme",
         "de": "Süßigkeit",
         "es": "dulce",
-        "fr": "sucré"
+        "fr": "sucré",
+        "ko": "과자 / 단것"
       },
       "sentences": [
         {
@@ -2893,7 +3032,8 @@
             "tr": "Atıştırmalık yiyorum.",
             "de": "Ich esse Süßigkeiten.",
             "es": "Como dulces.",
-            "fr": "Je mange des friandises."
+            "fr": "Je mange des friandises.",
+            "ko": "과자를 먹습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_095_s1.mp3"
         }
@@ -2911,7 +3051,8 @@
         "tr": "para",
         "de": "Geld",
         "es": "dinero",
-        "fr": "argent"
+        "fr": "argent",
+        "ko": "돈"
       },
       "sentences": [
         {
@@ -2923,7 +3064,8 @@
             "tr": "Param yok.",
             "de": "Ich habe kein Geld.",
             "es": "No tengo dinero.",
-            "fr": "Je n'ai pas d'argent."
+            "fr": "Je n'ai pas d'argent.",
+            "ko": "돈이 없습니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_096_s1.mp3"
         }
@@ -2941,7 +3083,8 @@
         "tr": "uyanmak / ayağa kalkmak",
         "de": "aufwachen",
         "es": "despertarse",
-        "fr": "se réveiller"
+        "fr": "se réveiller",
+        "ko": "일어나다"
       },
       "sentences": [
         {
@@ -2953,7 +3096,8 @@
             "tr": "Sabah saat yedide uyanırım.",
             "de": "Ich stehe morgens um sieben Uhr auf.",
             "es": "Me despierto a las siete de la mañana.",
-            "fr": "Je me réveille à sept heures du matin."
+            "fr": "Je me réveille à sept heures du matin.",
+            "ko": "아침 7시에 일어납니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_097_s1.mp3"
         }
@@ -2971,7 +3115,8 @@
         "tr": "koymak / yerleştirmek",
         "de": "stellen / legen",
         "es": "poner",
-        "fr": "poser"
+        "fr": "poser",
+        "ko": "두다 / 놓다"
       },
       "sentences": [
         {
@@ -2983,7 +3128,8 @@
             "tr": "Lütfen buraya koyun.",
             "de": "Bitte legen Sie es hierher.",
             "es": "Por favor, ponlo aquí.",
-            "fr": "Veuillez le placer ici."
+            "fr": "Veuillez le placer ici.",
+            "ko": "여기에 놓아 주세요."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_098_s1.mp3"
         }
@@ -3001,7 +3147,8 @@
         "tr": "hanımefendi / (başkasının) eşi",
         "de": "Ehefrau",
         "es": "esposa",
-        "fr": "femme"
+        "fr": "femme",
+        "ko": "부인 / 아내 (타인의)"
       },
       "sentences": [
         {
@@ -3013,7 +3160,8 @@
             "tr": "Tanaka beyin eşi naziktir.",
             "de": "Frau Tanaka ist freundlich.",
             "es": "La esposa del Sr. Tanaka es amable.",
-            "fr": "La femme de M. Tanaka est gentille."
+            "fr": "La femme de M. Tanaka est gentille.",
+            "ko": "다나카 씨의 부인은 친절합니다."
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_099_s1.mp3"
         }
@@ -3031,7 +3179,8 @@
         "tr": "alkol / sake",
         "de": "Alkohol",
         "es": "alcohol",
-        "fr": "alcool"
+        "fr": "alcool",
+        "ko": "술"
       },
       "sentences": [
         {
@@ -3043,7 +3192,8 @@
             "tr": "Alkol alır mısınız?",
             "de": "Trinken Sie Alkohol?",
             "es": "¿Bebes alcohol?",
-            "fr": "Buvez-vous de l'alcool ?"
+            "fr": "Buvez-vous de l'alcool ?",
+            "ko": "술을 마십니까?"
           },
           "audioUrl": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/sounds/n5_vocabulary/sentences/n5_vocab_100_s1.mp3"
         }

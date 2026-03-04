@@ -3,8 +3,8 @@
 | Batch | Range | Status | Notes |
 |-------|-------|--------|-------|
 | 1 | 001 - 025 | Completed | |
-| 2 | 026 - 050 | Pending | |
-| 3 | 051 - 075 | Pending | |
-| 4 | 076 - 100 | Pending | |
+| 2 | 026 - 050 | Completed | |
+| 3 | 051 - 075 | Completed | |
+| 4 | 076 - 100 | Completed | |
 | ... | ... | ... | ... |
 | 34 | 826 - 846 | Pending | |
