@@ -11,70 +11,133 @@
             "ko": "파티 시간"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/012/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/012/image.webp",
     "correct_option": 1,
     "transcriptions": {
         "ja": {
             "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なんじに　いきますか？",
             "dialogue": [
-                { "speaker": "男の人", "text": "あしたの　ぱーてぃーは　ろくじからです。" },
-                { "speaker": "男の人", "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。" },
-                { "speaker": "女の人", "text": "わかりました。では、そのじかんに　いきます。" }
+                {
+                    "speaker": "男の人",
+                    "text": "あしたの　ぱーてぃーは　ろくじからです。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "すこし　じゅんびを　しますから、にじゅっぷんまえに　きてください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました。では、そのじかんに　いきます。"
+                }
             ],
             "question": "おんなのひとは　なんじに　いきますか？"
         },
         "tr": {
             "intro": "Bir erkek ve bir kadın konuşuyor. Kadın saat kaçta gidecek?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Yarınki parti saat altıda başlıyor." },
-                { "speaker": "Erkek", "text": "Biraz hazırlık yapacağımız için yirmi dakika önce gelin lütfen." },
-                { "speaker": "Kadın", "text": "Anladım. O zaman o saatte gideceğim." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Yarınki parti saat altıda başlıyor."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Biraz hazırlık yapacağımız için yirmi dakika önce gelin lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım. O zaman o saatte gideceğim."
+                }
             ],
             "question": "Kadın saat kaçta gidecek?"
         },
         "en": {
             "intro": "A man and a woman are talking. What time will the woman go?",
             "dialogue": [
-                { "speaker": "Man", "text": "Tomorrow's party starts at six o'clock." },
-                { "speaker": "Man", "text": "We need to do some preparation, so please come twenty minutes before." },
-                { "speaker": "Woman", "text": "Understood. I will go at that time then." }
+                {
+                    "speaker": "Man",
+                    "text": "Tomorrow's party starts at six o'clock."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "We need to do some preparation, so please come twenty minutes before."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Understood. I will go at that time then."
+                }
             ],
             "question": "What time will the woman go?"
         },
         "de": {
             "intro": "Ein Mann und eine Frau sprechen miteinander. Um wie viel Uhr wird die Frau gehen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Die Party morgen beginnt um sechs Uhr." },
-                { "speaker": "Mann", "text": "Wir müssen noch etwas vorbereiten, also kommen Sie bitte zwanzig Minuten vorher." },
-                { "speaker": "Frau", "text": "Verstanden. Dann werde ich um diese Zeit kommen." }
+                {
+                    "speaker": "Mann",
+                    "text": "Die Party morgen beginnt um sechs Uhr."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wir müssen noch etwas vorbereiten, also kommen Sie bitte zwanzig Minuten vorher."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Verstanden. Dann werde ich um diese Zeit kommen."
+                }
             ],
             "question": "Um wie viel Uhr wird die Frau gehen?"
         },
         "fr": {
             "intro": "Un homme et une femme parlent. À quelle heure la femme va-t-elle y aller ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "La fête de demain commence à six heures." },
-                { "speaker": "Homme", "text": "Nous devons faire quelques préparatifs, alors venez vingt minutes avant s'il vous plaît." },
-                { "speaker": "Femme", "text": "D'accord. J'irai à cette heure-là alors." }
+                {
+                    "speaker": "Homme",
+                    "text": "La fête de demain commence à six heures."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Nous devons faire quelques préparatifs, alors venez vingt minutes avant s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. J'irai à cette heure-là alors."
+                }
             ],
             "question": "À quelle heure la femme va-t-elle y aller ?"
         },
         "es": {
             "intro": "Un hombre y una mujer están hablando. ¿A qué hora irá la mujer?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "La fiesta de mañana empieza a las seis." },
-                { "speaker": "Hombre", "text": "Tenemos que hacer algunos preparativos, así que por favor ven veinte minutos antes." },
-                { "speaker": "Mujer", "text": "Entendido. Iré a esa hora entonces." }
+                {
+                    "speaker": "Hombre",
+                    "text": "La fiesta de mañana empieza a las seis."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Tenemos que hacer algunos preparativos, así que por favor ven veinte minutos antes."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entendido. Iré a esa hora entonces."
+                }
             ],
             "question": "¿A qué hora irá la mujer?"
         },
         "ko": {
             "intro": "남자와 여자가 이야기하고 있습니다. 여자는 몇 시에 갑니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "내일 파티는 6시부터입니다." },
-                { "speaker": "남자", "text": "준비를 좀 해야 하니까, 20분 전에 와 주세요." },
-                { "speaker": "여자", "text": "알겠습니다. 그럼 그때 갈게요." }
+                {
+                    "speaker": "남자",
+                    "text": "내일 파티는 6시부터입니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "준비를 좀 해야 하니까, 20분 전에 와 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다. 그럼 그때 갈게요."
+                }
             ],
             "question": "여자는 몇 시에 갑니까?"
         }
@@ -162,5 +225,6 @@
         "fr": "La fête commence à 18h00. Comme on lui demande de venir 20 minutes avant pour les préparatifs, la réponse correcte est 17h40.",
         "es": "La fiesta empieza a las 18:00. Como se le pide que venga 20 minutos antes para la preparación, la respuesta correcta es las 17:40.",
         "ko": "파티는 18:00에 시작합니다. 준비를 위해 20분 전에 오라고 했으므로 정답은 17:40입니다."
-    }
+    },
+    "source_clip": "clip_04_05m16s_06m07s"
 }

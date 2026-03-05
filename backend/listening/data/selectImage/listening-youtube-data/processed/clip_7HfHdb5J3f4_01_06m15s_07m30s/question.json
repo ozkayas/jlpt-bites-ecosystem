@@ -11,77 +11,161 @@
             "ko": "손수건 사기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/027/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/027/image.webp",
     "correct_option": 1,
     "transcriptions": {
         "ja": {
             "intro": "デパートで おんなのひとと みせのひとが はなしています。 おんなのひとは どの ハンカチを かいますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "すみません、どうぶつの ハンカチは ありますか。" },
-                { "speaker": "男の人", "text": "はい. いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。" },
-                { "speaker": "女の人", "text": "うーん、ちいさい ねこが いいです. これを ください。" },
-                { "speaker": "男の人", "text": "ありがとうございます。" }
+                {
+                    "speaker": "女の人",
+                    "text": "すみません、どうぶつの ハンカチは ありますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい. いぬの ハンカチと ねこの ハンカチが ありますよ。 いぬは おおきいのが にひきいます。 ねこは ちいさいのが よんひきいます。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "うーん、ちいさい ねこが いいです. これを ください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "ありがとうございます。"
+                }
             ],
             "question": "おんなのひとは どの ハンカチを かいますか。"
         },
         "tr": {
             "intro": "Büyük mağazada bir kadın ve bir tezgahtar konuşuyor. Kadın hangi mendili satın alacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Affedersiniz, hayvan desenli mendiliniz var mı?" },
-                { "speaker": "Erkek", "text": "Evet. Köpekli ve kedili mendillerimiz var. Köpekli olanda iki büyük köpek var. Kedili olanda ise dört küçük kedi var." },
-                { "speaker": "Kadın", "text": "Mmm, küçük kedili olanı istiyorum. Bunu verin lütfen." },
-                { "speaker": "Erkek", "text": "Teşekkür ederim." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Affedersiniz, hayvan desenli mendiliniz var mı?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Evet. Köpekli ve kedili mendillerimiz var. Köpekli olanda iki büyük köpek var. Kedili olanda ise dört küçük kedi var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Mmm, küçük kedili olanı istiyorum. Bunu verin lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Teşekkür ederim."
+                }
             ],
             "question": "Kadın hangi mendili satın alacak?"
         },
         "en": {
             "intro": "A woman and a shop assistant are talking at a department store. Which handkerchief will the woman buy?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Excuse me, do you have any animal handkerchiefs?" },
-                { "speaker": "Man", "text": "Yes. We have dog handkerchiefs and cat handkerchiefs. The dog one has two large dogs. The cat one has four small cats." },
-                { "speaker": "Woman", "text": "Hmm, I'd like the small cats one. This one, please." },
-                { "speaker": "Man", "text": "Thank you very much." }
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me, do you have any animal handkerchiefs?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes. We have dog handkerchiefs and cat handkerchiefs. The dog one has two large dogs. The cat one has four small cats."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Hmm, I'd like the small cats one. This one, please."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Thank you very much."
+                }
             ],
             "question": "Which handkerchief will the woman buy?"
         },
         "de": {
             "intro": "Eine Frau und ein Verkäufer sprechen in einem Kaufhaus. Welches Taschentuch wird die Frau kaufen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Entschuldigung, haben Sie Taschentücher mit Tieren?" },
-                { "speaker": "Mann", "text": "Ja. Wir haben Taschentücher mit Hunden und mit Katzen. Auf dem mit Hunden sind zwei große Hunde. Auf dem mit Katzen sind vier kleine Katzen." },
-                { "speaker": "Frau", "text": "Hm, ich hätte gerne das mit den kleinen Katzen. Das hier bitte." },
-                { "speaker": "Mann", "text": "Vielen Dank." }
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigung, haben Sie Taschentücher mit Tieren?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja. Wir haben Taschentücher mit Hunden und mit Katzen. Auf dem mit Hunden sind zwei große Hunde. Auf dem mit Katzen sind vier kleine Katzen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Hm, ich hätte gerne das mit den kleinen Katzen. Das hier bitte."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Vielen Dank."
+                }
             ],
             "question": "Welches Taschentuch wird die Frau kaufen?"
         },
         "fr": {
             "intro": "Une femme et un vendeur parlent dans un grand magasin. Quel mouchoir la femme va-t-elle acheter ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Excusez-moi, avez-vous des mouchoirs avec des animaux ?" },
-                { "speaker": "Homme", "text": "Oui. Nous avons des mouchoirs avec des chiens et avec des chats. Celui avec les chiens en a deux grands. Celui avec les chats en a quatre petits." },
-                { "speaker": "Femme", "text": "Hum, je voudrais celui avec les petits chats. Celui-ci s'il vous plaît." },
-                { "speaker": "Homme", "text": "Merci beaucoup." }
+                {
+                    "speaker": "Femme",
+                    "text": "Excusez-moi, avez-vous des mouchoirs avec des animaux ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui. Nous avons des mouchoirs avec des chiens et avec des chats. Celui avec les chiens en a deux grands. Celui avec les chats en a quatre petits."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Hum, je voudrais celui avec les petits chats. Celui-ci s'il vous plaît."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Merci beaucoup."
+                }
             ],
             "question": "Quel mouchoir la femme va-t-elle acheter ?"
         },
         "es": {
             "intro": "Una mujer y un dependiente están hablando en unos grandes almacenes. ¿Qué pañuelo comprará la mujer?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Disculpe, ¿tiene pañuelos de animales?" },
-                { "speaker": "Hombre", "text": "Sí. Tenemos pañuelos de perros y de gatos. El de perros tiene dos grandes. El de gatos tiene cuatro pequeños." },
-                { "speaker": "Mujer", "text": "Mmm, quiero el de los gatos pequeños. Este, por favor." },
-                { "speaker": "Hombre", "text": "Muchas gracias." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe, ¿tiene pañuelos de animales?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí. Tenemos pañuelos de perros y de gatos. El de perros tiene dos grandes. El de gatos tiene cuatro pequeños."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Mmm, quiero el de los gatos pequeños. Este, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Muchas gracias."
+                }
             ],
             "question": "¿Qué pañuelo comprará la mujer?"
         },
         "ko": {
             "intro": "백화점에서 여자와 점원이 이야기하고 있습니다. 여자는 어느 손수건을 삽니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "실례합니다, 동물 무늬 손수건이 있나요?" },
-                { "speaker": "점원", "text": "네. 강아지 손수건과 고양이 손수건이 있어요. 강아지는 큰 것이 두 마리 있고, 고양이는 작은 것이 네 마리 있어요." },
-                { "speaker": "여자", "text": "음, 작은 고양이가 좋겠네요. 이걸로 주세요." },
-                { "speaker": "점원", "text": "감사합니다." }
+                {
+                    "speaker": "여자",
+                    "text": "실례합니다, 동물 무늬 손수건이 있나요?"
+                },
+                {
+                    "speaker": "점원",
+                    "text": "네. 강아지 손수건과 고양이 손수건이 있어요. 강아지는 큰 것이 두 마리 있고, 고양이는 작은 것이 네 마리 있어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "음, 작은 고양이가 좋겠네요. 이걸로 주세요."
+                },
+                {
+                    "speaker": "점원",
+                    "text": "감사합니다."
+                }
             ],
             "question": "여자는 어느 손수건을 삽니까?"
         }
@@ -181,5 +265,6 @@
         "fr": "La femme choisit le mouchoir avec quatre petits chats. La réponse correcte est l'option 2.",
         "es": "La mujer elige el pañuelo con cuatro gatos pequeños. La respuesta correcta es la opción 2.",
         "ko": "여자는 작은 고양이 네 마리가 있는 손수건을 선택합니다. 정답은 2번입니다."
-    }
+    },
+    "source_clip": "clip_7HfHdb5J3f4_01_06m15s_07m30s"
 }

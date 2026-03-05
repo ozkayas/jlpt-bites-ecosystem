@@ -11,84 +11,189 @@
             "ko": "오늘 밤 과일 고르기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/013/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/013/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　こんばん　どの　くだものを　えらびますか？",
             "dialogue": [
-                { "speaker": "女の人", "text": "こんばんの　あまいものを　つくりましょう。" },
-                { "speaker": "女の人", "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。" },
-                { "speaker": "男の人", "text": "わかりました。この　みどりの　ぶどうも　いれますか。" },
-                { "speaker": "女の人", "text": "ぶどうは　あしたの　あさ　たべましょう。" },
-                { "speaker": "男の人", "text": "わかりました。" }
+                {
+                    "speaker": "女の人",
+                    "text": "こんばんの　あまいものを　つくりましょう。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "この　あかくて　ちいさい　りんごを　ふたつ。それから、きいろくて　おおきい　ばななを　ひとつ　つかってください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "わかりました。この　みどりの　ぶどうも　いれますか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "ぶどうは　あしたの　あさ　たべましょう。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "わかりました。"
+                }
             ],
             "question": "おとこのひとは　こんばん　どの　くだものを　えらびますか？"
         },
         "tr": {
             "intro": "Bir erkek ve bir kadın konuşuyor. Erkek bu akşam için hangi meyveleri seçecek?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Bu akşam için tatlı bir şeyler yapalım." },
-                { "speaker": "Kadın", "text": "Şu kırmızı ve küçük elmalardan iki tane, sonra da sarı ve büyük muzdan bir tane kullanın lütfen." },
-                { "speaker": "Erkek", "text": "Anladım. Bu yeşil üzümleri de koyacak mıyız?" },
-                { "speaker": "Kadın", "text": "Üzümleri yarın sabah yiyelim." },
-                { "speaker": "Erkek", "text": "Tamam." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Bu akşam için tatlı bir şeyler yapalım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Şu kırmızı ve küçük elmalardan iki tane, sonra da sarı ve büyük muzdan bir tane kullanın lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. Bu yeşil üzümleri de koyacak mıyız?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Üzümleri yarın sabah yiyelim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam."
+                }
             ],
             "question": "Erkek bu akşam için hangi meyveleri seçecek?"
         },
         "en": {
             "intro": "A man and a woman are talking. Which fruits will the man choose for tonight?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Let's make something sweet for tonight." },
-                { "speaker": "Woman", "text": "Please use two of these small red apples. And then, one large yellow banana." },
-                { "speaker": "Man", "text": "Understood. Should I also include these green grapes?" },
-                { "speaker": "Woman", "text": "Let's eat the grapes tomorrow morning." },
-                { "speaker": "Man", "text": "Okay." }
+                {
+                    "speaker": "Woman",
+                    "text": "Let's make something sweet for tonight."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please use two of these small red apples. And then, one large yellow banana."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Understood. Should I also include these green grapes?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Let's eat the grapes tomorrow morning."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Okay."
+                }
             ],
             "question": "Which fruits will the man choose for tonight?"
         },
         "de": {
             "intro": "Ein Mann und eine Frau sprechen miteinander. Welche Früchte wird der Mann für heute Abend auswählen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Lass uns für heute Abend etwas Süßes machen." },
-                { "speaker": "Frau", "text": "Bitte nimm zwei von diesen kleinen roten Äpfeln. Und dann noch eine große gelbe Banane." },
-                { "speaker": "Mann", "text": "Verstanden. Soll ich auch diese grünen Weintrauben dazutun?" },
-                { "speaker": "Frau", "text": "Die Weintrauben essen wir morgen früh." },
-                { "speaker": "Mann", "text": "Alles klar." }
+                {
+                    "speaker": "Frau",
+                    "text": "Lass uns für heute Abend etwas Süßes machen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte nimm zwei von diesen kleinen roten Äpfeln. Und dann noch eine große gelbe Banane."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Verstanden. Soll ich auch diese grünen Weintrauben dazutun?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Die Weintrauben essen wir morgen früh."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Alles klar."
+                }
             ],
             "question": "Welche Früchte wird der Mann für heute Abend auswählen?"
         },
         "fr": {
             "intro": "Un homme et une femme parlent. Quels fruits l'homme va-t-il choisir pour ce soir ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Faisons quelque chose de sucré pour ce soir." },
-                { "speaker": "Femme", "text": "Veuillez utiliser deux de ces petites pommes rouges. Et ensuite, une grande banane jaune." },
-                { "speaker": "Homme", "text": "Compris. Dois-je aussi inclure ces raisins verts ?" },
-                { "speaker": "Femme", "text": "Mangeons les raisins demain matin." },
-                { "speaker": "Homme", "text": "D'accord." }
+                {
+                    "speaker": "Femme",
+                    "text": "Faisons quelque chose de sucré pour ce soir."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez utiliser deux de ces petites pommes rouges. Et ensuite, une grande banane jaune."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Compris. Dois-je aussi inclure ces raisins verts ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Mangeons les raisins demain matin."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "D'accord."
+                }
             ],
             "question": "Quels fruits l'homme va-t-il choisir pour ce soir ?"
         },
         "es": {
             "intro": "Un hombre y una mujer están hablando. ¿Qué frutas elegirá el hombre para esta noche?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Hagamos algo dulce para esta noche." },
-                { "speaker": "Mujer", "text": "Por favor, usa dos de estas manzanas rojas pequeñas. Y luego, un plátano amarillo grande." },
-                { "speaker": "Hombre", "text": "Entendido. ¿Incluyo también estas uvas verdes?" },
-                { "speaker": "Mujer", "text": "Comamos las uvas mañana por la mañana." },
-                { "speaker": "Hombre", "text": "De acuerdo." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Hagamos algo dulce para esta noche."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, usa dos de estas manzanas rojas pequeñas. Y luego, un plátano amarillo grande."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entendido. ¿Incluyo también estas uvas verdes?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Comamos las uvas mañana por la mañana."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "De acuerdo."
+                }
             ],
             "question": "¿Qué frutas elegirá el hombre para esta noche?"
         },
         "ko": {
             "intro": "남자와 여자가 이야기하고 있습니다. 남자는 오늘 밤 어떤 과일을 고릅니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "오늘 밤에 먹을 달콤한 것을 만들어요." },
-                { "speaker": "여자", "text": "이 빨갛고 작은 사과 두 개, 그리고 노랗고 큰 바나나 한 개를 사용해 주세요." },
-                { "speaker": "남자", "text": "알겠습니다. 이 초록색 포도도 넣을까요?" },
-                { "speaker": "여자", "text": "포도는 내일 아침에 먹어요." },
-                { "speaker": "남자", "text": "알겠습니다." }
+                {
+                    "speaker": "여자",
+                    "text": "오늘 밤에 먹을 달콤한 것을 만들어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "이 빨갛고 작은 사과 두 개, 그리고 노랗고 큰 바나나 한 개를 사용해 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다. 이 초록색 포도도 넣을까요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "포도는 내일 아침에 먹어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다."
+                }
             ],
             "question": "남자는 오늘 밤 어떤 과일을 고릅니까?"
         }
@@ -200,5 +305,6 @@
         "fr": "La femme veut 2 petites pommes et 1 grande banane. Elle dit que les raisins seront mangés demain matin.",
         "es": "La mujer quiere 2 manzanas pequeñas y 1 plátano grande. Dice que las uvas se comerán mañana por la mañana.",
         "ko": "여자는 작은 사과 2개와 큰 바나나 1개를 요청합니다. 포도는 내일 아침에 먹을 것이라고 말합니다."
-    }
+    },
+    "source_clip": "clip_04_05m36s_06m39s"
 }

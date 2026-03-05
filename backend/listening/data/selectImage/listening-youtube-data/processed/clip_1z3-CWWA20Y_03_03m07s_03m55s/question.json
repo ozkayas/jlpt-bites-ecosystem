@@ -11,91 +11,217 @@
             "ko": "여행 준비"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/022/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/022/image.webp",
     "correct_option": 3,
     "transcriptions": {
         "ja": {
             "intro": "いえで おんなの こが りょこうの じゅんびを しています。 おんなの こは どの ふくを もっていきますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "おとうさん、わたしの さかなの セーターは どこですか。 りょこうに もっていきたいです。" },
-                { "speaker": "男の人", "text": "あそこの つくえの うえに ありますよ。 はなの セーターですか。" },
-                { "speaker": "女の人", "text": "いいえ、さかなの セーターです。" },
-                { "speaker": "男の人", "text": "この さかなの シャツですか。" },
-                { "speaker": "女の人", "text": "いいえ、やまは さむいですから、セーターを もっていきます。" },
-                { "speaker": "男の人", "text": "わかりました。 これですね。" }
+                {
+                    "speaker": "女の人",
+                    "text": "おとうさん、わたしの さかなの セーターは どこですか。 りょこうに もっていきたいです。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あそこの つくえの うえに ありますよ。 はなの セーターですか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、さかなの セーターです。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "この さかなの シャツですか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、やまは さむいですから、セーターを もっていきます。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "わかりました。 これですね。"
+                }
             ],
             "question": "おんなの こは どの ふくを もっていきますか。"
         },
         "tr": {
             "intro": "Evde bir kız çocuğu seyahat hazırlığı yapıyor. Kız hangi kıyafeti yanında götürecek?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Baba, benim balıklı kazağım nerede? Seyahate götürmek istiyorum." },
-                { "speaker": "Erkek", "text": "Orada, masanın üzerinde duruyor. Çiçekli kazak mı?" },
-                { "speaker": "Kadın", "text": "Hayır, balıklı kazak." },
-                { "speaker": "Erkek", "text": "Şu balıklı tişört mü?" },
-                { "speaker": "Kadın", "text": "Hayır, dağ soğuk olacağı için kazağı götüreceğim." },
-                { "speaker": "Erkek", "text": "Anladım. Bu, değil mi?" }
+                {
+                    "speaker": "Kadın",
+                    "text": "Baba, benim balıklı kazağım nerede? Seyahate götürmek istiyorum."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Orada, masanın üzerinde duruyor. Çiçekli kazak mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, balıklı kazak."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Şu balıklı tişört mü?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, dağ soğuk olacağı için kazağı götüreceğim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. Bu, değil mi?"
+                }
             ],
             "question": "Kız hangi kıyafeti yanında götürecek?"
         },
         "en": {
             "intro": "A girl is preparing for a trip at home. Which clothes will the girl take with her?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Dad, where is my fish sweater? I want to take it on the trip." },
-                { "speaker": "Man", "text": "It's over there on the desk. The flower sweater?" },
-                { "speaker": "Woman", "text": "No, the fish sweater." },
-                { "speaker": "Man", "text": "This fish shirt?" },
-                { "speaker": "Woman", "text": "No, it's cold in the mountains, so I'll take the sweater." },
-                { "speaker": "Man", "text": "I see. This one, right?" }
+                {
+                    "speaker": "Woman",
+                    "text": "Dad, where is my fish sweater? I want to take it on the trip."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "It's over there on the desk. The flower sweater?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, the fish sweater."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "This fish shirt?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, it's cold in the mountains, so I'll take the sweater."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. This one, right?"
+                }
             ],
             "question": "Which clothes will the girl take with her?"
         },
         "de": {
             "intro": "Ein Mädchen bereitet sich zu Hause auf eine Reise vor. Welche Kleidung wird das Mädchen mitnehmen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Papa, wo ist mein Fisch-Pullover? Ich möchte ihn auf die Reise mitnehmen." },
-                { "speaker": "Mann", "text": "Er liegt dort drüben auf dem Schreibtisch. Der Blumen-Pullover?" },
-                { "speaker": "Frau", "text": "Nein, der Fisch-Pullover." },
-                { "speaker": "Mann", "text": "Dieses Fisch-T-Shirt?" },
-                { "speaker": "Frau", "text": "Nein, in den Bergen ist es kalt, deshalb nehme ich den Pullover mit." },
-                { "speaker": "Mann", "text": "Verstehe. Dieser hier, oder?" }
+                {
+                    "speaker": "Frau",
+                    "text": "Papa, wo ist mein Fisch-Pullover? Ich möchte ihn auf die Reise mitnehmen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Er liegt dort drüben auf dem Schreibtisch. Der Blumen-Pullover?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, der Fisch-Pullover."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Dieses Fisch-T-Shirt?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, in den Bergen ist es kalt, deshalb nehme ich den Pullover mit."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Verstehe. Dieser hier, oder?"
+                }
             ],
             "question": "Welche Kleidung wird das Mädchen mitnehmen?"
         },
         "fr": {
             "intro": "Une fille prépare son voyage à la maison. Quels vêtements la fille va-t-elle emporter ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Papa, où est mon pull avec un poisson ? Je veux l'emporter pour le voyage." },
-                { "speaker": "Homme", "text": "Il est là-bas sur le bureau. Le pull avec une fleur ?" },
-                { "speaker": "Femme", "text": "Non, le pull avec un poisson." },
-                { "speaker": "Homme", "text": "Ce t-shirt avec un poisson ?" },
-                { "speaker": "Femme", "text": "Non, il fait froid à la montagne, alors je vais prendre le pull." },
-                { "speaker": "Homme", "text": "Je vois. C'est celui-là, non ?" }
+                {
+                    "speaker": "Femme",
+                    "text": "Papa, où est mon pull avec un poisson ? Je veux l'emporter pour le voyage."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Il est là-bas sur le bureau. Le pull avec une fleur ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, le pull avec un poisson."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ce t-shirt avec un poisson ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, il fait froid à la montagne, alors je vais prendre le pull."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Je vois. C'est celui-là, non ?"
+                }
             ],
             "question": "Quels vêtements la fille va-t-elle emporter ?"
         },
         "es": {
             "intro": "Una niña está preparando un viaje en casa. ¿Qué ropa se llevará la niña?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Papá, ¿dónde está mi suéter de peces? Me lo quiero llevar al viaje." },
-                { "speaker": "Hombre", "text": "Está allá, sobre el escritorio. ¿El suéter de flores?" },
-                { "speaker": "Mujer", "text": "No, el suéter de peces." },
-                { "speaker": "Hombre", "text": "¿Esta camiseta de peces?" },
-                { "speaker": "Mujer", "text": "No, hace frío en la montaña, así que me llevaré el suéter." },
-                { "speaker": "Hombre", "text": "Entiendo. Es este, ¿verdad?" }
+                {
+                    "speaker": "Mujer",
+                    "text": "Papá, ¿dónde está mi suéter de peces? Me lo quiero llevar al viaje."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Está allá, sobre el escritorio. ¿El suéter de flores?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, el suéter de peces."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Esta camiseta de peces?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, hace frío en la montaña, así que me llevaré el suéter."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entiendo. Es este, ¿verdad?"
+                }
             ],
             "question": "¿Qué ropa se llevará la niña?"
         },
         "ko": {
             "intro": "집에서 여학생이 여행 준비를 하고 있습니다. 여학생은 어떤 옷을 가져갑니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "아빠, 제 물고기 무늬 스웨터 어디 있어요? 여행에 가져가고 싶어요." },
-                { "speaker": "남자", "text": "저기 책상 위에 있어요. 꽃무늬 스웨터 말인가요?" },
-                { "speaker": "여자", "text": "아니요, 물고기 무늬 스웨터요." },
-                { "speaker": "남자", "text": "이 물고기 무늬 셔츠인가요?" },
-                { "speaker": "여자", "text": "아니요, 산은 추우니까 스웨터를 가져갈게요." },
-                { "speaker": "남자", "text": "알겠습니다. 이것군요." }
+                {
+                    "speaker": "여자",
+                    "text": "아빠, 제 물고기 무늬 스웨터 어디 있어요? 여행에 가져가고 싶어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "저기 책상 위에 있어요. 꽃무늬 스웨터 말인가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 물고기 무늬 스웨터요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "이 물고기 무늬 셔츠인가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 산은 추우니까 스웨터를 가져갈게요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다. 이것군요."
+                }
             ],
             "question": "여학생은 어떤 옷을 가져갑니까?"
         }
@@ -183,5 +309,6 @@
         "fr": "La fille cherche le pull avec un motif de poisson. Le père propose d'abord le pull à fleurs puis le t-shirt à poissons, mais la fille choisit le pull car il fera froid à la montagne. La réponse correcte est le pull à poissons (4).",
         "es": "La niña busca el suéter con dibujos de peces. El padre sugiere primero el suéter de flores y luego la camiseta de peces, pero la niña elige el suéter porque hará frío en la montaña. La respuesta correcta es el suéter de peces (4).",
         "ko": "여학생은 물고기 무늬 스웨터를 찾고 있습니다. 아빠는 꽃무늬 스웨터와 물고기 무늬 셔츠를 제안하지만, 학생은 산이 추울 것이라며 스웨터를 선택합니다. 정답은 물고기 무늬 스웨터(4번)입니다."
-    }
+    },
+    "source_clip": "clip_1z3-CWWA20Y_03_03m07s_03m55s"
 }

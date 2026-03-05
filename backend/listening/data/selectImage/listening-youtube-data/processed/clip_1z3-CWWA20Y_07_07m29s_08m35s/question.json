@@ -11,91 +11,217 @@
             "ko": "도서관에서 만나기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/026/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/026/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "おとこのひとと おんなのひとが でんわで はなしています。 ふたりは あした どこで なんじに あいますか。",
             "dialogue": [
-                { "speaker": "男の人", "text": "もしもし、やまださん. あしたは どこで あいますか。" },
-                { "speaker": "女の人", "text": "ゆうびんきょくの まえは どうですか。" },
-                { "speaker": "男の人", "text": "あしたは あめですから、としょかんの なかで あいましょう。" },
-                { "speaker": "女の人", "text": "わかりました. じゅうじに あいますか。" },
-                { "speaker": "男の人", "text": "すみません、じゅうじは ちょっと はやいです. じゅうじはんに してください。" },
-                { "speaker": "女の人", "text": "はい. じゅうじはんですね. わかりました。" }
+                {
+                    "speaker": "男の人",
+                    "text": "もしもし、やまださん. あしたは どこで あいますか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "ゆうびんきょくの まえは どうですか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あしたは あめですから、としょかんの なかで あいましょう。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました. じゅうじに あいますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "すみません、じゅうじは ちょっと はやいです. じゅうじはんに してください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい. じゅうじはんですね. わかりました。"
+                }
             ],
             "question": "ふたりは あした どこで なんじに あいますか。"
         },
         "tr": {
             "intro": "Bir erkek ve bir kadın telefonda konuşuyor. İkisi yarın nerede ve saat kaçta buluşacaklar?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Alo, Yamada Hanım. Yarın nerede buluşalım?" },
-                { "speaker": "Kadın", "text": "Postanenin önü nasıl olur?" },
-                { "speaker": "Erkek", "text": "Yarın yağmur yağacağı için kütüphanenin içinde buluşalım." },
-                { "speaker": "Kadın", "text": "Anladım. Saat onda mı buluşalım?" },
-                { "speaker": "Erkek", "text": "Affedersiniz, saat on biraz erken. On buçuk yapalım lütfen." },
-                { "speaker": "Kadın", "text": "Tamam. On buçuk, değil mi? Anladım." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Alo, Yamada Hanım. Yarın nerede buluşalım?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Postanenin önü nasıl olur?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Yarın yağmur yağacağı için kütüphanenin içinde buluşalım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım. Saat onda mı buluşalım?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Affedersiniz, saat on biraz erken. On buçuk yapalım lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Tamam. On buçuk, değil mi? Anladım."
+                }
             ],
             "question": "İkisi yarın nerede ve saat kaçta buluşacaklar?"
         },
         "en": {
             "intro": "A man and a woman are talking on the phone. Where and what time will they meet tomorrow?",
             "dialogue": [
-                { "speaker": "Man", "text": "Hello, Ms. Yamada. Where shall we meet tomorrow?" },
-                { "speaker": "Woman", "text": "How about in front of the post office?" },
-                { "speaker": "Man", "text": "Since it will rain tomorrow, let's meet inside the library." },
-                { "speaker": "Woman", "text": "I see. Shall we meet at ten o'clock?" },
-                { "speaker": "Man", "text": "I'm sorry, ten is a bit early. Please make it ten-thirty." },
-                { "speaker": "Woman", "text": "Okay. Ten-thirty, right? Understood." }
+                {
+                    "speaker": "Man",
+                    "text": "Hello, Ms. Yamada. Where shall we meet tomorrow?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "How about in front of the post office?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Since it will rain tomorrow, let's meet inside the library."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I see. Shall we meet at ten o'clock?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I'm sorry, ten is a bit early. Please make it ten-thirty."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay. Ten-thirty, right? Understood."
+                }
             ],
             "question": "Where and what time will they meet tomorrow?"
         },
         "de": {
             "intro": "Ein Mann und eine Frau sprechen am Telefon miteinander. Wo und um wie viel Uhr treffen sie sich morgen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Hallo, Frau Yamada. Wo treffen wir uns morgen?" },
-                { "speaker": "Frau", "text": "Wie wäre es vor der Post?" },
-                { "speaker": "Mann", "text": "Da es morgen regnen wird, lass uns uns in der Bibliothek treffen." },
-                { "speaker": "Frau", "text": "Verstanden. Treffen wir uns um zehn Uhr?" },
-                { "speaker": "Mann", "text": "Entschuldigung, zehn Uhr ist etwas früh. Bitte lass uns halb elf machen." },
-                { "speaker": "Frau", "text": "Gut. Halb elf, richtig? Alles klar." }
+                {
+                    "speaker": "Mann",
+                    "text": "Hallo, Frau Yamada. Wo treffen wir uns morgen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Wie wäre es vor der Post?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Da es morgen regnen wird, lass uns uns in der Bibliothek treffen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Verstanden. Treffen wir uns um zehn Uhr?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigung, zehn Uhr ist etwas früh. Bitte lass uns halb elf machen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Gut. Halb elf, richtig? Alles klar."
+                }
             ],
             "question": "Wo und um wie viel Uhr treffen sie sich morgen?"
         },
         "fr": {
             "intro": "Un homme et une femme parlent au téléphone. Où et à quelle heure se retrouveront-ils demain ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Allô, Mme Yamada. Où nous retrouvons-nous demain ?" },
-                { "speaker": "Femme", "text": "Que diriez-vous de devant la poste ?" },
-                { "speaker": "Homme", "text": "Comme il va pleuvoir demain, retrouvons-nous à l'intérieur de la bibliothèque." },
-                { "speaker": "Femme", "text": "D'accord. On se voit à dix heures ?" },
-                { "speaker": "Homme", "text": "Désolé, dix heures c'est un peu tôt. Faisons dix heures et demie s'il vous plaît." },
-                { "speaker": "Femme", "text": "D'accord. Dix heures et demie, c'est ça ? J'ai compris." }
+                {
+                    "speaker": "Homme",
+                    "text": "Allô, Mme Yamada. Où nous retrouvons-nous demain ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Que diriez-vous de devant la poste ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Comme il va pleuvoir demain, retrouvons-nous à l'intérieur de la bibliothèque."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. On se voit à dix heures ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Désolé, dix heures c'est un peu tôt. Faisons dix heures et demie s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Dix heures et demie, c'est ça ? J'ai compris."
+                }
             ],
             "question": "Où et à quelle heure se retrouveront-ils demain ?"
         },
         "es": {
             "intro": "Un hombre y una mujer están hablando por teléfono. ¿Dónde y a qué hora se encontrarán mañana?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Diga, Sra. Yamada. ¿Dónde nos encontramos mañana?" },
-                { "speaker": "Mujer", "text": "¿Qué tal frente a la oficina de correos?" },
-                { "speaker": "Hombre", "text": "Como mañana va a llover, mejor veámonos dentro de la biblioteca." },
-                { "speaker": "Mujer", "text": "Entendido. ¿Nos vemos a las diez?" },
-                { "speaker": "Hombre", "text": "Perdona, a las diez es un poco temprano. Que sea a las diez y media, por favor." },
-                { "speaker": "Mujer", "text": "Vale. A las diez y media, ¿no? Entendido." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Diga, Sra. Yamada. ¿Dónde nos encontramos mañana?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué tal frente a la oficina de correos?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Como mañana va a llover, mejor veámonos dentro de la biblioteca."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entendido. ¿Nos vemos a las diez?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Perdona, a las diez es un poco temprano. Que sea a las diez y media, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Vale. A las diez y media, ¿no? Entendido."
+                }
             ],
             "question": "¿Dónde y a qué hora se encontrarán mañana?"
         },
         "ko": {
             "intro": "남자와 여자가 전화로 이야기하고 있습니다. 두 사람은 내일 어디에서 몇 시에 만납니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "여보세요, 야마다 씨. 내일은 어디에서 만날까요?" },
-                { "speaker": "여자", "text": "우체국 앞은 어때요?" },
-                { "speaker": "남자", "text": "내일은 비가 오니까 도서관 안에서 만납시다." },
-                { "speaker": "여자", "text": "알겠습니다. 10시에 만날까요?" },
-                { "speaker": "남자", "text": "죄송합니다, 10시는 좀 빨라요. 10시 반으로 해 주세요." },
-                { "speaker": "여자", "text": "네. 10시 반이군요. 알겠습니다." }
+                {
+                    "speaker": "남자",
+                    "text": "여보세요, 야마다 씨. 내일은 어디에서 만날까요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "우체국 앞은 어때요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "내일은 비가 오니까 도서관 안에서 만납시다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다. 10시에 만날까요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "죄송합니다, 10시는 좀 빨라요. 10시 반으로 해 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네. 10시 반이군요. 알겠습니다."
+                }
             ],
             "question": "두 사람은 내일 어디에서 몇 시에 만납니까?"
         }
@@ -171,5 +297,6 @@
         "fr": "À cause de la pluie, ils décident de se retrouver à la bibliothèque et choisissent 10h30 (じゅうじはん). La réponse correcte est l'option 3 (bibliothèque à 10h30).",
         "es": "Debido a la lluvia, deciden verse en la biblioteca y eligen las 10:30 (じゅうじはん). La respuesta correcta es la opción 3 (biblioteca a las 10:30).",
         "ko": "비 때문에 도서관에서 만나기로 하고 시간은 10시 반(じゅうじはん)으로 정합니다. 정답은 도서관과 10시 반이 있는 3번입니다."
-    }
+    },
+    "source_clip": "clip_1z3-CWWA20Y_07_07m29s_08m35s"
 }

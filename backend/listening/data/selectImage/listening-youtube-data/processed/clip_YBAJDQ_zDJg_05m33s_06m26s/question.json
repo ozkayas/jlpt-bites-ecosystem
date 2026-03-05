@@ -11,91 +11,217 @@
             "ko": "방 청소"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/034/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/034/image.webp",
     "correct_option": 3,
     "transcriptions": {
         "ja": {
             "intro": "おんなのひとと　おとこのひとが　へやの　そうじを　しています。へやは　いま　どうなって　いますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "へやの　そうじを　しましょう。" },
-                { "speaker": "男の人", "text": "はい. この　ほんは　どうしますか. てーぶるの　うえに　おきましょうか。" },
-                { "speaker": "女の人", "text": "いいえ、ほんは　ほんだなに　いれて　ください。" },
-                { "speaker": "男の人", "text": "わかりました. あ、この　かびんは　どうしますか。" },
-                { "speaker": "女の人", "text": "かびんは　てーぶるの　うえに　おいて　ください。" },
-                { "speaker": "男の人", "text": "はい、わかりました。" }
+                {
+                    "speaker": "女の人",
+                    "text": "へやの　そうじを　しましょう。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい. この　ほんは　どうしますか. てーぶるの　うえに　おきましょうか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、ほんは　ほんだなに　いれて　ください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "わかりました. あ、この　かびんは　どうしますか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "かびんは　てーぶるの　うえに　おいて　ください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい、わかりました。"
+                }
             ],
             "question": "へやは　いま　どうなって　いますか。"
         },
         "tr": {
             "intro": "Bir kadın ve bir erkek odayı temizliyor. Oda şu an nasıl görünüyor?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Hadi odayı temizleyelim." },
-                { "speaker": "Erkek", "text": "Tamam. Bu kitapları ne yapalım? Masanın üzerine koyayım mı?" },
-                { "speaker": "Kadın", "text": "Hayır, kitapları kitaplığa yerleştirin lütfen." },
-                { "speaker": "Erkek", "text": "Anladım. A, bu vazoyu ne yapalım?" },
-                { "speaker": "Kadın", "text": "Vazoyu masanın üzerine koyun lütfen." },
-                { "speaker": "Erkek", "text": "Tamam, anladım." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Hadi odayı temizleyelim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam. Bu kitapları ne yapalım? Masanın üzerine koyayım mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, kitapları kitaplığa yerleştirin lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. A, bu vazoyu ne yapalım?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Vazoyu masanın üzerine koyun lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam, anladım."
+                }
             ],
             "question": "Oda şu an nasıl görünüyor?"
         },
         "en": {
             "intro": "A woman and a man are cleaning a room. What does the room look like now?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Let's clean the room." },
-                { "speaker": "Man", "text": "Okay. What should I do with these books? Shall I put them on the table?" },
-                { "speaker": "Woman", "text": "No, please put the books in the bookshelf." },
-                { "speaker": "Man", "text": "I see. Oh, what about this vase?" },
-                { "speaker": "Woman", "text": "Please put the vase on the table." },
-                { "speaker": "Man", "text": "Okay, I understand." }
+                {
+                    "speaker": "Woman",
+                    "text": "Let's clean the room."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Okay. What should I do with these books? Shall I put them on the table?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, please put the books in the bookshelf."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. Oh, what about this vase?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please put the vase on the table."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Okay, I understand."
+                }
             ],
             "question": "What does the room look like now?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann putzen ein Zimmer. Wie sieht das Zimmer jetzt aus?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Lass uns das Zimmer putzen." },
-                { "speaker": "Mann", "text": "Ja. Was machen wir mit diesen Büchern? Soll ich sie auf den Tisch legen?" },
-                { "speaker": "Frau", "text": "Nein, bitte stellen Sie die Bücher ins Bücherregal." },
-                { "speaker": "Mann", "text": "Verstanden. Oh, was ist mit dieser Vase?" },
-                { "speaker": "Frau", "text": "Bitte stellen Sie die Vase auf den Tisch." },
-                { "speaker": "Mann", "text": "Ja, alles klar." }
+                {
+                    "speaker": "Frau",
+                    "text": "Lass uns das Zimmer putzen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja. Was machen wir mit diesen Büchern? Soll ich sie auf den Tisch legen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, bitte stellen Sie die Bücher ins Bücherregal."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Verstanden. Oh, was ist mit dieser Vase?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte stellen Sie die Vase auf den Tisch."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja, alles klar."
+                }
             ],
             "question": "Wie sieht das Zimmer jetzt aus?"
         },
         "fr": {
             "intro": "Une femme et un homme nettoient une pièce. À quoi ressemble la pièce maintenant ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Nettoyons la pièce." },
-                { "speaker": "Homme", "text": "D'accord. Que fait-on de ces livres ? Je les pose sur la table ?" },
-                { "speaker": "Femme", "text": "Non, s'il vous plaît, mettez les livres dans la bibliothèque." },
-                { "speaker": "Homme", "text": "Entendu. Ah, et ce vase ?" },
-                { "speaker": "Femme", "text": "Veuillez poser le vase sur la table." },
-                { "speaker": "Homme", "text": "Oui, d'accord." }
+                {
+                    "speaker": "Femme",
+                    "text": "Nettoyons la pièce."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "D'accord. Que fait-on de ces livres ? Je les pose sur la table ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, s'il vous plaît, mettez les livres dans la bibliothèque."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Entendu. Ah, et ce vase ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez poser le vase sur la table."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui, d'accord."
+                }
             ],
             "question": "À quoi ressemble la pièce maintenant ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están limpiando una habitación. ¿Cómo está la habitación ahora?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Vamos a limpiar la habitación." },
-                { "speaker": "Hombre", "text": "Sí. ¿Qué hacemos con estos libros? ¿Los pongo sobre la mesa?" },
-                { "speaker": "Mujer", "text": "No, por favor pon los libros en la estantería." },
-                { "speaker": "Hombre", "text": "Entendido. Ah, ¿y este jarrón?" },
-                { "speaker": "Mujer", "text": "Pon el jarrón sobre la mesa, por favor." },
-                { "speaker": "Hombre", "text": "Sí, de acuerdo." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Vamos a limpiar la habitación."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí. ¿Qué hacemos con estos libros? ¿Los pongo sobre la mesa?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, por favor pon los libros en la estantería."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entendido. Ah, ¿y este jarrón?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Pon el jarrón sobre la mesa, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí, de acuerdo."
+                }
             ],
             "question": "¿Cómo está la habitación ahora?"
         },
         "ko": {
             "intro": "여자와 남자가 방 청소를 하고 있습니다. 방은 지금 어떻게 되어 있습니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "방 청소를 합시다." },
-                { "speaker": "남자", "text": "네. 이 책들은 어떻게 할까요? 탁자 위에 둘까요?" },
-                { "speaker": "여자", "text": "아니요, 책은 책꽂이에 넣어 주세요." },
-                { "speaker": "남자", "text": "알겠습니다. 아, 이 꽃병은 어떻게 할까요?" },
-                { "speaker": "여자", "text": "꽃병은 탁자 위에 두세요." },
-                { "speaker": "남자", "text": "네, 알겠습니다." }
+                {
+                    "speaker": "여자",
+                    "text": "방 청소를 합시다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네. 이 책들은 어떻게 할까요? 탁자 위에 둘까요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 책은 책꽂이에 넣어 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다. 아, 이 꽃병은 어떻게 할까요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "꽃병은 탁자 위에 두세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네, 알겠습니다."
+                }
             ],
             "question": "방은 지금 어떻게 되어 있습니까?"
         }
@@ -183,5 +309,6 @@
         "fr": "Les livres sont mis dans la bibliothèque et le vase est posé sur la table. La réponse correcte est l'option 4.",
         "es": "Los libros se ponen en la estantería y el jarrón se coloca sobre la mesa. La respuesta correcta es la opción 4.",
         "ko": "책은 책꽂이에 넣고 꽃병은 탁자 위에 둡니다. 정답은 4번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_05m33s_06m26s"
 }

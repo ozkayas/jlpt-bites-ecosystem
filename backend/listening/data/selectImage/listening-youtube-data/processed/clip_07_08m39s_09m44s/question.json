@@ -11,98 +11,245 @@
             "ko": "가방 가게에서 쇼핑"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/018/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/018/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "かばんやで おみせのひとと おとこのひとが はなしています。おとこのひとは どれを かいますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "いらっしゃいませ。" },
-                { "speaker": "男の人", "text": "あの、かばんを かいたいんですが。" },
-                { "speaker": "女の人", "text": "はい。こちらの おおきい あおい かばんは どうですか。とても いいですよ。" },
-                { "speaker": "男の人", "text": "そうですね。じゃあ、それを ひとつ ください。" },
-                { "speaker": "女の人", "text": "あ、こちらの ちいさい くろい かばんも いっしょに どうですか。" },
-                { "speaker": "男の人", "text": "そうですね。じゃあ、それも ひとつ ください。" },
-                { "speaker": "女の人", "text": "わかりました。ありがとうございます。" }
+                {
+                    "speaker": "女の人",
+                    "text": "いらっしゃいませ。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あの、かばんを かいたいんですが。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい。こちらの おおきい あおい かばんは どうですか。とても いいですよ。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "そうですね。じゃあ、それを ひとつ ください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あ、こちらの ちいさい くろい かばんも いっしょに どうですか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "そうですね。じゃあ、それも ひとつ ください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました。ありがとうございます。"
+                }
             ],
             "question": "おとこのひとは どれを かいますか。"
         },
         "tr": {
             "intro": "Çantacıda görevli ve bir erkek konuşuyor. Erkek hangisini satın alacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Hoş geldiniz." },
-                { "speaker": "Erkek", "text": "Şey, çanta satın almak istiyordum." },
-                { "speaker": "Kadın", "text": "Pekala. Buradaki şu büyük mavi çanta nasıl? Çok kalitelidir." },
-                { "speaker": "Erkek", "text": "Bakalım... Tamam, ondan bir tane verin lütfen." },
-                { "speaker": "Kadın", "text": "A, buradaki şu küçük siyah çanta da yanında nasıl olur?" },
-                { "speaker": "Erkek", "text": "Bakalım... Tamam, ondan da bir tane verin lütfen." },
-                { "speaker": "Kadın", "text": "Anladım. Teşekkür ederim." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Hoş geldiniz."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Şey, çanta satın almak istiyordum."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Pekala. Buradaki şu büyük mavi çanta nasıl? Çok kalitelidir."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Bakalım... Tamam, ondan bir tane verin lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "A, buradaki şu küçük siyah çanta da yanında nasıl olur?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Bakalım... Tamam, ondan da bir tane verin lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım. Teşekkür ederim."
+                }
             ],
             "question": "Erkek hangisini satın alacak?"
         },
         "en": {
             "intro": "A shop assistant and a man are talking at a bag shop. Which one will the man buy?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Welcome." },
-                { "speaker": "Man", "text": "Um, I'd like to buy a bag." },
-                { "speaker": "Woman", "text": "Certainly. How about this large blue bag here? It's very nice." },
-                { "speaker": "Man", "text": "I see. Well, please give me one of those." },
-                { "speaker": "Woman", "text": "Oh, how about this small black bag as well?" },
-                { "speaker": "Man", "text": "I see. Well, please give me one of those too." },
-                { "speaker": "Woman", "text": "Understood. Thank you very much." }
+                {
+                    "speaker": "Woman",
+                    "text": "Welcome."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Um, I'd like to buy a bag."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Certainly. How about this large blue bag here? It's very nice."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. Well, please give me one of those."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, how about this small black bag as well?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. Well, please give me one of those too."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Understood. Thank you very much."
+                }
             ],
             "question": "Which one will the man buy?"
         },
         "de": {
             "intro": "Eine Verkäuferin und ein Mann sprechen in einem Taschengeschäft. Welches wird der Mann kaufen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Willkommen." },
-                { "speaker": "Mann", "text": "Ähm, ich möchte gerne eine Tasche kaufen." },
-                { "speaker": "Frau", "text": "Gerne. Wie wäre es mit dieser großen blauen Tasche hier? Sie ist sehr gut." },
-                { "speaker": "Mann", "text": "Mal sehen... Gut, geben Sie mir bitte eine davon." },
-                { "speaker": "Frau", "text": "Oh, wie wäre es mit dieser kleinen schwarzen Tasche dazu?" },
-                { "speaker": "Mann", "text": "Mal sehen... Gut, geben Sie mir bitte auch eine davon." },
-                { "speaker": "Frau", "text": "Verstanden. Vielen Dank." }
+                {
+                    "speaker": "Frau",
+                    "text": "Willkommen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ähm, ich möchte gerne eine Tasche kaufen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Gerne. Wie wäre es mit dieser großen blauen Tasche hier? Sie ist sehr gut."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Mal sehen... Gut, geben Sie mir bitte eine davon."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Oh, wie wäre es mit dieser kleinen schwarzen Tasche dazu?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Mal sehen... Gut, geben Sie mir bitte auch eine davon."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Verstanden. Vielen Dank."
+                }
             ],
             "question": "Welches wird der Mann kaufen?"
         },
         "fr": {
             "intro": "Une vendeuse et un homme parlent dans un magasin de sacs. Lequel l'homme va-t-il acheter ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Bienvenue." },
-                { "speaker": "Homme", "text": "Euh, j'aimerais acheter un sac." },
-                { "speaker": "Femme", "text": "D'accord. Que diriez-vous de ce grand sac bleu ici ? Il est très bien." },
-                { "speaker": "Homme", "text": "C'est vrai. Alors, donnez-m'en un s'il vous plaît." },
-                { "speaker": "Femme", "text": "Oh, et ce petit sac noir ici, qu'en pensez-vous ?" },
-                { "speaker": "Homme", "text": "C'est vrai. Alors, donnez-m'en un aussi s'il vous plaît." },
-                { "speaker": "Femme", "text": "Entendu. Merci beaucoup." }
+                {
+                    "speaker": "Femme",
+                    "text": "Bienvenue."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Euh, j'aimerais acheter un sac."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Que diriez-vous de ce grand sac bleu ici ? Il est très bien."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est vrai. Alors, donnez-m'en un s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oh, et ce petit sac noir ici, qu'en pensez-vous ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est vrai. Alors, donnez-m'en un aussi s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Entendu. Merci beaucoup."
+                }
             ],
             "question": "Lequel l'homme va-t-il acheter ?"
         },
         "es": {
             "intro": "Una vendedora y un hombre están hablando en una tienda de bolsos. ¿Cuál comprará el hombre?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Bienvenido." },
-                { "speaker": "Hombre", "text": "Este, me gustaría comprar un bolso." },
-                { "speaker": "Mujer", "text": "Sí. ¿Qué le parece este bolso azul grande de aquí? Es muy bueno." },
-                { "speaker": "Hombre", "text": "Es verdad. Bueno, déme uno de esos, por favor." },
-                { "speaker": "Mujer", "text": "Ah, ¿qué tal este bolso negro pequeño de aquí también?" },
-                { "speaker": "Hombre", "text": "Es verdad. Bueno, déme uno de esos también, por favor." },
-                { "speaker": "Mujer", "text": "Entendido. Muchas gracias." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Bienvenido."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Este, me gustaría comprar un bolso."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí. ¿Qué le parece este bolso azul grande de aquí? Es muy bueno."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Es verdad. Bueno, déme uno de esos, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, ¿qué tal este bolso negro pequeño de aquí también?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Es verdad. Bueno, déme uno de esos también, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entendido. Muchas gracias."
+                }
             ],
             "question": "¿Cuál comprará el hombre?"
         },
         "ko": {
             "intro": "가방 가게에서 점원과 남자가 이야기하고 있습니다. 남자는 어느 것을 삽니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "어서 오세요." },
-                { "speaker": "남자", "text": "저기, 가방을 사고 싶은데요." },
-                { "speaker": "여자", "text": "네. 여기 이 크고 파란 가방은 어떠신가요? 아주 좋아요." },
-                { "speaker": "남자", "text": "그렇네요. 그럼 그걸로 하나 주세요." },
-                { "speaker": "여자", "text": "아, 여기 이 작고 검은 가방도 같이 어떠신가요?" },
-                { "speaker": "남자", "text": "그렇네요. 그럼 그것도 하나 주세요." },
-                { "speaker": "여자", "text": "알겠습니다. 감사합니다." }
+                {
+                    "speaker": "여자",
+                    "text": "어서 오세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "저기, 가방을 사고 싶은데요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네. 여기 이 크고 파란 가방은 어떠신가요? 아주 좋아요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그렇네요. 그럼 그걸로 하나 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 여기 이 작고 검은 가방도 같이 어떠신가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그렇네요. 그럼 그것도 하나 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다. 감사합니다."
+                }
             ],
             "question": "남자는 어느 것을 삽니까?"
         }
@@ -202,5 +349,6 @@
         "fr": "L'homme décide d'acheter à la fois le grand sac bleu et le petit sac noir. La réponse correcte est l'image montrant les deux sacs.",
         "es": "El hombre decide comprar tanto el bolso azul grande como el bolso negro pequeño. La respuesta correcta es la imagen que muestra ambos.",
         "ko": "남자는 크고 파란 가방과 작고 검은 가방을 둘 다 사기로 결정합니다. 정답은 두 가방이 모두 있는 그림입니다."
-    }
+    },
+    "source_clip": "clip_07_08m39s_09m44s"
 }

@@ -33,7 +33,7 @@ from typing import Optional, List, Dict, Any
 COLLECTION_NAME = 'n5_vocabulary'
 BATCH_LIMIT = 400
 
-VALID_TAGS = ['名詞', '動詞', '形容詞', '副詞', '表現']
+VALID_TAGS = ['名詞', '動詞', '形容詞', '副詞', '表現', '接尾辞', '代名詞']
 
 
 def initialize_firebase():

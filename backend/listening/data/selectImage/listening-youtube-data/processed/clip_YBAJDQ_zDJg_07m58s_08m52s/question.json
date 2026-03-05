@@ -11,84 +11,189 @@
             "ko": "병원에서 약 먹는 법 듣기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/035/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/035/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "びょういんで おんなのひとと おとこのひとが はなしています。おとこのひとは あさごはんの あと どの くすりを のみますか？",
             "dialogue": [
-                { "speaker": "女の人", "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。" },
-                { "speaker": "男の人", "text": "はい。" },
-                { "speaker": "女の人", "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。" },
-                { "speaker": "男の人", "text": "ひとつですか？" },
-                { "speaker": "女の人", "text": "いいえ、ふたつ のんでください。" }
+                {
+                    "speaker": "女の人",
+                    "text": "この おおきい くすりは あさと よるの いちにち にかい しょくじの あとに のんでください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "それから この ちいさい あかい くすりは あさごはんの あとだけ のんでください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "ひとつですか？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、ふたつ のんでください。"
+                }
             ],
             "question": "おとこのひとは あさごはんの あと どの くすりを のみますか？"
         },
         "tr": {
             "intro": "Hastanede bir kadın ve bir erkek konuşuyor. Erkek kahvaltıdan sonra hangi ilacı içecek?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Bu büyük ilaç sabah ve akşam günde iki kez yemeklerden sonra içilmelidir." },
-                { "speaker": "Erkek", "text": "Tamam." },
-                { "speaker": "Kadın", "text": "Bir de şu küçük kırmızı ilacı sadece kahvaltıdan sonra için lütfen." },
-                { "speaker": "Erkek", "text": "Bir tane mi?" },
-                { "speaker": "Kadın", "text": "Hayır, iki tane için lütfen." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Bu büyük ilaç sabah ve akşam günde iki kez yemeklerden sonra içilmelidir."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Bir de şu küçük kırmızı ilacı sadece kahvaltıdan sonra için lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Bir tane mi?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, iki tane için lütfen."
+                }
             ],
             "question": "Erkek kahvaltıdan sonra hangi ilacı içecek?"
         },
         "en": {
             "intro": "A woman and a man are talking at a hospital. Which medicine will the man take after breakfast?",
             "dialogue": [
-                { "speaker": "Woman", "text": "This large medicine should be taken twice a day, in the morning and evening, after meals." },
-                { "speaker": "Man", "text": "Yes." },
-                { "speaker": "Woman", "text": "Also, please take this small red medicine only after breakfast." },
-                { "speaker": "Man", "text": "One pill?" },
-                { "speaker": "Woman", "text": "No, please take two." }
+                {
+                    "speaker": "Woman",
+                    "text": "This large medicine should be taken twice a day, in the morning and evening, after meals."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Also, please take this small red medicine only after breakfast."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "One pill?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, please take two."
+                }
             ],
             "question": "Which medicine will the man take after breakfast?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen in einem Krankenhaus miteinander. Welche Medizin wird der Mann nach dem Frühstück einnehmen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Diese große Medizin soll zweimal täglich, morgens und abends, nach den Mahlzeiten eingenommen werden." },
-                { "speaker": "Mann", "text": "Ja." },
-                { "speaker": "Frau", "text": "Und diese kleine rote Medizin nehmen Sie bitte nur nach dem Frühstück ein." },
-                { "speaker": "Mann", "text": "Eine Tablette?" },
-                { "speaker": "Frau", "text": "Nein, nehmen Sie bitte zwei." }
+                {
+                    "speaker": "Frau",
+                    "text": "Diese große Medizin soll zweimal täglich, morgens und abends, nach den Mahlzeiten eingenommen werden."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Und diese kleine rote Medizin nehmen Sie bitte nur nach dem Frühstück ein."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Eine Tablette?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, nehmen Sie bitte zwei."
+                }
             ],
             "question": "Welche Medizin wird der Mann nach dem Frühstück einnehmen?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent dans un hôpital. Quel médicament l'homme va-t-il prendre après le petit-déjeuner ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Ce gros médicament doit être pris deux fois par jour, le matin et le soir, après les repas." },
-                { "speaker": "Homme", "text": "Oui." },
-                { "speaker": "Femme", "text": "Et ce petit médicament rouge, prenez-le seulement après le petit-déjeuner s'il vous plaît." },
-                { "speaker": "Homme", "text": "Un seul ?" },
-                { "speaker": "Femme", "text": "Non, prenez-en deux s'il vous plaît." }
+                {
+                    "speaker": "Femme",
+                    "text": "Ce gros médicament doit être pris deux fois par jour, le matin et le soir, après les repas."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Et ce petit médicament rouge, prenez-le seulement après le petit-déjeuner s'il vous plaît."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Un seul ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, prenez-en deux s'il vous plaît."
+                }
             ],
             "question": "Quel médicament l'homme va-t-il prendre après le petit-déjeuner ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando en un hospital. ¿Qué medicina tomará el hombre después del desayuno?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Esta medicina grande debe tomarse dos veces al día, por la mañana y por la noche, después de las comidas." },
-                { "speaker": "Hombre", "text": "Sí." },
-                { "speaker": "Mujer", "text": "Y esta medicina pequeña roja, tómela solo después del desayuno, por favor." },
-                { "speaker": "Hombre", "text": "¿Una sola?" },
-                { "speaker": "Mujer", "text": "No, tome dos, por favor." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Esta medicina grande debe tomarse dos veces al día, por la mañana y por la noche, después de las comidas."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Y esta medicina pequeña roja, tómela solo después del desayuno, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Una sola?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, tome dos, por favor."
+                }
             ],
             "question": "¿Qué medicina tomará el hombre después del desayuno?"
         },
         "ko": {
             "intro": "병원에서 여자와 남자가 이야기하고 있습니다. 남자는 아침 식사 후에 어떤 약을 먹습니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "이 큰 약은 아침과 저녁 하루 두 번 식사 후에 드세요." },
-                { "speaker": "남자", "text": "네." },
-                { "speaker": "여자", "text": "그리고 이 작은 빨간 약은 아침 식사 후에만 드세요." },
-                { "speaker": "남자", "text": "한 개인가요?" },
-                { "speaker": "여자", "text": "아니요, 두 개 드세요." }
+                {
+                    "speaker": "여자",
+                    "text": "이 큰 약은 아침과 저녁 하루 두 번 식사 후에 드세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그리고 이 작은 빨간 약은 아침 식사 후에만 드세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "한 개인가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 두 개 드세요."
+                }
             ],
             "question": "남자는 아침 식사 후에 어떤 약을 먹습니까?"
         }
@@ -176,5 +281,6 @@
         "fr": "L'homme doit prendre 1 gros comprimé et 2 petits après le petit-déjeuner. La réponse correcte est l'option 3.",
         "es": "El hombre debe tomar 1 pastilla grande y 2 pequeñas después del desayuno. La respuesta correcta es la opción 3.",
         "ko": "남자는 아침 식사 후에 큰 약 한 개와 작은 약 두 개를 먹어야 합니다. 정답은 3번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_07m58s_08m52s"
 }

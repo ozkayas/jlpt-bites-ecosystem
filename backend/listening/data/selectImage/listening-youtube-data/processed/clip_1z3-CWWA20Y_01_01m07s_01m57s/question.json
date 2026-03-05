@@ -11,70 +11,133 @@
             "ko": "내일의 일정과 만남 장소"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/020/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/020/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。",
             "dialogue": [
-                { "speaker": "男の人", "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの でんしゃに のりますよ。まちには ゆうめいな びょういんが あります。きれいな こうえんも あります。" },
-                { "speaker": "女の人", "text": "あしたは こうえんに きてから いきますか。" },
-                { "speaker": "男の人", "text": "いいえ、としょかんに きてください。くじはんに まっています。" }
+                {
+                    "speaker": "男の人",
+                    "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの でんしゃに のりますよ。まちには ゆうめいな びょういんが あります。きれいな こうえんも あります。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あしたは こうえんに きてから いきますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いいえ、としょかんに きてください。くじはんに まっています。"
+                }
             ],
             "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
         },
         "tr": {
             "intro": "Sınıfta öğretmen konuşuyor. Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat on trenine bineceğiz. Şehirde ünlü bir hastane var. Ayrıca güzel bir park da var." },
-                { "speaker": "Kadın", "text": "Yarın parka gelip mi gideceğiz?" },
-                { "speaker": "Erkek", "text": "Hayır, kütüphaneye gelin lütfen. Saat dokuz buçukta bekliyor olacağım." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat on trenine bineceğiz. Şehirde ünlü bir hastane var. Ayrıca güzel bir park da var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Yarın parka gelip mi gideceğiz?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır, kütüphaneye gelin lütfen. Saat dokuz buçukta bekliyor olacağım."
+                }
             ],
             "question": "Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?"
         },
         "en": {
             "intro": "A teacher is talking in the classroom. Where will the students meet the teacher tomorrow morning?",
             "dialogue": [
-                { "speaker": "Man", "text": "Everyone, tomorrow we are going to see the new town. We will take the ten o'clock train. There is a famous hospital in the town. There is also a beautiful park." },
-                { "speaker": "Woman", "text": "Will we meet at the park tomorrow?" },
-                { "speaker": "Man", "text": "No, please come to the library. I will be waiting at nine-thirty." }
+                {
+                    "speaker": "Man",
+                    "text": "Everyone, tomorrow we are going to see the new town. We will take the ten o'clock train. There is a famous hospital in the town. There is also a beautiful park."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Will we meet at the park tomorrow?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No, please come to the library. I will be waiting at nine-thirty."
+                }
             ],
             "question": "Where will the students meet the teacher tomorrow morning?"
         },
         "de": {
             "intro": "Ein Lehrer spricht im Klassenzimmer. Wo werden die Schüler den Lehrer morgen früh treffen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Alle zusammen, morgen werden wir uns die neue Stadt ansehen. Wir nehmen den Zug um zehn Uhr. In der Stadt gibt es ein berühmtes Krankenhaus. Es gibt auch einen schönen Park." },
-                { "speaker": "Frau", "text": "Kommen wir morgen erst zum Park?" },
-                { "speaker": "Mann", "text": "Nein, bitte kommen Sie zur Bibliothek. Ich warte dort um halb zehn." }
+                {
+                    "speaker": "Mann",
+                    "text": "Alle zusammen, morgen werden wir uns die neue Stadt ansehen. Wir nehmen den Zug um zehn Uhr. In der Stadt gibt es ein berühmtes Krankenhaus. Es gibt auch einen schönen Park."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Kommen wir morgen erst zum Park?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein, bitte kommen Sie zur Bibliothek. Ich warte dort um halb zehn."
+                }
             ],
             "question": "Wo werden die Schüler den Lehrer morgen früh treffen?"
         },
         "fr": {
             "intro": "Un professeur parle dans la salle de classe. Où les élèves retrouveront-ils le professeur demain matin ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Tout le monde, demain nous allons visiter la nouvelle ville. Nous prendrons le train de dix heures. Il y a un hôpital célèbre en ville. Il y a aussi un beau parc." },
-                { "speaker": "Femme", "text": "On se retrouve au parc demain ?" },
-                { "speaker": "Homme", "text": "Non, venez à la bibliothèque s'il vous plaît. Je vous attendrai à neuf heures et demie." }
+                {
+                    "speaker": "Homme",
+                    "text": "Tout le monde, demain nous allons visiter la nouvelle ville. Nous prendrons le train de dix heures. Il y a un hôpital célèbre en ville. Il y a aussi un beau parc."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "On se retrouve au parc demain ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non, venez à la bibliothèque s'il vous plaît. Je vous attendrai à neuf heures et demie."
+                }
             ],
             "question": "Où les élèves retrouveront-ils le professeur demain matin ?"
         },
         "es": {
             "intro": "Un profesor está hablando en el aula. ¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Todos, mañana vamos a ver la ciudad nueva. Tomaremos el tren de las diez. Hay un hospital famoso en la ciudad. También hay un parque bonito." },
-                { "speaker": "Mujer", "text": "¿Vendremos mañana al parque primero?" },
-                { "speaker": "Hombre", "text": "No, por favor vengan a la biblioteca. Estaré esperando a las nueve y media." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Todos, mañana vamos a ver la ciudad nueva. Tomaremos el tren de las diez. Hay un hospital famoso en la ciudad. También hay un parque bonito."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Vendremos mañana al parque primero?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No, por favor vengan a la biblioteca. Estaré esperando a las nueve y media."
+                }
             ],
             "question": "¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?"
         },
         "ko": {
             "intro": "교실에서 선생님이 이야기하고 있습니다. 학생들은 내일 아침 어디에서 선생님을 만납니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "여러분, 내일은 새로운 마을을 보러 갑니다. 10시 기차를 탈 거예요. 마을에는 유명한 병원이 있습니다. 예쁜 공원도 있어요." },
-                { "speaker": "여자", "text": "내일은 공원에 왔다가 가나요?" },
-                { "speaker": "남자", "text": "아니요, 도서관으로 오세요. 9시 반에 기다리고 있을게요." }
+                {
+                    "speaker": "남자",
+                    "text": "여러분, 내일은 새로운 마을을 보러 갑니다. 10시 기차를 탈 거예요. 마을에는 유명한 병원이 있습니다. 예쁜 공원도 있어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "내일은 공원에 왔다가 가나요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요, 도서관으로 오세요. 9시 반에 기다리고 있을게요."
+                }
             ],
             "question": "학생들은 내일 아침 어디에서 선생님을 만납니까?"
         }
@@ -162,5 +225,6 @@
         "fr": "L'élève demande s'il faut se retrouver au parc, mais le professeur répond : 'Non, venez à la bibliothèque' (3).",
         "es": "La estudiante pregunta si deben ir al parque, pero el profesor dice: 'No, por favor vengan a la biblioteca' (3).",
         "ko": "학생은 공원에 와야 하는지 묻지만, 선생님은 아니라고 하며 도서관(3번)으로 오라고 말합니다."
-    }
+    },
+    "source_clip": "clip_1z3-CWWA20Y_01_01m07s_01m57s"
 }

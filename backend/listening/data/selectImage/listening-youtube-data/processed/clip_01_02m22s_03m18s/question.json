@@ -11,98 +11,245 @@
             "ko": "우체국에서 쓰는 법 묻기"
         }
     },
-    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/audio.mp3",
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/007/audio.mp3",
     "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/002/image.png",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "ゆうびんきょくで　ゆうびんきょくの　ひとと　おとこの　ひとが　はなしています。おとこの　ひとは　かみに　どう　かきますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "この　かみに　おなまえを　かいてください。" },
-                { "speaker": "女の人", "text": "おなまえの　したに　じゅうしょを　かいてください。" },
-                { "speaker": "女の人", "text": "じゅうしょは　かんじで　かいて、うえに　ひらがなを　かいてくださいね。" },
-                { "speaker": "女の人", "text": "いちばん　したには　ゆうびんばんごうを　かいてください。" },
-                { "speaker": "男の人", "text": "あのう、おなまえは　えいごで　かきますか。" },
-                { "speaker": "女の人", "text": "いいえ、かたかなで　おねがいします。" },
-                { "speaker": "男の人", "text": "はい、わかりました。" }
+                {
+                    "speaker": "女の人",
+                    "text": "この　かみに　おなまえを　かいてください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "おなまえの　したに　じゅうしょを　かいてください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "じゅうしょは　かんじで　かいて、うえに　ひらがなを　かいてくださいね。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いちばん　したには　ゆうびんばんごうを　かいてください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あのう、おなまえは　えいごで　かきますか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、かたかなで　おねがいします。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい、わかりました。"
+                }
             ],
             "question": "おとこの　ひとは　かみに　どう　かきますか。"
         },
         "tr": {
             "intro": "Postanede bir görevli ve bir erkek konuşuyor. Erkek kağıda nasıl yazacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Bu kağıda isminizi yazın lütfen." },
-                { "speaker": "Kadın", "text": "İsminizin altına adresi yazın lütfen." },
-                { "speaker": "Kadın", "text": "Adresi kanji ile yazıp, üzerine hiragana yazın lütfen." },
-                { "speaker": "Kadın", "text": "En alta posta kodunu yazın lütfen." },
-                { "speaker": "Erkek", "text": "Şey, ismi İngilizce mi yazacağım?" },
-                { "speaker": "Kadın", "text": "Hayır, katakana ile lütfen." },
-                { "speaker": "Erkek", "text": "Tamam, anladım." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Bu kağıda isminizi yazın lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "İsminizin altına adresi yazın lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Adresi kanji ile yazıp, üzerine hiragana yazın lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "En alta posta kodunu yazın lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Şey, ismi İngilizce mi yazacağım?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, katakana ile lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam, anladım."
+                }
             ],
             "question": "Erkek kağıda nasıl yazacak?"
         },
         "en": {
             "intro": "A staff member and a man are talking at the post office. How will the man write on the paper?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Please write your name on this paper." },
-                { "speaker": "Woman", "text": "Please write your address below your name." },
-                { "speaker": "Woman", "text": "Please write the address in kanji and write hiragana above it." },
-                { "speaker": "Woman", "text": "Please write the postal code at the very bottom." },
-                { "speaker": "Man", "text": "Um, should I write my name in English?" },
-                { "speaker": "Woman", "text": "No, please write it in katakana." },
-                { "speaker": "Man", "text": "Okay, I understand." }
+                {
+                    "speaker": "Woman",
+                    "text": "Please write your name on this paper."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please write your address below your name."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please write the address in kanji and write hiragana above it."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please write the postal code at the very bottom."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Um, should I write my name in English?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, please write it in katakana."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Okay, I understand."
+                }
             ],
             "question": "How will the man write on the paper?"
         },
         "de": {
             "intro": "Ein Mitarbeiter und ein Mann sprechen in der Post. Wie wird der Mann auf das Papier schreiben?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Bitte schreiben Sie Ihren Namen auf dieses Papier." },
-                { "speaker": "Frau", "text": "Bitte schreiben Sie Ihre Adresse unter Ihren Namen." },
-                { "speaker": "Frau", "text": "Bitte schreiben Sie die Adresse in Kanji und schreiben Sie Hiragana darüber." },
-                { "speaker": "Frau", "text": "Bitte schreiben Sie die Postleitzahl ganz unten hin." },
-                { "speaker": "Mann", "text": "Ähm, soll ich meinen Namen auf Englisch schreiben?" },
-                { "speaker": "Frau", "text": "Nein, bitte schreiben Sie ihn in Katakana." },
-                { "speaker": "Mann", "text": "Okay, ich verstehe." }
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte schreiben Sie Ihren Namen auf dieses Papier."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte schreiben Sie Ihre Adresse unter Ihren Namen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte schreiben Sie die Adresse in Kanji und schreiben Sie Hiragana darüber."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte schreiben Sie die Postleitzahl ganz unten hin."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ähm, soll ich meinen Namen auf Englisch schreiben?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, bitte schreiben Sie ihn in Katakana."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Okay, ich verstehe."
+                }
             ],
             "question": "Wie wird der Mann auf das Papier schreiben?"
         },
         "fr": {
             "intro": "Un employé et un homme parlent à la poste. Comment l'homme va-t-il écrire sur le papier ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Veuillez écrire votre nom sur ce papier." },
-                { "speaker": "Femme", "text": "Veuillez écrire votre adresse sous votre nom." },
-                { "speaker": "Femme", "text": "Veuillez écrire l'adresse en kanji et écrire les hiraganas au-dessus." },
-                { "speaker": "Femme", "text": "Veuillez écrire le code postal tout en bas." },
-                { "speaker": "Homme", "text": "Euh, dois-je écrire mon nom en anglais ?" },
-                { "speaker": "Femme", "text": "Non, en katakana s'il vous plaît." },
-                { "speaker": "Homme", "text": "D'accord, je comprends." }
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez écrire votre nom sur ce papier."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez écrire votre adresse sous votre nom."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez écrire l'adresse en kanji et écrire les hiraganas au-dessus."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez écrire le code postal tout en bas."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Euh, dois-je écrire mon nom en anglais ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, en katakana s'il vous plaît."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "D'accord, je comprends."
+                }
             ],
             "question": "Comment l'homme va-t-il écrire sur le papier ?"
         },
         "es": {
             "intro": "Un empleado y un hombre están hablando en la oficina de correos. ¿Cómo escribirá el hombre en el papel?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Por favor, escriba su nombre en este papel." },
-                { "speaker": "Mujer", "text": "Por favor, escriba su dirección debajo de su nombre." },
-                { "speaker": "Mujer", "text": "Por favor, escriba la dirección en kanji y escriba hiragana encima." },
-                { "speaker": "Mujer", "text": "Por favor, escriba el código postal al final de todo." },
-                { "speaker": "Hombre", "text": "Este... ¿escribo mi nombre en inglés?" },
-                { "speaker": "Mujer", "text": "No, en katakana, por favor." },
-                { "speaker": "Hombre", "text": "Está bien, entiendo." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, escriba su nombre en este papel."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, escriba su dirección debajo de su nombre."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, escriba la dirección en kanji y escriba hiragana encima."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, escriba el código postal al final de todo."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Este... ¿escribo mi nombre en inglés?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, en katakana, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Está bien, entiendo."
+                }
             ],
             "question": "¿Cómo escribirá el hombre en el papel?"
         },
         "ko": {
             "intro": "우체국에서 우체국 직원과 남자가 이야기하고 있습니다. 남자는 종이에 어떻게 씁니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "이 종이에 성함을 써 주세요." },
-                { "speaker": "여자", "text": "성함 아래에 주소를 써 주세요." },
-                { "speaker": "여자", "text": "주소는 한자로 쓰고, 그 위에 히라가나를 써 주세요." },
-                { "speaker": "여자", "text": "맨 아래에는 우편번호를 써 주세요." },
-                { "speaker": "남자", "text": "저기, 이름은 영어로 쓰나요?" },
-                { "speaker": "여자", "text": "아니요, 가타카나로 부탁드립니다." },
-                { "speaker": "남자", "text": "네, 알겠습니다." }
+                {
+                    "speaker": "여자",
+                    "text": "이 종이에 성함을 써 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "성함 아래에 주소를 써 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "주소는 한자로 쓰고, 그 위에 히라가나를 써 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "맨 아래에는 우편번호를 써 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "저기, 이름은 영어로 쓰나요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 가타카나로 부탁드립니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네, 알겠습니다."
+                }
             ],
             "question": "남자는 종이에 어떻게 씁니까?"
         }
@@ -261,5 +408,6 @@
         "fr": "L'employée explique les étapes : nom en katakana, adresse en kanji avec hiraganas au-dessus, et code postal tout en bas. L'image correcte est le Panneau 3.",
         "es": "La empleada explica los pasos: nombre en katakana, dirección en kanji con hiragana encima, y código postal al final. La imagen correcta es el Panel 3.",
         "ko": "직원은 성함은 가타카나로, 주소는 한자로 쓰되 그 위에 히라가나를 쓰고, 우편번호는 맨 아래에 쓰라고 설명합니다. 정답은 3번 패널입니다."
-    }
+    },
+    "source_clip": "clip_01_02m22s_03m18s"
 }

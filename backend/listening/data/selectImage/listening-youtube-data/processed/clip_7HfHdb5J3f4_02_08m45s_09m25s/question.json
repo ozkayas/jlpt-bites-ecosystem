@@ -11,91 +11,217 @@
             "ko": "교실에서 기다리기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/028/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/028/image.webp",
     "correct_option": 3,
     "transcriptions": {
         "ja": {
             "intro": "きょうしつで せんせいと がくせいが はなしています。 がくせいは どこに すわりますか。",
             "dialogue": [
-                { "speaker": "男の人", "text": "やまださん。" },
-                { "speaker": "女の人", "text": "はい。" },
-                { "speaker": "男の人", "text": "じむしつから ほんを もってきますから、 それまで あそこの そふぁーで まっていて ください。" },
-                { "speaker": "女の人", "text": "あの、つくえの そばの そふぁーですか。" },
-                { "speaker": "男の人", "text": "いいえ、ほんだなの そばの そふぁーに すわってください。" },
-                { "speaker": "女の人", "text": "はい. わかりました。" }
+                {
+                    "speaker": "男の人",
+                    "text": "やまださん。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "じむしつから ほんを もってきますから、 それまで あそこの そふぁーで まっていて ください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あの、つくえの そばの そふぁーですか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いいえ、ほんだなの そばの そふぁーに すわってください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい. わかりました。"
+                }
             ],
             "question": "がくせいは どこに すわりますか。"
         },
         "tr": {
             "intro": "Sınıfta öğretmen ve öğrenci konuşuyor. Öğrenci nereye oturacak?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Yamada Hanım." },
-                { "speaker": "Kadın", "text": "Evet." },
-                { "speaker": "Erkek", "text": "Ofisten kitabı getirip geleceğim, o zamana kadar şuradaki koltukta bekleyin lütfen." },
-                { "speaker": "Kadın", "text": "Şey, masanın yanındaki koltuk mu?" },
-                { "speaker": "Erkek", "text": "Hayır, kitaplığın yanındaki koltuğa oturun lütfen." },
-                { "speaker": "Kadın", "text": "Tamam. Anladım." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Yamada Hanım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ofisten kitabı getirip geleceğim, o zamana kadar şuradaki koltukta bekleyin lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Şey, masanın yanındaki koltuk mu?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır, kitaplığın yanındaki koltuğa oturun lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Tamam. Anladım."
+                }
             ],
             "question": "Öğrenci nereye oturacak?"
         },
         "en": {
             "intro": "A teacher and a student are talking in the classroom. Where will the student sit?",
             "dialogue": [
-                { "speaker": "Man", "text": "Ms. Yamada." },
-                { "speaker": "Woman", "text": "Yes." },
-                { "speaker": "Man", "text": "I'm going to bring a book from the office, so please wait on that sofa over there until then." },
-                { "speaker": "Woman", "text": "Um, the sofa near the desk?" },
-                { "speaker": "Man", "text": "No, please sit on the sofa near the bookshelf." },
-                { "speaker": "Woman", "text": "Okay. I understand." }
+                {
+                    "speaker": "Man",
+                    "text": "Ms. Yamada."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I'm going to bring a book from the office, so please wait on that sofa over there until then."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Um, the sofa near the desk?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No, please sit on the sofa near the bookshelf."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay. I understand."
+                }
             ],
             "question": "Where will the student sit?"
         },
         "de": {
             "intro": "Ein Lehrer und ein Schüler sprechen im Klassenzimmer. Wo wird der Schüler sitzen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Frau Yamada." },
-                { "speaker": "Frau", "text": "Ja." },
-                { "speaker": "Mann", "text": "Ich werde ein Buch aus dem Büro holen, also warten Sie bitte bis dahin auf diesem Sofa dort drüben." },
-                { "speaker": "Frau", "text": "Ähm, das Sofa in der Nähe des Schreibtisches?" },
-                { "speaker": "Mann", "text": "Nein, bitte setzen Sie sich auf das Sofa in der Nähe des Bücherregals." },
-                { "speaker": "Frau", "text": "Okay. Ich verstehe." }
+                {
+                    "speaker": "Mann",
+                    "text": "Frau Yamada."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich werde ein Buch aus dem Büro holen, also warten Sie bitte bis dahin auf diesem Sofa dort drüben."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ähm, das Sofa in der Nähe des Schreibtisches?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein, bitte setzen Sie sich auf das Sofa in der Nähe des Bücherregals."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Okay. Ich verstehe."
+                }
             ],
             "question": "Wo wird der Schüler sitzen?"
         },
         "fr": {
             "intro": "Un professeur et un élève parlent dans la salle de classe. Où l'élève va-t-il s'asseoir ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Mme Yamada." },
-                { "speaker": "Femme", "text": "Oui." },
-                { "speaker": "Homme", "text": "Je vais chercher un livre au bureau, alors attendez sur ce canapé là-bas en attendant." },
-                { "speaker": "Femme", "text": "Euh, le canapé près du bureau ?" },
-                { "speaker": "Homme", "text": "Non, s'il vous plaît, asseyez-vous sur le canapé près de la bibliothèque." },
-                { "speaker": "Femme", "text": "D'accord. Je comprends." }
+                {
+                    "speaker": "Homme",
+                    "text": "Mme Yamada."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Je vais chercher un livre au bureau, alors attendez sur ce canapé là-bas en attendant."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Euh, le canapé près du bureau ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non, s'il vous plaît, asseyez-vous sur le canapé près de la bibliothèque."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Je comprends."
+                }
             ],
             "question": "Où l'élève va-t-il s'asseoir ?"
         },
         "es": {
             "intro": "Un profesor y un estudiante están hablando en el aula. ¿Dónde se sentará el estudiante?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Sra. Yamada." },
-                { "speaker": "Mujer", "text": "Sí." },
-                { "speaker": "Hombre", "text": "Voy a traer un libro de la oficina, así que por favor espere en ese sofá de allá hasta entonces." },
-                { "speaker": "Mujer", "text": "Este, ¿el sofá cerca del escritorio?" },
-                { "speaker": "Hombre", "text": "No, por favor siéntese en el sofá cerca de la estantería." },
-                { "speaker": "Mujer", "text": "Está bien. Entiendo." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Sra. Yamada."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Voy a traer un libro de la oficina, así que por favor espere en ese sofá de allá hasta entonces."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Este, ¿el sofá cerca del escritorio?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No, por favor siéntese en el sofá cerca de la estantería."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Está bien. Entiendo."
+                }
             ],
             "question": "¿Dónde se sentará el estudiante?"
         },
         "ko": {
             "intro": "교실에서 선생님과 학생이 이야기하고 있습니다. 학생은 어디에 앉습니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "야마다 씨." },
-                { "speaker": "여자", "text": "네." },
-                { "speaker": "남자", "text": "사무실에서 책을 가져올 테니까, 그때까지 저기 있는 소파에서 기다려 주세요." },
-                { "speaker": "여자", "text": "저기, 책상 옆에 있는 소파인가요?" },
-                { "speaker": "남자", "text": "아니요, 책꽂이 옆에 있는 소파에 앉으세요." },
-                { "speaker": "여자", "text": "네. 알겠습니다." }
+                {
+                    "speaker": "남자",
+                    "text": "야마다 씨."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "사무실에서 책을 가져올 테니까, 그때까지 저기 있는 소파에서 기다려 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "저기, 책상 옆에 있는 소파인가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요, 책꽂이 옆에 있는 소파에 앉으세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네. 알겠습니다."
+                }
             ],
             "question": "학생은 어디에 앉습니까?"
         }
@@ -218,5 +344,6 @@
         "fr": "Le professeur demande à l'élève d'attendre. L'élève demande s'il doit attendre sur le canapé près du bureau (つくえ), mais le professeur dit non et précise le canapé près de la bibliothèque (ほんだな) en (4). Par conséquent, l'élève s'assiéra sur le canapé près de la bibliothèque.",
         "es": "El profesor le pide al estudiante que espere. El estudiante pregunta si debe esperar en el sofá cerca del escritorio (つくえ), pero el profesor dice que no y especifica el sofá cerca de la estantería (ほんだな) en (4). Por lo tanto, el estudiante se sentará en el sofá cerca de la estantería.",
         "ko": "선생님은 학생에게 기다리라고 합니다. 학생은 책상(つくえ) 옆 소파에서 기다려야 하는지 묻지만, 선생님은 아니라고 하며 책꽂이(ほんだな) 옆 소파(4번)를 지정합니다. 따라서 학생은 책꽂이 옆 소파에 앉게 됩니다."
-    }
+    },
+    "source_clip": "clip_7HfHdb5J3f4_02_08m45s_09m25s"
 }

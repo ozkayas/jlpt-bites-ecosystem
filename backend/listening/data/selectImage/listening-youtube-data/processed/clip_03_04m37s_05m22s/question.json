@@ -11,84 +11,189 @@
             "ko": "서점 위치 묻기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/011/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/011/image.webp",
     "correct_option": 3,
     "transcriptions": {
         "ja": {
             "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　どこへ　いきますか？",
             "dialogue": [
-                { "speaker": "男の人", "text": "すみません、ちかくに　ほんやは　ありますか？" },
-                { "speaker": "女の人", "text": "あの　ちいさい　ぱんやを　みてください。" },
-                { "speaker": "女の人", "text": "あそこの　こうさてんを　みぎに　まがって、すこし　あるきます。" },
-                { "speaker": "女の人", "text": "ほんやは　すーぱーの　となりですよ。" },
-                { "speaker": "男の人", "text": "わかりました。ありがとうございます。" }
+                {
+                    "speaker": "男の人",
+                    "text": "すみません、ちかくに　ほんやは　ありますか？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あの　ちいさい　ぱんやを　みてください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あそこの　こうさてんを　みぎに　まがって、すこし　あるきます。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "ほんやは　すーぱーの　となりですよ。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "わかりました。ありがとうございます。"
+                }
             ],
             "question": "おとこのひとは　どこへ　いきますか？"
         },
         "tr": {
             "intro": "Bir erkek ve bir kadın konuşuyor. Erkek nereye gidecek?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Affedersiniz, yakında bir kitapçı var mı?" },
-                { "speaker": "Kadın", "text": "Şu küçük fırına bakın lütfen." },
-                { "speaker": "Kadın", "text": "Oradaki kavşaktan sağa dönüp, biraz yürüyün." },
-                { "speaker": "Kadın", "text": "Kitapçı, süpermarketin hemen yanındadır." },
-                { "speaker": "Erkek", "text": "Anladım. Teşekkür ederim." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Affedersiniz, yakında bir kitapçı var mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Şu küçük fırına bakın lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Oradaki kavşaktan sağa dönüp, biraz yürüyün."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Kitapçı, süpermarketin hemen yanındadır."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. Teşekkür ederim."
+                }
             ],
             "question": "Erkek nereye gidecek?"
         },
         "en": {
             "intro": "A man and a woman are talking. Where will the man go?",
             "dialogue": [
-                { "speaker": "Man", "text": "Excuse me, is there a bookstore nearby?" },
-                { "speaker": "Woman", "text": "Please look at that small bakery over there." },
-                { "speaker": "Woman", "text": "Turn right at that intersection and walk a little." },
-                { "speaker": "Woman", "text": "The bookstore is right next to the supermarket." },
-                { "speaker": "Man", "text": "I see. Thank you very much." }
+                {
+                    "speaker": "Man",
+                    "text": "Excuse me, is there a bookstore nearby?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please look at that small bakery over there."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Turn right at that intersection and walk a little."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "The bookstore is right next to the supermarket."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. Thank you very much."
+                }
             ],
             "question": "Where will the man go?"
         },
         "de": {
             "intro": "Ein Mann und eine Frau sprechen miteinander. Wohin wird der Mann gehen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Entschuldigung, gibt es hier in der Nähe eine Buchhandlung?" },
-                { "speaker": "Frau", "text": "Bitte sehen Sie sich die kleine Bäckerei dort drüben an." },
-                { "speaker": "Frau", "text": "Biegen Sie an dieser Kreuzung rechts ab und gehen Sie ein Stück." },
-                { "speaker": "Frau", "text": "Die Buchhandlung liegt direkt neben dem Supermarkt." },
-                { "speaker": "Mann", "text": "Verstehe. Vielen Dank." }
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigung, gibt es hier in der Nähe eine Buchhandlung?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte sehen Sie sich die kleine Bäckerei dort drüben an."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Biegen Sie an dieser Kreuzung rechts ab und gehen Sie ein Stück."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Die Buchhandlung liegt direkt neben dem Supermarkt."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Verstehe. Vielen Dank."
+                }
             ],
             "question": "Wohin wird der Mann gehen?"
         },
         "fr": {
             "intro": "Un homme et une femme parlent. Où l'homme va-t-il aller ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Excusez-moi, y a-t-il une librairie à proximité ?" },
-                { "speaker": "Femme", "text": "Veuillez regarder cette petite boulangerie là-bas." },
-                { "speaker": "Femme", "text": "Tournez à droite à ce croisement et marchez un peu." },
-                { "speaker": "Femme", "text": "La librairie est juste à côté du supermarché." },
-                { "speaker": "Homme", "text": "Je vois. Merci beaucoup." }
+                {
+                    "speaker": "Homme",
+                    "text": "Excusez-moi, y a-t-il une librairie à proximité ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez regarder cette petite boulangerie là-bas."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Tournez à droite à ce croisement et marchez un peu."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "La librairie est juste à côté du supermarché."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Je vois. Merci beaucoup."
+                }
             ],
             "question": "Où l'homme va-t-il aller ?"
         },
         "es": {
             "intro": "Un hombre y una mujer están hablando. ¿A dónde irá el hombre?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Disculpe, ¿hay alguna librería cerca?" },
-                { "speaker": "Mujer", "text": "Mire esa pequeña panadería de allá." },
-                { "speaker": "Mujer", "text": "Gire a la derecha en ese cruce y camine un poco." },
-                { "speaker": "Mujer", "text": "La librería está justo al lado del supermercado." },
-                { "speaker": "Hombre", "text": "Entiendo. Muchas gracias." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Disculpe, ¿hay alguna librería cerca?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Mire esa pequeña panadería de allá."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Gire a la derecha en ese cruce y camine un poco."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "La librería está justo al lado del supermercado."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entiendo. Muchas gracias."
+                }
             ],
             "question": "¿A dónde irá el hombre?"
         },
         "ko": {
             "intro": "남자와 여자가 이야기하고 있습니다. 남자는 어디로 갑니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "실례합니다, 근처에 서점이 있나요?" },
-                { "speaker": "여자", "text": "저기 작은 빵집을 봐 주세요." },
-                { "speaker": "여자", "text": "저기 사거리에서 오른쪽으로 꺾어서 조금 걸으세요." },
-                { "speaker": "여자", "text": "서점은 슈퍼마켓 바로 옆에 있어요." },
-                { "speaker": "남자", "text": "알겠습니다. 감사합니다." }
+                {
+                    "speaker": "남자",
+                    "text": "실례합니다, 근처에 서점이 있나요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "저기 작은 빵집을 봐 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "저기 사거리에서 오른쪽으로 꺾어서 조금 걸으세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "서점은 슈퍼마켓 바로 옆에 있어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다. 감사합니다."
+                }
             ],
             "question": "남자는 어디로 갑니까?"
         }
@@ -199,5 +304,6 @@
         "fr": "La femme dit de tourner à droite au croisement près de la boulangerie, et que la librairie se trouve juste à côté du supermarché (4).",
         "es": "La mujer dice que gire a la derecha en el cruce de la panadería, y que la librería está justo al lado del supermercado (4).",
         "ko": "여자는 빵집 사거리에서 오른쪽으로 꺾으라고 하며, 서점은 슈퍼마켓 바로 옆(4번)에 있다고 설명합니다."
-    }
+    },
+    "source_clip": "clip_03_04m37s_05m22s"
 }

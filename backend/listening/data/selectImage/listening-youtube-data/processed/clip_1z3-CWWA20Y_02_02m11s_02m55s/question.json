@@ -11,70 +11,133 @@
             "ko": "내일의 일정과 만남 장소"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/021/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/021/image.webp",
     "correct_option": 1,
     "transcriptions": {
         "ja": {
             "intro": "きょうしつで せんせいが はなしています。がくせいは あしたの あさ どこで せんせいに あいますか。",
             "dialogue": [
-                { "speaker": "男の人", "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの バスに のりますよ。まちには おおきい としょかんが あります。きれいな デパートも あります。" },
-                { "speaker": "女の人", "text": "あしたは ぎんこうに きてから いきますか。" },
-                { "speaker": "男の人", "text": "いいえ、ゆうびんきょくに きてください。くじはんに まっています。" }
+                {
+                    "speaker": "男の人",
+                    "text": "みなさん、あしたは あたらしい まちを みに いきます。じゅうじの バスに のりますよ。まちには おおきい としょかんが あります。きれいな デパートも あります。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あしたは ぎんこうに きてから いきますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いいえ、ゆうびんきょくに きてください。くじはんに まっています。"
+                }
             ],
             "question": "がくせいは あしたの あさ どこで せんせいに あいますか。"
         },
         "tr": {
             "intro": "Sınıfta öğretmen konuşuyor. Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat on otobüsüne bineceğiz. Şehirde büyük bir kütüphane var. Ayrıca güzel bir departmanlı mağaza da var." },
-                { "speaker": "Kadın", "text": "Yarın bankaya gelip mi gideceğiz?" },
-                { "speaker": "Erkek", "text": "Hayır, postaneye gelin lütfen. Saat dokuz buçukta bekliyor olacağım." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Arkadaşlar, yarın yeni şehri görmeye gideceğiz. Saat on otobüsüne bineceğiz. Şehirde büyük bir kütüphane var. Ayrıca güzel bir departmanlı mağaza da var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Yarın bankaya gelip mi gideceğiz?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır, postaneye gelin lütfen. Saat dokuz buçukta bekliyor olacağım."
+                }
             ],
             "question": "Öğrenciler yarın sabah öğretmenle nerede buluşacaklar?"
         },
         "en": {
             "intro": "A teacher is talking in the classroom. Where will the students meet the teacher tomorrow morning?",
             "dialogue": [
-                { "speaker": "Man", "text": "Everyone, tomorrow we are going to see the new town. We will take the ten o'clock bus. There is a large library in the town. There is also a beautiful department store." },
-                { "speaker": "Woman", "text": "Will we meet at the bank tomorrow?" },
-                { "speaker": "Man", "text": "No, please come to the post office. I will be waiting at nine-thirty." }
+                {
+                    "speaker": "Man",
+                    "text": "Everyone, tomorrow we are going to see the new town. We will take the ten o'clock bus. There is a large library in the town. There is also a beautiful department store."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Will we meet at the bank tomorrow?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No, please come to the post office. I will be waiting at nine-thirty."
+                }
             ],
             "question": "Where will the students meet the teacher tomorrow morning?"
         },
         "de": {
             "intro": "Ein Lehrer spricht im Klassenzimmer. Wo werden die Schüler den Lehrer morgen früh treffen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Alle zusammen, morgen werden wir uns die neue Stadt ansehen. Wir nehmen den Bus um zehn Uhr. In der Stadt gibt es eine große Bibliothek. Es gibt auch ein schönes Kaufhaus." },
-                { "speaker": "Frau", "text": "Treffen wir uns morgen bei der Bank?" },
-                { "speaker": "Mann", "text": "Nein, bitte kommen Sie zur Post. Ich warte dort um halb zehn." }
+                {
+                    "speaker": "Mann",
+                    "text": "Alle zusammen, morgen werden wir uns die neue Stadt ansehen. Wir nehmen den Bus um zehn Uhr. In der Stadt gibt es eine große Bibliothek. Es gibt auch ein schönes Kaufhaus."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Treffen wir uns morgen bei der Bank?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein, bitte kommen Sie zur Post. Ich warte dort um halb zehn."
+                }
             ],
             "question": "Wo werden die Schüler den Lehrer morgen früh treffen?"
         },
         "fr": {
             "intro": "Un professeur parle dans la salle de classe. Où les élèves retrouveront-ils le professeur demain matin ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Tout le monde, demain nous allons visiter la nouvelle ville. Nous prendrons le bus de dix heures. Il y a une grande bibliothèque en ville. Il y a aussi un beau grand magasin." },
-                { "speaker": "Femme", "text": "On se retrouve à la banque demain ?" },
-                { "speaker": "Homme", "text": "Non, venez à la poste s'il vous plaît. Je vous attendrai à neuf heures et demie." }
+                {
+                    "speaker": "Homme",
+                    "text": "Tout le monde, demain nous allons visiter la nouvelle ville. Nous prendrons le bus de dix heures. Il y a une grande bibliothèque en ville. Il y a aussi un beau grand magasin."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "On se retrouve à la banque demain ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non, venez à la poste s'il vous plaît. Je vous attendrai à neuf heures et demie."
+                }
             ],
             "question": "Où les élèves retrouveront-ils le professeur demain matin ?"
         },
         "es": {
             "intro": "Un profesor está hablando en el aula. ¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Todos, mañana vamos a ver la ciudad nueva. Tomaremos el autobús de las diez. Hay una biblioteca grande en la ciudad. También hay unos grandes almacenes bonitos." },
-                { "speaker": "Mujer", "text": "¿Vendremos mañana al banco primero?" },
-                { "speaker": "Hombre", "text": "No, por favor vengan a la oficina de correos. Estaré esperando a las nueve y media." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Todos, mañana vamos a ver la ciudad nueva. Tomaremos el autobús de las diez. Hay una biblioteca grande en la ciudad. También hay unos grandes almacenes bonitos."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Vendremos mañana al banco primero?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No, por favor vengan a la oficina de correos. Estaré esperando a las nueve y media."
+                }
             ],
             "question": "¿Dónde se encontrarán los estudiantes con el profesor mañana por la mañana?"
         },
         "ko": {
             "intro": "교실에서 선생님이 이야기하고 있습니다. 학생들은 내일 아침 어디에서 선생님을 만납니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "여러분, 내일은 새로운 마을을 보러 갑니다. 10시 버스를 탈 거예요. 마을에는 큰 도서관이 있습니다. 예쁜 백화점도 있어요." },
-                { "speaker": "여자", "text": "내일은 은행에 왔다가 가나요?" },
-                { "speaker": "남자", "text": "아니요, 우체국으로 오세요. 9시 반에 기다리고 있을게요." }
+                {
+                    "speaker": "남자",
+                    "text": "여러분, 내일은 새로운 마을을 보러 갑니다. 10시 버스를 탈 거예요. 마을에는 큰 도서관이 있습니다. 예쁜 백화점도 있어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "내일은 은행에 왔다가 가나요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요, 우체국으로 오세요. 9시 반에 기다리고 있을게요."
+                }
             ],
             "question": "학생들은 내일 아침 어디에서 선생님을 만납니까?"
         }
@@ -186,5 +249,6 @@
         "fr": "L'élève demande s'il faut se retrouver à la banque, mais le professeur répond : 'Non, venez à la poste' (2).",
         "es": "La estudiante pregunta si deben ir al banco, pero el profesor dice: 'No, por favor vengan a la oficina de correos' (2).",
         "ko": "학생은 은행에 와야 하는지 묻지만, 선생님은 아니라고 하며 우체국(2번)으로 오라고 말합니다."
-    }
+    },
+    "source_clip": "clip_1z3-CWWA20Y_02_02m11s_02m55s"
 }

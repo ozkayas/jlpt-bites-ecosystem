@@ -11,91 +11,217 @@
             "ko": "카페에서 음식 고르기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/030/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/030/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "おんなのひとと　おとこのひとが　きっさてんで　はなしています。おんなのひとは　なにを　たべますか？",
             "dialogue": [
-                { "speaker": "男の人", "text": "おなかが　すきましたね。ぼくは　さんどいっちに　します。" },
-                { "speaker": "女の人", "text": "さんどいっちですか。いいですね. でも、わたしは　あさ　たべましたから、ほかの　ものに　します。" },
-                { "speaker": "男の人", "text": "じゃあ、あいすくりーむは　どうですか？" },
-                { "speaker": "女の人", "text": "うーん. きょうは　すこし　さむいですから、つめたい　ものは　ちょっと･･･。" },
-                { "speaker": "男の人", "text": "そうですか. じゃあ、けーきは？" },
-                { "speaker": "女の人", "text": "あ、いいですね. それに　します。" }
+                {
+                    "speaker": "男の人",
+                    "text": "おなかが　すきましたね。ぼくは　さんどいっちに　します。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "さんどいっちですか。いいですね. でも、わたしは　あさ　たべましたから、ほかの　ものに　します。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "じゃあ、あいすくりーむは　どうですか？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "うーん. きょうは　すこし　さむいですから、つめたい　ものは　ちょっと･･･。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "そうですか. じゃあ、けーきは？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "あ、いいですね. それに　します。"
+                }
             ],
             "question": "おんなのひとは　なにを　たべますか？"
         },
         "tr": {
             "intro": "Bir kadın ve bir erkek kafede konuşuyor. Kadın ne yiyecek?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Karnım acıktı. Ben sandviç alacağım." },
-                { "speaker": "Kadın", "text": "Sandviç mi? Güzel fikir. Ama ben sabah yedim, o yüzden başka bir şey alacağım." },
-                { "speaker": "Erkek", "text": "O zaman dondurmaya ne dersiniz?" },
-                { "speaker": "Kadın", "text": "Mmm. Bugün hava biraz soğuk, o yüzden soğuk şeyler pek istemem..." },
-                { "speaker": "Erkek", "text": "Anladım. Peki ya kek?" },
-                { "speaker": "Kadın", "text": "A, olur, güzel olur. Onu alacağım." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Karnım acıktı. Ben sandviç alacağım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Sandviç mi? Güzel fikir. Ama ben sabah yedim, o yüzden başka bir şey alacağım."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "O zaman dondurmaya ne dersiniz?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Mmm. Bugün hava biraz soğuk, o yüzden soğuk şeyler pek istemem..."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. Peki ya kek?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "A, olur, güzel olur. Onu alacağım."
+                }
             ],
             "question": "Kadın ne yiyecek?"
         },
         "en": {
             "intro": "A woman and a man are talking at a cafe. What will the woman eat?",
             "dialogue": [
-                { "speaker": "Man", "text": "I'm hungry. I'll have a sandwich." },
-                { "speaker": "Woman", "text": "A sandwich? That's nice. But I already ate one this morning, so I'll choose something else." },
-                { "speaker": "Man", "text": "Then how about some ice cream?" },
-                { "speaker": "Woman", "text": "Hmm. It's a bit cold today, so cold things are not really..." },
-                { "speaker": "Man", "text": "I see. Well, how about a cake?" },
-                { "speaker": "Woman", "text": "Oh, that's good. I'll have that." }
+                {
+                    "speaker": "Man",
+                    "text": "I'm hungry. I'll have a sandwich."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "A sandwich? That's nice. But I already ate one this morning, so I'll choose something else."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Then how about some ice cream?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Hmm. It's a bit cold today, so cold things are not really..."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I see. Well, how about a cake?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, that's good. I'll have that."
+                }
             ],
             "question": "What will the woman eat?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen in einem Café. Was wird die Frau essen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Ich habe Hunger. Ich nehme ein Sandwich." },
-                { "speaker": "Frau", "text": "Ein Sandwich? Das ist gut. Aber ich habe heute Morgen schon eins gegessen, also nehme ich etwas anderes." },
-                { "speaker": "Mann", "text": "Wie wäre es dann mit Eiscreme?" },
-                { "speaker": "Frau", "text": "Mmm. Heute ist es ein wenig kalt, also sind kalte Sachen eher nicht so..." },
-                { "speaker": "Mann", "text": "Verstehe. Wie wäre es mit Kuchen?" },
-                { "speaker": "Frau", "text": "Ah, ja gerne. Den nehme ich." }
+                {
+                    "speaker": "Mann",
+                    "text": "Ich habe Hunger. Ich nehme ein Sandwich."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ein Sandwich? Das ist gut. Aber ich habe heute Morgen schon eins gegessen, also nehme ich etwas anderes."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie wäre es dann mit Eiscreme?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Mmm. Heute ist es ein wenig kalt, also sind kalte Sachen eher nicht so..."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Verstehe. Wie wäre es mit Kuchen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ah, ja gerne. Den nehme ich."
+                }
             ],
             "question": "Was wird die Frau essen?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent dans un café. Que va manger la femme ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "J'ai faim. Je vais prendre un sandwich." },
-                { "speaker": "Femme", "text": "Un sandwich ? C'est bien. Mais j'en ai déjà mangé un ce matin, alors je vais choisir autre chose." },
-                { "speaker": "Homme", "text": "Alors, que diriez-vous d'une glace ?" },
-                { "speaker": "Femme", "text": "Hum. Il fait un peu froid aujourd'hui, alors les choses froides, c'est pas trop..." },
-                { "speaker": "Homme", "text": "Je vois. Et un gâteau ?" },
-                { "speaker": "Femme", "text": "Ah, bonne idée. Je vais prendre ça." }
+                {
+                    "speaker": "Homme",
+                    "text": "J'ai faim. Je vais prendre un sandwich."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Un sandwich ? C'est bien. Mais j'en ai déjà mangé un ce matin, alors je vais choisir autre chose."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Alors, que diriez-vous d'une glace ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Hum. Il fait un peu froid aujourd'hui, alors les choses froides, c'est pas trop..."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Je vois. Et un gâteau ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah, bonne idée. Je vais prendre ça."
+                }
             ],
             "question": "Que va manger la femme ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando en una cafetería. ¿Qué va a comer la mujer?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Tengo hambre. Voy a pedir un sándwich." },
-                { "speaker": "Mujer", "text": "¿Un sándwich? Qué bien. Pero yo ya comí uno esta mañana, así que elegiré otra cosa." },
-                { "speaker": "Hombre", "text": "Entonces, ¿qué tal un helado?" },
-                { "speaker": "Mujer", "text": "Mmm. Hoy hace un poco de frío, así que las cosas frías no me apetecen mucho..." },
-                { "speaker": "Hombre", "text": "Entiendo. ¿Y un pastel?" },
-                { "speaker": "Mujer", "text": "Ah, me parece bien. Pediré eso." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Tengo hambre. Voy a pedir un sándwich."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Un sándwich? Qué bien. Pero yo ya comí uno esta mañana, así que elegiré otra cosa."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entonces, ¿qué tal un helado?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Mmm. Hoy hace un poco de frío, así que las cosas frías no me apetecen mucho..."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entiendo. ¿Y un pastel?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, me parece bien. Pediré eso."
+                }
             ],
             "question": "¿Qué va a comer la mujer?"
         },
         "ko": {
             "intro": "여자와 남자가 카페에서 이야기하고 있습니다. 여자는 무엇을 먹습니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "배가 고프네요. 저는 샌드위치로 할게요." },
-                { "speaker": "여자", "text": "샌드위치요? 좋네요. 하지만 저는 아침에 먹어서 다른 걸로 할게요." },
-                { "speaker": "남자", "text": "그럼 아이스크림은 어때요?" },
-                { "speaker": "여자", "text": "음. 오늘은 좀 추우니까 찬 음식은 좀..." },
-                { "speaker": "남자", "text": "그래요? 그럼 케이크는요?" },
-                { "speaker": "여자", "text": "아, 좋네요. 그걸로 할게요." }
+                {
+                    "speaker": "남자",
+                    "text": "배가 고프네요. 저는 샌드위치로 할게요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "샌드위치요? 좋네요. 하지만 저는 아침에 먹어서 다른 걸로 할게요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그럼 아이스크림은 어때요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "음. 오늘은 좀 추우니까 찬 음식은 좀..."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그래요? 그럼 케이크는요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 좋네요. 그걸로 할게요."
+                }
             ],
             "question": "여자는 무엇을 먹습니까?"
         }
@@ -195,5 +321,6 @@
         "fr": "La femme refuse le sandwich (en a mangé ce matin) et la glace (il fait froid). Elle choisit le gâteau. La réponse correcte est l'option 3.",
         "es": "La mujer rechaza el sándwich (ya lo comió por la mañana) y el helado (hace frío). Elige el pastel. La respuesta correcta es la opción 3.",
         "ko": "여자는 아침에 먹었다며 샌드위치를 거절하고, 날씨가 춥다며 아이스크림을 거절합니다. 결국 케이크를 선택합니다. 정답은 3번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_01m06s_02m06s"
 }

@@ -11,84 +11,189 @@
             "ko": "학급 사진을 보며 이야기하기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/033/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/033/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "おんなのひとと　おとこのひとが　しゃしんを　みて　はなしています。 たなかさんは　どの　ひとですか？",
             "dialogue": [
-                { "speaker": "女の人", "text": "これは　くらすの　しゃしんですか？" },
-                { "speaker": "男の人", "text": "はい。" },
-                { "speaker": "女の人", "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？" },
-                { "speaker": "男の人", "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです. くろい　しゃつを　きています。" },
-                { "speaker": "女の人", "text": "ああ、この　ひとが　たなかさんですか。" }
+                {
+                    "speaker": "女の人",
+                    "text": "これは　くらすの　しゃしんですか？"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "この　ぼうしを　かぶっている　ひとは　たなかさんですか？"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いいえ、それは　ほんださんです。たなかさんは　こちらです. くろい　しゃつを　きています。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "ああ、この　ひとが　たなかさんですか。"
+                }
             ],
             "question": "たなかさんは　どの　ひとですか？"
         },
         "tr": {
             "intro": "Bir kadın ve bir erkek fotoğrafa bakarak konuşuyor. Tanaka Bey hangisidir?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Bu sınıf fotoğrafı mı?" },
-                { "speaker": "Erkek", "text": "Evet." },
-                { "speaker": "Kadın", "text": "Şu şapka takan kişi Tanaka Bey mi?" },
-                { "speaker": "Erkek", "text": "Hayır, o Honda Bey. Tanaka Bey buradaki. Siyah tişört giyiyor." },
-                { "speaker": "Kadın", "text": "Aa, Tanaka Bey bu kişi mi?" }
+                {
+                    "speaker": "Kadın",
+                    "text": "Bu sınıf fotoğrafı mı?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Evet."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Şu şapka takan kişi Tanaka Bey mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır, o Honda Bey. Tanaka Bey buradaki. Siyah tişört giyiyor."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Aa, Tanaka Bey bu kişi mi?"
+                }
             ],
             "question": "Tanaka Bey hangisidir?"
         },
         "en": {
             "intro": "A woman and a man are talking while looking at a photo. Which one is Mr. Tanaka?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Is this a class photo?" },
-                { "speaker": "Man", "text": "Yes." },
-                { "speaker": "Woman", "text": "Is the person wearing a hat Mr. Tanaka?" },
-                { "speaker": "Man", "text": "No, that's Mr. Honda. Mr. Tanaka is this one. He is wearing a black shirt." },
-                { "speaker": "Woman", "text": "Oh, so this person is Mr. Tanaka?" }
+                {
+                    "speaker": "Woman",
+                    "text": "Is this a class photo?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Is the person wearing a hat Mr. Tanaka?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No, that's Mr. Honda. Mr. Tanaka is this one. He is wearing a black shirt."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, so this person is Mr. Tanaka?"
+                }
             ],
             "question": "Which one is Mr. Tanaka?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen miteinander, während sie ein Foto ansehen. Wer ist Herr Tanaka?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Ist das ein Klassenfoto?" },
-                { "speaker": "Mann", "text": "Ja." },
-                { "speaker": "Frau", "text": "Ist die Person mit dem Hut Herr Tanaka?" },
-                { "speaker": "Mann", "text": "Nein, das ist Herr Honda. Herr Tanaka ist dieser hier. Er trägt ein schwarzes Hemd." },
-                { "speaker": "Frau", "text": "Ach, diese Person ist Herr Tanaka?" }
+                {
+                    "speaker": "Frau",
+                    "text": "Ist das ein Klassenfoto?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ist die Person mit dem Hut Herr Tanaka?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein, das ist Herr Honda. Herr Tanaka ist dieser hier. Er trägt ein schwarzes Hemd."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ach, diese Person ist Herr Tanaka?"
+                }
             ],
             "question": "Wer ist Herr Tanaka?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent en regardant une photo. Qui est M. Tanaka ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "C'est une photo de classe ?" },
-                { "speaker": "Homme", "text": "Oui." },
-                { "speaker": "Femme", "text": "Est-ce que la personne qui porte un chapeau est M. Tanaka ?" },
-                { "speaker": "Homme", "text": "Non, c'est M. Honda. M. Tanaka est celui-ci. Il porte une chemise noire." },
-                { "speaker": "Femme", "text": "Ah, c'est lui M. Tanaka ?" }
+                {
+                    "speaker": "Femme",
+                    "text": "C'est une photo de classe ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Est-ce que la personne qui porte un chapeau est M. Tanaka ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non, c'est M. Honda. M. Tanaka est celui-ci. Il porte une chemise noire."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah, c'est lui M. Tanaka ?"
+                }
             ],
             "question": "Qui est M. Tanaka ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando mientras miran una foto. ¿Quién es el Sr. Tanaka?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "¿Es esta una foto de clase?" },
-                { "speaker": "Hombre", "text": "Sí." },
-                { "speaker": "Mujer", "text": "¿La persona que lleva sombrero es el Sr. Tanaka?" },
-                { "speaker": "Hombre", "text": "No, ese es el Sr. Honda. El Sr. Tanaka es este. Lleva una camisa negra." },
-                { "speaker": "Mujer", "text": "Ah, ¿esta persona es el Sr. Tanaka?" }
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Es esta una foto de clase?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿La persona que lleva sombrero es el Sr. Tanaka?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No, ese es el Sr. Honda. El Sr. Tanaka es este. Lleva una camisa negra."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, ¿esta persona es el Sr. Tanaka?"
+                }
             ],
             "question": "¿Quién es el Sr. Tanaka?"
         },
         "ko": {
             "intro": "여자와 남자가 사진을 보며 이야기하고 있습니다. 다나카 씨는 어느 분입니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "이건 학급 사진인가요?" },
-                { "speaker": "남자", "text": "네." },
-                { "speaker": "여자", "text": "이 모자를 쓰고 있는 사람이 다나카 씨인가요?" },
-                { "speaker": "남자", "text": "아니요, 그 사람은 혼다 씨예요. 다나카 씨는 여기 있어요. 검은 셔츠를 입고 있어요." },
-                { "speaker": "여자", "text": "아, 이 사람이 다나카 씨군요." }
+                {
+                    "speaker": "여자",
+                    "text": "이건 학급 사진인가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "이 모자를 쓰고 있는 사람이 다나카 씨인가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요, 그 사람은 혼다 씨예요. 다나카 씨는 여기 있어요. 검은 셔츠를 입고 있어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 이 사람이 다나카 씨군요."
+                }
             ],
             "question": "다나카 씨는 어느 분입니까?"
         }
@@ -165,5 +270,6 @@
         "fr": "La femme demande si la personne qui porte un chapeau est Tanaka, mais l'homme précise que Tanaka est celui qui porte une chemise noire. La réponse correcte est l'option 3.",
         "es": "La mujer pregunta si la persona con sombrero es Tanaka, pero el hombre aclara que Tanaka es el que lleva una camisa negra. La respuesta correcta es la opción 3.",
         "ko": "여자는 모자를 쓴 사람이 다나카 씨인지 묻지만, 남자는 검은 셔츠를 입은 사람이 다나카 씨라고 설명합니다. 정답은 3번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_04m29s_05m17s"
 }

@@ -11,84 +11,189 @@
             "ko": "노트 고르기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/032/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/032/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　どの　のーとを　かいますか？",
             "dialogue": [
-                { "speaker": "女の人", "text": "すみません、その　のーとを　みせてください。" },
-                { "speaker": "男の人", "text": "あ、この　あおいの　ですか？" },
-                { "speaker": "女の人", "text": "いいえ、あかいの　です。" },
-                { "speaker": "男の人", "text": "こちらの　おおきい　ほうでしょうか？" },
-                { "speaker": "女の人", "text": "いいえ、ちいさい　ほうです。" }
+                {
+                    "speaker": "女の人",
+                    "text": "すみません、その　のーとを　みせてください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あ、この　あおいの　ですか？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、あかいの　です。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "こちらの　おおきい　ほうでしょうか？"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいえ、ちいさい　ほうです。"
+                }
             ],
             "question": "おんなのひとは　どの　のーとを　かいますか？"
         },
         "tr": {
             "intro": "Bir kadın ve bir erkek konuşuyor. Kadın hangi defteri satın alacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Affedersiniz, şu defteri gösterebilir misiniz?" },
-                { "speaker": "Erkek", "text": "A, şu mavi olan mı?" },
-                { "speaker": "Kadın", "text": "Hayır, kırmızı olan." },
-                { "speaker": "Erkek", "text": "Buradaki şu büyük olan mı?" },
-                { "speaker": "Kadın", "text": "Hayır, küçük olan." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Affedersiniz, şu defteri gösterebilir misiniz?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "A, şu mavi olan mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, kırmızı olan."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Buradaki şu büyük olan mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hayır, küçük olan."
+                }
             ],
             "question": "Kadın hangi defteri satın alacak?"
         },
         "en": {
             "intro": "A woman and a man are talking. Which notebook will the woman buy?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Excuse me, could you show me that notebook?" },
-                { "speaker": "Man", "text": "Oh, this blue one?" },
-                { "speaker": "Woman", "text": "No, the red one." },
-                { "speaker": "Man", "text": "Is it this large one?" },
-                { "speaker": "Woman", "text": "No, the small one." }
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me, could you show me that notebook?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, this blue one?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, the red one."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Is it this large one?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "No, the small one."
+                }
             ],
             "question": "Which notebook will the woman buy?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen miteinander. Welches Notizbuch wird die Frau kaufen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Entschuldigung, könnten Sie mir bitte dieses Notizbuch zeigen?" },
-                { "speaker": "Mann", "text": "Oh, dieses blaue hier?" },
-                { "speaker": "Frau", "text": "Nein, das rote." },
-                { "speaker": "Mann", "text": "Dieses große hier?" },
-                { "speaker": "Frau", "text": "Nein, das kleine." }
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigung, könnten Sie mir bitte dieses Notizbuch zeigen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Oh, dieses blaue hier?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, das rote."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Dieses große hier?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Nein, das kleine."
+                }
             ],
             "question": "Welches Notizbuch wird die Frau kaufen?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent. Quel cahier la femme va-t-elle acheter ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Excusez-moi, pourriez-vous me montrer ce cahier ?" },
-                { "speaker": "Homme", "text": "Ah, ce bleu-là ?" },
-                { "speaker": "Femme", "text": "Non, le rouge." },
-                { "speaker": "Homme", "text": "Celui qui est grand ?" },
-                { "speaker": "Femme", "text": "Non, le petit." }
+                {
+                    "speaker": "Femme",
+                    "text": "Excusez-moi, pourriez-vous me montrer ce cahier ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah, ce bleu-là ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, le rouge."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Celui qui est grand ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Non, le petit."
+                }
             ],
             "question": "Quel cahier la femme va-t-elle acheter ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando. ¿Qué cuaderno comprará la mujer?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Disculpe, ¿podría enseñarme ese cuaderno?" },
-                { "speaker": "Hombre", "text": "Ah, ¿este azul?" },
-                { "speaker": "Mujer", "text": "No, el rojo." },
-                { "speaker": "Hombre", "text": "¿Este grande de aquí?" },
-                { "speaker": "Mujer", "text": "No, el pequeño." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe, ¿podría enseñarme ese cuaderno?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Ah, ¿este azul?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, el rojo."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Este grande de aquí?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No, el pequeño."
+                }
             ],
             "question": "¿Qué cuaderno comprará la mujer?"
         },
         "ko": {
             "intro": "여자와 남자가 이야기하고 있습니다. 여자는 어느 노트를 삽니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "실례합니다, 그 노트를 좀 보여 주세요." },
-                { "speaker": "남자", "text": "아, 이 파란색 건가요?" },
-                { "speaker": "여자", "text": "아니요, 빨간색 거예요." },
-                { "speaker": "남자", "text": "여기 이 큰 건가요?" },
-                { "speaker": "여자", "text": "아니요, 작은 거예요." }
+                {
+                    "speaker": "여자",
+                    "text": "실례합니다, 그 노트를 좀 보여 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아, 이 파란색 건가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 빨간색 거예요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "여기 이 큰 건가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아니요, 작은 거예요."
+                }
             ],
             "question": "여자는 어느 노트를 삽니까?"
         }
@@ -176,5 +281,6 @@
         "fr": "La femme choisit le cahier rouge et petit. La réponse correcte est l'option 3.",
         "es": "La mujer elige el cuaderno rojo y pequeño. La respuesta correcta es la opción 3.",
         "ko": "여자는 빨간색이고 작은 노트를 선택합니다. 정답은 3번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_03m29s_04m14s"
 }

@@ -11,98 +11,245 @@
             "ko": "빵집에서 빵 사기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/024/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/024/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "パンやで みせのひとと おとこのひとが はなしています。 みせのひとは パンを どうしますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "いらっしゃいませ。" },
-                { "speaker": "男の人", "text": "すみません。この パンを みっつ ください。" },
-                { "speaker": "女の人", "text": "はい。これですね。" },
-                { "speaker": "男の人", "text": "あ、すみません。もう ひとつ おねがいします。" },
-                { "speaker": "女の人", "text": "はい。ふくろは いりますか。" },
-                { "speaker": "男の人", "text": "いいえ、いりません。" },
-                { "speaker": "女の人", "text": "わかりました。" }
+                {
+                    "speaker": "女の人",
+                    "text": "いらっしゃいませ。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "すみません。この パンを みっつ ください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい。これですね。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あ、すみません。もう ひとつ おねがいします。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "はい。ふくろは いりますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いいえ、いりません。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました。"
+                }
             ],
             "question": "みせのひとは パンを どうしますか。"
         },
         "tr": {
             "intro": "Fırında görevli ve bir erkek konuşuyor. Görevli ekmekleri ne yapacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Hoş geldiniz." },
-                { "speaker": "Erkek", "text": "Affedersiniz. Bu ekmekten üç tane verin lütfen." },
-                { "speaker": "Kadın", "text": "Pekala. Bunlar değil mi?" },
-                { "speaker": "Erkek", "text": "A, özür dilerim. Bir tane daha rica ediyorum." },
-                { "speaker": "Kadın", "text": "Tamam. Poşet lazım mı?" },
-                { "speaker": "Erkek", "text": "Hayır, lazım değil." },
-                { "speaker": "Kadın", "text": "Anladım." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Hoş geldiniz."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Affedersiniz. Bu ekmekten üç tane verin lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Pekala. Bunlar değil mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "A, özür dilerim. Bir tane daha rica ediyorum."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Tamam. Poşet lazım mı?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır, lazım değil."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım."
+                }
             ],
             "question": "Görevli ekmekleri ne yapacak?"
         },
         "en": {
             "intro": "A shop assistant and a man are talking at a bakery. What will the assistant do with the bread?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Welcome." },
-                { "speaker": "Man", "text": "Excuse me. Please give me three of these buns." },
-                { "speaker": "Woman", "text": "Certainly. These ones, right?" },
-                { "speaker": "Man", "text": "Oh, sorry. One more, please." },
-                { "speaker": "Woman", "text": "Okay. Do you need a bag?" },
-                { "speaker": "Man", "text": "No, I don't need one." },
-                { "speaker": "Woman", "text": "Understood." }
+                {
+                    "speaker": "Woman",
+                    "text": "Welcome."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Excuse me. Please give me three of these buns."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Certainly. These ones, right?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, sorry. One more, please."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay. Do you need a bag?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No, I don't need one."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Understood."
+                }
             ],
             "question": "What will the assistant do with the bread?"
         },
         "de": {
             "intro": "Eine Verkäuferin und ein Mann sprechen in einer Bäckerei. Was wird die Verkäuferin mit dem Brot machen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Willkommen." },
-                { "speaker": "Mann", "text": "Entschuldigung. Bitte geben Sie mir drei von diesen Brötchen." },
-                { "speaker": "Frau", "text": "Gerne. Diese hier, richtig?" },
-                { "speaker": "Mann", "text": "Oh, Verzeihung. Bitte noch eins dazu." },
-                { "speaker": "Frau", "text": "In Ordnung. Benötigen Sie eine Tüte?" },
-                { "speaker": "Mann", "text": "Nein, danke." },
-                { "speaker": "Frau", "text": "Verstanden." }
+                {
+                    "speaker": "Frau",
+                    "text": "Willkommen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigung. Bitte geben Sie mir drei von diesen Brötchen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Gerne. Diese hier, richtig?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Oh, Verzeihung. Bitte noch eins dazu."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "In Ordnung. Benötigen Sie eine Tüte?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein, danke."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Verstanden."
+                }
             ],
             "question": "Was wird die Verkäuferin mit dem Brot machen?"
         },
         "fr": {
             "intro": "Une vendeuse et un homme parlent dans une boulangerie. Que va faire la vendeuse avec le pain ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Bienvenue." },
-                { "speaker": "Homme", "text": "Excusez-moi. Donnez-m'en trois comme ça s'il vous plaît." },
-                { "speaker": "Femme", "text": "D'accord. Ceux-là ?" },
-                { "speaker": "Homme", "text": "Ah, pardon. Un autre en plus s'il vous plaît." },
-                { "speaker": "Femme", "text": "D'accord. Voulez-vous un sac ?" },
-                { "speaker": "Homme", "text": "Non, ce n'est pas la peine." },
-                { "speaker": "Femme", "text": "Entendu." }
+                {
+                    "speaker": "Femme",
+                    "text": "Bienvenue."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Excusez-moi. Donnez-m'en trois comme ça s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Ceux-là ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah, pardon. Un autre en plus s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Voulez-vous un sac ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non, ce n'est pas la peine."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Entendu."
+                }
             ],
             "question": "Que va faire la vendeuse avec le pain ?"
         },
         "es": {
             "intro": "Una vendedora y un hombre están hablando en una panadería. ¿Qué hará la vendedora con el pan?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Bienvenido." },
-                { "speaker": "Hombre", "text": "Disculpe. Déme tres de estos panes, por favor." },
-                { "speaker": "Mujer", "text": "Bien. Estos, ¿verdad?" },
-                { "speaker": "Hombre", "text": "Ah, perdón. Uno más, por favor." },
-                { "speaker": "Mujer", "text": "Está bien. ¿Quiere una bolsa?" },
-                { "speaker": "Hombre", "text": "No, no me hace falta." },
-                { "speaker": "Mujer", "text": "Entiendo." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Bienvenido."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Disculpe. Déme tres de estos panes, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Bien. Estos, ¿verdad?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Ah, perdón. Uno más, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Está bien. ¿Quiere una bolsa?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No, no me hace falta."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entiendo."
+                }
             ],
-            "question": "¿Qué hará la vendedora con el pan?" Spanish
+            "question": "¿Qué hará la vendedora con el pan?"
         },
         "ko": {
             "intro": "빵집에서 점원과 남자가 이야기하고 있습니다. 점원은 빵을 어떻게 합니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "어서 오세요." },
-                { "speaker": "남자", "text": "실례합니다. 이 빵 세 개 주세요." },
-                { "speaker": "여자", "text": "네. 이것 말씀이시죠?" },
-                { "speaker": "남자", "text": "아, 죄송합니다. 하나 더 부탁드려요." },
-                { "speaker": "여자", "text": "네. 봉투 필요하세요?" },
-                { "speaker": "남자", "text": "아니요, 괜찮습니다." },
-                { "speaker": "여자", "text": "알겠습니다." }
+                {
+                    "speaker": "여자",
+                    "text": "어서 오세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "실례합니다. 이 빵 세 개 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네. 이것 말씀이시죠?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아, 죄송합니다. 하나 더 부탁드려요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네. 봉투 필요하세요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요, 괜찮습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다."
+                }
             ],
             "question": "점원은 빵을 어떻게 합니까?"
         }
@@ -190,5 +337,6 @@
         "fr": "L'homme demande d'abord 3 pains, puis en rajoute un, soit 4 au total. Il dit qu'il n'a pas besoin de sac.",
         "es": "El hombre pide primero 3 panes y luego añade otro más, sumando 4 en total. Dice que no necesita bolsa.",
         "ko": "남자는 처음에 빵 3개를 주문했다가 하나를 더 추가하여 총 4개를 주문합니다. 봉투는 필요 없다고 말합니다."
-    }
+    },
+    "source_clip": "clip_1z3-CWWA20Y_05_05m13s_06m01s"
 }

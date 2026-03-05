@@ -11,84 +11,189 @@
             "ko": "모두의 물건 사기"
         }
     },
-    "audio_url": null,
-    "image_url": null,
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/010/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/010/image.webp",
     "correct_option": 1,
     "transcriptions": {
         "ja": {
             "intro": "おみせで おんなのひとと おとこのひとが はなしています。おんなのひとは なにを かいますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "みんなの ものを かってきましょうか。" },
-                { "speaker": "男の人", "text": "え、いいですか。ありがとうございます。" },
-                { "speaker": "女の人", "text": "わたしは かさを かいます。すずきさんも かさですか。" },
-                { "speaker": "男の人", "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。" },
-                { "speaker": "女の人", "text": "わかりました。じゃ、いってきます。" }
+                {
+                    "speaker": "女の人",
+                    "text": "みんなの ものを かってきましょうか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "え、いいですか。ありがとうございます。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わたしは かさを かいます。すずきさんも かさですか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "ちがいます。すずきさんと やまもとさんは すいとうが いいと おもいます。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました。じゃ、いってきます。"
+                }
             ],
             "question": "おんなのひとは なにを かいますか。"
         },
         "tr": {
             "intro": "Bir mağazada bir kadın ve bir erkek konuşuyor. Kadın ne satın alacak?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Herkesin eşyasını alıp geleyim mi?" },
-                { "speaker": "Erkek", "text": "A, olur mu? Teşekkür ederim." },
-                { "speaker": "Kadın", "text": "Ben şemsiye alacağım. Suzuki Bey de mi şemsiye istiyor?" },
-                { "speaker": "Erkek", "text": "Hayır. Suzuki Bey ve Yamamoto Bey'in matara istediğini düşünüyorum." },
-                { "speaker": "Kadın", "text": "Anladım. O zaman gidiyorum." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Herkesin eşyasını alıp geleyim mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "A, olur mu? Teşekkür ederim."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ben şemsiye alacağım. Suzuki Bey de mi şemsiye istiyor?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hayır. Suzuki Bey ve Yamamoto Bey'in matara istediğini düşünüyorum."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım. O zaman gidiyorum."
+                }
             ],
             "question": "Kadın ne satın alacak?"
         },
         "en": {
             "intro": "A woman and a man are talking at a store. What will the woman buy?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Shall I go and buy things for everyone?" },
-                { "speaker": "Man", "text": "Oh, really? Thank you very much." },
-                { "speaker": "Woman", "text": "I'm buying an umbrella. Does Mr. Suzuki want an umbrella too?" },
-                { "speaker": "Man", "text": "No. I think Mr. Suzuki and Mr. Yamamoto would like water bottles." },
-                { "speaker": "Woman", "text": "I see. Well, I'm off then." }
+                {
+                    "speaker": "Woman",
+                    "text": "Shall I go and buy things for everyone?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, really? Thank you very much."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I'm buying an umbrella. Does Mr. Suzuki want an umbrella too?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "No. I think Mr. Suzuki and Mr. Yamamoto would like water bottles."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I see. Well, I'm off then."
+                }
             ],
             "question": "What will the woman buy?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen in einem Geschäft. Was wird die Frau kaufen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Soll ich für alle einkaufen gehen?" },
-                { "speaker": "Mann", "text": "Oh, wirklich? Vielen Dank." },
-                { "speaker": "Frau", "text": "Ich kaufe einen Regenschirm. Möchte Herr Suzuki auch einen Regenschirm?" },
-                { "speaker": "Mann", "text": "Nein. Ich glaube, Herr Suzuki und Herr Yamamoto hätten gerne Trinkflaschen." },
-                { "speaker": "Frau", "text": "Verstehe. Dann gehe ich jetzt los." }
+                {
+                    "speaker": "Frau",
+                    "text": "Soll ich für alle einkaufen gehen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Oh, wirklich? Vielen Dank."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ich kaufe einen Regenschirm. Möchte Herr Suzuki auch einen Regenschirm?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Nein. Ich glaube, Herr Suzuki und Herr Yamamoto hätten gerne Trinkflaschen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Verstehe. Dann gehe ich jetzt los."
+                }
             ],
             "question": "Was wird die Frau kaufen?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent dans un magasin. Qu'est-ce que la femme va acheter ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Et si j'allais acheter des choses pour tout le monde ?" },
-                { "speaker": "Homme", "text": "Oh, vraiment ? Merci beaucoup." },
-                { "speaker": "Femme", "text": "Je vais acheter un parapluie. M. Suzuki veut aussi un parapluie ?" },
-                { "speaker": "Homme", "text": "Non. Je pense que M. Suzuki et M. Yamamoto aimeraient des gourdes." },
-                { "speaker": "Femme", "text": "Je vois. Bon, j'y vais alors." }
+                {
+                    "speaker": "Femme",
+                    "text": "Et si j'allais acheter des choses pour tout le monde ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oh, vraiment ? Merci beaucoup."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Je vais acheter un parapluie. M. Suzuki veut aussi un parapluie ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Non. Je pense que M. Suzuki et M. Yamamoto aimeraient des gourdes."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Je vois. Bon, j'y vais alors."
+                }
             ],
             "question": "Qu'est-ce que la femme va acheter ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando en una tienda. ¿Qué va a comprar la mujer?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "¿Qué tal si voy a comprar cosas para todos?" },
-                { "speaker": "Hombre", "text": "Oh, ¿de verdad? Muchas gracias." },
-                { "speaker": "Mujer", "text": "Yo voy a comprar un paraguas. ¿El Sr. Suzuki también quiere un paraguas?" },
-                { "speaker": "Hombre", "text": "No. Creo que al Sr. Suzuki y al Sr. Yamamoto les gustarían botellas de agua." },
-                { "speaker": "Mujer", "text": "Entiendo. Bueno, me voy entonces." }
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué tal si voy a comprar cosas para todos?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Oh, ¿de verdad? Muchas gracias."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Yo voy a comprar un paraguas. ¿El Sr. Suzuki también quiere un paraguas?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "No. Creo que al Sr. Suzuki y al Sr. Yamamoto les gustarían botellas de agua."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entiendo. Bueno, me voy entonces."
+                }
             ],
             "question": "¿Qué va a comprar la mujer?"
         },
         "ko": {
             "intro": "가게에서 여자와 남자가 이야기하고 있습니다. 여자는 무엇을 삽니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "모두의 물건을 사 올까요?" },
-                { "speaker": "남자", "text": "어, 그래도 될까요? 감사합니다." },
-                { "speaker": "여자", "text": "저는 우산을 살 거예요. 스즈키 씨도 우산인가요?" },
-                { "speaker": "남자", "text": "아니요. 스즈키 씨와 야마모토 씨는 물통(수이토)이 좋을 것 같아요." },
-                { "speaker": "여자", "text": "알겠습니다. 그럼 다녀올게요." }
+                {
+                    "speaker": "여자",
+                    "text": "모두의 물건을 사 올까요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "어, 그래도 될까요? 감사합니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "저는 우산을 살 거예요. 스즈키 씨도 우산인가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아니요. 스즈키 씨와 야마모토 씨는 물통(수이토)이 좋을 것 같아요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다. 그럼 다녀올게요."
+                }
             ],
             "question": "여자는 무엇을 삽니까?"
         }
@@ -199,5 +304,6 @@
         "fr": "La femme va acheter un parapluie pour elle-même et des gourdes pour les deux autres personnes. La réponse correcte est l'image avec 1 parapluie et 2 gourdes.",
         "es": "La mujer comprará un paraguas para ella y botellas de agua para las otras dos personas. La respuesta correcta es la imagen con 1 paraguas y 2 botellas de agua.",
         "ko": "여자는 본인용 우산(かさ) 한 개와 다른 두 사람을 위한 물통(すいとう) 두 개를 삽니다. 정답은 우산 한 개와 물통 두 개가 있는 그림입니다."
-    }
+    },
+    "source_clip": "clip_03_04m11s_05m03s"
 }

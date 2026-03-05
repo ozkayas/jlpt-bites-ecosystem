@@ -12,90 +12,216 @@
         }
     },
     "audio_url": null,
-    "image_url": null,
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/029/image.webp",
     "correct_option": 2,
     "transcriptions": {
         "ja": {
             "intro": "としょかんで おとこのがくせいと おんなのがくせいが はなしています。 ふたりは なんじから いっしょに べんきょうしますか。",
             "dialogue": [
-                { "speaker": "男の人", "text": "やまださん、きょうは いっしょに べんきょうしませんか。" },
-                { "speaker": "女の人", "text": "いいですね. なんじから しますか。 いまから しますか。" },
-                { "speaker": "男の人", "text": "いまは いちじですね. わたしは いちじはんまで ほんを よみます。 それから べんきょうしましょう。" },
-                { "speaker": "女の人", "text": "じゃあ、いちじはんから ですね。" },
-                { "speaker": "男の人", "text": "あ、すみません. じむしつへ いかなければなりませんから、にじに してください。" },
-                { "speaker": "女の人", "text": "わかりました. じゃあ、にじに としょかんで。" }
+                {
+                    "speaker": "男の人",
+                    "text": "やまださん、きょうは いっしょに べんきょうしませんか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "いいですね. なんじから しますか。 いまから しますか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "いまは いちじですね. わたしは いちじはんまで ほんを よみます。 それから べんきょうしましょう。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "じゃあ、いちじはんから ですね。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "あ、すみません. じむしつへ いかなければなりませんから、にじに してください。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "わかりました. じゃあ、にじに としょかんで。"
+                }
             ],
             "question": "ふたりは なんじから いっしょに べんきょうしますか。"
         },
         "tr": {
             "intro": "Kütüphanede bir erkek öğrenci ve bir kadın öğrenci konuşuyor. İkisi saat kaçtan itibaren birlikte ders çalışacak?",
             "dialogue": [
-                { "speaker": "Erkek", "text": "Yamada Hanım, bugün birlikte ders çalışalım mı?" },
-                { "speaker": "Kadın", "text": "Olur, güzel olur. Saat kaçta başlayalım? Şimdi mi?" },
-                { "speaker": "Erkek", "text": "Şu an saat bir. Ben saat bir buçuğa kadar kitap okuyacağım. Ondan sonra çalışalım." },
-                { "speaker": "Kadın", "text": "O zaman saat bir buçuktan itibaren, değil mi?" },
-                { "speaker": "Erkek", "text": "Ah, affedersiniz. Ofise gitmem gerekiyor, o yüzden saat iki yapalım lütfen." },
-                { "speaker": "Kadın", "text": "Anladım. O zaman saat ikide kütüphanede." }
+                {
+                    "speaker": "Erkek",
+                    "text": "Yamada Hanım, bugün birlikte ders çalışalım mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Olur, güzel olur. Saat kaçta başlayalım? Şimdi mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Şu an saat bir. Ben saat bir buçuğa kadar kitap okuyacağım. Ondan sonra çalışalım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "O zaman saat bir buçuktan itibaren, değil mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ah, affedersiniz. Ofise gitmem gerekiyor, o yüzden saat iki yapalım lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Anladım. O zaman saat ikide kütüphanede."
+                }
             ],
             "question": "İkisi saat kaçtan itibaren birlikte ders çalışacak?"
         },
         "en": {
             "intro": "A male student and a female student are talking at the library. From what time will they start studying together?",
             "dialogue": [
-                { "speaker": "Man", "text": "Ms. Yamada, shall we study together today?" },
-                { "speaker": "Woman", "text": "That sounds good. What time shall we start? Shall we start now?" },
-                { "speaker": "Man", "text": "It's one o'clock now. I'm going to read a book until one-thirty. Let's study after that." },
-                { "speaker": "Woman", "text": "So, from one-thirty then?" },
-                { "speaker": "Man", "text": "Oh, sorry. I have to go to the office, so please make it two o'clock." },
-                { "speaker": "Woman", "text": "I see. Well, at two o'clock at the library then." }
+                {
+                    "speaker": "Man",
+                    "text": "Ms. Yamada, shall we study together today?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "That sounds good. What time shall we start? Shall we start now?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "It's one o'clock now. I'm going to read a book until one-thirty. Let's study after that."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "So, from one-thirty then?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, sorry. I have to go to the office, so please make it two o'clock."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I see. Well, at two o'clock at the library then."
+                }
             ],
             "question": "From what time will they start studying together?"
         },
         "de": {
             "intro": "Ein Student und eine Studentin sprechen in der Bibliothek. Ab wie viel Uhr werden sie zusammen lernen?",
             "dialogue": [
-                { "speaker": "Mann", "text": "Frau Yamada, wollen wir heute zusammen lernen?" },
-                { "speaker": "Frau", "text": "Das ist eine gute Idee. Ab wann? Fangen wir jetzt an?" },
-                { "speaker": "Mann", "text": "Es ist jetzt ein Uhr. Ich werde bis halb zwei ein Buch lesen. Danach lass uns lernen." },
-                { "speaker": "Frau", "text": "Also ab halb zwei, richtig?" },
-                { "speaker": "Mann", "text": "Ah, Entschuldigung. Ich muss ins Büro, also lass uns bitte zwei Uhr machen." },
-                { "speaker": "Frau", "text": "Alles klar. Dann um zwei Uhr in der Bibliothek." }
+                {
+                    "speaker": "Mann",
+                    "text": "Frau Yamada, wollen wir heute zusammen lernen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das ist eine gute Idee. Ab wann? Fangen wir jetzt an?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Es ist jetzt ein Uhr. Ich werde bis halb zwei ein Buch lesen. Danach lass uns lernen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Also ab halb zwei, richtig?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ah, Entschuldigung. Ich muss ins Büro, also lass uns bitte zwei Uhr machen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Alles klar. Dann um zwei Uhr in der Bibliothek."
+                }
             ],
             "question": "Ab wie viel Uhr werden sie zusammen lernen?"
         },
         "fr": {
             "intro": "Un étudiant et une étudiante parlent à la bibliothèque. À partir de quelle heure vont-ils étudier ensemble ?",
             "dialogue": [
-                { "speaker": "Homme", "text": "Mme Yamada, et si nous étudiions ensemble aujourd'hui ?" },
-                { "speaker": "Femme", "text": "Bonne idée. À partir de quelle heure ? On commence maintenant ?" },
-                { "speaker": "Homme", "text": "Il est une heure maintenant. Je vais lire un livre jusqu'à une heure et demie. Étudions après cela." },
-                { "speaker": "Femme", "text": "Alors, à partir d'une heure et demie ?" },
-                { "speaker": "Homme", "text": "Ah, pardon. Je dois passer au bureau, alors faisons deux heures s'il vous plaît." },
-                { "speaker": "Femme", "text": "D'accord. Rendez-vous à deux heures à la bibliothèque alors." }
+                {
+                    "speaker": "Homme",
+                    "text": "Mme Yamada, et si nous étudiions ensemble aujourd'hui ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Bonne idée. À partir de quelle heure ? On commence maintenant ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Il est une heure maintenant. Je vais lire un livre jusqu'à une heure et demie. Étudions après cela."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Alors, à partir d'une heure et demie ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah, pardon. Je dois passer au bureau, alors faisons deux heures s'il vous plaît."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord. Rendez-vous à deux heures à la bibliothèque alors."
+                }
             ],
             "question": "À partir de quelle heure vont-ils étudier ensemble ?"
         },
         "es": {
             "intro": "Un estudiante y una estudiante están hablando en la biblioteca. ¿A partir de qué hora estudiarán juntos?",
             "dialogue": [
-                { "speaker": "Hombre", "text": "Sra. Yamada, ¿estudiamos juntos hoy?" },
-                { "speaker": "Mujer", "text": "Me parece bien. ¿A qué hora empezamos? ¿Empezamos ya?" },
-                { "speaker": "Hombre", "text": "Ahora es la una. Voy a leer un libro hasta la una y media. Estudiemos después de eso." },
-                { "speaker": "Mujer", "text": "Entonces, ¿a partir de la una y media?" },
-                { "speaker": "Hombre", "text": "Ah, perdona. Tengo que ir a la oficina, así que mejor a las dos, por favor." },
-                { "speaker": "Mujer", "text": "Entendido. Pues a las dos en la biblioteca." }
+                {
+                    "speaker": "Hombre",
+                    "text": "Sra. Yamada, ¿estudiamos juntos hoy?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Me parece bien. ¿A qué hora empezamos? ¿Empezamos ya?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Ahora es la una. Voy a leer un libro hasta la una y media. Estudiemos después de eso."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entonces, ¿a partir de la una y media?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Ah, perdona. Tengo que ir a la oficina, así que mejor a las dos, por favor."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entendido. Pues a las dos en la biblioteca."
+                }
             ],
             "question": "¿A partir de qué hora estudiarán juntos?"
         },
         "ko": {
             "intro": "도서관에서 남학생과 여학생이 이야기하고 있습니다. 두 사람은 몇 시부터 함께 공부합니까?",
             "dialogue": [
-                { "speaker": "남자", "text": "야마다 씨, 오늘 같이 공부할래요?" },
-                { "speaker": "여자", "text": "좋아요. 몇 시부터 할까요? 지금부터 할까요?" },
-                { "speaker": "남자", "text": "지금은 1시네요. 저는 1시 반까지 책을 읽을 거예요. 그 후에 공부합시다." },
-                { "speaker": "여자", "text": "그럼 1시 반부터네요." },
-                { "speaker": "남자", "text": "아, 죄송합니다. 사무실에 가야 해서 2시로 해 주세요." },
-                { "speaker": "여자", "text": "알겠습니다. 그럼 2시에 도서관에서요." }
+                {
+                    "speaker": "남자",
+                    "text": "야마다 씨, 오늘 같이 공부할래요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "좋아요. 몇 시부터 할까요? 지금부터 할까요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "지금은 1시네요. 저는 1시 반까지 책을 읽을 거예요. 그 후에 공부합시다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그럼 1시 반부터네요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아, 죄송합니다. 사무실에 가야 해서 2시로 해 주세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "알겠습니다. 그럼 2시에 도서관에서요."
+                }
             ],
             "question": "두 사람은 몇 시부터 함께 공부합니까?"
         }
@@ -183,5 +309,6 @@
         "fr": "L'homme suggère d'abord d'étudier à 13h30, mais il réalise ensuite qu'il doit aller au bureau et change l'heure pour 14h00 (にじ). La réponse correcte est l'option 3.",
         "es": "El hombre sugiere primero estudiar a la 1:30, pero luego se da cuenta de que tiene que ir a la oficina y cambia la hora a las 2:00 (にじ). La respuesta correcta es la opción 3.",
         "ko": "남자는 처음에 1시 반에 공부하자고 제안하지만, 사무실에 가야 한다는 것을 깨닫고 시간을 2시(にじ)로 바꿉니다. 정답은 3번입니다."
-    }
+    },
+    "source_clip": "clip_7HfHdb5J3f4_03_09m40s_10m50s"
 }

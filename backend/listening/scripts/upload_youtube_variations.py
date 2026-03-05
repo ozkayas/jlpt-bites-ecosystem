@@ -7,8 +7,6 @@ import sys
 import tempfile
 from pathlib import Path
 import argparse
-from PIL import Image
-
 
 def initialize_firebase(bucket_name=None):
     """Initialize Firebase Admin SDK"""
@@ -26,29 +24,29 @@ def initialize_firebase(bucket_name=None):
             print("✅ Firebase Admin SDK initialized (using service-account-key.json)")
             return
         except Exception as e:
-            print(f"⚠️ Found service-account-key.json but failed to load: {e}")
+            print(f"⚠️ Failed to load service-account-key.json: {e}")
 
-    try:
-        print("⚠️ service-account-key.json not found. Attempting to use Application Default Credentials...")
-        firebase_admin.initialize_app(options=options)
-        print("✅ Firebase Admin SDK initialized (using ADC)")
-    except Exception as e:
-        print(f"❌ Failed to initialize Firebase: {e}")
-        print(f"   Please place 'service-account-key.json' in {script_dir.parent.parent}")
-        print("   OR ensure you have Google Application Default Credentials set up.")
-        sys.exit(1)
-
+    firebase_admin.initialize_app(options=options)
+    print("✅ Firebase Admin SDK initialized (Default)")
 
 def upload_file(bucket, local_path, remote_path):
     print(f"   ⬆️ Uploading {Path(local_path).name} to {remote_path}...")
     blob = bucket.blob(remote_path)
+    # Cache-control can be set to 0 during development to see changes immediately
+    blob.cache_control = 'no-cache'
     blob.upload_from_filename(str(local_path))
     blob.make_public()
     return blob.public_url
 
+def get_existing_doc_id(db, clip_name):
+    """Find existing doc ID for this clip to avoid duplicates."""
+    docs = db.collection('n5_listening_select_image_questions').where('source_clip', '==', clip_name).get()
+    if docs:
+        return docs[0].id
+    return None
 
 def get_next_firestore_id(db):
-    """Return the next sequential doc ID (zero-padded 3 digits) by querying Firestore."""
+    """Return next sequential ID."""
     collection_ref = db.collection('n5_listening_select_image_questions')
     docs = collection_ref.stream()
     max_id = 0
@@ -61,47 +59,26 @@ def get_next_firestore_id(db):
             pass
     return str(max_id + 1).zfill(3)
 
-
-def compress_image(src_path, max_size=1024):
-    """Compress and optionally resize an image before upload."""
-    img = Image.open(src_path)
-    original_size = img.size
-    if max(img.size) > max_size:
-        img.thumbnail((max_size, max_size), Image.LANCZOS)
-        print(f"   📐 Image resized: {original_size} → {img.size}")
-    else:
-        print(f"   📐 Image size OK ({img.size}), optimizing only")
-    tmp = tempfile.NamedTemporaryFile(suffix='.png', delete=False)
-    img.save(tmp.name, 'PNG', optimize=True)
-    return Path(tmp.name)
-
-
 def convert_wav_to_mp3(wav_path, mp3_path):
-    """Convert a WAV file to MP3 using ffmpeg."""
-    result = subprocess.run(
+    """Convert WAV to MP3."""
+    subprocess.run(
         ['ffmpeg', '-y', '-i', str(wav_path), '-codec:a', 'libmp3lame', '-qscale:a', '2', str(mp3_path)],
-        capture_output=True,
-        text=True
+        capture_output=True
     )
-    if result.returncode != 0:
-        raise RuntimeError(f"ffmpeg failed:\n{result.stderr}")
 
-
-def process_youtube_variations(db, bucket, processed_dir):
-    if not processed_dir.exists():
-        print(f"❌ Directory not found: {processed_dir}")
-        return
-
+def process_youtube_variations(db, bucket, processed_dir, clip_filter=None):
     clip_dirs = sorted([d for d in processed_dir.iterdir() if d.is_dir()])
-    if not clip_dirs:
-        print("⚠️ No clip folders found in processed/")
-        return
+    
+    if clip_filter:
+        clip_dirs = [d for d in clip_dirs if d.name == clip_filter]
+        if not clip_dirs:
+            print(f"❌ Clip folder '{clip_filter}' not found in processed directory.")
+            return
 
     for clip_dir in clip_dirs:
         clip_name = clip_dir.name
         print(f"\n📂 Processing: {clip_name}")
 
-        # Check question.json
         question_path = clip_dir / 'question.json'
         if not question_path.exists():
             print("   ⚠️ question.json missing — skipping")
@@ -110,97 +87,67 @@ def process_youtube_variations(db, bucket, processed_dir):
         with open(question_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
 
-        # Skip if already uploaded (idempotent)
-        if data.get('audio_url') is not None:
-            print("   ✅ Already uploaded — skipping")
-            continue
+        # 1. Determine ID
+        doc_id = get_existing_doc_id(db, clip_name)
+        if doc_id:
+            print(f"   🆔 Existing document found: {doc_id} (Will Update)")
+        else:
+            doc_id = get_next_firestore_id(db)
+            print(f"   🆔 New ID assigned: {doc_id}")
 
-        # Determine next Firestore document ID
-        next_id = get_next_firestore_id(db)
-        print(f"   🆔 Assigned document ID: {next_id}")
+        data['source_clip'] = clip_name
 
-        # Convert variation audio → /tmp/{clip_name}.mp3
-        # Accept both 'variation.wav' (old) and 'variation-audio.wav' (new tester output)
+        # 2. Handle Audio
+        audio_url = data.get('audio_url')
         wav_path = clip_dir / 'variation.wav'
         if not wav_path.exists():
             wav_path = clip_dir / 'variation-audio.wav'
-        if not wav_path.exists():
-            print("   ❌ variation.wav / variation-audio.wav missing — skipping")
-            continue
-
-        mp3_path = Path(tempfile.gettempdir()) / f"{clip_name}.mp3"
-        print(f"   🔄 Converting {wav_path.name} → {mp3_path.name} ...")
-        try:
+        
+        if wav_path.exists():
+            mp3_path = Path(tempfile.gettempdir()) / f"{clip_name}.mp3"
             convert_wav_to_mp3(wav_path, mp3_path)
-        except RuntimeError as e:
-            print(f"   ❌ ffmpeg conversion failed: {e}")
-            continue
+            remote_audio = f"n5_listening/selectImage/{doc_id}/audio.mp3"
+            audio_url = upload_file(bucket, mp3_path, remote_audio)
+            mp3_path.unlink(missing_ok=True)
+            print("   ✅ Audio updated")
+        elif audio_url:
+            print("   ℹ️ Local audio missing, keeping existing URL")
+        
+        # 3. Handle Image
+        image_url = data.get('image_url')
+        img_p = clip_dir / 'image.webp'
+        if not img_p.exists():
+            img_p = clip_dir / 'image.png'
+        
+        if img_p.exists():
+            remote_img = f"n5_listening/selectImage/{doc_id}/{img_p.name}"
+            image_url = upload_file(bucket, img_p, remote_img)
+            print("   ✅ Image updated")
+        elif image_url:
+            print("   ℹ️ Local image missing, keeping existing URL")
 
-        # Upload audio
-        remote_audio = f"n5_listening/selectImage/{next_id}/audio.mp3"
-        audio_url = upload_file(bucket, mp3_path, remote_audio)
-        print("   ✅ Audio uploaded")
-
-        # Delete temp mp3
-        mp3_path.unlink(missing_ok=True)
-
-        # Upload image — prefer image.webp (optimized by tester skill), fall back to image.png
-        image_path = clip_dir / 'image.webp'
-        remote_image_name = 'image.webp'
-        if not image_path.exists():
-            image_path = clip_dir / 'image.png'
-            remote_image_name = 'image.png'
-        if not image_path.exists():
-            print("   ❌ image.webp / image.png missing — Firestore save skipped")
-            continue
-
-        if image_path.suffix == '.png':
-            # Legacy PNG: compress before uploading
-            compressed_path = compress_image(image_path)
-            try:
-                remote_image = f"n5_listening/selectImage/{next_id}/{remote_image_name}"
-                image_url = upload_file(bucket, compressed_path, remote_image)
-                print("   ✅ Image uploaded (PNG, legacy)")
-            finally:
-                compressed_path.unlink(missing_ok=True)
-        else:
-            # WebP: already optimized by tester skill, upload directly
-            remote_image = f"n5_listening/selectImage/{next_id}/{remote_image_name}"
-            image_url = upload_file(bucket, image_path, remote_image)
-            print(f"   ✅ Image uploaded (WebP, {image_path.stat().st_size // 1024} KB)")
-
-        # Update question.json with URLs
+        # 4. Save
         data['audio_url'] = audio_url
         data['image_url'] = image_url
 
         with open(question_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
-        print("   ✅ question.json updated locally")
-
-        # Save to Firestore
-        doc_ref = db.collection('n5_listening_select_image_questions').document(next_id)
-        doc_ref.set(data)
-        print("   ✅ Firestore saved")
-
+        
+        db.collection('n5_listening_select_image_questions').document(doc_id).set(data)
+        print(f"   ✅ Firestore document {doc_id} synchronized")
 
 def main():
-    parser = argparse.ArgumentParser(description='Upload YouTube listening variation questions to Firebase')
-    parser.add_argument('--bucket', help='Firebase Storage bucket name (e.g. your-project.firebasestorage.app)')
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--bucket', default='jlpt-bites.firebasestorage.app')
+    parser.add_argument('--clip', help='Specific clip folder name to process (optional)')
     args = parser.parse_args()
 
-    # processed/ is at backend/listening/data/selectImage/listening-youtube-data/processed/
     script_dir = Path(__file__).parent
     processed_dir = script_dir.parent / 'data' / 'selectImage' / 'listening-youtube-data' / 'processed'
 
     initialize_firebase(args.bucket)
-
-    db = firestore.client()
-    bucket = storage.bucket()
-    print(f"Using storage bucket: {bucket.name}")
-
-    process_youtube_variations(db, bucket, processed_dir)
-    print("\n🎉 All Done!")
-
+    process_youtube_variations(firestore.client(), storage.bucket(), processed_dir, clip_filter=args.clip)
+    print("\n🎉 Done!")
 
 if __name__ == "__main__":
     main()

@@ -11,98 +11,245 @@
             "ko": "과일 가게에서 사과와 바나나 사기"
         }
     },
-    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/audio.mp3",
-    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/005/image.png",
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/031/audio.mp3",
+    "image_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/n5_listening/selectImage/031/image.webp",
     "correct_option": 3,
     "transcriptions": {
         "ja": {
             "intro": "おんなのひとと おとこのひとが はなしています。おんなのひとは ぜんぶで いくら はらいますか。",
             "dialogue": [
-                { "speaker": "女の人", "text": "すみません、はちじゅうえんの りんごを ください。" },
-                { "speaker": "男の人", "text": "なんこですか。" },
-                { "speaker": "女の人", "text": "よんこ おねがいします。それから、バナナも いっぽん ください。" },
-                { "speaker": "男の人", "text": "はい。" },
-                { "speaker": "女の人", "text": "バナナは いくらですか。" },
-                { "speaker": "男の人", "text": "バナナは いっぽん ひゃくにじゅうえんです。" },
-                { "speaker": "女の人", "text": "ありがとうございます。" }
+                {
+                    "speaker": "女の人",
+                    "text": "すみません、はちじゅうえんの りんごを ください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "なんこですか。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "よんこ おねがいします。それから、バナナも いっぽん ください。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "はい。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "バナナは いくらですか。"
+                },
+                {
+                    "speaker": "男の人",
+                    "text": "バナナは いっぽん ひゃくにじゅうえんです。"
+                },
+                {
+                    "speaker": "女の人",
+                    "text": "ありがとうございます。"
+                }
             ],
             "question": "おんなのひとは ぜんぶで いくら はらいますか。"
         },
         "tr": {
             "intro": "Bir kadın ve bir erkek konuşuyor. Kadın toplamda ne kadar ödeyecek?",
             "dialogue": [
-                { "speaker": "Kadın", "text": "Affedersiniz, seksen yenlik elmalardan verin lütfen." },
-                { "speaker": "Erkek", "text": "Kaç tane?" },
-                { "speaker": "Kadın", "text": "Dört tane rica ediyorum. Bir de bir tane muz verin lütfen." },
-                { "speaker": "Erkek", "text": "Tamam." },
-                { "speaker": "Kadın", "text": "Muz ne kadar?" },
-                { "speaker": "Erkek", "text": "Muzun tanesi yüz yirmi yendir." },
-                { "speaker": "Kadın", "text": "Teşekkür ederim." }
+                {
+                    "speaker": "Kadın",
+                    "text": "Affedersiniz, seksen yenlik elmalardan verin lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Kaç tane?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Dört tane rica ediyorum. Bir de bir tane muz verin lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tamam."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Muz ne kadar?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Muzun tanesi yüz yirmi yendir."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Teşekkür ederim."
+                }
             ],
             "question": "Kadın toplamda ne kadar ödeyecek?"
         },
         "en": {
             "intro": "A woman and a man are talking. How much will the woman pay in total?",
             "dialogue": [
-                { "speaker": "Woman", "text": "Excuse me, please give me the eighty-yen apples." },
-                { "speaker": "Man", "text": "How many?" },
-                { "speaker": "Woman", "text": "Four, please. Also, please give me one banana." },
-                { "speaker": "Man", "text": "Yes." },
-                { "speaker": "Woman", "text": "How much is the banana?" },
-                { "speaker": "Man", "text": "The banana is one hundred and twenty yen each." },
-                { "speaker": "Woman", "text": "Thank you very much." }
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me, please give me the eighty-yen apples."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "How many?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Four, please. Also, please give me one banana."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "How much is the banana?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "The banana is one hundred and twenty yen each."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Thank you very much."
+                }
             ],
             "question": "How much will the woman pay in total?"
         },
         "de": {
             "intro": "Eine Frau und ein Mann sprechen miteinander. Wie viel wird die Frau insgesamt bezahlen?",
             "dialogue": [
-                { "speaker": "Frau", "text": "Entschuldigung, geben Sie mir bitte die Äpfel für achtzig Yen." },
-                { "speaker": "Mann", "text": "Wie viele?" },
-                { "speaker": "Frau", "text": "Vier bitte. Und geben Sie mir bitte auch eine Banane." },
-                { "speaker": "Mann", "text": "Ja." },
-                { "speaker": "Frau", "text": "Wie viel kostet die Banane?" },
-                { "speaker": "Mann", "text": "Die Banane kostet einhundertzwanzig Yen das Stück." },
-                { "speaker": "Frau", "text": "Vielen Dank." }
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigung, geben Sie mir bitte die Äpfel für achtzig Yen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie viele?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Vier bitte. Und geben Sie mir bitte auch eine Banane."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Wie viel kostet die Banane?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Die Banane kostet einhundertzwanzig Yen das Stück."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Vielen Dank."
+                }
             ],
             "question": "Wie viel wird die Frau insgesamt bezahlen?"
         },
         "fr": {
             "intro": "Une femme et un homme parlent. Combien la femme va-t-elle payer au total ?",
             "dialogue": [
-                { "speaker": "Femme", "text": "Excusez-moi, donnez-moi les pommes à quatre-vingts yens s'il vous plaît." },
-                { "speaker": "Homme", "text": "Combien en voulez-vous ?" },
-                { "speaker": "Femme", "text": "Quatre, s'il vous plaît. Et donnez-moi aussi une banane." },
-                { "speaker": "Homme", "text": "Oui." },
-                { "speaker": "Femme", "text": "Combien coûte la banane ?" },
-                { "speaker": "Homme", "text": "La banane coûte cent vingt yens l'unité." },
-                { "speaker": "Femme", "text": "Merci beaucoup." }
+                {
+                    "speaker": "Femme",
+                    "text": "Excusez-moi, donnez-moi les pommes à quatre-vingts yens s'il vous plaît."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Combien en voulez-vous ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Quatre, s'il vous plaît. Et donnez-moi aussi une banane."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Combien coûte la banane ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "La banane coûte cent vingt yens l'unité."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Merci beaucoup."
+                }
             ],
             "question": "Combien la femme va-t-elle payer au total ?"
         },
         "es": {
             "intro": "Una mujer y un hombre están hablando. ¿Cuánto pagará la mujer en total?",
             "dialogue": [
-                { "speaker": "Mujer", "text": "Disculpe, déme las manzanas de ochenta yenes, por favor." },
-                { "speaker": "Hombre", "text": "¿Cuántas?" },
-                { "speaker": "Mujer", "text": "Cuatro, por favor. Y también déme un plátano." },
-                { "speaker": "Hombre", "text": "Sí." },
-                { "speaker": "Mujer", "text": "¿Cuánto cuesta el plátano?" },
-                { "speaker": "Hombre", "text": "El plátano cuesta ciento veinte yenes la unidad." },
-                { "speaker": "Mujer", "text": "Muchas gracias." }
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe, déme las manzanas de ochenta yenes, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Cuántas?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Cuatro, por favor. Y también déme un plátano."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Cuánto cuesta el plátano?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "El plátano cuesta ciento veinte yenes la unidad."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Muchas gracias."
+                }
             ],
             "question": "¿Cuánto pagará la mujer en total?"
         },
         "ko": {
             "intro": "여자와 남자가 이야기하고 있습니다. 여자는 모두 얼마를 냅니까?",
             "dialogue": [
-                { "speaker": "여자", "text": "실례합니다, 80엔짜리 사과를 주세요." },
-                { "speaker": "남자", "text": "몇 개인가요?" },
-                { "speaker": "여자", "text": "네 개 부탁해요. 그리고 바나나도 하나 주세요." },
-                { "speaker": "남자", "text": "네." },
-                { "speaker": "여자", "text": "바나나는 얼마인가요?" },
-                { "speaker": "남자", "text": "바나나는 하나에 120엔입니다." },
-                { "speaker": "여자", "text": "감사합니다." }
+                {
+                    "speaker": "여자",
+                    "text": "실례합니다, 80엔짜리 사과를 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "몇 개인가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네 개 부탁해요. 그리고 바나나도 하나 주세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "바나나는 얼마인가요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "바나나는 하나에 120엔입니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "감사합니다."
+                }
             ],
             "question": "여자는 모두 얼마를 냅니까?"
         }
@@ -190,5 +337,6 @@
         "fr": "La femme achète 4 pommes à 80 yens chacune (320 yens) et 1 banane à 120 yens. Elle paie 440 yens au total. La réponse correcte est l'option 4.",
         "es": "La mujer compra 4 manzanas a 80 yenes cada una (320 yenes) y 1 plátano por 120 yenes. Paga 440 yenes en total. La respuesta correcta es la opción 4.",
         "ko": "여자는 80엔짜리 사과 4개(320엔)와 120엔짜리 바나나 1개를 삽니다. 총 440엔을 냅니다. 정답은 4번입니다."
-    }
+    },
+    "source_clip": "clip_YBAJDQ_zDJg_02m21s_03m13s"
 }
