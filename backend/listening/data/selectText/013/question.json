@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "かぞくの　しゅみ",
+            "tr": "Aile Hobileri",
+            "en": "Family Hobbies",
+            "de": "Familienhobbys",
+            "fr": "Loisirs familiaux",
+            "es": "Pasatiempos familiares",
+            "ko": "가족 취미"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/013/audio.mp3",
+    "options": [
+        "りょうりを　つくります",
+        "おんがくを　ききます",
+        "えを　かきます",
+        "すぽーつを　します"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとの　いもうとは　なにが　すきですか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "やすみのひは　なにを　しますか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "わたしは　おんがくを　ききます。あには　えを　かくことが　すきです。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "いもうとは　りょうりを　つくることが　すきで　いつも　あたらしい　りょうりを　つくっています。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "いいですね。"
+                }
+            ],
+            "question": "おとこのひとの　いもうとは　なにが　すきですか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Erkeğin kız kardeşi ne sever?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Tatil günlerinde ne yaparsın?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ben müzik dinlerim. Ağabeyim resim çizmeyi sever."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Kız kardeşim yemek yapmayı sever ve her zaman yeni yemekler yapar."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ne güzel."
+                }
+            ],
+            "question": "Erkeğin kız kardeşi ne sever?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. What does the man's younger sister like?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "What do you do on your days off?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I listen to music. My older brother likes drawing pictures."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "My younger sister likes cooking and always makes new dishes."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "That's nice."
+                }
+            ],
+            "question": "What does the man's younger sister like?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Was mag die jüngere Schwester des Mannes?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Was machst du an freien Tagen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich höre Musik. Mein älterer Bruder malt gerne Bilder."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Meine jüngere Schwester kocht gerne und macht immer neue Gerichte."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das ist schön."
+                }
+            ],
+            "question": "Was mag die jüngere Schwester des Mannes?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Qu'est-ce que la sœur cadette de l'homme aime ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Que faites-vous pendant vos jours de congé ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "J'écoute de la musique. Mon frère aîné aime dessiner."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ma sœur cadette aime cuisiner et prépare toujours de nouveaux plats."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "C'est bien."
+                }
+            ],
+            "question": "Qu'est-ce que la sœur cadette de l'homme aime ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Qué le gusta a la hermana menor del hombre?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué haces en tus días libres?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Yo escucho música. A mi hermano mayor le gusta dibujar."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "A mi hermana menor le gusta cocinar y siempre prepara platos nuevos."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Qué bien."
+                }
+            ],
+            "question": "¿Qué le gusta a la hermana menor del hombre?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 남자의 여동생은 무엇을 좋아합니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "쉬는 날에는 무엇을 합니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "저는 음악을 듣습니다. 형은 그림 그리는 것을 좋아합니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "여동생은 요리하는 것을 좋아해서 항상 새로운 요리를 만듭니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "좋네요."
+                }
+            ],
+            "question": "남자의 여동생은 무엇을 좋아합니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おんがく",
+                "reading": "おんがく",
+                "meanings": {
+                    "tr": "müzik",
+                    "en": "music",
+                    "de": "Musik",
+                    "fr": "musique",
+                    "es": "música",
+                    "ko": "음악"
+                }
+            },
+            {
+                "word": "え",
+                "reading": "え",
+                "meanings": {
+                    "tr": "resim",
+                    "en": "drawing/picture",
+                    "de": "Bild/Zeichnung",
+                    "fr": "dessin/image",
+                    "es": "dibujo/imagen",
+                    "ko": "그림"
+                }
+            },
+            {
+                "word": "りょうり",
+                "reading": "りょうり",
+                "meanings": {
+                    "tr": "yemek yapmak",
+                    "en": "cooking",
+                    "de": "Kochen",
+                    "fr": "cuisine",
+                    "es": "cocinar/cocina",
+                    "ko": "요리"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ことが　すきです",
+                "meanings": {
+                    "tr": "... yapmayı sevmek",
+                    "en": "to like doing ...",
+                    "de": "... gerne tun",
+                    "fr": "aimer faire ...",
+                    "es": "gustar hacer ...",
+                    "ko": "...하는 것을 좋아하다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek müzik dinliyor, ağabeyi resim çiziyor. Kız kardeşi (いもうと) yemek yapmayı (りょうりをつくること) seviyor. Soru kız kardeşi soruyor, doğru cevap yemek yapmaktır.",
+        "en": "The man listens to music, his older brother draws. His younger sister (いもうと) likes cooking (りょうりをつくること). The question asks about the sister, so the correct answer is cooking.",
+        "de": "Der Mann hört Musik, sein älterer Bruder zeichnet. Seine jüngere Schwester (いもうと) kocht gerne (りょうりをつくること). Die Frage bezieht sich auf die Schwester, die richtige Antwort ist Kochen.",
+        "fr": "L'homme écoute de la musique, son frère aîné dessine. Sa sœur cadette (いもうと) aime cuisiner (りょうりをつくること). La question porte sur la sœur, la bonne réponse est la cuisine.",
+        "es": "El hombre escucha música, su hermano mayor dibuja. A su hermana menor (いもうと) le gusta cocinar (りょうりをつくること). La pregunta es sobre la hermana, la respuesta correcta es cocinar.",
+        "ko": "남자는 음악을 듣고, 형은 그림을 그립니다. 여동생(いもうと)은 요리하는 것(りょうりをつくること)을 좋아합니다. 질문은 여동생에 대한 것이므로, 정답은 요리입니다."
+    }
+}

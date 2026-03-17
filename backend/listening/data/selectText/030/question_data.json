@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "つぎの　よやく (Next Appointment)",
+        "audio_url": null
+    },
+    "options": [
+        "すいようび",
+        "もくようび",
+        "きんようび",
+        "どようび"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "びょういんで　いしゃと　おんなのひとが　はなしています。おんなのひとは　つぎ　いつ　びょういんへ　きますか。",
+        "dialogue": [
+            {
+                "speaker": "いしゃ",
+                "text": "つぎは　らいしゅう　きてください。すいようびは　どうですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "すみません、すいようびから　もくようびまで　しゅっちょうです。"
+            },
+            {
+                "speaker": "いしゃ",
+                "text": "じゃあ　そのつぎのひは？"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "きんようびですね。はい、だいじょうぶです。"
+            },
+            {
+                "speaker": "いしゃ",
+                "text": "じゃあ　ごぜんじゅうじで　いいですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "はい。"
+            }
+        ],
+        "question": "おんなのひとは　つぎ　いつ　びょういんへ　きますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅっちょう",
+                "tr": "iş seyahati",
+                "en": "business trip"
+            },
+            {
+                "word": "つぎ",
+                "tr": "sonraki",
+                "en": "next"
+            },
+            {
+                "word": "ごぜん",
+                "tr": "sabah/öğleden önce",
+                "en": "morning/AM"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から～まで",
+                "tr": "-den -e kadar",
+                "en": "from ... to ..."
+            },
+            {
+                "point": "そのつぎのひ",
+                "tr": "ondan sonraki gün",
+                "en": "the day after that"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Çarşamba (すいようび) ve Perşembe (もくようび) iş seyahati var. Doktor 'ondan sonraki gün' deyince Cuma (きんようび) oluyor. Kadın kabul ediyor. Doğru cevap きんようび.",
+        "en": "Wednesday (すいようび) and Thursday (もくようび) she's on a business trip. 'The day after that' is Friday (きんようび). She agrees. Correct: きんようび (Friday)."
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "くだものの　かいもの (Fruit Shopping)",
+        "audio_url": null
+    },
+    "options": [
+        "さんびゃくえん",
+        "よんひゃくえん",
+        "ごひゃくえん",
+        "ろっぴゃくえん"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おみせで　おんなのひとと　おみせのひとが　はなしています。おんなのひとは　いくら　はらいますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "すみません。この　りんごは　いくらですか。"
+            },
+            {
+                "speaker": "おみせのひと",
+                "text": "ひとつ　ひゃくごじゅうえんです。でも　みっつで　よんひゃくえんですよ。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "じゃあ　みっつ　ください。あと　この　ひゃくえんの　みかんを　ひとつ　ください。"
+            },
+            {
+                "speaker": "おみせのひと",
+                "text": "はい、ありがとうございます。"
+            }
+        ],
+        "question": "おんなのひとは　いくら　はらいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "りんご",
+                "tr": "elma",
+                "en": "apple"
+            },
+            {
+                "word": "みかん",
+                "tr": "mandalina",
+                "en": "mandarin orange"
+            },
+            {
+                "word": "いくら",
+                "tr": "ne kadar",
+                "en": "how much"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～で（ねだん）",
+                "tr": "... fiyatına (toplam)",
+                "en": "for ... (total price)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Elma 3 tane = 400 yen (set fiyatı). Mandalina 1 tane = 100 yen. Toplam 400 + 100 = 500 yen. Tek elma 150 yen (3 × 150 = 450 değil, set 400). Doğru cevap 500 yen.",
+        "en": "3 apples = 400 yen (set price). 1 mandarin = 100 yen. Total: 400 + 100 = 500 yen. Individual apple price (150) is a distractor. Correct answer: 500 yen."
+    }
+}

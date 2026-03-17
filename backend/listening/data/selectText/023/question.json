@@ -1,0 +1,267 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "あしたの　ごごの　よてい",
+            "tr": "Yarın Öğleden Sonraki Planlar",
+            "en": "Tomorrow Afternoon Plans",
+            "de": "Pläne für morgen Nachmittag",
+            "fr": "Projets pour demain après-midi",
+            "es": "Planes para mañana por la tarde",
+            "ko": "내일 오후 계획"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/023/audio.mp3",
+    "options": [
+        "としょかんで　べんきょうします",
+        "ともだちと　かいものに　いきます",
+        "えいがを　みに　いきます",
+        "うちで　そうじを　します"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。あしたの　ごご　おんなのひとは　なにを　しますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "あしたの　ごご　えいがを　みに　いきませんか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "すみません、あしたは　としょかんで　べんきょうします。もくようびに　てすとが　ありますから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "あれ、てすとは　らいしゅうの　もくようびですよ。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "えっ、ほんとうですか。じゃあ　いきたいです。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "じゃ、いきましょう。"
+                }
+            ],
+            "question": "あしたの　ごご　おんなのひとは　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Yarın öğleden sonra kadın ne yapacak?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Yarın öğleden sonra film izlemeye gitmek ister misin?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Üzgünüm, yarın kütüphanede ders çalışacağım. Çünkü Perşembe günü sınavım var."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Aa, sınav gelecek haftanın Perşembe günü."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ne, gerçekten mi? O zaman gitmek isterim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "O zaman gidelim."
+                }
+            ],
+            "question": "Yarın öğleden sonra kadın ne yapacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the woman do tomorrow afternoon?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "Tomorrow afternoon, would you like to go see a movie?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Sorry, tomorrow I'll study at the library. Because I have a test on Thursday."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, the test is next week's Thursday."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "What, really? Then I'd like to go."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Then, let's go."
+                }
+            ],
+            "question": "What will the woman do tomorrow afternoon?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Was wird die Frau morgen Nachmittag machen?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Möchtest du morgen Nachmittag ins Kino gehen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigung, morgen werde ich in der Bibliothek lernen. Weil ich am Donnerstag eine Prüfung habe."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Oh, die Prüfung ist nächsten Donnerstag."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Was, wirklich? Dann möchte ich gerne gehen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Dann lass uns gehen."
+                }
+            ],
+            "question": "Was wird die Frau morgen Nachmittag machen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Que fera la femme demain après-midi ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Demain après-midi, ça te dirait d'aller voir un film ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Désolée, demain j'étudierai à la bibliothèque. Parce que j'ai un examen jeudi."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oh, l'examen est jeudi prochain."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Quoi, vraiment ? Alors j'aimerais y aller."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Alors, allons-y."
+                }
+            ],
+            "question": "Que fera la femme demain après-midi ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué hará la mujer mañana por la tarde?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Mañana por la tarde te gustaría ir a ver una película?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Lo siento, mañana estudiaré en la biblioteca. Porque tengo un examen el jueves."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Oh, el examen es el jueves de la próxima semana."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué, de verdad? Entonces me gustaría ir."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entonces, vamos."
+                }
+            ],
+            "question": "¿Qué hará la mujer mañana por la tarde?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 내일 오후에 여자는 무엇을 할까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "내일 오후에 영화 보러 가지 않을래요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "죄송합니다, 내일은 도서관에서 공부할 거예요. 목요일에 시험이 있거든요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "어라, 시험은 다음 주 목요일이에요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "엣, 정말이에요? 그럼 가고 싶어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그럼, 갑시다."
+                }
+            ],
+            "question": "내일 오후에 여자는 무엇을 할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "としょかん",
+                "reading": "としょかん",
+                "meanings": {
+                    "tr": "kütüphane",
+                    "en": "library",
+                    "de": "Bibliothek",
+                    "fr": "bibliothèque",
+                    "es": "biblioteca",
+                    "ko": "도서관"
+                }
+            },
+            {
+                "word": "てすと",
+                "reading": "てすと",
+                "meanings": {
+                    "tr": "sınav",
+                    "en": "test",
+                    "de": "Test / Prüfung",
+                    "fr": "examen / test",
+                    "es": "examen / prueba",
+                    "ko": "시험"
+                }
+            },
+            {
+                "word": "ほんとう",
+                "reading": "ほんとう",
+                "meanings": {
+                    "tr": "gerçekten",
+                    "en": "really/truly",
+                    "de": "wirklich / echt",
+                    "fr": "vraiment / réellement",
+                    "es": "de verdad / realmente",
+                    "ko": "정말"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から (sebep)",
+                "meanings": {
+                    "tr": "çünkü",
+                    "en": "because",
+                    "de": "weil / da",
+                    "fr": "parce que / car",
+                    "es": "porque / ya que",
+                    "ko": "~때문에 / ~니까"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kütüphanede (としょかん) çalışacağını söylüyor çünkü sınavı Perşembe sanıyor. Erkek sınavın gelecek hafta olduğunu söyleyince kadın sinemaya (えいが) gitmeye karar veriyor.",
+        "en": "The woman plans to study at the library (としょかん) thinking the test is this Thursday. The man corrects her — it's next week. She then decides to go to the movies (えいが).",
+        "de": "Die Frau plant, in der Bibliothek (としょかん) zu lernen, da sie denkt, die Prüfung sei diesen Donnerstag. Der Mann korrigiert sie – sie ist nächste Woche. Daraufhin beschließt sie, ins Kino (えいが) zu gehen.",
+        "fr": "La femme prévoit d'étudier à la bibliothèque (としょかん) pensant que l'examen est ce jeudi. L'homme la corrige – c'est la semaine prochaine. Elle décide alors d'aller au cinéma (えいが).",
+        "es": "La mujer planea estudiar en la biblioteca (としょかん) pensando que el examen es este jueves. El hombre la corrige, diciéndole que es la próxima semana. Entonces ella decide ir al cine (えいが).",
+        "ko": "여자는 시험이 이번 목요일이라고 생각해서 도서관(としょかん)에서 공부할 계획입니다. 남자가 다음 주라고 정정하자, 여자는 영화(えいが)를 보러 가기로 결정합니다."
+    }
+}

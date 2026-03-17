@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ぱーてぃーの　にんずう (Party Attendance)",
+        "audio_url": null
+    },
+    "options": [
+        "じゅうごにん",
+        "じゅうはちにん",
+        "にじゅうにん",
+        "にじゅうさんにん"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。あしたの　ぱーてぃーに　なんにん　きますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのがくせい",
+                "text": "あしたの　ぱーてぃーは　なんにん　きますか。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "くらすは　にじゅうにんですが　こない　ひとが　よにん　います。"
+            },
+            {
+                "speaker": "おとこのがくせい",
+                "text": "じゃあ　じゅうろくにんですね。せんせいも　きますか。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "はい、やまだせんせいと　さとうせんせいが　きます。"
+            },
+            {
+                "speaker": "おとこのがくせい",
+                "text": "じゃあ　ぜんぶで　じゅうはちにんですね。"
+            }
+        ],
+        "question": "あしたの　ぱーてぃーに　なんにん　きますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "くらす",
+                "tr": "sınıf",
+                "en": "class"
+            },
+            {
+                "word": "ぜんぶで",
+                "tr": "toplamda",
+                "en": "in total"
+            },
+            {
+                "word": "にん",
+                "tr": "kişi (sayaç)",
+                "en": "person (counter)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ですが",
+                "tr": "... ama",
+                "en": "... but"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Sınıf 20 kişi, 4'ü gelmiyor = 16 öğrenci. 2 öğretmen katılıyor. Toplam 16 + 2 = 18 kişi. Doğru cevap じゅうはちにん (18).",
+        "en": "Class has 20 students, 4 won't come = 16 students. 2 teachers attending. Total: 16 + 2 = 18. Correct: じゅうはちにん (18)."
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "おきた　じかん",
+            "tr": "Uyanma Saati",
+            "en": "Wake-up Time",
+            "de": "Aufwachzeit",
+            "fr": "Heure de réveil",
+            "es": "Hora de despertar",
+            "ko": "기상 시간"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/027/audio.mp3",
+    "options": [
+        "ごじ",
+        "ろくじ",
+        "しちじ",
+        "はちじ"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　きょう　なんじに　おきましたか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "きょうは　はやいですね。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ええ、きょうは　ともだちと　あさ　くうこうへ　いきますから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "いつもは　しちじに　おきますよね。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "はい、でも　きょうは　いつもより　にじかん　はやく　おきました。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "たいへんですね。"
+                }
+            ],
+            "question": "おんなのひとは　きょう　なんじに　おきましたか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın bugün saat kaçta uyandı?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Bugün erkencisiniz."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet, çünkü bugün sabah arkadaşımla havaalanına gideceğim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Normalde saat yedide uyanırsınız, değil mi?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet, ama bugün normalden iki saat erken uyandım."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Zor olmalı."
+                }
+            ],
+            "question": "Kadın bugün saat kaçta uyandı?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What time did the woman wake up today?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "You're early today, aren't you?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Yes, because today I'm going to the airport with a friend in the morning."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "You usually wake up at seven, don't you?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Yes, but today I woke up two hours earlier than usual."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "That's tough, isn't it?"
+                }
+            ],
+            "question": "What time did the woman wake up today?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Um wie viel Uhr ist die Frau heute aufgewacht?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Sie sind heute früh dran, nicht wahr?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja, denn heute Morgen fahre ich mit einem Freund zum Flughafen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Normalerweise wachen Sie um sieben Uhr auf, nicht wahr?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja, aber heute bin ich zwei Stunden früher als sonst aufgewacht."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Das ist anstrengend, nicht wahr?"
+                }
+            ],
+            "question": "Um wie viel Uhr ist die Frau heute aufgewacht?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. À quelle heure la femme s'est-elle réveillée aujourd'hui ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Vous êtes en avance aujourd'hui, n'est-ce pas ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui, parce qu'aujourd'hui je vais à l'aéroport avec un ami ce matin."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Normalement, vous vous réveillez à sept heures, n'est-ce pas ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui, mais aujourd'hui je me suis réveillée deux heures plus tôt que d'habitude."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est difficile, n'est-ce pas ?"
+                }
+            ],
+            "question": "À quelle heure la femme s'est-elle réveillée aujourd'hui ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿A qué hora se despertó la mujer hoy?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "Hoy es temprano, ¿verdad?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí, porque hoy voy al aeropuerto con un amigo por la mañana."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Normalmente te despiertas a las siete, ¿verdad?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí, pero hoy me desperté dos horas antes de lo habitual."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Qué difícil, ¿verdad?"
+                }
+            ],
+            "question": "¿A qué hora se despertó la mujer hoy?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 오늘 몇 시에 일어났습니까?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "오늘은 일찍이네요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네, 오늘은 친구와 아침에 공항에 갈 거라서요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "평소에는 7시에 일어나죠?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네, 하지만 오늘은 평소보다 두 시간 일찍 일어났어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "힘드시겠네요."
+                }
+            ],
+            "question": "여자는 오늘 몇 시에 일어났습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おきる",
+                "reading": "おきる",
+                "meanings": {
+                    "tr": "kalkmak, uyanmak",
+                    "en": "to wake up",
+                    "de": "aufwachen, aufstehen",
+                    "fr": "se réveiller, se lever",
+                    "es": "despertarse, levantarse",
+                    "ko": "일어나다, 깨다"
+                }
+            },
+            {
+                "word": "くうこう",
+                "reading": "くうこう",
+                "meanings": {
+                    "tr": "havaalanı",
+                    "en": "airport",
+                    "de": "Flughafen",
+                    "fr": "aéroport",
+                    "es": "aeropuerto",
+                    "ko": "공항"
+                }
+            },
+            {
+                "word": "はやい",
+                "reading": "はやい",
+                "meanings": {
+                    "tr": "erken",
+                    "en": "early",
+                    "de": "früh",
+                    "fr": "tôt",
+                    "es": "temprano",
+                    "ko": "이르다"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～より",
+                "meanings": {
+                    "tr": "-den daha",
+                    "en": "than (comparison)",
+                    "de": "als (Vergleich)",
+                    "fr": "que (comparaison)",
+                    "es": "que (comparación)",
+                    "ko": "~보다 (비교)"
+                }
+            },
+            {
+                "point": "～まえ",
+                "meanings": {
+                    "tr": "-den önce",
+                    "en": "before",
+                    "de": "vor",
+                    "fr": "avant",
+                    "es": "antes de",
+                    "ko": "~전에"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın normalde saat 7'de (しちじ) uyanıyor. Bugün normalden 2 saat erken uyandı: 7 - 2 = 5. Doğru cevap ごじ (5:00).",
+        "en": "The woman usually wakes up at 7 (しちじ). Today she woke up 2 hours earlier than usual: 7 - 2 = 5. The correct answer is ごじ (5:00).",
+        "de": "Die Frau wacht normalerweise um 7 Uhr (しちじ) auf. Heute ist sie 2 Stunden früher als gewöhnlich aufgewacht: 7 - 2 = 5. Die richtige Antwort ist ごじ (5:00).",
+        "fr": "La femme se réveille normalement à 7 heures (しちじ). Aujourd'hui, elle s'est réveillée 2 heures plus tôt que d'habitude : 7 - 2 = 5. La bonne réponse est ごじ (5:00).",
+        "es": "La mujer normalmente se despierta a las 7 (しちじ). Hoy se despertó 2 horas antes de lo habitual: 7 - 2 = 5. La respuesta correcta es ごじ (5:00).",
+        "ko": "여자는 보통 7시(しちじ)에 일어납니다. 오늘은 평소보다 2시간 일찍 일어났습니다: 7 - 2 = 5. 정답은 ごじ (5:00)입니다."
+    }
+}

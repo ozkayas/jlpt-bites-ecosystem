@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "かぞくの　しゅみ (Family Hobbies)",
+        "audio_url": null
+    },
+    "options": [
+        "りょうりを　つくります",
+        "おんがくを　ききます",
+        "えを　かきます",
+        "すぽーつを　します"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとの　いもうとは　なにが　すきですか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "やすみのひは　なにを　しますか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "わたしは　おんがくを　ききます。あには　えを　かくことが　すきです。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "いもうとは　りょうりを　つくることが　すきで　いつも　あたらしい　りょうりを　つくっています。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "いいですね。"
+            }
+        ],
+        "question": "おとこのひとの　いもうとは　なにが　すきですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おんがく",
+                "tr": "müzik",
+                "en": "music"
+            },
+            {
+                "word": "え",
+                "tr": "resim",
+                "en": "drawing/picture"
+            },
+            {
+                "word": "りょうり",
+                "tr": "yemek yapmak",
+                "en": "cooking"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ことが　すきです",
+                "tr": "... yapmayı sevmek",
+                "en": "to like doing ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek müzik dinliyor, ağabeyi resim çiziyor. Kız kardeşi (いもうと) yemek yapmayı (りょうりをつくること) seviyor. Soru kız kardeşi soruyor, doğru cevap yemek yapmaktır.",
+        "en": "The man listens to music, his older brother draws. His younger sister (いもうと) likes cooking (りょうりをつくること). The question asks about the sister."
+    }
+}

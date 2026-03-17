@@ -66,7 +66,7 @@ CHANNELS = 1
 
 # Rate limiting per key: free tier = 3 req/min
 REQUESTS_PER_KEY = 3
-MAX_RETRIES = 3
+MAX_RETRIES = 5
 
 
 class KeyRotator:
@@ -196,7 +196,8 @@ def generate_single_speech(rotator, text, voice_name):
 # ─── Multi-Speaker Dialogue TTS ─────────────────────────────────────────────
 
 def generate_dialogue_speech(rotator, dialogue_entries):
-    """Generate multi-speaker dialogue audio in a single API call."""
+    """Generate multi-speaker dialogue audio in a single API call.
+    Falls back to single-speaker mode if only one unique voice is present."""
 
     # Collect unique speakers from dialogue
     speakers_in_dialogue = []
@@ -206,6 +207,19 @@ def generate_dialogue_speech(rotator, dialogue_entries):
         if voice_id not in seen:
             seen.add(voice_id)
             speakers_in_dialogue.append(voice_id)
+
+    # Single speaker fallback — Gemini multi-speaker requires exactly 2 voices
+    if len(speakers_in_dialogue) == 1:
+        voice_id = speakers_in_dialogue[0]
+        gemini_voice = VOICE_MAP.get(voice_id, "Kore")
+        print(f"    (single-speaker fallback: {gemini_voice}, {len(dialogue_entries)} lines)")
+        all_audio = bytearray()
+        for i, entry in enumerate(dialogue_entries):
+            audio = generate_single_speech(rotator, entry["text"], gemini_voice)
+            all_audio.extend(audio)
+            if i < len(dialogue_entries) - 1:
+                all_audio.extend(generate_silence(0.5))
+        return bytes(all_audio)
 
     # Build speaker voice configs
     speaker_configs = []

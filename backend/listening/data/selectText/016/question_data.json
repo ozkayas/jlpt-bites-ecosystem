@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "まちあわせ (Meeting Up)",
+        "audio_url": null
+    },
+    "options": [
+        "えいがかんの　まえ",
+        "えきの　なか",
+        "かふぇ",
+        "ほんやの　まえ"
+    ],
+    "correct_option": 3,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　どこで　あいますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "あしたの　えいがは　さんじからですね。えいがかんの　まえで　あいましょうか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "えいがかんの　まえは　ひとが　おおいですから　ちかくの　ほんやの　まえは　どうですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "いいですね。じゃあ　にじはんに　そこで　あいましょう。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "はい。"
+            }
+        ],
+        "question": "ふたりは　どこで　あいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "えいがかん",
+                "tr": "sinema",
+                "en": "movie theater"
+            },
+            {
+                "word": "ほんや",
+                "tr": "kitapçı",
+                "en": "bookstore"
+            },
+            {
+                "word": "ひと",
+                "tr": "insan/kişi",
+                "en": "person/people"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "tr": "yapalım mı?",
+                "en": "shall we?"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek sinema önünü (えいがかんのまえ) teklif ediyor. Kadın kalabalık olduğunu söyleyip yakındaki kitapçının önünü (ほんやのまえ) öneriyor. Erkek kabul ediyor. Doğru cevap kitapçının önü.",
+        "en": "The man suggests in front of the theater (えいがかんのまえ). The woman says it's crowded and suggests the bookstore nearby (ほんやのまえ). The man agrees. Correct answer: bookstore."
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ちこくの　りゆう",
+            "tr": "Gecikme Nedeni",
+            "en": "Reason for Being Late",
+            "de": "Grund für die Verspätung",
+            "fr": "Raison du retard",
+            "es": "Razón del retraso",
+            "ko": "지각 이유"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/012/audio.mp3",
+    "options": [
+        "あめで　ばすが　おくれました",
+        "あさ　おきられませんでした",
+        "みちが　わかりませんでした",
+        "でんしゃを　まちがえました"
+    ],
+    "correct_option": 3,
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで　せんせいと　がくせいが　はなしています。がくせいは　どうして　おくれましたか。",
+            "dialogue": [
+                {
+                    "speaker": "せんせい",
+                    "text": "すずきさん、どうして　おくれましたか。あたまが　いたいですか。"
+                },
+                {
+                    "speaker": "がくせい",
+                    "text": "いいえ、げんきです。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "じゃあ　どうしてですか。"
+                },
+                {
+                    "speaker": "がくせい",
+                    "text": "きょうは　はじめて　でんしゃで　きましたが　のる　でんしゃを　まちがえて　ちがう　えきに　いってしまいました。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "そうですか。きをつけてくださいね。"
+                }
+            ],
+            "question": "がくせいは　どうして　おくれましたか。"
+        },
+        "tr": {
+            "intro": "Okulda öğretmen ve öğrenci konuşuyor. Öğrenci neden geç kaldı?",
+            "dialogue": [
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Suzuki-san, neden geç kaldın? Başın mı ağrıyor?"
+                },
+                {
+                    "speaker": "Öğrenci",
+                    "text": "Hayır, iyiyim."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "O zaman neden?"
+                },
+                {
+                    "speaker": "Öğrenci",
+                    "text": "Bugün ilk kez trenle geldim ama yanlış trene binip farklı bir istasyona gittim."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Öyle mi? Lütfen dikkatli ol."
+                }
+            ],
+            "question": "Öğrenci neden geç kaldı?"
+        },
+        "en": {
+            "intro": "At school, a teacher and a student are talking. Why was the student late?",
+            "dialogue": [
+                {
+                    "speaker": "Teacher",
+                    "text": "Suzuki, why are you late? Do you have a headache?"
+                },
+                {
+                    "speaker": "Student",
+                    "text": "No, I'm fine."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "Then why?"
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Today was my first time coming by train, but I took the wrong train and ended up at a different station."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "Is that so? Please be careful."
+                }
+            ],
+            "question": "Why was the student late?"
+        },
+        "de": {
+            "intro": "In der Schule sprechen ein Lehrer und ein Schüler. Warum kam der Schüler zu spät?",
+            "dialogue": [
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Suzuki-san, warum bist du zu spät gekommen? Hast du Kopfschmerzen?"
+                },
+                {
+                    "speaker": "Schüler/in",
+                    "text": "Nein, mir geht es gut."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Warum dann?"
+                },
+                {
+                    "speaker": "Schüler/in",
+                    "text": "Heute bin ich zum ersten Mal mit dem Zug gekommen, aber ich habe den falschen Zug genommen und bin zu einem anderen Bahnhof gefahren."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Ach so. Bitte passen Sie auf."
+                }
+            ],
+            "question": "Warum kam der Schüler zu spät?"
+        },
+        "fr": {
+            "intro": "À l'école, un professeur et un élève parlent. Pourquoi l'élève était-il en retard ?",
+            "dialogue": [
+                {
+                    "speaker": "Professeur",
+                    "text": "Suzuki-san, pourquoi êtes-vous en retard ? Avez-vous mal à la tête ?"
+                },
+                {
+                    "speaker": "Étudiant/e",
+                    "text": "Non, je vais bien."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Alors, pourquoi ?"
+                },
+                {
+                    "speaker": "Étudiant/e",
+                    "text": "Aujourd'hui, c'était la première fois que je venais en train, mais j'ai pris le mauvais train et je suis allé à une gare différente."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Ah bon ? Faites attention, s'il vous plaît."
+                }
+            ],
+            "question": "Pourquoi l'élève était-il en retard ?"
+        },
+        "es": {
+            "intro": "En la escuela, un profesor y un estudiante están hablando. ¿Por qué llegó tarde el estudiante?",
+            "dialogue": [
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Suzuki-san, ¿por qué llegaste tarde? ¿Te duele la cabeza?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "No, estoy bien."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Entonces, ¿por qué?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Hoy fue la primera vez que vine en tren, pero me equivoqué de tren y fui a una estación diferente."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "¿Es así? Por favor, ten cuidado."
+                }
+            ],
+            "question": "¿Por qué llegó tarde el estudiante?"
+        },
+        "ko": {
+            "intro": "학교에서 선생님과 학생이 이야기하고 있습니다. 학생은 왜 늦었습니까?",
+            "dialogue": [
+                {
+                    "speaker": "선생님",
+                    "text": "스즈키 씨, 왜 늦었습니까? 머리가 아픕니까?"
+                },
+                {
+                    "speaker": "학생",
+                    "text": "아니요, 괜찮습니다."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "그럼 왜 그렇습니까?"
+                },
+                {
+                    "speaker": "학생",
+                    "text": "오늘은 처음으로 전철로 왔는데, 타야 할 전철을 잘못 타서 다른 역으로 가버렸습니다."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "그렇습니까? 조심하세요."
+                }
+            ],
+            "question": "학생은 왜 늦었습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おくれる",
+                "reading": "おくれる",
+                "meanings": {
+                    "tr": "gecikmek",
+                    "en": "to be late",
+                    "de": "sich verspäten",
+                    "fr": "être en retard",
+                    "es": "llegar tarde",
+                    "ko": "늦다"
+                }
+            },
+            {
+                "word": "まちがえる",
+                "reading": "まちがえる",
+                "meanings": {
+                    "tr": "yanlış yapmak",
+                    "en": "to make a mistake",
+                    "de": "einen Fehler machen",
+                    "fr": "se tromper",
+                    "es": "equivocarse",
+                    "ko": "틀리다, 실수하다"
+                }
+            },
+            {
+                "word": "はじめて",
+                "reading": "はじめて",
+                "meanings": {
+                    "tr": "ilk kez",
+                    "en": "first time",
+                    "de": "zum ersten Mal",
+                    "fr": "pour la première fois",
+                    "es": "por primera vez",
+                    "ko": "처음으로"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てしまいました",
+                "meanings": {
+                    "tr": "maalesef ... yaptı (pişmanlık)",
+                    "en": "unfortunately did (regret)",
+                    "de": "leider getan (Bedauern)",
+                    "fr": "malheureusement fait (regret)",
+                    "es": "desafortunadamente hizo (arrepentimiento)",
+                    "ko": "~해 버렸다 (유감, 완료)"
+                }
+            },
+            {
+                "point": "どうして",
+                "meanings": {
+                    "tr": "neden",
+                    "en": "why",
+                    "de": "warum",
+                    "fr": "pourquoi",
+                    "es": "por qué",
+                    "ko": "왜"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen baş ağrısı mı (あたまがいたい) diye soruyor ama öğrenci sağlıklı olduğunu söylüyor. Asıl sebep: ilk kez trenle gelirken yanlış trene binmesi (でんしゃをまちがえた). Yağmur ve yolu bilmemek bahsedilmiyor.",
+        "en": "The teacher asks if it's a headache (あたまがいたい) but the student says he's fine. The real reason: he took the wrong train (でんしゃをまちがえた) because it was his first time commuting by train.",
+        "de": "Der Lehrer fragt, ob es Kopfschmerzen (あたまがいたい) sind, aber der Schüler sagt, es gehe ihm gut. Der wahre Grund: Er hat den falschen Zug (でんしゃをまちがえた) genommen, weil es das erste Mal war, dass er mit dem Zug fuhr. Regen und das Nichtwissen des Weges werden nicht erwähnt.",
+        "fr": "Le professeur demande si c'est un mal de tête (あたまがいたい) mais l'élève dit qu'il va bien. La vraie raison : il a pris le mauvais train (でんしゃをまちがえた) car c'était la première fois qu'il prenait le train. La pluie et le fait de ne pas connaître le chemin ne sont pas mentionnés.",
+        "es": "El profesor pregunta si es un dolor de cabeza (あたまがいたい) pero el estudiante dice que está bien. La verdadera razón: tomó el tren equivocado (でんしゃをまちがえた) porque era la primera vez que venía en tren. La lluvia y no saber el camino no se mencionan.",
+        "ko": "선생님은 두통(あたまがいたい)이냐고 묻지만 학생은 괜찮다고 말합니다. 진짜 이유는 처음으로 전철로 오면서 잘못된 전철을 탔기(でんしゃをまちがえた) 때문입니다. 비나 길을 모른다는 내용은 언급되지 않았습니다."
+    }
+}

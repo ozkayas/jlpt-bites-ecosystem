@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "まちあわせ",
+            "tr": "Buluşma",
+            "en": "Meeting Up",
+            "de": "Treffen",
+            "fr": "Rendez-vous",
+            "es": "Encuentro",
+            "ko": "만남"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/016/audio.mp3",
+    "options": [
+        "えいがかんの　まえ",
+        "えきの　なか",
+        "かふぇ",
+        "ほんやの　まえ"
+    ],
+    "correct_option": 3,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　どこで　あいますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "あしたの　えいがは　さんじからですね。えいがかんの　まえで　あいましょうか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "えいがかんの　まえは　ひとが　おおいですから　ちかくの　ほんやの　まえは　どうですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "いいですね。じゃあ　にじはんに　そこで　あいましょう。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "はい。"
+                }
+            ],
+            "question": "ふたりは　どこで　あいますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. İkisi nerede buluşacak?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Yarınki film saat üçten, değil mi? Sinemanın önünde buluşalım mı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Sinemanın önü çok kalabalık olduğu için, yakındaki kitapçının önü nasıl olur?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "İyi fikir. O zaman saat iki buçukta orada buluşalım."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet."
+                }
+            ],
+            "question": "İkisi nerede buluşacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. Where will the two meet?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "Tomorrow's movie is from three o'clock, right? Shall we meet in front of the movie theater?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "The front of the movie theater is crowded, so how about in front of the nearby bookstore?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "That's good. Then, let's meet there at half past two."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay."
+                }
+            ],
+            "question": "Where will the two meet?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Wo werden sich die beiden treffen?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Der Film morgen ist ab drei Uhr, nicht wahr? Sollen wir uns vor dem Kino treffen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Vor dem Kino sind viele Leute, wie wäre es stattdessen vor der Buchhandlung in der Nähe?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Gut. Dann treffen wir uns dort um halb drei."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja."
+                }
+            ],
+            "question": "Wo werden sich die beiden treffen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Où vont-ils se rencontrer ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Le film de demain est à partir de trois heures, n'est-ce pas ? On se retrouve devant le cinéma ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Il y a beaucoup de monde devant le cinéma, alors que diriez-vous devant la librairie d'à côté ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est bien. Alors, retrouvons-nous là-bas à deux heures et demie."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui."
+                }
+            ],
+            "question": "Où vont-ils se rencontrer ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Dónde se encontrarán los dos?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "La película de mañana es a partir de las tres, ¿verdad? ¿Nos encontramos delante del cine?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Delante del cine hay mucha gente, ¿qué tal delante de la librería cercana?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Está bien. Entonces, encontrémonos allí a las dos y media."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí."
+                }
+            ],
+            "question": "¿Dónde se encontrarán los dos?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 두 사람은 어디에서 만날까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "내일 영화는 3시부터죠? 영화관 앞에서 만날까요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "영화관 앞은 사람이 많으니까, 근처 서점 앞은 어때요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "좋네요. 그럼 2시 반에 거기서 만나요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네."
+                }
+            ],
+            "question": "두 사람은 어디에서 만날까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "えいがかん",
+                "reading": "えいがかん",
+                "meanings": {
+                    "tr": "sinema",
+                    "en": "movie theater",
+                    "de": "Kino",
+                    "fr": "cinéma",
+                    "es": "cine",
+                    "ko": "영화관"
+                }
+            },
+            {
+                "word": "ほんや",
+                "reading": "ほんや",
+                "meanings": {
+                    "tr": "kitapçı",
+                    "en": "bookstore",
+                    "de": "Buchhandlung",
+                    "fr": "librairie",
+                    "es": "librería",
+                    "ko": "서점"
+                }
+            },
+            {
+                "word": "ひと",
+                "reading": "ひと",
+                "meanings": {
+                    "tr": "insan/kişi",
+                    "en": "person/people",
+                    "de": "Person/Leute",
+                    "fr": "personne/gens",
+                    "es": "persona/gente",
+                    "ko": "사람"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "meanings": {
+                    "tr": "yapalım mı?",
+                    "en": "shall we?",
+                    "de": "sollen wir?",
+                    "fr": "allons-nous faire ? / et si on faisait ?",
+                    "es": "¿hacemos? / ¿qué tal si hacemos?",
+                    "ko": "~할까요?"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek sinema önünü (えいがかんのまえ) teklif ediyor. Kadın kalabalık olduğunu söyleyip yakındaki kitapçının önünü (ほんやのまえ) öneriyor. Erkek kabul ediyor. Doğru cevap kitapçının önü.",
+        "en": "The man suggests in front of the theater (えいがかんのまえ). The woman says it's crowded and suggests the bookstore nearby (ほんやのまえ). The man agrees. Correct answer: bookstore.",
+        "de": "Der Mann schlägt den Bereich vor dem Kino (えいがかんのまえ) vor. Die Frau sagt, es sei überfüllt und schlägt die Buchhandlung in der Nähe (ほんやのまえ) vor. Der Mann stimmt zu. Richtige Antwort: Buchhandlung.",
+        "fr": "L'homme propose devant le cinéma (えいがかんのまえ). La femme dit que c'est bondé et suggère la librairie d'à côté (ほんやのまえ). L'homme accepte. Bonne réponse : la librairie.",
+        "es": "El hombre sugiere delante del cine (えいがかんのまえ). La mujer dice que está lleno de gente y sugiere la librería cercana (ほんやのまえ). El hombre acepta. Respuesta correcta: la librería.",
+        "ko": "남자가 영화관 앞(えいがかんのまえ)을 제안합니다. 여자는 사람이 많다고 말하며 근처 서점 앞(ほんやのまえ)을 제안합니다. 남자가 동의합니다. 정답은 서점 앞입니다."
+    }
+}

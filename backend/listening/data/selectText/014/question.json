@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "くだものの　かいもの",
+            "tr": "Meyve Alışverişi",
+            "en": "Fruit Shopping",
+            "de": "Obst einkaufen",
+            "fr": "Achats de fruits",
+            "es": "Compras de frutas",
+            "ko": "과일 쇼핑"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/014/audio.mp3",
+    "options": [
+        "さんびゃくえん",
+        "よんひゃくえん",
+        "ごひゃくえん",
+        "ろっぴゃくえん"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おみせで　おんなのひとと　おみせのひとが　はなしています。おんなのひとは　いくら　はらいますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "すみません。この　りんごは　いくらですか。"
+                },
+                {
+                    "speaker": "おみせのひと",
+                    "text": "ひとつ　ひゃくごじゅうえんです。でも　みっつで　よんひゃくえんですよ。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "じゃあ　みっつ　ください。あと　この　ひゃくえんの　みかんを　ひとつ　ください。"
+                },
+                {
+                    "speaker": "おみせのひと",
+                    "text": "はい、ありがとうございます。"
+                }
+            ],
+            "question": "おんなのひとは　いくら　はらいますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir dükkan çalışanı dükkanda konuşuyor. Kadın ne kadar ödeyecek?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Afedersiniz. Bu elma ne kadar?"
+                },
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Bir tanesi 150 yen. Ama üç tanesi 400 yen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Tamam, üç tane alayım. Bir de bu 100 yenlik mandalinadan bir tane alayım."
+                },
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Evet, teşekkür ederim."
+                }
+            ],
+            "question": "Kadın ne kadar ödeyecek?"
+        },
+        "en": {
+            "intro": "A woman and a store clerk are talking at a store. How much will the woman pay?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me. How much is this apple?"
+                },
+                {
+                    "speaker": "Shop Staff",
+                    "text": "One is 150 yen. But three are 400 yen."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay, I'll take three. And please give me one of these 100 yen mandarin oranges."
+                },
+                {
+                    "speaker": "Shop Staff",
+                    "text": "Yes, thank you very much."
+                }
+            ],
+            "question": "How much will the woman pay?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Ladenangestellter unterhalten sich in einem Geschäft. Wie viel wird die Frau bezahlen?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigen Sie. Wie viel kostet dieser Apfel?"
+                },
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Einer kostet 150 Yen. Aber drei kosten 400 Yen."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Gut, ich nehme drei. Und geben Sie mir bitte noch eine dieser 100-Yen-Mandarinen."
+                },
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Ja, vielen Dank."
+                }
+            ],
+            "question": "Wie viel wird die Frau bezahlen?"
+        },
+        "fr": {
+            "intro": "Une femme et un vendeur parlent dans un magasin. Combien la femme va-t-elle payer ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Excusez-moi. Combien coûte cette pomme ?"
+                },
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Un coûte 150 yens. Mais trois coûtent 400 yens."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord, je vais en prendre trois. Et donnez-moi aussi une de ces mandarines à 100 yens."
+                },
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Oui, merci beaucoup."
+                }
+            ],
+            "question": "Combien la femme va-t-elle payer ?"
+        },
+        "es": {
+            "intro": "Una mujer y un dependiente están hablando en una tienda. ¿Cuánto pagará la mujer?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe. ¿Cuánto cuesta esta manzana?"
+                },
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "Uno cuesta 150 yenes. Pero tres cuestan 400 yenes."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "De acuerdo, deme tres. Y también, deme una de estas mandarinas de 100 yenes."
+                },
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "Sí, muchas gracias."
+                }
+            ],
+            "question": "¿Cuánto pagará la mujer?"
+        },
+        "ko": {
+            "intro": "가게에서 여자와 가게 직원이 이야기하고 있습니다. 여자는 얼마를 지불할까요?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "실례합니다. 이 사과는 얼마인가요?"
+                },
+                {
+                    "speaker": "가게 직원",
+                    "text": "하나에 150엔입니다. 하지만 세 개에 400엔이에요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그럼 세 개 주세요. 그리고 이 100엔짜리 귤 하나 주세요."
+                },
+                {
+                    "speaker": "가게 직원",
+                    "text": "네, 감사합니다."
+                }
+            ],
+            "question": "여자는 얼마를 지불할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "りんご",
+                "reading": "りんご",
+                "meanings": {
+                    "tr": "elma",
+                    "en": "apple",
+                    "de": "Apfel",
+                    "fr": "pomme",
+                    "es": "manzana",
+                    "ko": "사과"
+                }
+            },
+            {
+                "word": "みかん",
+                "reading": "みかん",
+                "meanings": {
+                    "tr": "mandalina",
+                    "en": "mandarin orange",
+                    "de": "Mandarine",
+                    "fr": "mandarine",
+                    "es": "mandarina",
+                    "ko": "귤"
+                }
+            },
+            {
+                "word": "いくら",
+                "reading": "いくら",
+                "meanings": {
+                    "tr": "ne kadar",
+                    "en": "how much",
+                    "de": "wie viel",
+                    "fr": "combien",
+                    "es": "cuánto",
+                    "ko": "얼마"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～で（ねだん）",
+                "meanings": {
+                    "tr": "... fiyatına (toplam)",
+                    "en": "for ... (total price)",
+                    "de": "für ... (Gesamtpreis)",
+                    "fr": "pour ... (prix total)",
+                    "es": "por ... (precio total)",
+                    "ko": "...에 (총 가격)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Elma 3 tane = 400 yen (set fiyatı). Mandalina 1 tane = 100 yen. Toplam 400 + 100 = 500 yen. Tek elma 150 yen (3 × 150 = 450 değil, set 400). Doğru cevap 500 yen.",
+        "en": "3 apples = 400 yen (set price). 1 mandarin = 100 yen. Total: 400 + 100 = 500 yen. Individual apple price (150) is a distractor. Correct answer: 500 yen.",
+        "de": "3 Äpfel = 400 Yen (Setpreis). 1 Mandarine = 100 Yen. Gesamt: 400 + 100 = 500 Yen. Der Einzelpreis für einen Apfel (150) ist ein Ablenkungsmanöver. Richtige Antwort: 500 Yen.",
+        "fr": "3 pommes = 400 yens (prix du lot). 1 mandarine = 100 yens. Total : 400 + 100 = 500 yens. Le prix individuel de la pomme (150) est un élément perturbateur. Bonne réponse : 500 yens.",
+        "es": "3 manzanas = 400 yenes (precio del paquete). 1 mandarina = 100 yenes. Total: 400 + 100 = 500 yenes. El precio individual de la manzana (150) es un distractor. Respuesta correcta: 500 yenes.",
+        "ko": "사과 3개 = 400엔 (세트 가격). 귤 1개 = 100엔. 총액: 400 + 100 = 500엔. 개별 사과 가격(150엔)은 혼란을 주기 위한 정보입니다. 정답: 500엔."
+    }
+}

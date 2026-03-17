@@ -1,0 +1,262 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "しゅうまつの　よてい",
+            "tr": "Hafta Sonu Planları",
+            "en": "Weekend Plans",
+            "de": "Wochenendpläne",
+            "fr": "Projets pour le week-end",
+            "es": "Planes de fin de semana",
+            "ko": "주말 계획"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/031/audio.mp3",
+    "options": [
+        "うみへ　いきます",
+        "やまへ　いきます",
+        "うちで　やすみます",
+        "ともだちと　てにすを　します"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとは　しゅうまつに　なにを　しますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "しゅうまつは　なにを　しますか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "かぞくと　うみへ　いきます。すずきさんは？"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "わたしは　やまへ　いきたいですが　しゅうまつは　うちで　やすみます。つかれていますから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "そうですか。わたしも　きのう　ともだちと　てにすを　して　つかれましたが　うみが　たのしみです。"
+                }
+            ],
+            "question": "おとこのひとは　しゅうまつに　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Erkek hafta sonu ne yapacak?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Hafta sonu ne yapacaksın?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ailemle denize gideceğim. Suzuki-san sen?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Dağa gitmek istiyorum ama hafta sonu evde dinleneceğim. Çünkü yorgunum."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Öyle mi? Ben de dün arkadaşımla tenis oynayıp yoruldum ama denizi dört gözle bekliyorum."
+                }
+            ],
+            "question": "Erkek hafta sonu ne yapacak?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. What will the man do on the weekend?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "What will you do on the weekend?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I'm going to the beach with my family. How about you, Suzuki-san?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I want to go to the mountains, but I'll rest at home this weekend. Because I'm tired."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Is that so? I also played tennis with my friend yesterday and got tired, but I'm looking forward to the beach."
+                }
+            ],
+            "question": "What will the man do on the weekend?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Was wird der Mann am Wochenende machen?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Was machst du am Wochenende?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich fahre mit meiner Familie ans Meer. Und Sie, Suzuki-san?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ich möchte in die Berge gehen, aber ich werde dieses Wochenende zu Hause ausruhen. Weil ich müde bin."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ach so. Ich habe gestern auch mit meinem Freund Tennis gespielt und bin müde geworden, aber ich freue mich auf das Meer."
+                }
+            ],
+            "question": "Was wird der Mann am Wochenende machen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Que fera l'homme ce week-end ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Que ferez-vous ce week-end ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "J'irai à la mer avec ma famille. Et vous, Suzuki-san ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Je veux aller à la montagne, mais je me reposerai à la maison ce week-end. Parce que je suis fatiguée."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah bon ? J'ai aussi joué au tennis avec mon ami hier et je suis fatigué, mais j'ai hâte d'aller à la mer."
+                }
+            ],
+            "question": "Que fera l'homme ce week-end ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Qué hará el hombre el fin de semana?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué harás el fin de semana?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Iré a la playa con mi familia. ¿Y tú, Suzuki-san?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Quiero ir a la montaña, pero este fin de semana descansaré en casa. Porque estoy cansada."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Ah, sí? Yo también jugué al tenis con mi amigo ayer y me cansé, pero estoy deseando ir a la playa."
+                }
+            ],
+            "question": "¿Qué hará el hombre el fin de semana?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 남자는 주말에 무엇을 합니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "주말에 무엇을 합니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "가족과 바다에 갑니다. 스즈키 씨는요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "저는 산에 가고 싶지만, 주말에는 집에서 쉴 거예요. 피곤해서요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그렇습니까? 저도 어제 친구와 테니스를 쳐서 피곤했지만, 바다가 기대됩니다."
+                }
+            ],
+            "question": "남자는 주말에 무엇을 합니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅうまつ",
+                "reading": "しゅうまつ",
+                "meanings": {
+                    "tr": "hafta sonu",
+                    "en": "weekend",
+                    "de": "Wochenende",
+                    "fr": "week-end",
+                    "es": "fin de semana",
+                    "ko": "주말"
+                }
+            },
+            {
+                "word": "うみ",
+                "reading": "うみ",
+                "meanings": {
+                    "tr": "deniz",
+                    "en": "sea/beach",
+                    "de": "Meer/Strand",
+                    "fr": "mer/plage",
+                    "es": "mar/playa",
+                    "ko": "바다"
+                }
+            },
+            {
+                "word": "やすむ",
+                "reading": "やすむ",
+                "meanings": {
+                    "tr": "dinlenmek",
+                    "en": "to rest",
+                    "de": "sich ausruhen",
+                    "fr": "se reposer",
+                    "es": "descansar",
+                    "ko": "쉬다"
+                }
+            },
+            {
+                "word": "たのしみ",
+                "reading": "たのしみ",
+                "meanings": {
+                    "tr": "dört gözle beklemek",
+                    "en": "looking forward to",
+                    "de": "sich freuen auf",
+                    "fr": "avoir hâte de",
+                    "es": "tener ganas de / esperar con ilusión",
+                    "ko": "기대"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たいです",
+                "meanings": {
+                    "tr": "... yapmak istemek",
+                    "en": "want to do ...",
+                    "de": "... tun wollen",
+                    "fr": "vouloir faire ...",
+                    "es": "querer hacer ...",
+                    "ko": "...하고 싶다"
+                }
+            },
+            {
+                "point": "～ています",
+                "meanings": {
+                    "tr": "süregelen durum",
+                    "en": "ongoing state",
+                    "de": "andauernder Zustand",
+                    "fr": "état continu",
+                    "es": "estado continuo",
+                    "ko": "지속되는 상태"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın dağa (やま) gitmek istiyor ama evde dinlenecek. Erkek dün tenis oynadı ama bu hafta sonu planı değil. Erkek açıkça ailesiyle denize (うみ) gideceğini söylüyor. Doğru cevap: denize gitmek.",
+        "en": "The woman wants to go to the mountains (やま) but will rest at home. The man played tennis yesterday but that's not his weekend plan. He clearly states he'll go to the beach (うみ) with his family. Correct answer: go to the beach.",
+        "de": "Die Frau möchte in die Berge (やま) gehen, wird aber zu Hause ausruhen. Der Mann hat gestern Tennis gespielt, aber das ist nicht sein Wochenendplan. Er sagt deutlich, dass er mit seiner Familie ans Meer (うみ) fahren wird. Richtige Antwort: ans Meer fahren.",
+        "fr": "La femme veut aller à la montagne (やま) mais se reposera à la maison. L'homme a joué au tennis hier, mais ce n'est pas son projet pour le week-end. Il déclare clairement qu'il ira à la mer (うみ) avec sa famille. Réponse correcte : aller à la mer.",
+        "es": "La mujer quiere ir a la montaña (やま) pero descansará en casa. El hombre jugó al tenis ayer, pero ese no es su plan de fin de semana. Él dice claramente que irá a la playa (うみ) con su familia. Respuesta correcta: ir a la playa.",
+        "ko": "여자는 산(やま)에 가고 싶지만 집에서 쉴 것입니다. 남자는 어제 테니스를 쳤지만 그것은 주말 계획이 아닙니다. 남자는 가족과 함께 바다(うみ)에 갈 것이라고 명확히 말합니다. 정답: 바다에 갑니다."
+    }
+}

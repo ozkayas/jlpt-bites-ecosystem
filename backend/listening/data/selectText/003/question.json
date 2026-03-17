@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "にちようびの　やくそく",
+            "tr": "Pazar Planları",
+            "en": "Sunday Plans",
+            "de": "Sonntagspläne",
+            "fr": "Projets du dimanche",
+            "es": "Planes para el domingo",
+            "ko": "일요일 약속"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/003/audio.mp3",
+    "options": [
+        "えきの　まえで　あいます",
+        "でぱーとで　あいます",
+        "こうえんで　あいます",
+        "びょういんの　まえで　あいます"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　どこで　あいますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "にちようびに　いっしょに　さんぽしませんか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "いいですね。どこで　あいましょうか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "えきの　まえは　どうですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "えきは　ちょっと　とおいです。こうえんの　いりぐちは　どうですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "ああ、そうですね。じゃあ　そこで　あいましょう。"
+                }
+            ],
+            "question": "ふたりは　どこで　あいますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. İkisi nerede buluşacak?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Pazar günü birlikte yürüyüş yapmaz mıyız?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "İyi fikir. Nerede buluşalım?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Tren istasyonunun önü nasıl olur?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "İstasyon biraz uzak. Parkın girişi nasıl olur?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ah, evet, doğru. O zaman orada buluşalım."
+                }
+            ],
+            "question": "İkisi nerede buluşacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. Where will the two meet?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "How about taking a walk together on Sunday?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "That's a good idea. Where shall we meet?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "How about in front of the station?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "The station is a little far. How about the park entrance?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Ah, yes, that's right. Well then, let's meet there."
+                }
+            ],
+            "question": "Where will the two meet?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Wo werden sich die beiden treffen?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Wollen wir am Sonntag zusammen spazieren gehen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das ist eine gute Idee. Wo sollen wir uns treffen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie wäre es vor dem Bahnhof?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Der Bahnhof ist etwas weit. Wie wäre es mit dem Parkeingang?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ah, ja, stimmt. Dann treffen wir uns dort."
+                }
+            ],
+            "question": "Wo werden sich die beiden treffen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Où vont-ils se rencontrer ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Et si on allait se promener ensemble dimanche ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Bonne idée. Où allons-nous nous rencontrer ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Que diriez-vous devant la gare ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "La gare est un peu loin. Que diriez-vous de l'entrée du parc ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah, oui, c'est vrai. Alors, rencontrons-nous là-bas."
+                }
+            ],
+            "question": "Où vont-ils se rencontrer ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Dónde se encontrarán los dos?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Por qué no damos un paseo juntos el domingo?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¡Qué buena idea! ¿Dónde nos encontramos?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué tal enfrente de la estación?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "La estación está un poco lejos. ¿Qué tal la entrada del parque?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Ah, sí, es verdad. Entonces, encontrémonos allí."
+                }
+            ],
+            "question": "¿Dónde se encontrarán los dos?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 두 사람은 어디에서 만날까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "일요일에 같이 산책하지 않을래요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "좋네요. 어디에서 만날까요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "역 앞은 어때요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "역은 좀 멀어요. 공원 입구는 어때요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "아, 그렇네요. 그럼 거기에서 만나요."
+                }
+            ],
+            "question": "두 사람은 어디에서 만날까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "さんぽ",
+                "reading": "さんぽ",
+                "meanings": {
+                    "tr": "yürüyüş",
+                    "en": "walk/stroll",
+                    "de": "Spaziergang",
+                    "fr": "promenade",
+                    "es": "paseo",
+                    "ko": "산책"
+                }
+            },
+            {
+                "word": "いりぐち",
+                "reading": "いりぐち",
+                "meanings": {
+                    "tr": "giriş",
+                    "en": "entrance",
+                    "de": "Eingang",
+                    "fr": "entrée",
+                    "es": "entrada",
+                    "ko": "입구"
+                }
+            },
+            {
+                "word": "とおい",
+                "reading": "とおい",
+                "meanings": {
+                    "tr": "uzak",
+                    "en": "far",
+                    "de": "weit (entfernt)",
+                    "fr": "loin",
+                    "es": "lejos",
+                    "ko": "멀다"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ませんか",
+                "meanings": {
+                    "tr": "teklif (yapmaz mısınız?)",
+                    "en": "invitation (won't you?)",
+                    "de": "Einladung (Möchten Sie nicht...?)",
+                    "fr": "invitation (Ne voulez-vous pas...?)",
+                    "es": "invitación (¿No quiere usted...?)",
+                    "ko": "권유/제안 (~하지 않을래요?)"
+                }
+            },
+            {
+                "point": "～ましょう",
+                "meanings": {
+                    "tr": "hadi yapalım",
+                    "en": "let's do",
+                    "de": "Lasst uns tun",
+                    "fr": "faisons",
+                    "es": "hagamos",
+                    "ko": "권유/제안 (~합시다)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek istasyon önünü (えきのまえ) teklif ediyor ama kadın uzak olduğunu söylüyor. Kadın parkın girişini (こうえんのいりぐち) öneriyor ve erkek kabul ediyor. Doğru cevap parktır.",
+        "en": "The man suggests in front of the station (えきのまえ), but the woman says it's too far. She suggests the park entrance (こうえんのいりぐち) and the man agrees. The correct answer is the park.",
+        "de": "Der Mann schlägt den Bereich vor dem Bahnhof (えきのまえ) vor, aber die Frau sagt, es sei zu weit. Die Frau schlägt den Parkeingang (こうえんのいりぐち) vor und der Mann stimmt zu. Die richtige Antwort ist der Park.",
+        "fr": "L'homme propose le devant de la gare (えきのまえ), mais la femme dit que c'est trop loin. La femme suggère l'entrée du parc (こうえんのいりぐち) et l'homme accepte. La bonne réponse est le parc.",
+        "es": "El hombre sugiere la entrada de la estación (えきのまえ), pero la mujer dice que está demasiado lejos. La mujer sugiere la entrada del parque (こうえんのいりぐち) y el hombre acepta. La respuesta correcta es el parque.",
+        "ko": "남자는 역 앞(えきのまえ)을 제안하지만, 여자는 너무 멀다고 말합니다. 여자는 공원 입구(こうえんのいりぐち)를 제안하고 남자가 동의합니다. 정답은 공원입니다."
+    }
+}

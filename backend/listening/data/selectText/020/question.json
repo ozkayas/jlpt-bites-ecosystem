@@ -1,0 +1,250 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ひるごはんの　ばしょ",
+            "tr": "Öğle Yemeği Yeri",
+            "en": "Lunch Location",
+            "de": "Ort des Mittagessens",
+            "fr": "Lieu du déjeuner",
+            "es": "Lugar del almuerzo",
+            "ko": "점심 식사 장소"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/020/audio.mp3",
+    "options": [
+        "がくせいしょくどう",
+        "きょうしつ",
+        "こうえん",
+        "こんびに"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。ふたりは　どこで　たべますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "おひる　いっしょに　たべませんか。こうえんで　たべましょうか。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "きょうは　あめですから　そとは　ちょっと。"
+                },
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "そうですね。じゃあ　がくせいしょくどうは　どうですか。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "いいですね。そうしましょう。"
+                }
+            ],
+            "question": "ふたりは　どこで　たべますか。"
+        },
+        "tr": {
+            "intro": "Üniversitede bir erkek öğrenci ve bir kız öğrenci konuşuyor. İkisi nerede yemek yiyecek?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Öğle yemeğini birlikte yemeye ne dersin? Parkta yiyelim mi?"
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "Bugün yağmur yağıyor, bu yüzden dışarısı biraz zor."
+                },
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Haklısın. O zaman öğrenci yemekhanesi nasıl olur?"
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "İyi fikir. Öyle yapalım."
+                }
+            ],
+            "question": "İkisi nerede yemek yiyecek?"
+        },
+        "en": {
+            "intro": "At the university, a male student and a female student are talking. Where will the two of them eat?",
+            "dialogue": [
+                {
+                    "speaker": "Male Student",
+                    "text": "Shall we eat lunch together? Shall we eat in the park?"
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "It's raining today, so outside is a bit difficult."
+                },
+                {
+                    "speaker": "Male Student",
+                    "text": "That's right. Then, how about the school cafeteria?"
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "That's good. Let's do that."
+                }
+            ],
+            "question": "Where will the two of them eat?"
+        },
+        "de": {
+            "intro": "An der Universität unterhalten sich ein männlicher und eine weibliche Studentin. Wo werden die beiden essen?",
+            "dialogue": [
+                {
+                    "speaker": "Student",
+                    "text": "Sollen wir zusammen zu Mittag essen? Sollen wir im Park essen?"
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Heute regnet es, da ist draußen etwas schwierig."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Stimmt. Wie wäre es dann mit der Mensa?"
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Gut. Machen wir das."
+                }
+            ],
+            "question": "Wo werden die beiden essen?"
+        },
+        "fr": {
+            "intro": "À l'université, un étudiant et une étudiante parlent. Où vont-ils manger tous les deux ?",
+            "dialogue": [
+                {
+                    "speaker": "Étudiant",
+                    "text": "On déjeune ensemble ? On mange au parc ?"
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "Il pleut aujourd'hui, alors dehors, c'est un peu difficile."
+                },
+                {
+                    "speaker": "Étudiant",
+                    "text": "C'est vrai. Alors, que dirais-tu du restaurant universitaire ?"
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "C'est une bonne idée. Faisons ça."
+                }
+            ],
+            "question": "Où vont-ils manger tous les deux ?"
+        },
+        "es": {
+            "intro": "En la universidad, un estudiante y una estudiante están hablando. ¿Dónde comerán los dos?",
+            "dialogue": [
+                {
+                    "speaker": "Estudiante",
+                    "text": "¿Comemos juntos el almuerzo? ¿Comemos en el parque?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Hoy llueve, así que afuera es un poco difícil."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Tienes razón. Entonces, ¿qué tal el comedor universitario?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "¡Qué bien! Hagamos eso."
+                }
+            ],
+            "question": "¿Dónde comerán los dos?"
+        },
+        "ko": {
+            "intro": "대학교에서 남학생과 여학생이 이야기하고 있습니다. 두 사람은 어디에서 식사할까요?",
+            "dialogue": [
+                {
+                    "speaker": "남학생",
+                    "text": "점심 같이 먹을까요? 공원에서 먹을까요?"
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "오늘은 비가 오니까 밖은 좀 그렇네요."
+                },
+                {
+                    "speaker": "남학생",
+                    "text": "그러네요. 그럼 학생 식당은 어때요?"
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "좋네요. 그렇게 해요."
+                }
+            ],
+            "question": "두 사람은 어디에서 식사할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "がくせいしょくどう",
+                "reading": "がくせいしょくどう",
+                "meanings": {
+                    "tr": "öğrenci yemekhanesi",
+                    "en": "school cafeteria",
+                    "de": "Mensa / Studentenrestaurant",
+                    "fr": "restaurant universitaire / cafétéria scolaire",
+                    "es": "comedor universitario / cafetería escolar",
+                    "ko": "학생 식당"
+                }
+            },
+            {
+                "word": "あめ",
+                "reading": "あめ",
+                "meanings": {
+                    "tr": "yağmur",
+                    "en": "rain",
+                    "de": "Regen",
+                    "fr": "pluie",
+                    "es": "lluvia",
+                    "ko": "비"
+                }
+            },
+            {
+                "word": "そと",
+                "reading": "そと",
+                "meanings": {
+                    "tr": "dışarı",
+                    "en": "outside",
+                    "de": "draußen / außerhalb",
+                    "fr": "dehors / extérieur",
+                    "es": "fuera / exterior",
+                    "ko": "밖"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "meanings": {
+                    "tr": "yapalım mı?",
+                    "en": "shall we?",
+                    "de": "sollen wir? / wie wäre es mit...?",
+                    "fr": "allons-nous ? / et si on...?",
+                    "es": "¿hacemos...? / ¿qué tal si hacemos...?",
+                    "ko": "~할까요?"
+                }
+            },
+            {
+                "point": "～は　ちょっと",
+                "meanings": {
+                    "tr": "... biraz zor (nazik ret)",
+                    "en": "... is a bit (polite refusal)",
+                    "de": "... ist etwas schwierig (höfliche Ablehnung)",
+                    "fr": "... c'est un peu difficile (refus poli)",
+                    "es": "... es un poco difícil (rechazo cortés)",
+                    "ko": "~은 좀 (정중한 거절)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek parkı (こうえん) teklif ediyor ama yağmur yağdığı için kadın dışarıyı reddediyor. Erkek yemekhaneyi (がくせいしょくどう) önerince kadın kabul ediyor. Doğru cevap yemekhane.",
+        "en": "The man suggests the park (こうえん) but the woman declines because of rain. He then suggests the cafeteria (がくせいしょくどう) and she agrees. Correct: cafeteria.",
+        "de": "Der Mann schlägt den Park (こうえん) vor, aber die Frau lehnt ab, weil es regnet. Er schlägt dann die Mensa (がくせいしょくどう) vor und sie stimmt zu. Richtig: Mensa.",
+        "fr": "L'homme propose le parc (こうえん) mais la femme refuse à cause de la pluie. Il suggère ensuite le restaurant universitaire (がくせいしょくどう) et elle accepte. Réponse correcte : le restaurant universitaire.",
+        "es": "El hombre sugiere el parque (こうえん) pero la mujer lo rechaza debido a la lluvia. Luego él sugiere el comedor universitario (がくせいしょくどう) y ella acepta. Correcto: el comedor universitario.",
+        "ko": "남자가 공원(こうえん)을 제안하지만, 비가 와서 여자가 밖을 거절합니다. 남자가 학생 식당(がくせいしょくどう)을 제안하자 여자가 동의합니다. 정답: 학생 식당."
+    }
+}

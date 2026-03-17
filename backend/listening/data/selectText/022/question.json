@@ -1,0 +1,267 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ぱーてぃーの　にんずう",
+            "tr": "Parti Katılımı",
+            "en": "Party Attendance",
+            "de": "Partyteilnehmerzahl",
+            "fr": "Nombre de participants à la fête",
+            "es": "Asistencia a la fiesta",
+            "ko": "파티 참석 인원"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/022/audio.mp3",
+    "options": [
+        "じゅうごにん",
+        "じゅうはちにん",
+        "にじゅうにん",
+        "にじゅうさんにん"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。あしたの　ぱーてぃーに　なんにん　きますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "あしたの　ぱーてぃーは　なんにん　きますか。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "くらすは　にじゅうにんですが　こない　ひとが　よにん　います。"
+                },
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "じゃあ　じゅうろくにんですね。せんせいも　きますか。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "はい、やまだせんせいと　さとうせんせいが　きます。"
+                },
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "じゃあ　ぜんぶで　じゅうはちにんですね。"
+                }
+            ],
+            "question": "あしたの　ぱーてぃーに　なんにん　きますか。"
+        },
+        "tr": {
+            "intro": "Üniversitede bir erkek öğrenci ve bir kız öğrenci konuşuyor. Yarınki partiye kaç kişi gelecek?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Erkek öğrenci: Yarınki partiye kaç kişi gelecek?"
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "Kız öğrenci: Sınıf yirmi kişi ama gelmeyecek dört kişi var."
+                },
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Erkek öğrenci: O zaman on altı kişi, değil mi? Öğretmenler de gelecek mi?"
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "Kız öğrenci: Evet, Yamada Sensei ve Sato Sensei gelecek."
+                },
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Erkek öğrenci: O zaman toplamda on sekiz kişi, değil mi?"
+                }
+            ],
+            "question": "Yarınki partiye kaç kişi gelecek?"
+        },
+        "en": {
+            "intro": "A male student and a female student are talking at university. How many people will come to tomorrow's party?",
+            "dialogue": [
+                {
+                    "speaker": "Male Student",
+                    "text": "Male student: How many people are coming to tomorrow's party?"
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "Female student: The class has twenty people, but there are four people who won't come."
+                },
+                {
+                    "speaker": "Male Student",
+                    "text": "Male student: So, sixteen people, right? Are the teachers coming too?"
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "Female student: Yes, Mr. Yamada and Ms. Sato are coming."
+                },
+                {
+                    "speaker": "Male Student",
+                    "text": "Male student: So, eighteen people in total, right?"
+                }
+            ],
+            "question": "How many people will come to tomorrow's party?"
+        },
+        "de": {
+            "intro": "Ein männlicher Student und eine weibliche Studentin unterhalten sich an der Universität. Wie viele Leute werden zur morgigen Party kommen?",
+            "dialogue": [
+                {
+                    "speaker": "Student",
+                    "text": "Männlicher Student: Wie viele Leute kommen zur morgigen Party?"
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Weibliche Studentin: Die Klasse hat zwanzig Leute, aber vier Leute kommen nicht."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Männlicher Student: Also sechzehn Leute, richtig? Kommen die Lehrer auch?"
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Weibliche Studentin: Ja, Herr Yamada und Frau Sato kommen."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Männlicher Student: Also insgesamt achtzehn Leute, richtig?"
+                }
+            ],
+            "question": "Wie viele Leute werden zur morgigen Party kommen?"
+        },
+        "fr": {
+            "intro": "Un étudiant et une étudiante parlent à l'université. Combien de personnes viendront à la fête de demain ?",
+            "dialogue": [
+                {
+                    "speaker": "Étudiant",
+                    "text": "Étudiant: Combien de personnes viennent à la fête de demain ?"
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "Étudiante: La classe compte vingt personnes, mais il y a quatre personnes qui ne viendront pas."
+                },
+                {
+                    "speaker": "Étudiant",
+                    "text": "Étudiant: Donc seize personnes, n'est-ce pas ? Les professeurs viennent aussi ?"
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "Étudiante: Oui, Monsieur Yamada et Madame Sato viennent."
+                },
+                {
+                    "speaker": "Étudiant",
+                    "text": "Étudiant: Donc dix-huit personnes au total, n'est-ce pas ?"
+                }
+            ],
+            "question": "Combien de personnes viendront à la fête de demain ?"
+        },
+        "es": {
+            "intro": "Un estudiante y una estudiante están hablando en la universidad. ¿Cuántas personas vendrán a la fiesta de mañana?",
+            "dialogue": [
+                {
+                    "speaker": "Estudiante",
+                    "text": "Estudiante (masculino): ¿Cuántas personas vienen a la fiesta de mañana?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Estudiante (femenina): La clase tiene veinte personas, pero hay cuatro que no vendrán."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Estudiante (masculino): Entonces, dieciséis personas, ¿verdad? ¿Vienen también los profesores?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Estudiante (femenina): Sí, el profesor Yamada y la profesora Sato vienen."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Estudiante (masculino): Entonces, en total dieciocho personas, ¿verdad?"
+                }
+            ],
+            "question": "¿Cuántas personas vendrán a la fiesta de mañana?"
+        },
+        "ko": {
+            "intro": "대학교에서 남학생과 여학생이 이야기하고 있습니다. 내일 파티에 몇 명이나 올까요?",
+            "dialogue": [
+                {
+                    "speaker": "남학생",
+                    "text": "남학생: 내일 파티에 몇 명이나 와요?"
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "여학생: 반은 스무 명인데, 안 오는 사람이 네 명 있어요."
+                },
+                {
+                    "speaker": "남학생",
+                    "text": "남학생: 그럼 열여섯 명이네요. 선생님도 오세요?"
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "여학생: 네, 야마다 선생님과 사토 선생님이 오세요."
+                },
+                {
+                    "speaker": "남학생",
+                    "text": "남학생: 그럼 전부 합해서 열여덟 명이네요."
+                }
+            ],
+            "question": "내일 파티에 몇 명이나 올까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "くらす",
+                "reading": "くらす",
+                "meanings": {
+                    "tr": "sınıf",
+                    "en": "class",
+                    "de": "Klasse",
+                    "fr": "classe",
+                    "es": "clase",
+                    "ko": "학급, 반"
+                }
+            },
+            {
+                "word": "ぜんぶで",
+                "reading": "ぜんぶで",
+                "meanings": {
+                    "tr": "toplamda",
+                    "en": "in total",
+                    "de": "insgesamt",
+                    "fr": "au total",
+                    "es": "en total",
+                    "ko": "전부, 총"
+                }
+            },
+            {
+                "word": "にん",
+                "reading": "にん",
+                "meanings": {
+                    "tr": "kişi (sayaç)",
+                    "en": "person (counter)",
+                    "de": "Person (Zähleinheit)",
+                    "fr": "personne (compteur)",
+                    "es": "persona (contador)",
+                    "ko": "명 (사람 수 세는 단위)"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ですが",
+                "meanings": {
+                    "tr": "... ama",
+                    "en": "... but",
+                    "de": "... aber",
+                    "fr": "... mais",
+                    "es": "... pero",
+                    "ko": "... 이지만"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Sınıf 20 kişi, 4'ü gelmiyor = 16 öğrenci. 2 öğretmen katılıyor. Toplam 16 + 2 = 18 kişi. Doğru cevap じゅうはちにん (18).",
+        "en": "Class has 20 students, 4 won't come = 16 students. 2 teachers attending. Total: 16 + 2 = 18. Correct: じゅうはちにん (18).",
+        "de": "Die Klasse hat 20 Personen, 4 kommen nicht = 16 Studenten. 2 Lehrer nehmen teil. Gesamt: 16 + 2 = 18. Richtig: じゅうはちにん (18).",
+        "fr": "La classe compte 20 personnes, 4 ne viendront pas = 16 étudiants. 2 professeurs participent. Total : 16 + 2 = 18. Correct : じゅうはちにん (18).",
+        "es": "La clase tiene 20 personas, 4 no vendrán = 16 estudiantes. 2 profesores asisten. Total: 16 + 2 = 18. Correcto: じゅうはちにん (18).",
+        "ko": "반은 20명, 4명은 안 옴 = 학생 16명. 선생님 2명 참석. 총 16 + 2 = 18명. 정답은 じゅうはちにん (18)."
+    }
+}

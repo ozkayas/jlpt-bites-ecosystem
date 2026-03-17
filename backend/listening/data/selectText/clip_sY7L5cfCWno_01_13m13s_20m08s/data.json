@@ -1,0 +1,441 @@
+{
+  "batch_metadata": {
+    "level": "N5",
+    "audio_url": "http://googleusercontent.com/file_content/0"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "topic": "たんじょうび (Birthday)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとの　たんじょうびは　いつですか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "きれいな　はなですね。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ええ、たんじょうびに　ともだちに　もらいました。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "へえ、いつですか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "おとといです。じゅういちにちです。"
+          },
+          {
+            "speaker": "お吐このひと",
+            "text": "そうですか。えっ、じゃあ　いちが　よっつ　ならびますね。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ええ、そうですよ。"
+          }
+        ],
+        "question": "おんなのひとの　たんじょうびは　いつですか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "おととい",
+            "tr": "evvelsi gün",
+            "en": "the day before yesterday"
+          },
+          {
+            "word": "ならぶ",
+            "tr": "sıralanmak",
+            "en": "to line up"
+          },
+          {
+            "word": "よっつ",
+            "tr": "dört adet",
+            "en": "four (objects)"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～に　もらいました",
+            "tr": "... tarihinde / ... kişisinden aldım",
+            "en": "received on ... / from ..."
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın doğum gününün 'evvelsi gün' (おととい) yani ayın 11'i (じゅういちにち) olduğunu söyler. Erkeğin 'dört tane bir yan yana geliyor' (11. ayın 11'i kastediliyor) yorumu da bunu doğrular.",
+        "en": "The woman states her birthday was 'the day before yesterday' (おととい), specifically the 11th (じゅういちにち). The man's comment about 'four ones lining up' confirms it is 11/11."
+      }
+    },
+    {
+      "question_number": 2,
+      "topic": "ひるごはんを　たべる　ばしょ (Place to Eat Lunch)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。ふたりは　どこで　たべますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのがくせい",
+            "text": "やまださん、おひる　いっしょに　たべませんか。"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "いいですよ。"
+          },
+          {
+            "speaker": "おとこのがくせい",
+            "text": "じゃあ　がくせいしょくどうが　あたらしくなったから　いきませんか。"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "そうですね。でも　きょうは　てんきが　いいから　そとで　たべたいです。あさから　ずっと　きょうしつの　なかに　いましたから。"
+          },
+          {
+            "speaker": "おとこのがくせい",
+            "text": "じゃあ　おみせで　ぱんか　おべんとうを　かって　さくらこうえんまで　いきましょうか。"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "ええ、そうしましょう。"
+          }
+        ],
+        "question": "ふたりは　どこで　たべますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "がくせいしょくどう",
+            "tr": "öğrenci yemekhanesi",
+            "en": "school cafeteria"
+          },
+          {
+            "word": "きょうしつ",
+            "tr": "sınıf",
+            "en": "classroom"
+          },
+          {
+            "word": "こうえん",
+            "tr": "park",
+            "en": "park"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～たいです",
+            "tr": "... yapmak istiyorum",
+            "en": "want to do ..."
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek önce yemekhaneyi (しょくどう) önerir. Ancak kadın hava güzel olduğu için dışarıda (そと) yemek istediğini söyler. Sonuç olarak marketten yemek alıp Sakura Parkı'na (さくらこうえん) gitmeye karar verirler.",
+        "en": "The man first suggests the cafeteria (しょくどう). However, the woman wants to eat outside (そと) because the weather is nice. They decide to buy food at a shop and go to Sakura Park (さくらこうえn)."
+      }
+    },
+    {
+      "question_number": 3,
+      "topic": "ちゅうもん (Ordering Food)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "れすとらんで　おんなのひとと　おみせのひとが　はなしています。おんなのひとは　なにを　たべますか。",
+        "dialogue": [
+          {
+            "speaker": "おんなのひと",
+            "text": "すみません。これは　とりにくですか。"
+          },
+          {
+            "speaker": "てんいん",
+            "text": "いいえ、こちらは　ぶたにくで　ございます。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですか。これは？"
+          },
+          {
+            "speaker": "てんいん",
+            "text": "こちらは　さかなです。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですか。あの、とりにくの　りょうりは　ありませんか。"
+          },
+          {
+            "speaker": "てんいん",
+            "text": "はい、こちらです。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "じゃ、これを　おねがいします。"
+          }
+        ],
+        "question": "おんなのひとは　なにを　たべますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "とりにく",
+            "tr": "tavuk eti",
+            "en": "chicken meat"
+          },
+          {
+            "word": "ぶたにく",
+            "tr": "domuz eti",
+            "en": "pork"
+          },
+          {
+            "word": "さかな",
+            "tr": "balık",
+            "en": "fish"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～は　ありませんか",
+            "tr": "... yok mu?",
+            "en": "is there no ...?"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın önce domuz eti (ぶたにく) ve balık (さかな) olan seçenekleri eler. Tavuk eti (とりにく) olup olmadığını sorar ve garsonun gösterdiği tavuk yemeğini sipariş eder.",
+        "en": "The woman rejects the options featuring pork (ぶたにく) and fish (さかな). She asks if there is a chicken (とりにく) dish and orders the one shown by the waiter."
+      }
+    },
+    {
+      "question_number": 4,
+      "topic": "ぱーてぃーに　くる　せんせいの　かず (Number of Teachers at the Party)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。あしたの　ぱーてぃーに　せんせいは　なんにん　きますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのがくせい",
+            "text": "あしたの　くらすの　ぱーてぃーには　ぜんぶで　なんにんくらい　きますか。"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "えっと、こないひとが　さんにん　いますから　ぜんぶで　にじゅうよにんです。"
+          },
+          {
+            "speaker": "おとこのがくせい",
+            "text": "そうですか。せんせいたちも　きますか。"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "ええ、やまだせんせいと　たなかせんせいが　きます。"
+          },
+          {
+            "speaker": "おとこのがくせい",
+            "text": "かわしませんせいは？"
+          },
+          {
+            "speaker": "おんなのがくせい",
+            "text": "かわしませんせいは　こないと　いっていました。"
+          }
+        ],
+        "question": "あしたの　ぱーてぃーに　せんせいは　なんにん　きますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "ぜんぶで",
+            "tr": "toplamda",
+            "en": "in total"
+          },
+          {
+            "word": "なんにん",
+            "tr": "kaç kişi",
+            "en": "how many people"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～と　いっていました",
+            "tr": "... dedi / ... diye söyledi",
+            "en": "said that ..."
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Yamada-sensei ve Tanaka-sensei geliyor (2 kişi). Kawashima-sensei ise gelmeyeceğini belirtmiş. Bu durumda toplam 2 öğretmen katılacak.",
+        "en": "Yamada-sensei and Tanaka-sensei are coming (2 people). Kawashima-sensei stated he is not coming. Therefore, 2 teachers will attend."
+      }
+    },
+    {
+      "question_number": 5,
+      "topic": "あしたの　こうどう (Tomorrow's Plans)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。あしたの　ごご　おんなのひとは　どこへ　いきますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "あしたの　ごご　いっしょに　えいがを　みに　いきませんか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "すみません、あしたは　ちょっと。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "いそがしいですか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ええ。ごぜんは　びょういんへ　いったり　にもつを　だしに　ゆうびんきょくへ　いったりします。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ごごは　やまだせんせいの　じゅぎょうの　れぽーとを　かきます。げつようびに　だしますから。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "えっ、その　れぽーと　だすのは　きんようびまで　ですよ。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ほんとうですか？　じゃあ　わたしも　えいがを　みに　いきたいです。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "じゃ、いきましょう。"
+          }
+        ],
+        "question": "あしたの　ごご　おんなのひとは　どこへ　いきますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "ゆうびんきょく",
+            "tr": "postane",
+            "en": "post office"
+          },
+          {
+            "word": "れぽーと",
+            "tr": "rapor/ödev",
+            "en": "report/assignment"
+          },
+          {
+            "word": "きんようび",
+            "tr": "Cuma",
+            "en": "Friday"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～たり　～たりします",
+            "tr": "... yapmak gibi şeyler yapmak",
+            "en": "doing things like ... and ..."
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın başlangıçta öğleden sonra rapor yazacağını söylüyor çünkü son teslim tarihini Pazartesi sanıyor. Ancak erkek tarihin Cuma olduğunu söyleyince kadın fikrini değiştirip sinemaya (えいが) gitmeye karar veriyor.",
+        "en": "The woman initially plans to write a report in the afternoon because she thinks the deadline is Monday. However, after the man tells her it's actually Friday, she changes her mind and decides to go to the movies (えいが)."
+      }
+    },
+    {
+      "question_number": 6,
+      "topic": "のみもの (Drinks)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "ぱーてぃーで　お吐このひとと　おんなのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "あ、やまださん。のみものが　ありませんね。なにを　のみますか。びーると　わいん、あと　じゅーすと　おちゃが　ありますけど。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "あの、こーひーは　ありませんか。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "うーん、こーひーは　ありませんね。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですか。あたたかい　ものは　ありませんか。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "ああ、あたたかい　おちゃは　できますよ。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですか。じゃ、それを　おねがいします。"
+          }
+        ],
+        "question": "おんなのひとは　なにを　のみますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "びーる",
+            "tr": "bira",
+            "en": "beer"
+          },
+          {
+            "word": "あたたかい",
+            "tr": "sıcak/ılık",
+            "en": "warm/hot"
+          },
+          {
+            "word": "おちゃ",
+            "tr": "çay (genelde yeşil çay)",
+            "en": "tea (usually green tea)"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～が　あります",
+            "tr": "... var",
+            "en": "there is ..."
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın kahve (こーひー) istiyor ama yok. Sıcak bir şey istediğinde erkek sıcak çay (あたたかいおちゃ) yapabileceğini söylüyor. Kadın bunu kabul ediyor.",
+        "en": "The woman asks for coffee (こーひー), but it's unavailable. When she asks for something warm, the man offers to make warm tea (あたたかいおちゃ), which she accepts."
+      }
+    }
+  ]
+}

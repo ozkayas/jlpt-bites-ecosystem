@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "がっこうへの　いきかた",
+            "tr": "Okula Nasıl Gidilir",
+            "en": "How to Get to School",
+            "de": "Wie man zur Schule kommt",
+            "fr": "Comment aller à l'école",
+            "es": "Cómo llegar a la escuela",
+            "ko": "학교에 가는 방법"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/015/audio.mp3",
+    "options": [
+        "じてんしゃで　いきました",
+        "ばすで　いきました",
+        "あるいて　いきました",
+        "たくしーで　いきました"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。おんなのがくせいは　きょう　どうやって　がっこうに　きましたか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "きょうは　ばすで　きましたか。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "いつもは　じてんしゃですが　きょうは　あめですから　ばすで　きました。"
+                },
+                {
+                    "speaker": "おとこのがくせい",
+                    "text": "わたしは　あるいて　きましたよ。"
+                },
+                {
+                    "speaker": "おんなのがくせい",
+                    "text": "あめなのに　すごいですね。"
+                }
+            ],
+            "question": "おんなのがくせいは　きょう　どうやって　がっこうに　きましたか。"
+        },
+        "tr": {
+            "intro": "Üniversitede bir erkek öğrenci ve bir kız öğrenci konuşuyor. Kız öğrenci bugün okula nasıl geldi?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Bugün otobüsle mi geldiniz?"
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "Normalde bisikletle gelirim ama bugün yağmur olduğu için otobüsle geldim."
+                },
+                {
+                    "speaker": "Erkek Öğrenci",
+                    "text": "Ben yürüyerek geldim."
+                },
+                {
+                    "speaker": "Kız Öğrenci",
+                    "text": "Yağmura rağmen harika!"
+                }
+            ],
+            "question": "Kız öğrenci bugün okula nasıl geldi?"
+        },
+        "en": {
+            "intro": "At the university, a male student and a female student are talking. How did the female student come to school today?",
+            "dialogue": [
+                {
+                    "speaker": "Male Student",
+                    "text": "Did you come by bus today?"
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "Usually I come by bicycle, but today it's raining, so I came by bus."
+                },
+                {
+                    "speaker": "Male Student",
+                    "text": "I walked."
+                },
+                {
+                    "speaker": "Female Student",
+                    "text": "Even though it's raining, that's amazing!"
+                }
+            ],
+            "question": "How did the female student come to school today?"
+        },
+        "de": {
+            "intro": "An der Universität unterhalten sich ein männlicher und eine weibliche Studentin. Wie ist die Studentin heute zur Schule gekommen?",
+            "dialogue": [
+                {
+                    "speaker": "Student",
+                    "text": "Sind Sie heute mit dem Bus gekommen?"
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Normalerweise komme ich mit dem Fahrrad, aber heute regnet es, deshalb bin ich mit dem Bus gekommen."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Ich bin zu Fuß gekommen."
+                },
+                {
+                    "speaker": "Studentin",
+                    "text": "Trotz des Regens, das ist toll!"
+                }
+            ],
+            "question": "Wie ist die Studentin heute zur Schule gekommen?"
+        },
+        "fr": {
+            "intro": "À l'université, un étudiant et une étudiante parlent. Comment l'étudiante est-elle venue à l'école aujourd'hui ?",
+            "dialogue": [
+                {
+                    "speaker": "Étudiant",
+                    "text": "Êtes-vous venue en bus aujourd'hui ?"
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "D'habitude, je viens à vélo, mais aujourd'hui il pleut, alors je suis venue en bus."
+                },
+                {
+                    "speaker": "Étudiant",
+                    "text": "Moi, je suis venu à pied."
+                },
+                {
+                    "speaker": "Étudiante",
+                    "text": "Malgré la pluie, c'est impressionnant !"
+                }
+            ],
+            "question": "Comment l'étudiante est-elle venue à l'école aujourd'hui ?"
+        },
+        "es": {
+            "intro": "En la universidad, un estudiante y una estudiante están hablando. ¿Cómo llegó la estudiante a la escuela hoy?",
+            "dialogue": [
+                {
+                    "speaker": "Estudiante",
+                    "text": "¿Viniste en autobús hoy?"
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Normalmente vengo en bicicleta, pero hoy llueve, así que vine en autobús."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Yo vine caminando."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "¡A pesar de la lluvia, qué increíble!"
+                }
+            ],
+            "question": "¿Cómo llegó la estudiante a la escuela hoy?"
+        },
+        "ko": {
+            "intro": "대학교에서 남학생과 여학생이 이야기하고 있습니다. 여학생은 오늘 학교에 어떻게 왔습니까?",
+            "dialogue": [
+                {
+                    "speaker": "남학생",
+                    "text": "오늘은 버스로 오셨어요?"
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "평소에는 자전거로 오지만, 오늘은 비가 와서 버스로 왔어요."
+                },
+                {
+                    "speaker": "남학생",
+                    "text": "저는 걸어왔어요."
+                },
+                {
+                    "speaker": "여학생",
+                    "text": "비가 오는데도 대단하네요!"
+                }
+            ],
+            "question": "여학생은 오늘 학교에 어떻게 왔습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "じてんしゃ",
+                "reading": "じてんしゃ",
+                "meanings": {
+                    "tr": "bisiklet",
+                    "en": "bicycle",
+                    "de": "Fahrrad",
+                    "fr": "vélo",
+                    "es": "bicicleta",
+                    "ko": "자전거"
+                }
+            },
+            {
+                "word": "ばす",
+                "reading": "ばす",
+                "meanings": {
+                    "tr": "otobüs",
+                    "en": "bus",
+                    "de": "Bus",
+                    "fr": "bus",
+                    "es": "autobús",
+                    "ko": "버스"
+                }
+            },
+            {
+                "word": "あるく",
+                "reading": "あるく",
+                "meanings": {
+                    "tr": "yürümek",
+                    "en": "to walk",
+                    "de": "gehen",
+                    "fr": "marcher",
+                    "es": "caminar",
+                    "ko": "걷다"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ですから",
+                "meanings": {
+                    "tr": "... olduğu için",
+                    "en": "because ...",
+                    "de": "weil ...",
+                    "fr": "parce que ...",
+                    "es": "porque ...",
+                    "ko": "...이기 때문에"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın normalde bisikletle (じてんしゃ) geliyor ama bugün yağmur yağdığı için otobüsle (ばす) gelmiş. Erkek yürüyerek gelmiş ama soru kadını soruyor. Doğru cevap otobüs.",
+        "en": "The woman usually comes by bicycle (じてんしゃ) but today came by bus (ばす) because of rain. The man walked but the question asks about the woman. Correct answer: bus.",
+        "de": "Die Frau kommt normalerweise mit dem Fahrrad (じてんしゃ), aber heute ist sie wegen des Regens mit dem Bus (ばす) gekommen. Der Mann ist zu Fuß gegangen, aber die Frage bezieht sich auf die Frau. Richtige Antwort: Bus.",
+        "fr": "La femme vient normalement à vélo (じてんしゃ) mais aujourd'hui, elle est venue en bus (ばす) à cause de la pluie. L'homme est venu à pied, mais la question porte sur la femme. Bonne réponse : bus.",
+        "es": "La mujer normalmente viene en bicicleta (じてんしゃ) pero hoy vino en autobús (ばす) debido a la lluvia. El hombre caminó, pero la pregunta es sobre la mujer. Respuesta correcta: autobús.",
+        "ko": "여자는 평소에 자전거(じてんしゃ)로 오지만, 오늘은 비가 와서 버스(ばす)로 왔습니다. 남자는 걸어왔지만 질문은 여자에 대한 것입니다. 정답: 버스."
+    }
+}

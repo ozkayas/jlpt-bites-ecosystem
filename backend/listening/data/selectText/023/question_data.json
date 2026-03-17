@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "あしたの　ごごの　よてい (Tomorrow Afternoon Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "としょかんで　べんきょうします",
+        "ともだちと　かいものに　いきます",
+        "えいがを　みに　いきます",
+        "うちで　そうじを　します"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。あしたの　ごご　おんなのひとは　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "あしたの　ごご　えいがを　みに　いきませんか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "すみません、あしたは　としょかんで　べんきょうします。もくようびに　てすとが　ありますから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "あれ、てすとは　らいしゅうの　もくようびですよ。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "えっ、ほんとうですか。じゃあ　いきたいです。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "じゃ、いきましょう。"
+            }
+        ],
+        "question": "あしたの　ごご　おんなのひとは　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "としょかん",
+                "tr": "kütüphane",
+                "en": "library"
+            },
+            {
+                "word": "てすと",
+                "tr": "sınav",
+                "en": "test"
+            },
+            {
+                "word": "ほんとう",
+                "tr": "gerçekten",
+                "en": "really/truly"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から (sebep)",
+                "tr": "çünkü",
+                "en": "because"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın kütüphanede (としょかん) çalışacağını söylüyor çünkü sınavı Perşembe sanıyor. Erkek sınavın gelecek hafta olduğunu söyleyince kadın sinemaya (えいが) gitmeye karar veriyor.",
+        "en": "The woman plans to study at the library (としょかん) thinking the test is this Thursday. The man corrects her — it's next week. She then decides to go to the movies (えいが)."
+    }
+}

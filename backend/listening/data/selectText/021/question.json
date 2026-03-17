@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "れすとらんの　ちゅうもん",
+            "tr": "Restoran Siparişi",
+            "en": "Restaurant Order",
+            "de": "Restaurantbestellung",
+            "fr": "Commande au restaurant",
+            "es": "Pedido en restaurante",
+            "ko": "레스토랑 주문"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/021/audio.mp3",
+    "options": [
+        "ぎゅうにく",
+        "さかな",
+        "とりにく",
+        "やさい"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "れすとらんで　おとこのひとと　てんいんが　はなしています。おとこのひとは　なにを　たべますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "すみません。きょうの　おすすめは　なんですか。"
+                },
+                {
+                    "speaker": "てんいん",
+                    "text": "さかなと　ぎゅうにくが　あります。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "さかなは　ちょっと。ぎゅうにくを　おねがいします。"
+                },
+                {
+                    "speaker": "てんいん",
+                    "text": "はい、かしこまりました。"
+                }
+            ],
+            "question": "おとこのひとは　なにを　たべますか。"
+        },
+        "tr": {
+            "intro": "Bir restoranda bir adam ve bir garson konuşuyor. Adam ne yiyecek?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Affedersiniz. Bugünün tavsiyesi nedir?"
+                },
+                {
+                    "speaker": "Görevli",
+                    "text": "Balık ve sığır eti var."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Balık biraz... Sığır eti rica ediyorum."
+                },
+                {
+                    "speaker": "Görevli",
+                    "text": "Evet, anlaşıldı."
+                }
+            ],
+            "question": "Adam ne yiyecek?"
+        },
+        "en": {
+            "intro": "A man and a waiter are talking at a restaurant. What will the man eat?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "Excuse me. What is today's recommendation?"
+                },
+                {
+                    "speaker": "Staff",
+                    "text": "We have fish and beef."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Fish is a bit... I'll have the beef, please."
+                },
+                {
+                    "speaker": "Staff",
+                    "text": "Yes, certainly."
+                }
+            ],
+            "question": "What will the man eat?"
+        },
+        "de": {
+            "intro": "Ein Mann und ein Kellner unterhalten sich in einem Restaurant. Was wird der Mann essen?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigen Sie. Was ist die heutige Empfehlung?"
+                },
+                {
+                    "speaker": "Angestellte/r",
+                    "text": "Wir haben Fisch und Rindfleisch."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Fisch ist ein bisschen... Ich nehme bitte das Rindfleisch."
+                },
+                {
+                    "speaker": "Angestellte/r",
+                    "text": "Ja, verstanden."
+                }
+            ],
+            "question": "Was wird der Mann essen?"
+        },
+        "fr": {
+            "intro": "Un homme et un serveur parlent dans un restaurant. Que va manger l'homme ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Excusez-moi. Quelle est la recommandation du jour ?"
+                },
+                {
+                    "speaker": "Employé/e",
+                    "text": "Nous avons du poisson et du bœuf."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Le poisson, c'est un peu... Je prendrai le bœuf, s'il vous plaît."
+                },
+                {
+                    "speaker": "Employé/e",
+                    "text": "Oui, bien sûr."
+                }
+            ],
+            "question": "Que va manger l'homme ?"
+        },
+        "es": {
+            "intro": "Un hombre y un camarero están hablando en un restaurante. ¿Qué va a comer el hombre?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "Disculpe. ¿Cuál es la recomendación de hoy?"
+                },
+                {
+                    "speaker": "Empleado/a",
+                    "text": "Tenemos pescado y carne de res."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "El pescado, un poco... Por favor, la carne de res."
+                },
+                {
+                    "speaker": "Empleado/a",
+                    "text": "Sí, entendido."
+                }
+            ],
+            "question": "¿Qué va a comer el hombre?"
+        },
+        "ko": {
+            "intro": "레스토랑에서 남자와 점원이 이야기하고 있습니다. 남자는 무엇을 먹을까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "실례합니다. 오늘의 추천 메뉴는 무엇입니까?"
+                },
+                {
+                    "speaker": "직원",
+                    "text": "생선과 소고기가 있습니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "생선은 좀... 소고기로 부탁합니다."
+                },
+                {
+                    "speaker": "직원",
+                    "text": "네, 알겠습니다."
+                }
+            ],
+            "question": "남자는 무엇을 먹을까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぎゅうにく",
+                "reading": "ぎゅうにく",
+                "meanings": {
+                    "tr": "sığır eti",
+                    "en": "beef",
+                    "de": "Rindfleisch",
+                    "fr": "bœuf",
+                    "es": "carne de res",
+                    "ko": "소고기"
+                }
+            },
+            {
+                "word": "さかな",
+                "reading": "さかな",
+                "meanings": {
+                    "tr": "balık",
+                    "en": "fish",
+                    "de": "Fisch",
+                    "fr": "poisson",
+                    "es": "pescado",
+                    "ko": "생선"
+                }
+            },
+            {
+                "word": "おすすめ",
+                "reading": "おすすめ",
+                "meanings": {
+                    "tr": "tavsiye",
+                    "en": "recommendation",
+                    "de": "Empfehlung",
+                    "fr": "recommandation",
+                    "es": "recomendación",
+                    "ko": "추천"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　ちょっと",
+                "meanings": {
+                    "tr": "biraz zor (nazik ret)",
+                    "en": "is a bit... (polite refusal)",
+                    "de": "ist ein bisschen... (höfliche Ablehnung)",
+                    "fr": "c'est un peu... (refus poli)",
+                    "es": "es un poco... (rechazo cortés)",
+                    "ko": "좀... (정중한 거절)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Garson balık (さかな) ve sığır eti (ぎゅうにく) önerir. Adam balığı nazikçe reddedip (ちょっと) sığır eti sipariş ediyor. Tavuk (とりにく) ve sebze (やさい) bahsedilmiyor.",
+        "en": "The waiter recommends fish (さかな) and beef (ぎゅうにく). The man politely declines fish (ちょっと) and orders beef. Chicken (とりにく) and vegetables (やさい) are never mentioned.",
+        "de": "Der Kellner empfiehlt Fisch (さかな) und Rindfleisch (ぎゅうにく). Der Mann lehnt Fisch höflich ab (ちょっと) und bestellt Rindfleisch. Hühnchen (とりにく) und Gemüse (やさい) werden nicht erwähnt.",
+        "fr": "Le serveur recommande du poisson (さかな) et du bœuf (ぎゅうにく). L'homme refuse poliment le poisson (ちょっと) et commande du bœuf. Le poulet (とりにく) et les légumes (やさい) ne sont pas mentionnés.",
+        "es": "El camarero recomienda pescado (さかな) y carne de res (ぎゅうにく). El hombre rechaza cortésmente el pescado (ちょっと) y pide carne de res. El pollo (とりにく) y las verduras (やさい) no se mencionan.",
+        "ko": "점원은 생선 (さかな)과 소고기 (ぎゅうにく)를 추천합니다. 남자는 생선을 정중하게 거절하고 (ちょっと) 소고기를 주문합니다. 닭고기 (とりにく)와 야채 (やさい)는 언급되지 않습니다."
+    }
+}

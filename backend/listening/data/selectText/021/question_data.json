@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "れすとらんの　ちゅうもん (Restaurant Order)",
+        "audio_url": null
+    },
+    "options": [
+        "ぎゅうにく",
+        "さかな",
+        "とりにく",
+        "やさい"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "れすとらんで　おとこのひとと　てんいんが　はなしています。おとこのひとは　なにを　たべますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "すみません。きょうの　おすすめは　なんですか。"
+            },
+            {
+                "speaker": "てんいん",
+                "text": "さかなと　ぎゅうにくが　あります。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "さかなは　ちょっと。ぎゅうにくを　おねがいします。"
+            },
+            {
+                "speaker": "てんいん",
+                "text": "はい、かしこまりました。"
+            }
+        ],
+        "question": "おとこのひとは　なにを　たべますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぎゅうにく",
+                "tr": "sığır eti",
+                "en": "beef"
+            },
+            {
+                "word": "さかな",
+                "tr": "balık",
+                "en": "fish"
+            },
+            {
+                "word": "おすすめ",
+                "tr": "tavsiye",
+                "en": "recommendation"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　ちょっと",
+                "tr": "biraz zor (nazik ret)",
+                "en": "is a bit... (polite refusal)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Garson balık (さかな) ve sığır eti (ぎゅうにく) önerir. Erkek balığı nazikçe reddedip (ちょっと) sığır eti sipariş ediyor. Tavuk (とりにく) ve sebze (やさい) bahsedilmiyor.",
+        "en": "The waiter recommends fish (さかな) and beef (ぎゅうにく). The man politely declines fish (ちょっと) and orders beef. Chicken (とりにく) and vegetables (やさい) are never mentioned."
+    }
+}

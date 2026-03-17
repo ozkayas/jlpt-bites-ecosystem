@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "たんじょうび (Birthday)",
+        "audio_url": null
+    },
+    "options": [
+        "さんがつ　みっか",
+        "さんがつ　いつか",
+        "さんがつ　なのか",
+        "さんがつ　ここのか"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとの　たんじょうびは　いつですか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "きのう　きれいな　けーきが　ありましたね。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ええ、おとといの　たんじょうびに　かぞくが　つくってくれました。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "そうですか。おととい　なんにちでしたか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "いつかです。さんがつ　いつかです。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "へえ、もうすぐ　はるですね。"
+            }
+        ],
+        "question": "おんなのひとの　たんじょうびは　いつですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おととい",
+                "tr": "evvelsi gün",
+                "en": "the day before yesterday"
+            },
+            {
+                "word": "いつか",
+                "tr": "ayın beşi",
+                "en": "5th of the month"
+            },
+            {
+                "word": "けーき",
+                "tr": "pasta",
+                "en": "cake"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てくれました",
+                "tr": "benim için ... yaptı",
+                "en": "did ... for me"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın doğum gününün evvelsi gün (おととい) yani Mart 5'i (さんがついつか) olduğunu açıkça söylüyor. Doğru cevap 3月5日.",
+        "en": "The woman explicitly states her birthday was the day before yesterday (おととい), which is March 5th (さんがついつか). Correct answer: March 5th."
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "てすとの　ひ",
+            "tr": "Sınav Günü",
+            "en": "Exam Day",
+            "de": "Prüfungstag",
+            "fr": "Jour d'examen",
+            "es": "Día de examen",
+            "ko": "시험 날"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/017/audio.mp3",
+    "options": [
+        "げつようび",
+        "かようび",
+        "すいようび",
+        "もくようび"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで　せんせいが　がくせいに　はなしています。てすとは　いつですか。",
+            "dialogue": [
+                {
+                    "speaker": "せんせい",
+                    "text": "みなさん、こんしゅうの　げつようびに　しゅくだいを　だしてください。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "わたしが　しゅくだいを　みて　つぎのひに　かえします。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "そして　しゅくだいを　かえした　つぎのひに　てすとです。よく　べんきょうしてくださいね。"
+                }
+            ],
+            "question": "てすとは　いつですか。"
+        },
+        "tr": {
+            "intro": "Okulda öğretmen öğrencilere konuşuyor. Sınav ne zaman?",
+            "dialogue": [
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Arkadaşlar, bu pazartesi ödevleri teslim edin."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Ben ödevleri kontrol edip ertesi gün geri vereceğim."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Ve ödevleri geri verdikten sonraki ertesi gün sınav var. İyi çalışın lütfen."
+                }
+            ],
+            "question": "Sınav ne zaman?"
+        },
+        "en": {
+            "intro": "At school, the teacher is talking to the students. When is the exam?",
+            "dialogue": [
+                {
+                    "speaker": "Teacher",
+                    "text": "Everyone, please submit your homework this Monday."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "I will check the homework and return it the next day."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "And the day after I return the homework, there will be a test. Please study hard."
+                }
+            ],
+            "question": "When is the exam?"
+        },
+        "de": {
+            "intro": "In der Schule spricht der Lehrer mit den Schülern. Wann ist die Prüfung?",
+            "dialogue": [
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Alle zusammen, gebt bitte eure Hausaufgaben diesen Montag ab."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Ich werde die Hausaufgaben überprüfen und sie am nächsten Tag zurückgeben."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Und am Tag, nachdem ich die Hausaufgaben zurückgegeben habe, ist die Prüfung. Lernt bitte gut!"
+                }
+            ],
+            "question": "Wann ist die Prüfung?"
+        },
+        "fr": {
+            "intro": "À l'école, le professeur parle aux élèves. Quand est l'examen ?",
+            "dialogue": [
+                {
+                    "speaker": "Professeur",
+                    "text": "Tout le monde, veuillez rendre vos devoirs ce lundi."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Je vérifierai les devoirs et les rendrai le lendemain."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Et le jour après que j'aurai rendu les devoirs, il y aura un examen. Veuillez bien étudier."
+                }
+            ],
+            "question": "Quand est l'examen ?"
+        },
+        "es": {
+            "intro": "En la escuela, el profesor está hablando con los estudiantes. ¿Cuándo es el examen?",
+            "dialogue": [
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Todos, por favor, entreguen su tarea este lunes."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Revisaré la tarea y la devolveré al día siguiente."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Y el día después de que devuelva la tarea, habrá un examen. Por favor, estudien mucho."
+                }
+            ],
+            "question": "¿Cuándo es el examen?"
+        },
+        "ko": {
+            "intro": "학교에서 선생님이 학생들에게 이야기하고 있습니다. 시험은 언제입니까?",
+            "dialogue": [
+                {
+                    "speaker": "선생님",
+                    "text": "여러분, 이번 주 월요일에 숙제를 제출해 주세요."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "제가 숙제를 확인하고 다음 날 돌려드리겠습니다."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "그리고 숙제를 돌려준 다음 날에 시험입니다. 열심히 공부해 주세요."
+                }
+            ],
+            "question": "시험은 언제입니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅくだい",
+                "reading": "しゅくだい",
+                "meanings": {
+                    "tr": "ödev",
+                    "en": "homework",
+                    "de": "Hausaufgaben",
+                    "fr": "devoirs",
+                    "es": "tarea",
+                    "ko": "숙제"
+                }
+            },
+            {
+                "word": "だす",
+                "reading": "だす",
+                "meanings": {
+                    "tr": "teslim etmek",
+                    "en": "to submit",
+                    "de": "abgeben, einreichen",
+                    "fr": "soumettre, rendre",
+                    "es": "entregar",
+                    "ko": "제출하다"
+                }
+            },
+            {
+                "word": "つぎのひ",
+                "reading": "つぎのひ",
+                "meanings": {
+                    "tr": "ertesi gün",
+                    "en": "the next day",
+                    "de": "der nächste Tag",
+                    "fr": "le lendemain",
+                    "es": "el día siguiente",
+                    "ko": "다음 날"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "meanings": {
+                    "tr": "lütfen yapın",
+                    "en": "please do",
+                    "de": "bitte tun Sie",
+                    "fr": "veuillez faire",
+                    "es": "por favor, haga",
+                    "ko": "~해 주세요 (부탁)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Ödev Pazartesi teslim. Öğretmen ertesi gün (Salı) iade eder. İadenin ertesi günü (Çarşamba) sınav var. Doğru cevap すいようび (Çarşamba).",
+        "en": "Homework is due Monday. Teacher returns it the next day (Tuesday). The test is the day after that (Wednesday). Correct answer: すいようび (Wednesday).",
+        "de": "Die Hausaufgaben sind am Montag fällig. Der Lehrer gibt sie am nächsten Tag (Dienstag) zurück. Die Prüfung ist am Tag danach (Mittwoch). Richtige Antwort: すいようび (Mittwoch).",
+        "fr": "Les devoirs sont à rendre le lundi. Le professeur les rend le lendemain (mardi). L'examen a lieu le jour d'après (mercredi). Bonne réponse : すいようび (mercredi).",
+        "es": "La tarea se entrega el lunes. El profesor la devuelve al día siguiente (martes). El examen es el día después de eso (miércoles). Respuesta correcta: すいようび (miércoles).",
+        "ko": "숙제는 월요일에 제출합니다. 선생님은 다음 날(화요일) 숙제를 돌려줍니다. 숙제를 돌려준 다음 날(수요일)에 시험이 있습니다. 정답: すいようび (수요일)."
+    }
+}

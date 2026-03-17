@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "のみものの　ちゅうもん",
+            "tr": "İçecek Siparişi",
+            "en": "Ordering Drinks",
+            "de": "Getränke bestellen",
+            "fr": "Commander des boissons",
+            "es": "Pedir bebidas",
+            "ko": "음료 주문"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/004/audio.mp3",
+    "options": [
+        "こーひー",
+        "おちゃ",
+        "じゅーす",
+        "みず"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "きっさてんで　おんなのひとと　おみせのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+            "dialogue": [
+                {
+                    "speaker": "おみせのひと",
+                    "text": "のみものは　なにに　しますか。こーひーと　おちゃと　じゅーすが　あります。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "こーひーを　おねがいします。あ、やっぱり　おちゃに　します。"
+                },
+                {
+                    "speaker": "おみせのひと",
+                    "text": "おちゃですね。つめたいのと　あたたかいのと　どちらが　いいですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あたたかいのを　おねがいします。"
+                }
+            ],
+            "question": "おんなのひとは　なにを　のみますか。"
+        },
+        "tr": {
+            "intro": "Bir kafede bir kadın ve bir dükkan çalışanı konuşuyor. Kadın ne içecek?",
+            "dialogue": [
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Ne içmek istersiniz? Kahve, çay ve meyve suyu var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Kahve lütfen. Ah, vazgeçtim, çay alacağım."
+                },
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Çay, değil mi? Soğuk mu, sıcak mı istersiniz?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Sıcak olanı lütfen."
+                }
+            ],
+            "question": "Kadın ne içecek?"
+        },
+        "en": {
+            "intro": "A woman and a shop employee are talking at a coffee shop. What will the woman drink?",
+            "dialogue": [
+                {
+                    "speaker": "Shop Staff",
+                    "text": "What would you like to drink? We have coffee, tea, and juice."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Coffee, please. Oh, on second thought, I'll have tea."
+                },
+                {
+                    "speaker": "Shop Staff",
+                    "text": "Tea, right? Would you like it cold or hot?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "The hot one, please."
+                }
+            ],
+            "question": "What will the woman drink?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Angestellter unterhalten sich in einem Café. Was wird die Frau trinken?",
+            "dialogue": [
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Was möchten Sie trinken? Wir haben Kaffee, Tee und Saft."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Kaffee bitte. Ach, doch lieber Tee."
+                },
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Tee, richtig? Möchten Sie ihn kalt oder warm?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das warme bitte."
+                }
+            ],
+            "question": "Was wird die Frau trinken?"
+        },
+        "fr": {
+            "intro": "Une femme et un employé de magasin parlent dans un café. Que va boire la femme ?",
+            "dialogue": [
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Que désirez-vous boire ? Nous avons du café, du thé et du jus."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Un café, s'il vous plaît. Ah, en fait, je vais prendre du thé."
+                },
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Du thé, n'est-ce pas ? Le voulez-vous froid ou chaud ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Le chaud, s'il vous plaît."
+                }
+            ],
+            "question": "Que va boire la femme ?"
+        },
+        "es": {
+            "intro": "Una mujer y un empleado de la tienda están hablando en una cafetería. ¿Qué beberá la mujer?",
+            "dialogue": [
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "¿Qué le gustaría beber? Tenemos café, té y jugo."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Un café, por favor. Ah, pensándolo bien, tomaré té."
+                },
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "Té, ¿verdad? ¿Lo quiere frío o caliente?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "El caliente, por favor."
+                }
+            ],
+            "question": "¿Qué beberá la mujer?"
+        },
+        "ko": {
+            "intro": "카페에서 여자와 가게 직원이 이야기하고 있습니다. 여자는 무엇을 마실까요?",
+            "dialogue": [
+                {
+                    "speaker": "가게 직원",
+                    "text": "음료는 무엇으로 하시겠어요? 커피와 차, 주스가 있습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "커피 부탁드립니다. 아, 역시 차로 할게요."
+                },
+                {
+                    "speaker": "가게 직원",
+                    "text": "차요. 차가운 것과 따뜻한 것 중 어느 것이 좋으세요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "따뜻한 것으로 부탁드립니다."
+                }
+            ],
+            "question": "여자는 무엇을 마실까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きっさてん",
+                "reading": "きっさてん",
+                "meanings": {
+                    "tr": "kahvehane",
+                    "en": "coffee shop",
+                    "de": "Café",
+                    "fr": "café (établissement)",
+                    "es": "cafetería",
+                    "ko": "찻집, 카페"
+                }
+            },
+            {
+                "word": "やっぱり",
+                "reading": "やっぱり",
+                "meanings": {
+                    "tr": "vazgeçip / yine de",
+                    "en": "after all / on second thought",
+                    "de": "doch / letztendlich / doch lieber",
+                    "fr": "finalement / après tout / en fait",
+                    "es": "después de todo / pensándolo bien",
+                    "ko": "역시 / 아무래도 / 다시 생각해보니"
+                }
+            },
+            {
+                "word": "つめたい",
+                "reading": "つめたい",
+                "meanings": {
+                    "tr": "soğuk",
+                    "en": "cold",
+                    "de": "kalt",
+                    "fr": "froid",
+                    "es": "frío",
+                    "ko": "차가운"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "meanings": {
+                    "tr": "karar vermek / seçmek",
+                    "en": "to decide on / choose",
+                    "de": "sich entscheiden für / wählen",
+                    "fr": "décider de / choisir",
+                    "es": "decidir / elegir",
+                    "ko": "~으로 하다 / ~을 선택하다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kahve (こーひー) istiyor ancak 'やっぱり' diyerek fikrini değiştirip çaya (おちゃ) karar veriyor. Doğru cevap çaydır (おちゃ). Kahve ilk teklif edildi ama vazgeçildi, meyve suyu ve su hiç seçilmedi.",
+        "en": "The woman first orders coffee (こーひー) but changes her mind ('やっぱり') and switches to tea (おちゃ). The correct answer is tea. Coffee was the initial choice but abandoned.",
+        "de": "Die Frau bestellt zuerst Kaffee (こーひー), ändert aber ihre Meinung ('やっぱり') und entscheidet sich für Tee (おちゃ). Die richtige Antwort ist Tee. Kaffee war die erste Wahl, wurde aber aufgegeben.",
+        "fr": "La femme commande d'abord du café (こーひー), mais change d'avis ('やっぱり') et opte pour du thé (おちゃ). La bonne réponse est le thé. Le café était le choix initial mais a été abandonné.",
+        "es": "La mujer pide primero café (こーひー), pero cambia de opinión ('やっぱり') y se decide por té (おちゃ). La respuesta correcta es té. El café fue la elección inicial pero fue abandonado.",
+        "ko": "여자는 처음에 커피(こーひー)를 주문하지만 'やっぱり'라고 말하며 마음을 바꿔 차(おちゃ)로 결정합니다. 정답은 차(おちゃ)입니다. 커피는 처음 제안되었지만 포기되었고, 주스와 물은 전혀 선택되지 않았습니다."
+    }
+}

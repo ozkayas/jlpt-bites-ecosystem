@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "これからの　よてい (Upcoming Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "しゅくだいを　します",
+        "あるばいとに　いきます",
+        "ともだちと　かいものに　いきます",
+        "うちで　ねます"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　このあと　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "このあと　なにを　しますか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "しゅくだいを　します。あしたまでですから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "えっ、しゅくだいは　らいしゅうまでですよ。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ほんとうですか。じゃあ　ともだちと　かいものに　いきます。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "いいですね。"
+            }
+        ],
+        "question": "おんなのひとは　このあと　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅくだい",
+                "tr": "ödev",
+                "en": "homework"
+            },
+            {
+                "word": "かいもの",
+                "tr": "alışveriş",
+                "en": "shopping"
+            },
+            {
+                "word": "らいしゅう",
+                "tr": "gelecek hafta",
+                "en": "next week"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～まで",
+                "tr": "-e kadar",
+                "en": "until"
+            },
+            {
+                "point": "～から (sebep)",
+                "tr": "çünkü",
+                "en": "because"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce ödev yapacağını (しゅくだい) söylüyor çünkü yarına kadar sanıyor. Erkek ödevin gelecek haftaya kadar olduğunu söyleyince kadın fikrini değiştirip arkadaşıyla alışverişe (かいもの) gitmeye karar veriyor.",
+        "en": "The woman initially plans to do homework (しゅくだい) thinking it's due tomorrow. When the man says it's due next week, she changes her mind and decides to go shopping (かいもの) with a friend."
+    }
+}

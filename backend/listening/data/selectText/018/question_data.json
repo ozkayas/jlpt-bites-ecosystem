@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "りょこうの　にんずう (Travel Group Size)",
+        "audio_url": null
+    },
+    "options": [
+        "さんにん",
+        "よにん",
+        "ごにん",
+        "ろくにん"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　なんにんで　りょこうに　いきましたか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "きれいな　しゃしんですね。どこですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "きょうとです。おっとと　こどもたちと　いっしょに　いきました。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "おこさんは　なんにんですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "さんにんです。むすこが　ふたりと　むすめが　ひとりです。"
+            }
+        ],
+        "question": "おんなのひとは　なんにんで　りょこうに　いきましたか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おっと",
+                "tr": "koca",
+                "en": "husband"
+            },
+            {
+                "word": "こども",
+                "tr": "çocuk",
+                "en": "child/children"
+            },
+            {
+                "word": "むすこ",
+                "tr": "oğul",
+                "en": "son"
+            },
+            {
+                "word": "むすめ",
+                "tr": "kız çocuk",
+                "en": "daughter"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～と　いっしょに",
+                "tr": "... ile birlikte",
+                "en": "together with ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın + kocası (1) + çocuklar (3: 2 oğul + 1 kız) = toplam 5 kişi. Çocuk sayısı (3) ve koca dahil (4) yanlış hesaplardır. Doğru cevap ごにん (5 kişi).",
+        "en": "Woman + husband (1) + children (3: 2 sons + 1 daughter) = 5 total. Children count (3) and husband+children (4) are partial calculations. Correct: ごにん (5 people)."
+    }
+}

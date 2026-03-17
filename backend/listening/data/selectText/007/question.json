@@ -1,0 +1,307 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "わすれた　ふくろ",
+            "tr": "Unutulmuş Çanta",
+            "en": "Forgotten Bag",
+            "de": "Vergessene Tasche",
+            "fr": "Sac oublié",
+            "es": "Bolsa olvidada",
+            "ko": "잊어버린 가방"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/007/audio.mp3",
+    "options": [
+        "ほんと　かぎ",
+        "ほんと　めがね",
+        "かぎと　めがね",
+        "ほんと　かぎと　めがね"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "おみせで　おんなのひとと　おみせのひとが　はなしています。おんなのひとの　ふくろの　なかに　なにが　ありますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "すみません。きのう　ここに　ふくろを　わすれましたが。"
+                },
+                {
+                    "speaker": "おみせのひと",
+                    "text": "どんな　ふくろですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ちいさい　しろい　ふくろです。なかに　ほんと　めがねと　かぎが　はいっています。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あ、かぎは　ぽけっとに　いれましたから　ほんと　めがねだけです。"
+                },
+                {
+                    "speaker": "おみせのひと",
+                    "text": "これですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あ、はい。ありがとうございます。"
+                }
+            ],
+            "question": "おんなのひとの　ふくろの　なかに　なにが　ありますか。"
+        },
+        "tr": {
+            "intro": "Mağazada bir kadın ve mağaza görevlisi konuşuyor. Kadının çantasının içinde ne var?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Affedersiniz. Dün buraya bir çanta unutmuştum."
+                },
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Nasıl bir çanta?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Küçük, beyaz bir çanta. İçinde kitap, gözlük ve anahtar var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ah, anahtarı cebime koymuştum, bu yüzden sadece kitap ve gözlük var."
+                },
+                {
+                    "speaker": "Mağaza Görevlisi",
+                    "text": "Bu mu?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ah, evet. Teşekkür ederim."
+                }
+            ],
+            "question": "Kadının çantasının içinde ne var?"
+        },
+        "en": {
+            "intro": "At the store, a woman and a store clerk are talking. What is inside the woman's bag?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me. I forgot a bag here yesterday."
+                },
+                {
+                    "speaker": "Shop Staff",
+                    "text": "What kind of bag is it?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "It's a small, white bag. Inside, there's a book, glasses, and a key."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, I put the key in my pocket, so it's just the book and glasses."
+                },
+                {
+                    "speaker": "Shop Staff",
+                    "text": "Is this it?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, yes. Thank you very much."
+                }
+            ],
+            "question": "What is inside the woman's bag?"
+        },
+        "de": {
+            "intro": "Im Laden sprechen eine Frau und ein Ladenangestellter. Was ist in der Tasche der Frau?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigen Sie. Ich habe gestern hier eine Tasche vergessen."
+                },
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Was für eine Tasche ist es?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Es ist eine kleine, weiße Tasche. Darin sind ein Buch, eine Brille und ein Schlüssel."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ach, den Schlüssel habe ich in meine Tasche gesteckt, also sind es nur das Buch und die Brille."
+                },
+                {
+                    "speaker": "Verkäufer/in",
+                    "text": "Ist es diese?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Oh, ja. Vielen Dank."
+                }
+            ],
+            "question": "Was ist in der Tasche der Frau?"
+        },
+        "fr": {
+            "intro": "Dans le magasin, une femme et un employé du magasin parlent. Qu'y a-t-il dans le sac de la femme ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Excusez-moi. J'ai oublié un sac ici hier."
+                },
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Quel genre de sac est-ce ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "C'est un petit sac blanc. À l'intérieur, il y a un livre, des lunettes et une clé."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah, j'ai mis la clé dans ma poche, donc il n'y a que le livre et les lunettes."
+                },
+                {
+                    "speaker": "Vendeur/se",
+                    "text": "Est-ce celui-ci ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah, oui. Merci beaucoup."
+                }
+            ],
+            "question": "Qu'y a-t-il dans le sac de la femme ?"
+        },
+        "es": {
+            "intro": "En la tienda, una mujer y un dependiente están hablando. ¿Qué hay dentro de la bolsa de la mujer?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe. Olvidé una bolsa aquí ayer."
+                },
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "¿Qué tipo de bolsa es?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Es una bolsa pequeña y blanca. Dentro hay un libro, gafas y una llave."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, puse la llave en mi bolsillo, así que solo están el libro y las gafas."
+                },
+                {
+                    "speaker": "Vendedor/a",
+                    "text": "¿Es esta?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, sí. Muchas gracias."
+                }
+            ],
+            "question": "¿Qué hay dentro de la bolsa de la mujer?"
+        },
+        "ko": {
+            "intro": "가게에서 여자와 가게 직원이 이야기하고 있습니다. 여자의 가방 안에 무엇이 있습니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "실례합니다. 어제 여기에 가방을 잊어버렸는데요."
+                },
+                {
+                    "speaker": "가게 직원",
+                    "text": "어떤 가방입니까?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "작고 하얀 가방입니다. 안에 책과 안경, 열쇠가 들어있습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 열쇠는 주머니에 넣었으니까 책하고 안경뿐입니다."
+                },
+                {
+                    "speaker": "가게 직원",
+                    "text": "이것입니까?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 네. 감사합니다."
+                }
+            ],
+            "question": "여자의 가방 안에 무엇이 있습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ふくろ",
+                "reading": "ふくろ",
+                "meanings": {
+                    "tr": "torba/çanta",
+                    "en": "bag",
+                    "de": "Tasche, Beutel",
+                    "fr": "sac",
+                    "es": "bolsa, saco",
+                    "ko": "가방, 봉투"
+                }
+            },
+            {
+                "word": "わすれる",
+                "reading": "わすれる",
+                "meanings": {
+                    "tr": "unutmak",
+                    "en": "to forget",
+                    "de": "vergessen",
+                    "fr": "oublier",
+                    "es": "olvidar",
+                    "ko": "잊다"
+                }
+            },
+            {
+                "word": "めがね",
+                "reading": "めがね",
+                "meanings": {
+                    "tr": "gözlük",
+                    "en": "glasses",
+                    "de": "Brille",
+                    "fr": "lunettes",
+                    "es": "gafas",
+                    "ko": "안경"
+                }
+            },
+            {
+                "word": "かぎ",
+                "reading": "かぎ",
+                "meanings": {
+                    "tr": "anahtar",
+                    "en": "key",
+                    "de": "Schlüssel",
+                    "fr": "clé",
+                    "es": "llave",
+                    "ko": "열쇠"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～だけ",
+                "meanings": {
+                    "tr": "sadece",
+                    "en": "only",
+                    "de": "nur",
+                    "fr": "seulement",
+                    "es": "solo, solamente",
+                    "ko": "~만"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kitap, gözlük ve anahtar olduğunu söylüyor. Sonra anahtarın (かぎ) cebinde olduğunu hatırlayıp düzeltiyor. Torbada sadece kitap (ほん) ve gözlük (めがね) kalmıştır.",
+        "en": "The woman initially says the bag contains a book, glasses, and keys. She then corrects herself, saying the keys (かぎ) are in her pocket. Only the book (ほん) and glasses (めがね) remain in the bag.",
+        "de": "Die Frau sagt zuerst, dass die Tasche ein Buch, eine Brille und einen Schlüssel enthält. Dann korrigiert sie sich und sagt, dass der Schlüssel (かぎ) in ihrer Tasche ist. Nur das Buch (ほん) und die Brille (めがね) bleiben in der Tasche.",
+        "fr": "La femme dit d'abord que le sac contient un livre, des lunettes et une clé. Elle se corrige ensuite, disant que la clé (かぎ) est dans sa poche. Seuls le livre (ほん) et les lunettes (めがね) restent dans le sac.",
+        "es": "La mujer dice inicialmente que la bolsa contiene un libro, gafas y llaves. Luego se corrige, diciendo que las llaves (かぎ) están en su bolsillo. Solo el libro (ほん) y las gafas (めがね) quedan en la bolsa.",
+        "ko": "여자는 처음에 가방에 책, 안경, 열쇠가 있다고 말합니다. 그 후 열쇠(かぎ)가 주머니에 있다고 정정합니다. 가방에는 책(ほん)과 안경(めがね)만 남아 있습니다."
+    }
+}

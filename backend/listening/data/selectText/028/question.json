@@ -1,0 +1,295 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "かいものの　ひ",
+            "tr": "Alışveriş Günü",
+            "en": "Shopping Day",
+            "de": "Einkaufstag",
+            "fr": "Journée Shopping",
+            "es": "Día de Compras",
+            "ko": "쇼핑하는 날"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/028/audio.mp3",
+    "options": [
+        "どようび",
+        "にちようび",
+        "げつようび",
+        "きんようび"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。ふたりは　いつ　かいものに　いきますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "こんしゅうの　どようび　いっしょに　かいものに　いきませんか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "すみません、どようびは　あるばいとが　あります。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "にちようびは　どうですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "にちようびは　ごぜんは　あるばいとですが　ごご　さんじに　おわります。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "じゃあ　にちようびの　ごご　いきましょう。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "はい、そうしましょう。"
+                }
+            ],
+            "question": "ふたりは　いつ　かいものに　いきますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. İkisi ne zaman alışverişe gidecek?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Bu cumartesi birlikte alışverişe gitmek ister misin?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Üzgünüm, cumartesi yarı zamanlı işim var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Pazar günü nasıl olur?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Pazar günü sabah yarı zamanlı işim var ama öğleden sonra saat üçte bitiyor."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "O zaman pazar öğleden sonra gidelim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Evet, öyle yapalım."
+                }
+            ],
+            "question": "İkisi ne zaman alışverişe gidecek?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. When will the two of them go shopping?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Would you like to go shopping together this Saturday?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Sorry, I have a part-time job on Saturday."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "How about Sunday?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "On Sunday, I have a part-time job in the morning, but it finishes at 3 PM in the afternoon."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Okay, then let's go on Sunday afternoon."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes, let's do that."
+                }
+            ],
+            "question": "When will the two of them go shopping?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Wann gehen die beiden einkaufen?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Möchtest du diesen Samstag zusammen einkaufen gehen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigung, am Samstag habe ich einen Nebenjob."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Wie wäre es mit Sonntag?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Am Sonntag habe ich vormittags einen Nebenjob, aber er endet um 15 Uhr nachmittags."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Gut, dann gehen wir am Sonntagnachmittag."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja, machen wir das."
+                }
+            ],
+            "question": "Wann gehen die beiden einkaufen?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Quand iront-ils faire les courses ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Voudriez-vous aller faire les courses ensemble ce samedi ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Désolé, j'ai un petit boulot samedi."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Et dimanche ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Dimanche, j'ai un petit boulot le matin, mais ça finit à 15h l'après-midi."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "D'accord, alors allons-y dimanche après-midi."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui, faisons ça."
+                }
+            ],
+            "question": "Quand iront-ils faire les courses ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Cuándo irán de compras?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Te gustaría ir de compras juntos este sábado?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Lo siento, el sábado tengo un trabajo a tiempo parcial."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué tal el domingo?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "El domingo tengo un trabajo a tiempo parcial por la mañana, pero termina a las 3 PM por la tarde."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "De acuerdo, entonces vayamos el domingo por la tarde."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí, hagamos eso."
+                }
+            ],
+            "question": "¿Cuándo irán de compras?"
+        },
+        "ko": {
+            "intro": "여자하고 남자가 이야기하고 있습니다. 두 사람은 언제 쇼핑하러 갑니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "이번 주 토요일에 같이 쇼핑하러 가지 않을래요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "죄송합니다, 토요일은 아르바이트가 있습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "일요일은 어떻습니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "일요일은 오전에는 아르바이트가 있지만 오후 3시에 끝납니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그럼 일요일 오후에 갑시다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네, 그렇게 합시다."
+                }
+            ],
+            "question": "두 사람은 언제 쇼핑하러 갑니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "どようび",
+                "reading": "どようび",
+                "meanings": {
+                    "tr": "Cumartesi",
+                    "en": "Saturday",
+                    "de": "Samstag",
+                    "fr": "samedi",
+                    "es": "sábado",
+                    "ko": "토요일"
+                }
+            },
+            {
+                "word": "にちようび",
+                "reading": "にちようび",
+                "meanings": {
+                    "tr": "Pazar",
+                    "en": "Sunday",
+                    "de": "Sonntag",
+                    "fr": "dimanche",
+                    "es": "domingo",
+                    "ko": "일요일"
+                }
+            },
+            {
+                "word": "あるばいと",
+                "reading": "あるばいと",
+                "meanings": {
+                    "tr": "yarı zamanlı iş",
+                    "en": "part-time job",
+                    "de": "Nebenjob",
+                    "fr": "petit boulot / travail à temps partiel",
+                    "es": "trabajo a tiempo parcial",
+                    "ko": "아르바이트"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ませんか",
+                "meanings": {
+                    "tr": "yapmaz mısınız? (teklif)",
+                    "en": "won't you? (invitation)",
+                    "de": "Möchten Sie nicht? (Einladung)",
+                    "fr": "Ne voulez-vous pas ? (invitation)",
+                    "es": "¿No le gustaría? (invitación)",
+                    "ko": "~하지 않겠습니까? (제안)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Cumartesi (どようび) erkek çalışıyor. Pazar (にちようび) sabah işi var ama öğleden sonra 3'te bitiyor. İkisi Pazar öğleden sonra buluşmaya karar veriyor. Doğru cevap にちようび.",
+        "en": "Saturday (どようび) the man works. Sunday (にちようび) he works in the morning but finishes at 3 PM. They agree to go Sunday afternoon. Correct: にちようび.",
+        "de": "Am Samstag (どようび) arbeitet der Mann. Am Sonntag (にちようび) arbeitet er vormittags, ist aber um 15 Uhr fertig. Sie einigen sich darauf, am Sonntagnachmittag einkaufen zu gehen. Korrekt: にちようび.",
+        "fr": "Le samedi (どようび), l'homme travaille. Le dimanche (にちようび), il travaille le matin mais finit à 15h. Ils décident d'aller faire les courses le dimanche après-midi. Réponse correcte : にちようび.",
+        "es": "El sábado (どようび) el hombre trabaja. El domingo (にちようび) trabaja por la mañana pero termina a las 3 PM. Acuerdan ir el domingo por la tarde. Correcto: にちようび.",
+        "ko": "토요일(どようび)은 남자가 일합니다. 일요일(にちようび)은 오전에 아르바이트가 있지만 오후 3시에 끝납니다. 두 사람은 일요일 오후에 쇼핑하러 가기로 합니다. 정답은 にちようび입니다."
+    }
+}

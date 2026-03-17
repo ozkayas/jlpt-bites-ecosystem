@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "のみものの　ちゅうもん (Ordering Drinks)",
+        "audio_url": null
+    },
+    "options": [
+        "こーひー",
+        "おちゃ",
+        "じゅーす",
+        "みず"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "きっさてんで　おんなのひとと　おみせのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+        "dialogue": [
+            {
+                "speaker": "おみせのひと",
+                "text": "のみものは　なにに　しますか。こーひーと　おちゃと　じゅーすが　あります。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "こーひーを　おねがいします。あ、やっぱり　おちゃに　します。"
+            },
+            {
+                "speaker": "おみせのひと",
+                "text": "おちゃですね。つめたいのと　あたたかいのと　どちらが　いいですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "あたたかいのを　おねがいします。"
+            }
+        ],
+        "question": "おんなのひとは　なにを　のみますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "きっさてん",
+                "tr": "kahvehane",
+                "en": "coffee shop"
+            },
+            {
+                "word": "やっぱり",
+                "tr": "yine de / vazgeçip",
+                "en": "after all / on second thought"
+            },
+            {
+                "word": "つめたい",
+                "tr": "soğuk",
+                "en": "cold"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "tr": "karar vermek / seçmek",
+                "en": "to decide on / choose"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kahve (こーひー) istiyor ama 'やっぱり' diyerek fikrini değiştirip çaya (おちゃ) karar veriyor. Doğru cevap おちゃ (çay). Kahve ilk teklif ama vazgeçildi, jüs ve su hiç seçilmedi.",
+        "en": "The woman first orders coffee (こーひー) but changes her mind ('やっぱり') and switches to tea (おちゃ). The correct answer is tea. Coffee was the initial choice but abandoned."
+    }
+}

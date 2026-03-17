@@ -1,0 +1,250 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "やすみの　ひの　よてい",
+            "tr": "Gün İzni Planları",
+            "en": "Day Off Plans",
+            "de": "Pläne für den freien Tag",
+            "fr": "Plans pour le jour de congé",
+            "es": "Planes para el día libre",
+            "ko": "쉬는 날 계획"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/008/audio.mp3",
+    "options": [
+        "ぷーるで　およぎます",
+        "うちで　えいがを　みます",
+        "こうえんを　さんぽします",
+        "としょかんで　べんきょうします"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。ふたりは　あした　なにを　しますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あした　やすみですね。いっしょに　ぷーるへ　いきませんか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "すみません。あしたは　あさ　ともだちと　てにすを　します。ちょっと　つかれますから。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "じゃあ　ぷーるじゃなくて　こうえんを　さんぽしませんか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "いいですね。そうしましょう。"
+                }
+            ],
+            "question": "ふたりは　あした　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. İkisi yarın ne yapacak?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Yarın tatil, değil mi? Birlikte havuza gitmek ister misin?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Üzgünüm. Yarın sabah arkadaşımla tenis oynayacağım. Biraz yorulurum da."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "O zaman havuz yerine parkta yürüyüş yapmaya ne dersin?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "İyi fikir. Öyle yapalım."
+                }
+            ],
+            "question": "İkisi yarın ne yapacak?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. What will the two of them do tomorrow?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Tomorrow is a day off, isn't it? Would you like to go to the pool together?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Sorry. Tomorrow morning I'll play tennis with a friend. I'll be a bit tired."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Then, instead of the pool, how about a walk in the park?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "That's good. Let's do that."
+                }
+            ],
+            "question": "What will the two of them do tomorrow?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Was werden die beiden morgen tun?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Morgen ist frei, nicht wahr? Wollen wir zusammen ins Schwimmbad gehen?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Entschuldigung. Morgen früh spiele ich Tennis mit einem Freund. Ich werde etwas müde sein."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Dann, statt ins Schwimmbad, wie wäre es mit einem Spaziergang im Park?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Das ist gut. Machen wir das."
+                }
+            ],
+            "question": "Was werden die beiden morgen tun?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Que feront-ils demain ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Demain, c'est un jour de congé, n'est-ce pas ? On irait à la piscine ensemble ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Désolé. Demain matin, je jouerai au tennis avec un ami. Je serai un peu fatigué."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Alors, au lieu de la piscine, on irait se promener dans le parc ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est une bonne idée. Faisons ça."
+                }
+            ],
+            "question": "Que feront-ils demain ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Qué harán ellos dos mañana?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Mañana es día libre, ¿verdad? ¿Vamos juntos a la piscina?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Lo siento. Mañana por la mañana jugaré al tenis con un amigo. Estaré un poco cansado."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entonces, en lugar de la piscina, ¿qué tal un paseo por el parque?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Eso está bien. Hagamos eso."
+                }
+            ],
+            "question": "¿Qué harán ellos dos mañana?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 두 사람은 내일 무엇을 할까요?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "내일 쉬는 날이네요. 같이 수영장에 가지 않을래요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "죄송합니다. 내일 아침에 친구와 테니스를 칠 거예요. 좀 피곤할 것 같아서요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그럼 수영장 말고 공원을 산책하지 않을래요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "좋네요. 그렇게 해요."
+                }
+            ],
+            "question": "두 사람은 내일 무엇을 할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぷーる",
+                "reading": "ぷーる",
+                "meanings": {
+                    "tr": "havuz",
+                    "en": "pool",
+                    "de": "Schwimmbad",
+                    "fr": "piscine",
+                    "es": "piscina",
+                    "ko": "수영장"
+                }
+            },
+            {
+                "word": "つかれる",
+                "reading": "つかれる",
+                "meanings": {
+                    "tr": "yorulmak",
+                    "en": "to get tired",
+                    "de": "müde werden",
+                    "fr": "se fatiguer",
+                    "es": "cansarse",
+                    "ko": "피곤해지다"
+                }
+            },
+            {
+                "word": "さんぽ",
+                "reading": "さんぽ",
+                "meanings": {
+                    "tr": "yürüyüş",
+                    "en": "walk/stroll",
+                    "de": "Spaziergang",
+                    "fr": "promenade",
+                    "es": "paseo",
+                    "ko": "산책"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～じゃなくて",
+                "meanings": {
+                    "tr": "... değil de",
+                    "en": "not ... but",
+                    "de": "nicht ... sondern",
+                    "fr": "non pas ... mais",
+                    "es": "no ... sino",
+                    "ko": "...이/가 아니라"
+                }
+            },
+            {
+                "point": "～ましょう",
+                "meanings": {
+                    "tr": "hadi yapalım",
+                    "en": "let's do",
+                    "de": "lass uns tun",
+                    "fr": "faisons",
+                    "es": "hagamos",
+                    "ko": "...합시다 (하자)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın havuza (ぷーる) gitmeyi teklif ediyor. Erkek sabah tenis oynayacağı için yorgun olacağını söylüyor. Kadın havuz yerine parkta yürüyüş (こうえんをさんぽ) önerince erkek kabul ediyor.",
+        "en": "The woman suggests going to the pool (ぷーる). The man says he'll be tired after tennis. She suggests a walk in the park (こうえんをさんぽ) instead, which he agrees to.",
+        "de": "Die Frau schlägt vor, ins Schwimmbad (ぷーる) zu gehen. Der Mann sagt, er werde nach dem Tennisspielen müde sein. Sie schlägt stattdessen einen Spaziergang im Park (こうえんをさんぽ) vor, womit er einverstanden ist.",
+        "fr": "La femme propose d'aller à la piscine (ぷーる). L'homme dit qu'il sera fatigué après le tennis. Elle suggère une promenade dans le parc (こうえんをさんぽ) à la place, ce qu'il accepte.",
+        "es": "La mujer sugiere ir a la piscina (ぷーる). El hombre dice que estará cansado después de jugar al tenis. Ella sugiere un paseo por el parque (こうえんをさんぽ) en su lugar, a lo que él accede.",
+        "ko": "여자가 수영장(ぷーる)에 가자고 제안합니다. 남자는 아침에 테니스를 칠 것이기 때문에 피곤할 것이라고 말합니다. 여자가 수영장 대신 공원 산책(こうえんをさんぽ)을 제안하자 남자가 동의합니다."
+    }
+}

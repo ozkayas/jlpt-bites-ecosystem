@@ -9,15 +9,17 @@ Firestore structure:
     - reading: string       (e.g. "たべる")
     - romaji: string        (e.g. "taberu")
     - tag: string           (名詞 | 動詞 | 形容詞 | 副詞 | 表現)
-    - translations: map     ({en, tr, de, es, fr})
+    - translations: map     ({en, tr, de, es, fr, ko})
     - audioUrl: string|null
-    - sentences: list of 3  ({ja, romaji, translations: {en,tr,de,es,fr}})
+    - sentences: list of 3  ({ja, furigana, romaji, translations: {en,tr,de,es,fr,ko}})
     - uploaded_at: string   (ISO 8601 timestamp)
 
 Usage:
-    python3 upload_n5_vocabulary.py              # upload all words
-    python3 upload_n5_vocabulary.py --tag 動詞   # upload only verb words
-    python3 upload_n5_vocabulary.py --dry-run    # preview without uploading
+    python3 upload_n5_vocabulary.py                            # upload all words from default file
+    python3 upload_n5_vocabulary.py --file n5_vocabulary_v01.json  # upload from specific file
+    python3 upload_n5_vocabulary.py --tag 動詞                 # upload only verb words
+    python3 upload_n5_vocabulary.py --clear                    # delete all existing docs first
+    python3 upload_n5_vocabulary.py --dry-run                  # preview without uploading
 """
 
 import firebase_admin
@@ -62,9 +64,36 @@ def initialize_firebase():
         sys.exit(1)
 
 
-def load_words(tag_filter: Optional[str] = None) -> List[Dict[str, Any]]:
+def clear_collection(db, dry_run: bool = False):
+    """Delete all documents in the n5_vocabulary collection."""
+    print(f"\n🗑️  Clearing existing '{COLLECTION_NAME}' collection...")
+    if dry_run:
+        print("   [DRY-RUN] Would delete all documents.")
+        return
+
+    collection_ref = db.collection(COLLECTION_NAME)
+    batch_size = 400
+    deleted_total = 0
+
+    while True:
+        docs = collection_ref.limit(batch_size).stream()
+        batch = db.batch()
+        count = 0
+        for doc in docs:
+            batch.delete(doc.reference)
+            count += 1
+        if count == 0:
+            break
+        batch.commit()
+        deleted_total += count
+        print(f"   ✓ Deleted {deleted_total} documents so far...")
+
+    print(f"   ✅ Collection cleared ({deleted_total} documents deleted).\n")
+
+
+def load_words(tag_filter: Optional[str] = None, filename: str = 'n5_vocabulary.json') -> List[Dict[str, Any]]:
     """Load words from JSON file, optionally filtering by tag."""
-    data_path = Path(__file__).parent.parent / 'data' / 'n5_vocabulary.json'
+    data_path = Path(__file__).parent.parent / 'data' / filename
 
     if not data_path.exists():
         print(f"❌ Data file not found: {data_path}")
@@ -165,10 +194,20 @@ Examples:
         """
     )
     parser.add_argument(
+        '--file',
+        default='n5_vocabulary.json',
+        help='JSON filename in data/ directory to upload (default: n5_vocabulary.json)'
+    )
+    parser.add_argument(
         '--tag',
         choices=VALID_TAGS,
         default=None,
         help='Upload only words with this tag (default: all tags)'
+    )
+    parser.add_argument(
+        '--clear',
+        action='store_true',
+        help='Delete all existing documents in the collection before uploading'
     )
     parser.add_argument(
         '--dry-run',
@@ -186,7 +225,7 @@ Examples:
         print("🔍 DRY-RUN mode: no data will be written to Firestore\n")
 
     # Load data
-    words = load_words(tag_filter=args.tag)
+    words = load_words(tag_filter=args.tag, filename=args.file)
     if not words:
         print("No words to process. Exiting.")
         sys.exit(0)
@@ -199,6 +238,10 @@ Examples:
         db = firestore.client()
     else:
         db = None  # not used in dry-run
+
+    # Clear collection if requested
+    if args.clear:
+        clear_collection(db, dry_run=args.dry_run)
 
     # Upload
     try:

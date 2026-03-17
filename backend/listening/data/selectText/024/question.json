@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "のみものを　えらぶ",
+            "tr": "İçecek Seçmek",
+            "en": "Choosing Drinks",
+            "de": "Getränke auswählen",
+            "fr": "Choisir des boissons",
+            "es": "Elegir bebidas",
+            "ko": "음료 선택하기"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/024/audio.mp3",
+    "options": [
+        "つめたい　おちゃ",
+        "あたたかい　こーひー",
+        "じゅーす",
+        "みず"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "なにを　のみますか。こーひーと　おちゃと　じゅーすが　ありますよ。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "こーひーを　おねがいします。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "あたたかい　こーひーと　つめたい　こーひーが　ありますが。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "んー、やっぱり　つめたい　おちゃに　します。きょうは　あついですから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "はい、わかりました。"
+                }
+            ],
+            "question": "おんなのひとは　なにを　のみますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın ne içecek?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Ne içersiniz? Kahve, çay ve meyve suyu var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Kahve lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Sıcak kahve ve soğuk kahve var, hangisini istersiniz?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hmm, yine de soğuk çay alacağım. Bugün hava sıcak."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Evet, anladım."
+                }
+            ],
+            "question": "Kadın ne içecek?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the woman drink?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "What will you drink? We have coffee, tea, and juice."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Coffee, please."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "We have hot coffee and cold coffee. Which one?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Hmm, actually, I'll have cold tea after all. It's hot today."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes, I understand."
+                }
+            ],
+            "question": "What will the woman drink?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Was wird die Frau trinken?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Was möchten Sie trinken? Wir haben Kaffee, Tee und Saft."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Kaffee, bitte."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wir haben warmen Kaffee und kalten Kaffee. Welchen möchten Sie?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Hmm, doch lieber kalten Tee. Es ist heute heiß."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja, verstanden."
+                }
+            ],
+            "question": "Was wird die Frau trinken?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Que va boire la femme ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Que voulez-vous boire ? Nous avons du café, du thé et du jus."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Du café, s'il vous plaît."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Nous avons du café chaud et du café froid. Lequel préférez-vous ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Hmm, finalement, je vais prendre du thé froid. Il fait chaud aujourd'hui."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui, j'ai compris."
+                }
+            ],
+            "question": "Que va boire la femme ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué beberá la mujer?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué va a beber? Tenemos café, té y zumo."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Café, por favor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Tenemos café caliente y café frío. ¿Cuál prefiere?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Mmm, al final, tomaré té frío. Hoy hace calor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí, entendido."
+                }
+            ],
+            "question": "¿Qué beberá la mujer?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 무엇을 마실까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "무엇을 마시겠어요? 커피와 차, 주스가 있어요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "커피로 부탁해요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "따뜻한 커피와 차가운 커피가 있는데, 어떤 것으로 하시겠어요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "음, 역시 차가운 차로 할게요. 오늘은 더우니까요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네, 알겠습니다."
+                }
+            ],
+            "question": "여자는 무엇을 마실까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あたたかい",
+                "reading": "あたたかい",
+                "meanings": {
+                    "tr": "sıcak/ılık",
+                    "en": "warm/hot",
+                    "de": "warm/heiß",
+                    "fr": "chaud/tiède",
+                    "es": "cálido/caliente",
+                    "ko": "따뜻한/뜨거운"
+                }
+            },
+            {
+                "word": "つめたい",
+                "reading": "つめたい",
+                "meanings": {
+                    "tr": "soğuk",
+                    "en": "cold",
+                    "de": "kalt",
+                    "fr": "froid",
+                    "es": "frío",
+                    "ko": "차가운"
+                }
+            },
+            {
+                "word": "あつい",
+                "reading": "あつい",
+                "meanings": {
+                    "tr": "sıcak (hava)",
+                    "en": "hot (weather)",
+                    "de": "heiß (Wetter)",
+                    "fr": "chaud (temps)",
+                    "es": "caluroso (clima)",
+                    "ko": "더운 (날씨)"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "meanings": {
+                    "tr": "karar vermek",
+                    "en": "to decide on",
+                    "de": "sich entscheiden für",
+                    "fr": "décider de",
+                    "es": "decidirse por",
+                    "ko": "~으로 하다 / ~으로 결정하다"
+                }
+            },
+            {
+                "point": "やっぱり",
+                "meanings": {
+                    "tr": "yine de / vazgeçip",
+                    "en": "after all",
+                    "de": "doch / letztendlich",
+                    "fr": "finalement / après tout",
+                    "es": "al final / después de todo",
+                    "ko": "역시 / 결국"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kahve (こーひー) istiyor. Sıcak mı soğuk mu sorulunca 'やっぱり' diyerek fikrini tamamen değiştirip soğuk çay (つめたいおちゃ) seçiyor. Doğru cevap soğuk çay.",
+        "en": "The woman first wants coffee (こーひー). When asked hot or cold, she changes her mind entirely ('やっぱり') and chooses cold tea (つめたいおちゃ). Correct: cold tea.",
+        "de": "Die Frau möchte zuerst Kaffee (こーひー). Als sie gefragt wird, ob heiß oder kalt, ändert sie ihre Meinung komplett ('やっぱり') und wählt kalten Tee (つめたいおちゃ). Richtig: kalter Tee.",
+        "fr": "La femme veut d'abord du café (こーひー). Quand on lui demande chaud ou froid, elle change complètement d'avis ('やっぱり') et choisit du thé froid (つめたいおちゃ). Réponse correcte : thé froid.",
+        "es": "La mujer primero quiere café (こーひー). Cuando le preguntan si caliente o frío, cambia completamente de opinión ('やっぱり') y elige té frío (つめたいおちゃ). Correcto: té frío.",
+        "ko": "여자는 처음에 커피(こーひー)를 원합니다. 뜨거운 것인지 차가운 것인지 질문받자, 'やっぱり'라고 말하며 완전히 마음을 바꿔 차가운 차(つめたいおちゃ)를 선택합니다. 정답은 차가운 차입니다."
+    }
+}

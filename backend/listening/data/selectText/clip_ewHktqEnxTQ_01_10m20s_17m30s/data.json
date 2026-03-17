@@ -1,0 +1,343 @@
+{
+  "batch_metadata": {
+    "level": "N5",
+    "audio_url": "http://googleusercontent.com/file_content/0"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "topic": "なつやすみの　よてい (Summer Vacation Plans)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　なつやすみに　なにをしますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "なつやすみは　どうしますか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ずっと　あるばいとです。でも　りょこうにも　いきたいです。たなかさんは？"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "かぞく　みんなで　ふじさんに　のぼります。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "いいですね。でも　たかいですから　きをつけてくださいね。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "ええ。いま　ちちと　ははが　まいにち　はしっていますよ。"
+          }
+        ],
+        "question": "おとこのひとは　なつやすみに　なにをしますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "なつやすみ",
+            "tr": "yaz tatili",
+            "en": "summer vacation"
+          },
+          {
+            "word": "あるばいと",
+            "tr": "yarı zamanlı iş",
+            "en": "part-time job"
+          },
+          {
+            "word": "のぼる",
+            "tr": "tırmanmak",
+            "en": "to climb"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～に　いきます",
+            "tr": "gitmek (amaç belirtir)",
+            "en": "go to (indicates purpose/destination)"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın tüm yaz çalışacağını (アルバイト) ve seyahate gitmek istediğini (旅行) söylüyor ancak bunlar erkeğin planı değil. Erkek, ailesiyle birlikte Fuji Dağı'na tırmanacağını (富士山に登ります) açıkça belirtiyor.",
+        "en": "The woman mentions she will be working a part-time job (アルバイト) and wants to travel (旅行), but these are not the man's plans. The man explicitly states he will climb Mt. Fuji with his family (富士山に登ります)."
+      }
+    },
+    {
+      "question_number": 2,
+      "topic": "まちあわせの　ばしょ (Meeting Place)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　どこで　あいますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "あしたの　えいがは　いちじからですね。じゃあ　えいがのまえに　ひるごはんを　たべましょうか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですね。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "じゃあ　えきで　あいましょう。えきのちかくに　いろいろ　れすとらんが　ありますから。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "ええ。でぱーとも　ちかくに　ありますから　そのなかで　たべても　いいですね。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "ああ、それが　いいですね。そうしましょう。"
+          }
+        ],
+        "question": "ふたりは　どこで　あいますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "えいが",
+            "tr": "film",
+            "en": "movie"
+          },
+          {
+            "word": "ひるごはん",
+            "tr": "öğle yemeği",
+            "en": "lunch"
+          },
+          {
+            "word": "でぱーと",
+            "tr": "departmanlı mağaza",
+            "en": "department store"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～ましょう",
+            "tr": "hadi ... yapalım (teklif)",
+            "en": "let's do ... (suggestion)"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek önce istasyonda buluşmayı (駅で会いましょう) öneriyor. Ancak kadın, yakındaki departmanlı mağazanın (デパート) içinde yemek yiyebileceklerini söylüyor ve erkek bu fikri onaylayarak 'Öyle yapalım' (そうしましょう) diyor.",
+        "en": "The man initially suggests meeting at the station (駅で会いましょう). However, the woman suggests they can eat inside the nearby department store (デパート), and the man agrees, saying 'Let's do that' (そうしましょう)."
+      }
+    },
+    {
+      "question_number": 3,
+      "topic": "のみものの　ちゅうもん (Ordering Drinks)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+        "dialogue": [
+          {
+            "speaker": "おんなのひと",
+            "text": "ごちそうさまでした。りょうり　とても　おいしかったです。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "それは　よかったです。のみものは　なにが　いいですか。こーひー、こうちゃ、あと　おちゃが　あります。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "じゃあ　こうちゃで。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "わかりました。みるくは　どうしますか。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "みるくは　けっこうです。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "わかりました。すこし　まってください。"
+          }
+        ],
+        "question": "おんなのひとは　なにを　のみますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "のみもの",
+            "tr": "içecek",
+            "en": "drink/beverage"
+          },
+          {
+            "word": "こうちゃ",
+            "tr": "siyah çay",
+            "en": "black tea"
+          },
+          {
+            "word": "けっこうです",
+            "tr": "istemez / kalsın",
+            "en": "no thank you / I'm fine"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～で",
+            "tr": "... olsun (seçim yaparken)",
+            "en": "I'll have ... (making a choice)"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek kahve, siyah çay ve yeşil çay seçeneklerini sunuyor. Kadın siyah çayı (こうちゃ) seçiyor. Süt (ミルク) teklif edildiğinde ise 'istemez' (けっこうです) diyerek reddediyor. Bu yüzden sadece siyah çay içecek.",
+        "en": "The man offers coffee, black tea, and green tea. The woman chooses black tea (こうちゃ). When offered milk (ミルク), she declines by saying 'I'm fine/No thank you' (けっこうです). Therefore, she will drink plain black tea."
+      }
+    },
+    {
+      "question_number": 4,
+      "topic": "びょういんの　へやの　なかの　もの (Items Inside a Hospital Room)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "びょういんで　おんなのひとが　おとこのひとに　はなしています。びょういんの　へやには　なにが　ありますか。",
+        "dialogue": [
+          {
+            "speaker": "おんなのひと",
+            "text": "といれは　へやには　ありませんが　すぐ　ちかくに　あります。しゃわーるーむは　といれの　となりです。すきなときに　つかってください。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "へやには　ちいさい　れいぞうこが　ありますから　のみものなどを　いれてください。"
+          }
+        ],
+        "question": "びょういんの　へやには　なにが　ありますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "へや",
+            "tr": "oda",
+            "en": "room"
+          },
+          {
+            "word": "れいぞうこ",
+            "tr": "buzdolabı",
+            "en": "refrigerator"
+          },
+          {
+            "word": "となり",
+            "tr": "yan / bitişik",
+            "en": "next to"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "～は　ありませんが",
+            "tr": "... yoktur ama",
+            "en": "there is no ... but"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın tuvaletin (トイレ) ve duşun (シャワールーム) odada olmadığını, sadece yakınlarda olduğunu belirtiyor. Odada (へやには) sadece küçük bir buzdolabı (れいぞうこ) olduğunu söylüyor.",
+        "en": "The woman mentions that the toilet (トイレ) and shower room (シャワールーム) are not in the room, just nearby. She explicitly states that there is a small refrigerator (れいぞうこ) inside the room (へやには)."
+      }
+    },
+    {
+      "question_number": 5,
+      "topic": "これからの　こうどう (Next Action)",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　このあと　なにをしますか。",
+        "dialogue": [
+          {
+            "speaker": "おとこのひと",
+            "text": "きのうは　たのしかったですね。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですね。たなかさんも　ぱーてぃーのあと　からおけに　いきましたか。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "いえ、わたしは　いきませんでした. しゅくだいが　たくさん　ありましたから。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "そうですか。きょうも　しゅくだいを　しますか。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "いえ、きょうは　これから　でぱーとで　あるばいとです。"
+          },
+          {
+            "speaker": "おんなのひと",
+            "text": "いそがしいですね。じゃあ　たべに　いく　じかんは　ないですか。"
+          },
+          {
+            "speaker": "おとこのひと",
+            "text": "いや、だいじょうぶですよ。いきましょう。"
+          }
+        ],
+        "question": "おとこのひとは　このあと　なにをしますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          {
+            "word": "しゅくだい",
+            "tr": "ödev",
+            "en": "homework"
+          },
+          {
+            "word": "あるばいと",
+            "tr": "yarı zamanlı iş",
+            "en": "part-time job"
+          },
+          {
+            "word": "だいじょうぶ",
+            "tr": "sorun değil / tamam",
+            "en": "it's okay / fine"
+          }
+        ],
+        "grammar": [
+          {
+            "point": "これから",
+            "tr": "bundan sonra / şimdi",
+            "en": "from now on / after this"
+          }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek ödevini (しゅくだい) dün bitirdiğini ima ediyor ve bugün departmanlı mağazada işi (アルバイト) olduğunu söylüyor. Ancak işten önce yemek yemeye vakti olup olmadığı sorulduğunda 'sorun değil, gidelim' (いきましょう) diyerek kadınla yemeğe gitmeyi kabul ediyor.",
+        "en": "The man implies he finished his homework (しゅくだい) yesterday and mentions he has a part-time job (アルバイト) at a department store today. However, when asked if he has time to eat before that, he says 'it's fine, let's go' (いきましょう), agreeing to go for a meal with the woman first."
+      }
+    }
+  ]
+}

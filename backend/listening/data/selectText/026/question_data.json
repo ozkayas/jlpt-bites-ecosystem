@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ぷりんとの　じゅんび (Preparing Handouts)",
+        "audio_url": null
+    },
+    "options": [
+        "じゅうまい",
+        "にじゅうまい",
+        "さんじゅうまい",
+        "よんじゅうまい"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "がっこうで　せんせいと　がくせいが　はなしています。がくせいは　なんまい　こぴーしますか。",
+        "dialogue": [
+            {
+                "speaker": "せんせい",
+                "text": "たなかさん、この　ぷりんとを　こぴーしてください。"
+            },
+            {
+                "speaker": "がくせい",
+                "text": "はい、なんまいですか。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "がくせいは　にじゅうごにんですが　ひとりに　いちまいずつです。"
+            },
+            {
+                "speaker": "がくせい",
+                "text": "にじゅうごまいですね。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "あ、せんせいも　ごにんいますから　せんせいのぶんも　おねがいします。"
+            },
+            {
+                "speaker": "がくせい",
+                "text": "わかりました。"
+            }
+        ],
+        "question": "がくせいは　なんまい　こぴーしますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぷりんと",
+                "tr": "baskı/çıktı",
+                "en": "printout/handout"
+            },
+            {
+                "word": "こぴー",
+                "tr": "fotokopi",
+                "en": "copy"
+            },
+            {
+                "word": "ぶん",
+                "tr": "... için / payı",
+                "en": "share / portion for"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ずつ",
+                "tr": "her birine",
+                "en": "each"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "25 öğrenci + 5 öğretmen = 30 kişi. Her birine 1 kopya = 30 kopya. 25 (sadece öğrenci) yanlış hesaptır. Doğru cevap さんじゅうまい (30 adet).",
+        "en": "25 students + 5 teachers = 30 people. 1 copy each = 30 copies. 25 (students only) is a partial calculation. Correct: さんじゅうまい (30)."
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "たんじょうびの　ひにち",
+            "tr": "Doğum Günü Tarihi",
+            "en": "Birthday Date",
+            "de": "Geburtsdatum",
+            "fr": "Date d'anniversaire",
+            "es": "Fecha de cumpleaños",
+            "ko": "생일 날짜"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/029/audio.mp3",
+    "options": [
+        "じゅうがつ　とおか",
+        "じゅうがつ　じゅうよっか",
+        "じゅういちがつ　とおか",
+        "じゅういちがつ　じゅうよっか"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとの　たんじょうびは　いつですか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "たなかさんの　たんじょうびは　いつですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "じゅうがつです。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "なんにちですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "わたしの　たんじょうびは　たいいくのひと　おなじです。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "じゃあ　じゅうがつ　とおかですね。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "はい、そうです。"
+                }
+            ],
+            "question": "おとこのひとの　たんじょうびは　いつですか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkeğin doğum günü ne zaman?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Tanaka'nın doğum günü ne zaman?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ekim'de."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ayın kaçı?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Benim doğum günüm Spor Günü ile aynı."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "O zaman 10 Ekim, değil mi?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Evet, öyle."
+                }
+            ],
+            "question": "Erkeğin doğum günü ne zaman?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. When is the man's birthday?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "When is Tanaka-san's birthday?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "It's October."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "What day is it?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "My birthday is the same as Sports Day."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Then it's October 10th, right?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Yes, that's right."
+                }
+            ],
+            "question": "When is the man's birthday?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Wann ist der Geburtstag des Mannes?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Wann ist Herr Tanakas Geburtstag?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Es ist Oktober."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Der wievielte ist es?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Mein Geburtstag ist am selben Tag wie der Sporttag."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Dann ist es der 10. Oktober, nicht wahr?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ja, genau."
+                }
+            ],
+            "question": "Wann ist der Geburtstag des Mannes?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Quand est l'anniversaire de l'homme ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Quand est l'anniversaire de M. Tanaka ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est en octobre."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Quel jour est-ce ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Mon anniversaire est le même jour que le Jour du Sport."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Alors c'est le 10 octobre, n'est-ce pas ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oui, c'est ça."
+                }
+            ],
+            "question": "Quand est l'anniversaire de l'homme ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Cuándo es el cumpleaños del hombre?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Cuándo es el cumpleaños del Sr. Tanaka?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Es en octubre."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿Qué día es?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Mi cumpleaños es el mismo día que el Día del Deporte."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Entonces es el 10 de octubre, ¿verdad?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Sí, así es."
+                }
+            ],
+            "question": "¿Cuándo es el cumpleaños del hombre?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자의 생일은 언제입니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "다나카 씨의 생일은 언제입니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "10월입니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "며칠입니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "제 생일은 체육의 날과 같습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그럼 10월 10일이네요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "네, 맞습니다."
+                }
+            ],
+            "question": "남자의 생일은 언제입니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "じゅうがつ",
+                "reading": "じゅうがつ",
+                "meanings": {
+                    "tr": "Ekim",
+                    "en": "October",
+                    "de": "Oktober",
+                    "fr": "Octobre",
+                    "es": "Octubre",
+                    "ko": "10월"
+                }
+            },
+            {
+                "word": "とおか",
+                "reading": "とおか",
+                "meanings": {
+                    "tr": "ayın onuncu günü",
+                    "en": "10th of the month",
+                    "de": "der zehnte Tag des Monats",
+                    "fr": "le 10 du mois",
+                    "es": "el día 10 del mes",
+                    "ko": "10일"
+                }
+            },
+            {
+                "word": "たいいくのひ",
+                "reading": "たいいくのひ",
+                "meanings": {
+                    "tr": "Spor Günü",
+                    "en": "Sports Day (national holiday)",
+                    "de": "Sporttag (Nationalfeiertag)",
+                    "fr": "Jour du Sport (jour férié national)",
+                    "es": "Día del Deporte (día festivo nacional)",
+                    "ko": "체육의 날 (국경일)"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～と　おなじ",
+                "meanings": {
+                    "tr": "... ile aynı",
+                    "en": "same as ...",
+                    "de": "gleich wie ...",
+                    "fr": "le même que ...",
+                    "es": "igual que ...",
+                    "ko": "~와 같다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek doğum gününün Spor Günü (たいいくのひ) ile aynı olduğunu söylüyor. Spor Günü Ekim 10 (じゅうがつとおか). Kadın bunu teyit ediyor. Doğru cevap 10月10日.",
+        "en": "The man says his birthday is the same as Sports Day (たいいくのひ), which is October 10th (じゅうがつとおか). The woman confirms. Correct: October 10th.",
+        "de": "Der Mann sagt, sein Geburtstag sei derselbe wie der Sporttag (たいいくのひ), der am 10. Oktober (じゅうがつとおか) ist. Die Frau bestätigt dies. Richtig: 10. Oktober.",
+        "fr": "L'homme dit que son anniversaire est le même jour que le Jour du Sport (たいいくのひ), qui est le 10 octobre (じゅうがつとおか). La femme confirme. Correct : 10 octobre.",
+        "es": "El hombre dice que su cumpleaños es el mismo día que el Día del Deporte (たいいくのひ), que es el 10 de octubre (じゅうがつとおか). La mujer lo confirma. Correcto: 10 de octubre.",
+        "ko": "남자는 자신의 생일이 체육의 날(たいいくのひ)과 같다고 말합니다. 체육의 날은 10월 10일(じゅうがつとおか)입니다. 여자가 이를 확인합니다. 정답: 10월 10일."
+    }
+}

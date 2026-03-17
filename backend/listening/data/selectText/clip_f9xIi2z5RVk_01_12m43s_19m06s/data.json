@@ -1,0 +1,192 @@
+{
+  "batch_metadata": {
+    "level": "N5",
+    "audio_url": "http://googleusercontent.com/file_content/0"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "topic": "かぞくの　すきな　こと (Family's Hobbies)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとの　おとうとは　なにが　すきですか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "やまださんは　きょうだいが　いますか。" },
+          { "speaker": "おとこのひと", "text": "おとうとと　いもうとが　います。わたしは　すぽーつが　すきですが、おとうとは　いつも　げーむを　しています。" },
+          { "speaker": "おとこのひと", "text": "いもうとは　りょうりを　つくることと　ほんを　よむことが　すきです。" },
+          { "speaker": "おんなのひと", "text": "そうですか。きょうだい　みんな　ちがいますね。" }
+        ],
+        "question": "お吐このひとの　おとうとは　なにが　すきですか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "きょうだい", "tr": "kardeşler", "en": "siblings" },
+          { "word": "おとうと", "tr": "erkek kardeş (küçük)", "en": "younger brother" },
+          { "word": "げーむ", "tr": "oyun", "en": "game" }
+        ],
+        "grammar": [
+          { "point": "～が　すきです", "tr": "-den hoşlanmak", "en": "to like ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek kendisinin sporu sevdiğini, kız kardeşinin yemek yapmayı ve kitap okumayı sevdiğini, ancak erkek kardeşinin (おとうと) her zaman oyun oynadığını (げーむ) belirtiyor.",
+        "en": "The man mentions that he likes sports and his younger sister likes cooking and reading, but his younger brother (おとうと) is always playing games (げーむ)."
+      }
+    },
+    {
+      "question_number": 2,
+      "topic": "かいもの (Shopping)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "やおやで　おとこのひとと　おみせのひとが　はなしています。おとこのひとは　いくら　はらいますか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "すみません。この　はちじゅうえんの　とまとを　みっつ　ください。" },
+          { "speaker": "おみせのひと", "text": "はい、ありがとうございます。この　とまと、ふたつで　ひゃくごじゅうえんですよ。" },
+          { "speaker": "お吐このひと", "text": "そうですか。じゃあ　もうひとつ　おねがいします。" },
+          { "speaker": "おみせのひと", "text": "はい、ありがとうございます。" }
+        ],
+        "question": "おとこのひとは　いくら　はらいますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "やおや", "tr": "manav", "en": "greengrocer" },
+          { "word": "いくら", "tr": "ne kadar (fiyat)", "en": "how much (price)" },
+          { "word": "とまと", "tr": "domates", "en": "tomato" }
+        ],
+        "grammar": [
+          { "point": "～で　（ねだん）", "tr": "... fiyatına (toplam)", "en": "for ... (total price)" }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek önce tanesi 80 yen olan domatesten 3 tane istiyor (240 yen). Satıcı, 2 tanesinin 150 yen olduğunu söyleyince erkek 'bir tane daha' (toplam 4 tane) almaya karar veriyor. Bu durumda 2 adetlik setten 2 tane almış oluyor (150 x 2 = 300 yen).",
+        "en": "The man initially asks for 3 tomatoes at 80 yen each (240 yen). When the shopkeeper says they are 2 for 150 yen, the man decides to get 'one more' (4 total). Thus, he pays for two sets of 150 yen, totaling 300 yen."
+      }
+    },
+    {
+      "question_number": 3,
+      "topic": "つうがくの　ほうほう (Method of Commuting to School)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "だいがくで　おんなのひとと　おとこのひとが　はなしています。おとこのひとは　きのう　どうやって　がっこうに　きましたか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "やまださんの　あぱーとから　がっこうまで　どのぐらいですか。" },
+          { "speaker": "おとこのひと", "text": "すこし　とおいですよ。じてんしゃで　さんじゅっぷんぐらい　かかります。" },
+          { "speaker": "おんなのひと", "text": "たいへんですね。ばすは　ありませんか。" },
+          { "speaker": "おとこのひと", "text": "ありますが、あまり　のりません。あめのひだけ　ばすに　のります。" },
+          { "speaker": "おんなのひと", "text": "きのうは　あめでしたね。ばすで　きましたか。" },
+          { "speaker": "おとこのひと", "text": "いいえ、たくしーで　きました。あさ　つかれていましたから。" },
+          { "speaker": "おとこのひと", "text": "でも　かえるときは　あるきました。" }
+        ],
+        "question": "おとこのひとは　きのう　どうやって　がっこうに　きましたか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "じてんしゃ", "tr": "bisiklet", "en": "bicycle" },
+          { "word": "あめ", "tr": "yağmur", "en": "rain" },
+          { "word": "たくしー", "tr": "taksi", "en": "taxi" }
+        ],
+        "grammar": [
+          { "point": "～だけ", "tr": "sadece", "en": "only" }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek normalde bisikletle geliyor, yağmurlu günlerde otobüsü tercih ediyor. Dün yağmur yağmasına rağmen, sabah yorgun olduğu için okula taksiyle (たくしー) geldiğini söylüyor. Dönüşte ise yürümüştür.",
+        "en": "The man usually comes by bicycle and uses the bus on rainy days. Although it rained yesterday, he says he came to school by taxi (たくしー) because he was tired in the morning. He walked back home."
+      }
+    },
+    {
+      "question_number": 4,
+      "topic": "まちあわせ (Meeting Up)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　あした　まず　どこで　あいますか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "あしたの　えいが　なんじからですか。" },
+          { "speaker": "おんなのひと", "text": "ごご　にじからですよ。" },
+          { "speaker": "おとこのひと", "text": "じゃあ　えいがのまえに　でぱーとの　れすとらんで　ごはんを　たべませんか。" },
+          { "speaker": "おんなのひと", "text": "いいですね。じゃあ　れすとらんの　まえで　あいましょうか。" },
+          { "speaker": "おとこのひと", "text": "えっと、えきまえの　ばすていから　いっしょに　いきましょう。" },
+          { "speaker": "おんなのひと", "text": "わかりました。そうしましょう。" }
+        ],
+        "question": "ふたりは　あした　まず　どこで　あいますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "えきまえ", "tr": "istasyon önü", "en": "in front of the station" },
+          { "word": "ばすてい", "tr": "otobüs durağı", "en": "bus stop" },
+          { "word": "いっしょに", "tr": "birlikte", "en": "together" }
+        ],
+        "grammar": [
+          { "point": "～ましょう", "tr": "hadi ... yapalım", "en": "let's ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın restoranın önünde buluşmayı teklif ediyor, ancak erkek istasyonun önündeki otobüs durağında (えきまえのばすてい) buluşup beraber gitmeyi öneriyor ve kadın bunu kabul ediyor. İlk buluşma yeri duraktır.",
+        "en": "The woman suggests meeting in front of the restaurant, but the man proposes meeting at the bus stop in front of the station (えきまえのばすてい) to go together, which she accepts. The first meeting point is the bus stop."
+      }
+    },
+    {
+      "question_number": 5,
+      "topic": "しゅくだいの　ていしゅつ (Homework Submission)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなしています。せんせいは　いつ　しゅくだいを　かえしますか。",
+        "dialogue": [
+          { "speaker": "せんせい", "text": "みなさん、らいしゅうの　すいようびは　てすとです。" },
+          { "speaker": "せんせい", "text": "きょう　しゅくだいが　ありますから　らいしゅうの　げつようびに　だしてください。" },
+          { "speaker": "せんせい", "text": "わたしが　しゅくだいを　みて、つぎのひに　かえします。よく　べんきょうしてくださいね。" }
+        ],
+        "question": "せんせいは　いつ　しゅくだいを　かえしますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "しゅくだい", "tr": "ödev", "en": "homework" },
+          { "word": "だす", "tr": "teslim etmek / dışarı çıkarmak", "en": "to submit / turn in" },
+          { "word": "つぎのひ", "tr": "ertesi gün", "en": "the next day" }
+        ],
+        "grammar": [
+          { "point": "～てください", "tr": "lütfen ... yapın", "en": "please do ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Ödevin Pazartesi (げつようび) teslim edilmesi isteniyor. Öğretmen ödevleri kontrol edip 'ertesi gün' (つぎのひ) iade edeceğini söylüyor. Bu durumda ödevler Salı günü iade edilecektir.",
+        "en": "The homework is due on Monday (げつようび). The teacher says they will check it and return it the 'next day' (つぎのひ), which means Tuesday."
+      }
+    },
+    {
+      "question_number": 6,
+      "topic": "りょこうに　いった　にんずう (Number of People on the Trip)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのひとと　お吐このひとが　はなしています。おんなのひとは　なんにんで　りょこうに　いきましたか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "やまださん、これ　おみやげです。" },
+          { "speaker": "おとこのひと", "text": "ありがとうございます。どこの　おみやげですか。" },
+          { "speaker": "おんなのひと", "text": "おきなわです。おっとと　おっとの　りょうしんと　いっしょに　いきました。" },
+          { "speaker": "おとこのひと", "text": "へえ、いいですね。" }
+        ],
+        "question": "おんなのひとは　なんにんで　りょこうに　いきましたか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "おみやげ", "tr": "hediyelik eşya", "en": "souvenir" },
+          { "word": "おっと", "tr": "koca (eş)", "en": "husband" },
+          { "word": "りょうしん", "tr": "ebeveyn", "en": "parents" }
+        ],
+        "grammar": [
+          { "point": "～と　いっしょに", "tr": "... ile birlikte", "en": "together with ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın, kocası (1 kişi) ve kocasının ebeveynleri (2 kişi) ile gittiğini söylüyor. Kendisiyle birlikte toplamda 4 kişi (よにん) gitmişlerdir.",
+        "en": "The woman says she went with her husband (1 person) and her husband's parents (2 people). Including herself, a total of 4 people (よにん) went on the trip."
+      }
+    }
+  ]
+}

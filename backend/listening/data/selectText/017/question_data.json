@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "てすとの　ひ (Exam Day)",
+        "audio_url": null
+    },
+    "options": [
+        "げつようび",
+        "かようび",
+        "すいようび",
+        "もくようび"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなしています。てすとは　いつですか。",
+        "dialogue": [
+            {
+                "speaker": "せんせい",
+                "text": "みなさん、こんしゅうの　げつようびに　しゅくだいを　だしてください。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "わたしが　しゅくだいを　みて　つぎのひに　かえします。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "そして　しゅくだいを　かえした　つぎのひに　てすとです。よく　べんきょうしてくださいね。"
+            }
+        ],
+        "question": "てすとは　いつですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅくだい",
+                "tr": "ödev",
+                "en": "homework"
+            },
+            {
+                "word": "だす",
+                "tr": "teslim etmek",
+                "en": "to submit"
+            },
+            {
+                "word": "つぎのひ",
+                "tr": "ertesi gün",
+                "en": "the next day"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "lütfen yapın",
+                "en": "please do"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Ödev Pazartesi teslim. Öğretmen ertesi gün (Salı) iade eder. İadenin ertesi günü (Çarşamba) sınav var. Doğru cevap すいようび (Çarşamba).",
+        "en": "Homework is due Monday. Teacher returns it the next day (Tuesday). The test is the day after that (Wednesday). Correct answer: すいようび (Wednesday)."
+    }
+}

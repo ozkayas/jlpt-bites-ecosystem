@@ -1,3 +1,49 @@
+## 2026-03-17
+
+### selectText — Firebase Upload ve 001 Varyasyonu
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `backend/listening/scripts/upload_select_text_questions.py` | DEĞİŞTİRİLDİ | Fat JSON uyumlu hale getirildi: question.json desteği, top-level audio_url, doğru collection adı, idempotency, clip_* filtresi |
+| `backend/listening/data/selectText/001/question.json` | DEĞİŞTİRİLDİ | Kış tatili/onsen varyasyonu, intro typo düzeltmesi, speaker label'lar hiragana'ya çevrildi |
+| `backend/listening/data/selectText/001/tts_script.json` | DEĞİŞTİRİLDİ | Yeni diyaloğa göre güncellendi |
+| `backend/listening/data/selectText/001/audio.mp3` | DEĞİŞTİRİLDİ | Gemini TTS ile yeniden üretildi (35.6s, 304 KB) |
+| `backend/listening/data/selectText/002-031/question.json` | DEĞİŞTİRİLDİ | audio_url Firebase URL ile güncellendi |
+| `backend/listening/data/selectText/CLAUDE.md` | DEĞİŞTİRİLDİ | TODO: upload ve Firebase entegrasyonu tamamlandı |
+
+**Yapılanlar:**
+- Upload script 6 kritik hata düzeltildi (yanlış dosya adı, yanlış audio_url path, yanlış collection, clip filtresi yok, idempotency yok, bucket default yok)
+- 001 sorusu varyasyonlandı: yaz→kış tatili, Fuji tırmanışı→Hakone onsen, koşu→yürüyüş
+- 31 soru Firebase'e yüklendi: Storage `listening/selectText/{id}/audio.mp3`, Firestore `n5_listening_select_text_questions`
+
+---
+
+### selectText (Point Comprehension) Modülü — Skill Oluşturma ve 30 Soru Üretimi
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `.agents/skills/jlpt-n5-listening-point-comprehension-creator/SKILL.md` | YENİ | Point Comprehension soru üretici skill |
+| `.agents/skills/jlpt-n5-listening-point-comprehension-creator/references/n5-grammar-points.md` | YENİ | N5 gramer referansı |
+| `.agents/skills/jlpt-n5-listening-point-comprehension-creator/references/n5-point-comprehension-patterns.md` | YENİ | 8 tuzak kalıbı detaylı referans |
+| `backend/listening/data/selectText/CLAUDE.md` | DEĞİŞTİRİLDİ | Skill bilgisi ve yapılacaklar güncellendi |
+| `backend/listening/data/selectText/002-031/question_data.json` | YENİ | 30 adet Point Comprehension sorusu |
+| `backend/listening/data/selectText/generate_batch.py` | YENİ | Toplu soru üretim scripti |
+
+**Yapılanlar:**
+- 5 kaynak clip (30 gerçek JLPT sorusu) analiz edildi, 8 tuzak kalıbı çıkarıldı
+- `jlpt-n5-listening-point-comprehension-creator` skill oluşturuldu
+- Kaynak sorulardan varyasyon yöntemiyle 30 yeni soru (002-031) üretildi
+- Kalıp dağılımı: Fikir Değiştirme (10), Dikkat Dağıtıcı (5), Hesaplama (5), Zaman Çıkarımı (4), Olumsuz Eleme (3), Düzeltme (1), Sipariş (1), Neden (1)
+- correct_option dağılımı: {0: 9, 1: 8, 2: 11, 3: 3}
+
+**Bağlam:** selectText (Mondai 2) modülü sıfırdan oluşturuldu. Audio üretimi ve Firebase upload sonraki adım.
+
+---
+
 ## 2026-03-04
 
 ### Listening Modülü Çok Dilli Yapı Göçü ve Yeni Varyasyonlar

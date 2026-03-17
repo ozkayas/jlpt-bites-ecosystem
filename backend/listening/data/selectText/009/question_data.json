@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "えんそくの　もちもの (Field Trip Items)",
+        "audio_url": null
+    },
+    "options": [
+        "おべんとうと　のみもの",
+        "おべんとうと　かめら",
+        "のみものと　かめら",
+        "おべんとうと　のみものと　かめら"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなしています。がくせいは　あした　なにを　もっていきますか。",
+        "dialogue": [
+            {
+                "speaker": "せんせい",
+                "text": "あしたは　みんなで　やまへ　いきます。おべんとうと　のみものを　もってきてください。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "かめらを　もってきたい　ひとも　いると　おもいますが　こんかいは　だめです。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "それから　げーむも　もってこないでくださいね。"
+            }
+        ],
+        "question": "がくせいは　あした　なにを　もっていきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "えんそく",
+                "tr": "gezi",
+                "en": "field trip/excursion"
+            },
+            {
+                "word": "おべんとう",
+                "tr": "yemek kutusu",
+                "en": "boxed lunch"
+            },
+            {
+                "word": "かめら",
+                "tr": "kamera",
+                "en": "camera"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "tr": "lütfen yapın",
+                "en": "please do"
+            },
+            {
+                "point": "～ないでください",
+                "tr": "lütfen yapmayın",
+                "en": "please don't do"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen yemek kutusu (おべんとう) ve içecek (のみもの) getirilmesini istiyor. Kamera (かめら) ve oyun (げーむ) yasak. Doğru cevap yemek kutusu ve içecektir.",
+        "en": "The teacher asks students to bring a boxed lunch (おべんとう) and drinks (のみもの). Camera (かめら) and games (げーむ) are forbidden. The correct answer is boxed lunch and drinks."
+    }
+}

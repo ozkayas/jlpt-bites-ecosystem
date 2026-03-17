@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "たんじょうびの　ひにち (Birthday Date)",
+        "audio_url": null
+    },
+    "options": [
+        "じゅうがつ　とおか",
+        "じゅうがつ　じゅうよっか",
+        "じゅういちがつ　とおか",
+        "じゅういちがつ　じゅうよっか"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとの　たんじょうびは　いつですか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "たなかさんの　たんじょうびは　いつですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "じゅうがつです。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "なんにちですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "わたしの　たんじょうびは　たいいくのひと　おなじです。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "じゃあ　じゅうがつ　とおかですね。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "はい、そうです。"
+            }
+        ],
+        "question": "おとこのひとの　たんじょうびは　いつですか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "じゅうがつ",
+                "tr": "Ekim",
+                "en": "October"
+            },
+            {
+                "word": "とおか",
+                "tr": "ayın onuncu günü",
+                "en": "10th of the month"
+            },
+            {
+                "word": "たいいくのひ",
+                "tr": "Spor Günü",
+                "en": "Sports Day (national holiday)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～と　おなじ",
+                "tr": "... ile aynı",
+                "en": "same as ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek doğum gününün Spor Günü (たいいくのひ) ile aynı olduğunu söylüyor. Spor Günü Ekim 10 (じゅうがつとおか). Kadın bunu teyit ediyor. Doğru cevap 10月10日.",
+        "en": "The man says his birthday is the same as Sports Day (たいいくのひ), which is October 10th (じゅうがつとおか). The woman confirms. Correct: October 10th."
+    }
+}

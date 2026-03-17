@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "にちようびの　やくそく (Sunday Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "えきの　まえで　あいます",
+        "でぱーとで　あいます",
+        "こうえんで　あいます",
+        "びょういんの　まえで　あいます"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　どこで　あいますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "にちようびに　いっしょに　さんぽしませんか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "いいですね。どこで　あいましょうか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "えきの　まえは　どうですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "えきは　ちょっと　とおいです。こうえんの　いりぐちは　どうですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "ああ、そうですね。じゃあ　そこで　あいましょう。"
+            }
+        ],
+        "question": "ふたりは　どこで　あいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "さんぽ",
+                "tr": "yürüyüş",
+                "en": "walk/stroll"
+            },
+            {
+                "word": "いりぐち",
+                "tr": "giriş",
+                "en": "entrance"
+            },
+            {
+                "word": "とおい",
+                "tr": "uzak",
+                "en": "far"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ませんか",
+                "tr": "teklif (yapmaz mısınız?)",
+                "en": "invitation (won't you?)"
+            },
+            {
+                "point": "～ましょう",
+                "tr": "hadi yapalım",
+                "en": "let's do"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek istasyon önünü (えきのまえ) teklif ediyor ama kadın uzak olduğunu söylüyor. Kadın parkın girişini (こうえんのいりぐち) öneriyor ve erkek kabul ediyor. Doğru cevap parktır.",
+        "en": "The man suggests in front of the station (えきのまえ), but the woman says it's too far. She suggests the park entrance (こうえんのいりぐち) and the man agrees. The correct answer is the park."
+    }
+}

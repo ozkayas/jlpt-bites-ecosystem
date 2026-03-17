@@ -1,0 +1,251 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "かぞくの　しごと",
+            "tr": "Ailenin İşleri",
+            "en": "Family's Jobs",
+            "de": "Berufe der Familie",
+            "fr": "Les métiers de la famille",
+            "es": "Los trabajos de la familia",
+            "ko": "가족의 직업"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/011/audio.mp3",
+    "options": [
+        "びょういんで　はたらいています",
+        "がっこうで　おしえています",
+        "ぎんこうで　はたらいています",
+        "れすとらんで　はたらいています"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとの　あねは　どんな　しごとを　していますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "たなかさんは　きょうだいが　いますか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "あねと　おとうとが　います。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "わたしは　ぎんこうで　はたらいています。あねは　がっこうで　えいごを　おしえています。おとうとは　びょういんで　はたらいています。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "そうですか。みんな　いそがしいですね。"
+                }
+            ],
+            "question": "おとこのひとの　あねは　どんな　しごとを　していますか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Erkeğin ablası ne iş yapıyor?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Tanaka-san, kardeşlerin var mı?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ablam ve küçük erkek kardeşim var."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ben bankada çalışıyorum. Ablam okulda İngilizce öğretiyor. Küçük erkek kardeşim hastanede çalışıyor."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Öyle mi? Herkes meşgul, değil mi?"
+                }
+            ],
+            "question": "Erkeğin ablası ne iş yapıyor?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. What kind of job does the man's older sister do?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Tanaka-san, do you have siblings?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I have an older sister and a younger brother."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I work at a bank. My older sister teaches English at a school. My younger brother works at a hospital."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I see. Everyone is busy, aren't they?"
+                }
+            ],
+            "question": "What kind of job does the man's older sister do?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Welchen Beruf hat die ältere Schwester des Mannes?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Herr Tanaka, haben Sie Geschwister?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich habe eine ältere Schwester und einen jüngeren Bruder."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich arbeite bei einer Bank. Meine ältere Schwester unterrichtet Englisch in einer Schule. Mein jüngerer Bruder arbeitet in einem Krankenhaus."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ach so. Alle sind beschäftigt, nicht wahr?"
+                }
+            ],
+            "question": "Welchen Beruf hat die ältere Schwester des Mannes?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Quel métier fait la sœur aînée de l'homme ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Monsieur Tanaka, avez-vous des frères et sœurs ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "J'ai une sœur aînée et un frère cadet."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Je travaille à la banque. Ma sœur aînée enseigne l'anglais à l'école. Mon frère cadet travaille à l'hôpital."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah bon. Tout le monde est occupé, n'est-ce pas ?"
+                }
+            ],
+            "question": "Quel métier fait la sœur aînée de l'homme ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Qué tipo de trabajo hace la hermana mayor del hombre?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Señor Tanaka, ¿tiene hermanos?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Tengo una hermana mayor y un hermano menor."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Yo trabajo en un banco. Mi hermana mayor enseña inglés en una escuela. Mi hermano menor trabaja en un hospital."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ya veo. Todos están ocupados, ¿verdad?"
+                }
+            ],
+            "question": "¿Qué tipo de trabajo hace la hermana mayor del hombre?"
+        },
+        "ko": {
+            "intro": "여자 한 명과 남자 한 명이 이야기하고 있습니다. 남자의 누나는 무슨 일을 하고 있습니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "다나카 씨, 형제자매가 있습니까?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "누나와 남동생이 있습니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "저는 은행에서 일합니다. 누나는 학교에서 영어를 가르칩니다. 남동생은 병원에서 일합니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "그렇군요. 모두 바쁘시네요."
+                }
+            ],
+            "question": "남자의 누나는 무슨 일을 하고 있습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あね",
+                "reading": "あね",
+                "meanings": {
+                    "tr": "abla",
+                    "en": "older sister",
+                    "de": "ältere Schwester",
+                    "fr": "sœur aînée",
+                    "es": "hermana mayor",
+                    "ko": "누나"
+                }
+            },
+            {
+                "word": "おしえる",
+                "reading": "おしえる",
+                "meanings": {
+                    "tr": "öğretmek",
+                    "en": "to teach",
+                    "de": "lehren, unterrichten",
+                    "fr": "enseigner",
+                    "es": "enseñar",
+                    "ko": "가르치다"
+                }
+            },
+            {
+                "word": "えいご",
+                "reading": "えいご",
+                "meanings": {
+                    "tr": "İngilizce",
+                    "en": "English",
+                    "de": "Englisch",
+                    "fr": "anglais",
+                    "es": "inglés",
+                    "ko": "영어"
+                }
+            },
+            {
+                "word": "ぎんこう",
+                "reading": "ぎんこう",
+                "meanings": {
+                    "tr": "banka",
+                    "en": "bank",
+                    "de": "Bank",
+                    "fr": "banque",
+                    "es": "banco",
+                    "ko": "은행"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ています",
+                "meanings": {
+                    "tr": "süregelen durum",
+                    "en": "ongoing state / is doing",
+                    "de": "andauernder Zustand / tut gerade",
+                    "fr": "état continu / est en train de faire",
+                    "es": "estado continuo / está haciendo",
+                    "ko": "진행 중인 상태 / ~하고 있다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek kendi bankada (ぎんこう), küçük kardeşi hastanede (びょういん) çalışıyor. Ablası (あね) okulda İngilizce öğretiyor (がっこうでおしえています). Soru ablayı sorduğu için doğru cevap okulda öğretmendir.",
+        "en": "The man works at a bank (ぎんこう), his younger brother at a hospital (びょういん). His older sister (あね) teaches English at a school (がっこうでおしえています). The question asks about the sister, so the correct answer is that she is a teacher at a school.",
+        "de": "Der Mann arbeitet bei einer Bank (ぎんこう), sein jüngerer Bruder in einem Krankenhaus (びょういん). Seine ältere Schwester (あね) unterrichtet Englisch in einer Schule (がっこうでおしえています). Da die Frage nach der Schwester ist, ist die richtige Antwort, dass sie Lehrerin in einer Schule ist.",
+        "fr": "L'homme travaille à la banque (ぎんこう), son frère cadet à l'hôpital (びょういん). Sa sœur aînée (あね) enseigne l'anglais à l'école (がっこうでおしえています). La question porte sur la sœur aînée, donc la bonne réponse est qu'elle est enseignante à l'école.",
+        "es": "El hombre trabaja en un banco (ぎんこう), su hermano menor en un hospital (びょういん). Su hermana mayor (あね) enseña inglés en una escuela (がっこうでおしえています). La pregunta es sobre la hermana mayor, por lo tanto, la respuesta correcta es que es maestra en una escuela.",
+        "ko": "남자는 은행(ぎんこう)에서 일하고, 남동생은 병원(びょういん)에서 일합니다. 누나(あね)는 학교에서 영어를 가르칩니다(がっこうでおしえています). 질문은 누나에 대한 것이므로, 정답은 학교 선생님입니다."
+    }
+}

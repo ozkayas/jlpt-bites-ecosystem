@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "えんそくの　もちもの",
+            "tr": "Gezi Eşyaları",
+            "en": "Field Trip Items",
+            "de": "Gegenstände für den Ausflug",
+            "fr": "Articles pour la sortie scolaire",
+            "es": "Artículos para la excursión",
+            "ko": "소풍 준비물"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/009/audio.mp3",
+    "options": [
+        "おべんとうと　のみもの",
+        "おべんとうと　かめら",
+        "のみものと　かめら",
+        "おべんとうと　のみものと　かめら"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで　せんせいが　がくせいに　はなしています。がくせいは　あした　なにを　もっていきますか。",
+            "dialogue": [
+                {
+                    "speaker": "せんせい",
+                    "text": "あしたは　みんなで　やまへ　いきます。おべんとうと　のみものを　もってきてください。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "かめらを　もってきたい　ひとも　いると　おもいますが　こんかいは　だめです。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "それから　げーむも　もってこないでくださいね。"
+                }
+            ],
+            "question": "がくせいは　あした　なにを　もっていきますか。"
+        },
+        "tr": {
+            "intro": "Okulda öğretmen öğrencilere konuşuyor. Öğrenciler yarın ne götürecekler?",
+            "dialogue": [
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Yarın hep birlikte dağa gideceğiz. Lütfen yemek kutusu ve içecek getirin."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Kamera getirmek isteyenler de olacağını düşünüyorum ama bu seferlik yasak."
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Ayrıca, oyun da getirmeyin lütfen."
+                }
+            ],
+            "question": "Öğrenciler yarın ne götürecekler?"
+        },
+        "en": {
+            "intro": "At school, the teacher is talking to the students. What will the students bring tomorrow?",
+            "dialogue": [
+                {
+                    "speaker": "Teacher",
+                    "text": "Tomorrow, we will all go to the mountain. Please bring a boxed lunch and drinks."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "I think there might be some people who want to bring a camera, but it's not allowed this time."
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "Also, please don't bring games."
+                }
+            ],
+            "question": "What will the students bring tomorrow?"
+        },
+        "de": {
+            "intro": "In der Schule spricht der Lehrer mit den Schülern. Was werden die Schüler morgen mitbringen?",
+            "dialogue": [
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Morgen gehen wir alle zusammen in die Berge. Bitte bringt ein Lunchpaket und Getränke mit."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Ich denke, es gibt vielleicht Leute, die eine Kamera mitbringen möchten, aber dieses Mal ist es nicht erlaubt."
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Und bitte bringt auch keine Spiele mit."
+                }
+            ],
+            "question": "Was werden die Schüler morgen mitbringen?"
+        },
+        "fr": {
+            "intro": "À l'école, le professeur parle aux élèves. Qu'est-ce que les élèves apporteront demain ?",
+            "dialogue": [
+                {
+                    "speaker": "Professeur",
+                    "text": "Demain, nous irons tous à la montagne. Veuillez apporter un bento et des boissons."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Je pense qu'il y a des gens qui voudront apporter un appareil photo, mais ce n'est pas permis cette fois-ci."
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Et s'il vous plaît, n'apportez pas de jeux non plus."
+                }
+            ],
+            "question": "Qu'est-ce que les élèves apporteront demain ?"
+        },
+        "es": {
+            "intro": "En la escuela, el profesor está hablando con los estudiantes. ¿Qué llevarán los estudiantes mañana?",
+            "dialogue": [
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Mañana, todos iremos a la montaña. Por favor, traigan un almuerzo en caja y bebidas."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Creo que habrá gente que querrá traer una cámara, pero esta vez no está permitido."
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Además, por favor, no traigan juegos."
+                }
+            ],
+            "question": "¿Qué llevarán los estudiantes mañana?"
+        },
+        "ko": {
+            "intro": "학교에서 선생님이 학생들에게 이야기하고 있습니다. 학생들은 내일 무엇을 가져갈까요?",
+            "dialogue": [
+                {
+                    "speaker": "선생님",
+                    "text": "내일은 다 같이 산에 갑니다. 도시락과 음료수를 가져와 주세요."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "카메라를 가져오고 싶은 사람도 있을 거라고 생각하지만, 이번에는 안 됩니다."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "그리고 게임도 가져오지 마세요."
+                }
+            ],
+            "question": "학생들은 내일 무엇을 가져갈까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "えんそく",
+                "reading": "えんそく",
+                "meanings": {
+                    "tr": "gezi",
+                    "en": "field trip/excursion",
+                    "de": "Ausflug",
+                    "fr": "sortie scolaire/excursion",
+                    "es": "excursión",
+                    "ko": "소풍"
+                }
+            },
+            {
+                "word": "おべんとう",
+                "reading": "おべんとう",
+                "meanings": {
+                    "tr": "yemek kutusu",
+                    "en": "boxed lunch",
+                    "de": "Lunchpaket/Bento",
+                    "fr": "bento/déjeuner en boîte",
+                    "es": "almuerzo en caja/bento",
+                    "ko": "도시락"
+                }
+            },
+            {
+                "word": "かめら",
+                "reading": "かめら",
+                "meanings": {
+                    "tr": "kamera",
+                    "en": "camera",
+                    "de": "Kamera",
+                    "fr": "appareil photo",
+                    "es": "cámara",
+                    "ko": "카메라"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てください",
+                "meanings": {
+                    "tr": "lütfen yapın",
+                    "en": "please do",
+                    "de": "bitte tun Sie/macht",
+                    "fr": "veuillez faire/s'il vous plaît faites",
+                    "es": "por favor haga/hagan",
+                    "ko": "~해 주세요"
+                }
+            },
+            {
+                "point": "～ないでください",
+                "meanings": {
+                    "tr": "lütfen yapmayın",
+                    "en": "please don't do",
+                    "de": "bitte tun Sie/macht nicht",
+                    "fr": "veuillez ne pas faire/s'il vous plaît ne faites pas",
+                    "es": "por favor no haga/hagan",
+                    "ko": "~하지 마세요"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen yemek kutusu (おべんとう) ve içecek (のみもの) getirilmesini istiyor. Kamera (かめら) ve oyun (げーむ) yasak. Doğru cevap yemek kutusu ve içecektir.",
+        "en": "The teacher asks students to bring a boxed lunch (おべんとう) and drinks (のみもの). Camera (かめら) and games (げーむ) are forbidden. The correct answer is boxed lunch and drinks.",
+        "de": "Der Lehrer bittet die Schüler, ein Lunchpaket (おべんとう) und Getränke (のみもの) mitzubringen. Kameras (かめら) und Spiele (げーむ) sind verboten. Die richtige Antwort ist Lunchpaket und Getränke.",
+        "fr": "Le professeur demande aux élèves d'apporter un bento (おべんとう) et des boissons (のみもの). Les appareils photo (かめら) et les jeux (げーむ) sont interdits. La bonne réponse est un bento et des boissons.",
+        "es": "El profesor pide a los estudiantes que traigan un almuerzo en caja (おべんとう) y bebidas (のみもの). Las cámaras (かめら) y los juegos (げーむ) están prohibidos. La respuesta correcta es almuerzo en caja y bebidas.",
+        "ko": "선생님은 학생들에게 도시락(おべんとう)과 음료수(のみもの)를 가져오라고 합니다. 카메라(かめら)와 게임(げーむ)은 금지됩니다. 정답은 도시락과 음료수입니다."
+    }
+}

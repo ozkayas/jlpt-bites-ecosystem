@@ -1,0 +1,278 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "これからの　よてい",
+            "tr": "Gelecek Planları",
+            "en": "Upcoming Plans",
+            "de": "Kommende Pläne",
+            "fr": "Prochains Projets",
+            "es": "Planes Próximos",
+            "ko": "앞으로의 예정"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/006/audio.mp3",
+    "options": [
+        "しゅくだいを　します",
+        "あるばいとに　いきます",
+        "ともだちと　かいものに　いきます",
+        "うちで　ねます"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　このあと　なにを　しますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "このあと　なにを　しますか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "しゅくだいを　します。あしたまでですから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "えっ、しゅくだいは　らいしゅうまでですよ。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ほんとうですか。じゃあ　ともだちと　かいものに　いきます。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "いいですね。"
+                }
+            ],
+            "question": "おんなのひとは　このあと　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın bu aradan sonra ne yapacak?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Bu aradan sonra ne yapacaksın?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ödev yapacağım. Yarına kadar çünkü."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ne, ödev gelecek haftaya kadar!"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Gerçekten mi? O zaman arkadaşımla alışverişe gideceğim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "İyiymiş."
+                }
+            ],
+            "question": "Kadın bu aradan sonra ne yapacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the woman do after this?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "What will you do after this?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I'll do my homework. Because it's due by tomorrow."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Huh? The homework is due next week."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Really? Then I'll go shopping with a friend."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "That's nice."
+                }
+            ],
+            "question": "What will the woman do after this?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Was wird die Frau danach tun?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Was wirst du danach tun?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ich werde meine Hausaufgaben machen. Weil sie bis morgen fällig sind."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Was, die Hausaufgaben sind doch bis nächste Woche!"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Wirklich? Dann gehe ich mit einem Freund einkaufen."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Das ist gut."
+                }
+            ],
+            "question": "Was wird die Frau danach tun?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Que fera la femme après cela ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Que feras-tu après cela ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Je vais faire mes devoirs. Parce que c'est pour demain."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Quoi ? Les devoirs sont pour la semaine prochaine !"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Vraiment ? Alors j'irai faire du shopping avec un ami."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "C'est bien."
+                }
+            ],
+            "question": "Que fera la femme après cela ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué hará la mujer después de esto?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué harás después de esto?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Haré mi tarea. Porque es para mañana."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué? ¡La tarea es para la próxima semana!"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "¿De verdad? Entonces iré de compras con un amigo."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¡Qué bien!"
+                }
+            ],
+            "question": "¿Qué hará la mujer después de esto?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 이 다음에 무엇을 할까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "이 다음에 무엇을 할 건가요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "숙제를 할 거예요. 내일까지니까요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "엇, 숙제는 다음 주까지예요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "정말요? 그럼 친구랑 쇼핑 갈 거예요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "좋네요."
+                }
+            ],
+            "question": "여자는 이 다음에 무엇을 할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅくだい",
+                "reading": "しゅくだい",
+                "meanings": {
+                    "tr": "ödev",
+                    "en": "homework",
+                    "de": "Hausaufgaben",
+                    "fr": "devoirs",
+                    "es": "tarea",
+                    "ko": "숙제"
+                }
+            },
+            {
+                "word": "かいもの",
+                "reading": "かいもの",
+                "meanings": {
+                    "tr": "alışveriş",
+                    "en": "shopping",
+                    "de": "Einkaufen",
+                    "fr": "shopping",
+                    "es": "compras",
+                    "ko": "쇼핑"
+                }
+            },
+            {
+                "word": "らいしゅう",
+                "reading": "らいしゅう",
+                "meanings": {
+                    "tr": "gelecek hafta",
+                    "en": "next week",
+                    "de": "nächste Woche",
+                    "fr": "la semaine prochaine",
+                    "es": "la próxima semana",
+                    "ko": "다음 주"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～まで",
+                "meanings": {
+                    "tr": "-e kadar",
+                    "en": "until",
+                    "de": "bis",
+                    "fr": "jusqu'à",
+                    "es": "hasta",
+                    "ko": "~까지"
+                }
+            },
+            {
+                "point": "～から (sebep)",
+                "meanings": {
+                    "tr": "çünkü",
+                    "en": "because",
+                    "de": "weil",
+                    "fr": "parce que",
+                    "es": "porque",
+                    "ko": "~니까"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce ödev yapacağını (しゅくだい) söylüyor çünkü yarına kadar sanıyor. Erkek ödevin gelecek haftaya kadar olduğunu söyleyince kadın fikrini değiştirip arkadaşıyla alışverişe (かいもの) gitmeye karar veriyor.",
+        "en": "The woman initially plans to do homework (しゅくだい) thinking it's due tomorrow. When the man says it's due next week, she changes her mind and decides to go shopping (かいもの) with a friend.",
+        "de": "Die Frau plant zunächst, ihre Hausaufgaben (しゅくだい) zu machen, da sie denkt, sie seien bis morgen fällig. Als der Mann sagt, dass sie erst nächste Woche fällig sind, ändert sie ihre Meinung und beschließt, mit einem Freund einkaufen (かいもの) zu gehen.",
+        "fr": "La femme prévoit d'abord de faire ses devoirs (しゅくだい) pensant qu'ils sont pour demain. Quand l'homme lui dit qu'ils sont pour la semaine prochaine, elle change d'avis et décide d'aller faire du shopping (かいもの) avec un ami.",
+        "es": "La mujer inicialmente planea hacer su tarea (しゅくだい) pensando que es para mañana. Cuando el hombre le dice que es para la próxima semana, ella cambia de opinión y decide ir de compras (かいもの) con un amigo.",
+        "ko": "여자는 처음에 숙제(しゅくだい)를 내일까지라고 생각하고 하려고 합니다. 남자가 숙제가 다음 주까지라고 말하자, 여자는 마음을 바꿔 친구와 쇼핑(かいもの)을 가기로 결정합니다."
+    }
+}

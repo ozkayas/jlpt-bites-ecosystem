@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "くすりの　のみかた (How to Take Medicine)",
+        "audio_url": null
+    },
+    "options": [
+        "しろい　くすりだけ",
+        "あおい　くすりだけ",
+        "しろいのと　あおいの",
+        "みっつ　ぜんぶ"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "びょういんで　おんなのひとが　おとこのひとに　はなしています。おとこのひとは　よる　どの　くすりを　のみますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "しろい　くすりは　あさと　よる　ごはんのあとに　のんでください。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "あおい　くすりは　よるだけ　ねるまえに　のんでください。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "あかい　くすりは　おなかが　いたいときだけ　のんでください。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "わかりました。ありがとうございます。"
+            }
+        ],
+        "question": "おとこのひとは　よる　どの　くすりを　のみますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "くすり",
+                "tr": "ilaç",
+                "en": "medicine"
+            },
+            {
+                "word": "しろい",
+                "tr": "beyaz",
+                "en": "white"
+            },
+            {
+                "word": "あおい",
+                "tr": "mavi",
+                "en": "blue"
+            },
+            {
+                "word": "あかい",
+                "tr": "kırmızı",
+                "en": "red"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～まえに",
+                "tr": "-den önce",
+                "en": "before"
+            },
+            {
+                "point": "～ときだけ",
+                "tr": "sadece ... olduğunda",
+                "en": "only when ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Beyaz ilaç sabah ve akşam (よる dahil). Mavi ilaç sadece akşam. Kırmızı ilaç sadece karın ağrısında. Akşam: beyaz + mavi. Doğru cevap しろいのとあおいの.",
+        "en": "White medicine: morning and night (よる included). Blue medicine: night only. Red medicine: only when stomach hurts. At night: white + blue. Correct: both white and blue."
+    }
+}

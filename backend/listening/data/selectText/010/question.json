@@ -1,0 +1,290 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ははの　ぷれぜんと",
+            "tr": "Annenin Hediyesi",
+            "en": "Mother's Present",
+            "de": "Mutters Geschenk",
+            "fr": "Le cadeau de Maman",
+            "es": "El regalo de Mamá",
+            "ko": "엄마의 선물"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/010/audio.mp3",
+    "options": [
+        "はなを　かいます",
+        "ぼうしを　かいます",
+        "くつを　かいます",
+        "かばんを　かいます"
+    ],
+    "correct_option": 3,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　おかあさんの　ぷれぜんとに　なにを　かいますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "らいしゅう　ははの　たんじょうびです。なにが　いいと　おもいますか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "はなは　どうですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "はなは　すぐ　だめに　なりますから。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "じゃあ　ぼうしや　くつとかは？"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ああ、このまえ　はは が　あたらしい　かばんが　ほしいと　いっていましたから　それにします。"
+                }
+            ],
+            "question": "おんなのひとは　おかあさんの　ぷれぜんとに　なにを　かいますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadın annesine hediye olarak ne alacak?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Gelecek hafta annemin doğum günü. Ne iyi olur sizce?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Çiçekler nasıl olur?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Çiçekler hemen bozulur da."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "O zaman şapka veya ayakkabı gibi şeyler?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ah, geçenlerde annem yeni bir çanta istediğini söylemişti, o zaman onu alacağım."
+                }
+            ],
+            "question": "Kadın annesine hediye olarak ne alacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the woman buy for her mother's present?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Next week is my mother's birthday. What do you think would be good?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "How about flowers?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Flowers wilt quickly."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Then, how about things like hats or shoes?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Oh, my mother said she wanted a new bag the other day, so I'll decide on that."
+                }
+            ],
+            "question": "What will the woman buy for her mother's present?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Was wird die Frau als Geschenk für ihre Mutter kaufen?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Nächste Woche ist der Geburtstag meiner Mutter. Was wäre Ihrer Meinung nach gut?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie wäre es mit Blumen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Blumen werden schnell schlecht."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie wäre es dann mit Hüten oder Schuhen?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ach, meine Mutter hatte neulich gesagt, dass sie eine neue Tasche haben möchte, also entscheide ich mich dafür."
+                }
+            ],
+            "question": "Was wird die Frau als Geschenk für ihre Mutter kaufen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Qu'est-ce que la femme va acheter comme cadeau pour sa mère ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "La semaine prochaine, c'est l'anniversaire de ma mère. Qu'est-ce qui serait bien, à votre avis ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Que diriez-vous de fleurs ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Les fleurs se fanent vite."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Alors, un chapeau ou des chaussures, par exemple ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ah, l'autre jour, ma mère a dit qu'elle voulait un nouveau sac, alors je vais choisir ça."
+                }
+            ],
+            "question": "Qu'est-ce que la femme va acheter comme cadeau pour sa mère ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué comprará la mujer como regalo para su madre?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "La próxima semana es el cumpleaños de mi madre. ¿Qué crees que sería bueno?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué tal flores?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Las flores se marchitan rápido."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entonces, ¿qué tal sombreros o zapatos?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Ah, el otro día mi madre dijo que quería un bolso nuevo, así que me decidiré por eso."
+                }
+            ],
+            "question": "¿Qué comprará la mujer como regalo para su madre?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자는 어머니 선물로 무엇을 살까요?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "다음 주가 엄마 생신이에요. 뭐가 좋을까요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "꽃은 어때요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "꽃은 금방 시들잖아요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그럼 모자나 신발 같은 건요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "아, 얼마 전에 엄마가 새 가방을 갖고 싶다고 하셨으니까 그걸로 할게요."
+                }
+            ],
+            "question": "여자는 어머니 선물로 무엇을 살까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "はな",
+                "reading": "はな",
+                "meanings": {
+                    "tr": "çiçek",
+                    "en": "flower",
+                    "de": "Blume",
+                    "fr": "fleur",
+                    "es": "flor",
+                    "ko": "꽃"
+                }
+            },
+            {
+                "word": "ぼうし",
+                "reading": "ぼうし",
+                "meanings": {
+                    "tr": "şapka",
+                    "en": "hat",
+                    "de": "Hut",
+                    "fr": "chapeau",
+                    "es": "sombrero",
+                    "ko": "모자"
+                }
+            },
+            {
+                "word": "かばん",
+                "reading": "かばん",
+                "meanings": {
+                    "tr": "çanta",
+                    "en": "bag",
+                    "de": "Tasche",
+                    "fr": "sac",
+                    "es": "bolso",
+                    "ko": "가방"
+                }
+            },
+            {
+                "word": "ほしい",
+                "reading": "ほしい",
+                "meanings": {
+                    "tr": "istemek",
+                    "en": "to want (something)",
+                    "de": "wollen (etwas)",
+                    "fr": "vouloir (quelque chose)",
+                    "es": "querer (algo)",
+                    "ko": "~을 원하다"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "meanings": {
+                    "tr": "karar vermek",
+                    "en": "to decide on",
+                    "de": "sich entscheiden für",
+                    "fr": "décider de",
+                    "es": "decidirse por",
+                    "ko": "~으로 정하다"
+                }
+            },
+            {
+                "point": "～と　いっていました",
+                "meanings": {
+                    "tr": "... demişti",
+                    "en": "was saying that ...",
+                    "de": "sagte, dass ...",
+                    "fr": "disait que ...",
+                    "es": "estaba diciendo que ...",
+                    "ko": "~라고 말했습니다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Çiçek (はな) çabuk solar. Şapka (ぼうし) ve ayakkabı (くつ) önerilir ama seçilmez. Annesinin yeni bir çanta (かばん) istediğini hatırlayan kadın çanta almaya karar veriyor.",
+        "en": "Flowers (はな) wilt quickly. Hat (ぼうし) and shoes (くつ) are suggested but not chosen. The woman remembers her mother said she wanted a new bag (かばん) and decides on that.",
+        "de": "Blumen (はな) verwelken schnell. Hut (ぼうし) und Schuhe (くつ) werden vorgeschlagen, aber nicht gewählt. Die Frau erinnert sich, dass ihre Mutter eine neue Tasche (かばん) wollte, und entscheidet sich dafür.",
+        "fr": "Les fleurs (はな) se fanent vite. Un chapeau (ぼうし) et des chaussures (くつ) sont suggérés mais ne sont pas choisis. La femme se souvient que sa mère avait dit qu'elle voulait un nouveau sac (かばん) et se décide pour cela.",
+        "es": "Las flores (はな) se marchitan rápidamente. Se sugieren un sombrero (ぼうし) y zapatos (くつ), pero no se eligen. La mujer recuerda que su madre dijo que quería un bolso nuevo (かばん) y se decide por eso.",
+        "ko": "꽃(はな)은 빨리 시듭니다. 모자(ぼうし)와 신발(くつ)이 제안되지만 선택되지 않습니다. 여자는 어머니가 새 가방(かばん)을 원한다고 말했던 것을 기억하고 그것으로 결정합니다."
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ふゆやすみの　よてい",
+            "tr": "Kış Tatili Planları",
+            "en": "Winter Vacation Plans",
+            "de": "Winterurlaubspläne",
+            "fr": "Projets de vacances d'hiver",
+            "es": "Planes de vacaciones de invierno",
+            "ko": "겨울 방학 계획"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/002/audio.mp3",
+    "options": [
+        "べんきょうを　します",
+        "すきーに　いきます",
+        "おんせんに　いきます",
+        "まいにち　およぎます"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　ふゆやすみに　なにを　しますか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "ふゆやすみは　どうしますか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ずっと　べんきょうです。でも　すきーにも　いきたいです。やまださんは？"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "かぞく　みんなで　おんせんに　いきます。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "いいですね。どこの　おんせんですか。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "はこねです。ちちは　まいにち　およいでいますから　おんせんの　ぷーるも　たのしみですよ。"
+                }
+            ],
+            "question": "おとこのひとは　ふゆやすみに　なにを　しますか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Erkek kış tatilinde ne yapacak?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Kış tatilinde ne yapacaksın?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Hep ders çalışacağım. Ama kayak da yapmak istiyorum. Yamada-san sen?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Ailece kaplıcaya gideceğiz."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ne güzel. Hangi kaplıcaya?"
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Hakone. Babam her gün yüzdüğü için kaplıcanın havuzunu da sabırsızlıkla bekliyor."
+                }
+            ],
+            "question": "Erkek kış tatilinde ne yapacak?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. What will the man do during the winter vacation?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "What will you do for winter vacation?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "I'll study the whole time. But I also want to go skiing. How about you, Yamada-san?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "My whole family is going to a hot spring."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "That's nice. Which hot spring?"
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Hakone. My father swims every day, so he's also looking forward to the hot spring's pool."
+                }
+            ],
+            "question": "What will the man do during the winter vacation?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Was wird der Mann in den Winterferien machen?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Was machst du in den Winterferien?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ich werde die ganze Zeit lernen. Aber ich möchte auch Ski fahren gehen. Und Sie, Herr Yamada?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Meine ganze Familie fährt zu einer heißen Quelle."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das ist schön. Zu welcher heißen Quelle?"
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Hakone. Mein Vater schwimmt jeden Tag, deshalb freut er sich auch auf den Pool der heißen Quelle."
+                }
+            ],
+            "question": "Was wird der Mann in den Winterferien machen?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. Que fera l'homme pendant les vacances d'hiver ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Que ferez-vous pendant les vacances d'hiver ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Je vais étudier tout le temps. Mais je veux aussi faire du ski. Et vous, Yamada-san ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Toute ma famille va aux sources chaudes."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "C'est bien. À quelles sources chaudes ?"
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Hakone. Mon père nage tous les jours, alors il a hâte de profiter de la piscine des sources chaudes aussi."
+                }
+            ],
+            "question": "Que fera l'homme pendant les vacances d'hiver ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Qué hará el hombre durante las vacaciones de invierno?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Qué harás en las vacaciones de invierno?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Estudiaré todo el tiempo. Pero también quiero ir a esquiar. ¿Y tú, Yamada-san?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Toda mi familia irá a las aguas termales."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Qué bien. ¿A qué aguas termales?"
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Hakone. Mi padre nada todos los días, así que también está deseando ir a la piscina de las aguas termales."
+                }
+            ],
+            "question": "¿Qué hará el hombre durante las vacaciones de invierno?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 남자는 겨울 방학에 무엇을 할까요?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "겨울 방학에 뭐 할 거예요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "계속 공부할 거예요. 하지만 스키도 타러 가고 싶어요. 야마다 씨는요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "가족 모두 온천에 갈 거예요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "좋네요. 어느 온천이에요?"
+                },
+                {
+                    "speaker": "남자",
+                    "text": "하코네예요. 아버지가 매일 수영하시니까 온천 수영장도 기대하고 있어요."
+                }
+            ],
+            "question": "남자는 겨울 방학에 무엇을 할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ふゆやすみ",
+                "reading": "ふゆやすみ",
+                "meanings": {
+                    "tr": "kış tatili",
+                    "en": "winter vacation",
+                    "de": "Winterferien",
+                    "fr": "vacances d'hiver",
+                    "es": "vacaciones de invierno",
+                    "ko": "겨울 방학"
+                }
+            },
+            {
+                "word": "べんきょう",
+                "reading": "べんきょう",
+                "meanings": {
+                    "tr": "ders çalışma",
+                    "en": "study",
+                    "de": "Studium, Lernen",
+                    "fr": "étude",
+                    "es": "estudio",
+                    "ko": "공부"
+                }
+            },
+            {
+                "word": "すきー",
+                "reading": "すきー",
+                "meanings": {
+                    "tr": "kayak",
+                    "en": "skiing",
+                    "de": "Skifahren",
+                    "fr": "ski",
+                    "es": "esquí",
+                    "ko": "스키"
+                }
+            },
+            {
+                "word": "おんせん",
+                "reading": "おんせん",
+                "meanings": {
+                    "tr": "kaplıca",
+                    "en": "hot spring",
+                    "de": "heiße Quelle, Thermalbad",
+                    "fr": "source chaude, onsen",
+                    "es": "aguas termales",
+                    "ko": "온천"
+                }
+            },
+            {
+                "word": "およぐ",
+                "reading": "およぐ",
+                "meanings": {
+                    "tr": "yüzmek",
+                    "en": "to swim",
+                    "de": "schwimmen",
+                    "fr": "nager",
+                    "es": "nadar",
+                    "ko": "수영하다"
+                }
+            },
+            {
+                "word": "たのしみ",
+                "reading": "たのしみ",
+                "meanings": {
+                    "tr": "dört gözle beklenen şey",
+                    "en": "looking forward to (something enjoyable)",
+                    "de": "Vorfreude, etwas, worauf man sich freut",
+                    "fr": "plaisir, quelque chose qu'on attend avec impatience",
+                    "es": "algo que se espera con ilusión",
+                    "ko": "기대, 즐거움"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に　いきます",
+                "meanings": {
+                    "tr": "bir yere gitmek amacıyla kullanılır",
+                    "en": "used to indicate going to a place/for a purpose",
+                    "de": "wird verwendet, um das Gehen zu einem Ort oder für einen Zweck anzuzeigen",
+                    "fr": "utilisé pour indiquer le fait d'aller à un endroit ou dans un but",
+                    "es": "se usa para indicar ir a un lugar o con un propósito",
+                    "ko": "~에 갑니다 (장소나 목적을 나타낼 때 사용)"
+                }
+            },
+            {
+                "point": "～たいです",
+                "meanings": {
+                    "tr": "istek belirtir (yapmak istiyorum)",
+                    "en": "expresses desire (want to do something)",
+                    "de": "drückt einen Wunsch aus (etwas tun wollen)",
+                    "fr": "exprime un désir (vouloir faire quelque chose)",
+                    "es": "expresa deseo (quiero hacer algo)",
+                    "ko": "~하고 싶습니다 (희망을 나타냄)"
+                }
+            },
+            {
+                "point": "～ています",
+                "meanings": {
+                    "tr": "şimdiki zaman veya süregelen durum",
+                    "en": "present continuous or ongoing state",
+                    "de": "Präsens kontinuierlich oder andauernder Zustand",
+                    "fr": "présent continu ou état continu",
+                    "es": "presente continuo o estado en curso",
+                    "ko": "~하고 있습니다 (현재 진행 또는 지속적인 상태)"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın tüm tatil boyunca ders çalışacağını (べんきょう) ve kayağa da gitmek istediğini (すきー) söylüyor, ama bunlar erkeğin planı değil. Erkek (Yamada) ailesiyle birlikte kaplıcaya gideceğini (おんせんにいきます) açıkça belirtiyor. Babasının her gün yüzmesi (およいでいます) bir hobi detayıdır, tatil planının kendisi değildir.",
+        "en": "The woman says she will study (べんきょう) all vacation and wants to go skiing (すきー), but these are not the man's plans. The man (Yamada) explicitly states he will go to a hot spring (おんせんにいきます) with his family. His father swimming every day (およいでいます) is a hobby detail, not the vacation plan itself.",
+        "de": "Die Frau sagt, sie werde die ganzen Ferien lernen (べんきょう) und möchte auch Ski fahren gehen (すきー), aber das sind nicht die Pläne des Mannes. Der Mann (Yamada) gibt ausdrücklich an, dass er mit seiner Familie zu einer heißen Quelle (おんせんにいきます) fahren wird. Dass sein Vater jeden Tag schwimmt (およいでいます), ist ein Hobby-Detail und nicht der eigentliche Urlaubsplan.",
+        "fr": "La femme dit qu'elle étudiera (べんきょう) pendant toutes les vacances et qu'elle veut aussi faire du ski (すきー), mais ce ne sont pas les projets de l'homme. L'homme (Yamada) déclare explicitement qu'il ira aux sources chaudes (おんせんにいきます) avec sa famille. Le fait que son père nage tous les jours (およいでいます) est un détail de passe-temps, pas le plan de vacances lui-même.",
+        "es": "La mujer dice que estudiará (べんきょう) todas las vacaciones y que también quiere ir a esquiar (すきー), pero estos no son los planes del hombre. El hombre (Yamada) declara explícitamente que irá a unas aguas termales (おんせんにいきます) con su familia. Que su padre nade todos los días (およいでいます) es un detalle de su pasatiempo, no el plan de vacaciones en sí.",
+        "ko": "여자는 방학 내내 공부할 것이고 (べんきょう) 스키도 타러 가고 싶다고 (すきー) 말하지만, 이것은 남자의 계획이 아닙니다. 남자(야마다)는 가족 모두 온천에 갈 것이라고 (おんせんにいきます) 명확히 말합니다. 아버지가 매일 수영하는 것 (およいでいます)은 취미에 대한 세부 사항일 뿐, 휴가 계획 자체는 아닙니다."
+    }
+}

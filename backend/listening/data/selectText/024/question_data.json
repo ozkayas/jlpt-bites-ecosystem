@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "のみものを　えらぶ (Choosing Drinks)",
+        "audio_url": null
+    },
+    "options": [
+        "つめたい　おちゃ",
+        "あたたかい　こーひー",
+        "じゅーす",
+        "みず"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　なにを　のみますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "なにを　のみますか。こーひーと　おちゃと　じゅーすが　ありますよ。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "こーひーを　おねがいします。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "あたたかい　こーひーと　つめたい　こーひーが　ありますが。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "んー、やっぱり　つめたい　おちゃに　します。きょうは　あついですから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "はい、わかりました。"
+            }
+        ],
+        "question": "おんなのひとは　なにを　のみますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あたたかい",
+                "tr": "sıcak/ılık",
+                "en": "warm/hot"
+            },
+            {
+                "word": "つめたい",
+                "tr": "soğuk",
+                "en": "cold"
+            },
+            {
+                "word": "あつい",
+                "tr": "sıcak (hava)",
+                "en": "hot (weather)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "tr": "karar vermek",
+                "en": "to decide on"
+            },
+            {
+                "point": "やっぱり",
+                "tr": "yine de / vazgeçip",
+                "en": "after all"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kahve (こーひー) istiyor. Sıcak mı soğuk mu sorulunca 'やっぱり' diyerek fikrini tamamen değiştirip soğuk çay (つめたいおちゃ) seçiyor. Doğru cevap soğuk çay.",
+        "en": "The woman first wants coffee (こーひー). When asked hot or cold, she changes her mind entirely ('やっぱり') and chooses cold tea (つめたいおちゃ). Correct: cold tea."
+    }
+}

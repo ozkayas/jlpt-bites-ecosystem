@@ -1,0 +1,200 @@
+{
+  "batch_metadata": {
+    "level": "N5",
+    "audio_url": "http://googleusercontent.com/file_content/0"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "topic": "わすれものの　かばん (Forgotten Bag)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "でぱーとで　おとこのひとと　おみせのひとが　はなしています。おとこのひとの　かばんは　どれですか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "すみません。この　おみせに　かばんを　わすれましたが　しりませんか。" },
+          { "speaker": "おみせのひと", "text": "どんな　かばんですか。" },
+          { "speaker": "おとこのひと", "text": "くろくて　おおきい　かばんです。" },
+          { "speaker": "おみせのひと", "text": "かばんの　なかに　なにが　はいっていますか。" },
+          { "speaker": "おとこのひと", "text": "かぎと　てがみと　ぺんが　はいっています。あ、ぺんは　ぽけっとに　はいっていますから　かぎと　てがみだけです。" },
+          { "speaker": "おみせのひと", "text": "こちらの　かばんですか。" },
+          { "speaker": "おとこのひと", "text": "あ、はい。ありがとうございました。" }
+        ],
+        "question": "おとこのひとの　かばんは　どれですか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "わすれる", "tr": "unutmak", "en": "to forget" },
+          { "word": "くろい", "tr": "siyah", "en": "black" },
+          { "word": "てがみ", "tr": "mektup", "en": "letter" }
+        ],
+        "grammar": [
+          { "point": "～だけ", "tr": "sadece", "en": "only" },
+          { "point": "～ています", "tr": "yapıyor (durum belirtir)", "en": "is doing (indicates state)" }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek siyah ve büyük bir çantayı unuttuğunu söylüyor. Çantanın içinde anahtar, mektup ve kalem olduğunu belirtiyor ancak hemen ardından kalemin cebinde olduğunu düzeltiyor. Bu nedenle çantanın içinde sadece anahtar (かぎ) ve mektup (てがみ) bulunmaktadır.",
+        "en": "The man mentions forgetting a large black bag. He initially says it contains keys, a letter, and a pen, but then corrects himself, stating the pen is in his pocket. Therefore, the bag contains only the keys (かぎ) and the letter (てがみ)."
+      }
+    },
+    {
+      "question_number": 2,
+      "topic": "あしたの　よてい (Tomorrow's Plans)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。ふたりは　あした　なにをしますか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "みんくさん、あしたの　ごご　いっしょに　ぷーるへ　およぎに　いきませんか。" },
+          { "speaker": "おとこのひと", "text": "すみません。あしたは　あさ　たなかさんと　てにすを　してから　れすとらんへ　いきます。ちょっと　つかれますから　ぷーるじゃなくて　こうえんを　さんぽしませんか。" },
+          { "speaker": "おんなのひと", "text": "いいですね。じゃあ　あしたの　ごご　あいましょう。" }
+        ],
+        "question": "ふたりは　あした　なにをしますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "およぐ", "tr": "yüzmek", "en": "to swim" },
+          { "word": "つかれる", "tr": "yorulmak", "en": "to get tired" },
+          { "word": "さんぽ", "tr": "yürüyüş", "en": "walk/stroll" }
+        ],
+        "grammar": [
+          { "point": "～に　いきます", "tr": "yapmaya gitmek", "en": "go to do something" },
+          { "point": "～じゃなくて", "tr": "... değil de", "en": "not ... but" }
+        ]
+      },
+      "logic": {
+        "tr": "Kadın havuza gitmeyi teklif ediyor. Erkek sabah tenis oynayıp restorana gideceği için yorgun olacağını söylüyor ve havuz yerine parkta yürüyüş yapmayı (こうえんをさんぽ) öneriyor. Kadın bu öneriyi kabul ediyor.",
+        "en": "The woman suggests going to the pool. The man explains he will be tired after playing tennis and going to a restaurant, so he suggests a walk in the park (こうえんをさんぽ) instead of the pool. The woman agrees."
+      }
+    },
+    {
+      "question_number": 3,
+      "topic": "びじゅつかんの　もちもの (Items for the Art Museum)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "がっこうで　せんせいが　がくせいに　はなしています。がくせいは　あした　なにを　もっていきますか。",
+        "dialogue": [
+          { "speaker": "せんせい", "text": "あしたは　みんなで　びじゅつかんに　いきます。がっこうから　ばすで　いきますから　ちけっとを　かう　おかねを　もってきてください。" },
+          { "speaker": "せんせい", "text": "それから　びじゅつかんの　ひとの　おはなしを　ききますから　ぺんと　のーとも　いります。" },
+          { "speaker": "せんせい", "text": "しゃしんを　とっては　いけませんから　かめらは　もってこないでくださいね。たべものや　のみものも　だめです。" }
+        ],
+        "question": "がくせいは　あした　なにを　もっていきますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "びじゅつかん", "tr": "sanat müzesi", "en": "art museum" },
+          { "word": "おかね", "tr": "para", "en": "money" },
+          { "word": "いります", "tr": "gerekmek", "en": "to need" }
+        ],
+        "grammar": [
+          { "point": "～ては　いけません", "tr": "yapmamalısınız (yasak)", "en": "must not do" },
+          { "point": "～ないでください", "tr": "lütfen yapmayın", "en": "please do not do" }
+        ]
+      },
+      "logic": {
+        "tr": "Öğretmen bilet parası (おかね), kalem (ぺん) ve defter (のーと) getirilmesini istiyor. Kamera (かめら), yiyecek ve içeceklerin ise getirilmemesi gerektiğini (だめ / ないでください) özellikle belirtiyor.",
+        "en": "The teacher requests students to bring money for the ticket (おかね), a pen (ぺん), and a notebook (のーと). She explicitly forbids bringing a camera (かめら), food, or drinks (だめ / ないでください)."
+      }
+    },
+    {
+      "question_number": 4,
+      "topic": "たんじょうび　ぷれぜんと (Birthday Present)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　おとうさんの　たんじょうびぷれぜんとに　なにを　かいますか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "らいしゅう　ちちの　たんじょうびです。たんじょうびぷれぜんとは　なにが　いいと　おモいますか。" },
+          { "speaker": "おとこのひと", "text": "とけいは　どうですか。いい　おみせを　しっていますよ。" },
+          { "speaker": "おんなのひと", "text": "とけいですか。ちょっと　たかいですね。" },
+          { "speaker": "おとこのひと", "text": "じゃあ　おさけは　どうですか。おとうさん　すきな　わいんは　ありますか。" },
+          { "speaker": "おんなのひと", "text": "ちちは　おさけが　あまり　すきじゃないから。" },
+          { "speaker": "おとこのひと", "text": "うーん、おさいふや　ねくたいとかは？" },
+          { "speaker": "おんなのひと", "text": "そうですね。このまえ　あたらしい　ねくたいが　ほしいと　いっていましたから　それにします。" }
+        ],
+        "question": "おんなのひとは　おとうさんの　たんじょうびぷれぜんとに　なにを　かいますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "とけい", "tr": "saat", "en": "watch/clock" },
+          { "word": "おさけ", "tr": "alkol", "en": "alcohol" },
+          { "word": "ねくたい", "tr": "kravat", "en": "necktie" }
+        ],
+        "grammar": [
+          { "point": "～に　します", "tr": "karar vermek / seçmek", "en": "to decide on / choose" },
+          { "point": "～と　いっていました", "tr": "... diyordu", "en": "was saying that ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Saat (とけい) çok pahalı, alkol (おさけ) ise babası sevmediği için eleniyor. Babasının yeni bir kravat (ねくたい) istediğini hatırlayan kadın, kravat almaya karar veriyor.",
+        "en": "A watch (とけい) is too expensive, and alcohol (おさけ) is ruled out because her father doesn't like it. Recalling that her father said he wanted a new tie (ねくたい), she decides to buy that."
+      }
+    },
+    {
+      "question_number": 5,
+      "topic": "きょうだいの　しごと (Siblings' Jobs)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとの　いもうとは　どんな　しごとを　していますか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "きむらさんは　なんにんかぞくですか。" },
+          { "speaker": "おんなのひと", "text": "わたしは　ちちと　ははと　あねの　よにんかぞくです。たなかさんは？" },
+          { "speaker": "おとこのひと", "text": "わたしは　ろくにんかぞくで　あにと　おとうとと　いもうとが　います。" },
+          { "speaker": "おとこのひと", "text": "あには　びょういんで　はたらいています。おとうとは　でんきの　かいしゃで　はたらいていて、いもうとは　がいこくじんに　にほんごを　おしえています。" },
+          { "speaker": "おんなのひと", "text": "そうですか。わたしの　あねは　ぎんこうで　はたらいていますよ。" }
+        ],
+        "question": "おとこのひとの　いもうとは　どんな　しごとを　していますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "あに", "tr": "ağabey", "en": "older brother" },
+          { "word": "おとうと", "tr": "erkek kardeş (küçük)", "en": "younger brother" },
+          { "word": "おしえる", "tr": "öğretmek", "en": "to teach" }
+        ],
+        "grammar": [
+          { "point": "～ています", "tr": "yapıyor (şimdiki zaman)", "en": "is doing (present continuous)" }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek (Tanaka) kardeşlerinin işlerini sayıyor: Ağabeyi hastanede, küçük erkek kardeşi elektrik şirketinde çalışıyor. Kız kardeşi (いもうと) ise yabancılara Japonca öğretiyor (にほんごをおしえています).",
+        "en": "The man (Tanaka) lists his siblings' jobs: his older brother works at a hospital, and his younger brother works at an electric company. His younger sister (いもうと) teaches Japanese to foreigners (にほんごをおしえています)."
+      }
+    },
+    {
+      "question_number": 6,
+      "topic": "ちこくの　りゆう (Reason for Being Late)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "がっこうで　おんなのせんせいと　おとこのがくせいが　はなしています。がくせいは　どうして　じゅぎょうに　おくれましたか。",
+        "dialogue": [
+          { "speaker": "せんせい", "text": "りんさん、どうして　じゅぎょうに　おくれましたか。" },
+          { "speaker": "がくせい", "text": "せんせい、すみません。" },
+          { "speaker": "せんせい", "text": "おなかが　いたいですか。" },
+          { "speaker": "がくせい", "text": "いいえ、げんきです。" },
+          { "speaker": "せんせい", "text": "では、どうしてですか。" },
+          { "speaker": "がくせい", "text": "きょうは　あめですから　じてんしゃに　のりませんでした。でんしゃに　のりましたが、はじめてでしたから　えきから　がっこうまでの　みちが　わかりませんでした。" }
+        ],
+        "question": "がくせいは　どうして　じゅぎょうに　おくれましたか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "おくれる", "tr": "gecikmek", "en": "to be late" },
+          { "word": "はじめて", "tr": "ilk kez", "en": "first time" },
+          { "word": "みち", "tr": "yol", "en": "way/path" }
+        ],
+        "grammar": [
+          { "point": "～ですから", "tr": "olduğu için", "en": "because it is" },
+          { "point": "～まで", "tr": "-e kadar", "en": "until/to" }
+        ]
+      },
+      "logic": {
+        "tr": "Öğrenci hasta (おなかがいたい) olduğu için değil; yağmur nedeniyle bisiklet yerine trene bindiği ve istasyondan okula giden yolu bilmediği (みちがわかりませんでした) için geç kalmıştır.",
+        "en": "The student is not late because of illness (おなかがいたい). He is late because he took the train instead of his bike due to rain, and since it was his first time, he didn't know the way from the station to the school (みちがわかりませんでした)."
+      }
+    }
+  ]
+}

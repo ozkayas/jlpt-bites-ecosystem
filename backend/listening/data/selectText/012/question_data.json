@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ちこくの　りゆう (Reason for Being Late)",
+        "audio_url": null
+    },
+    "options": [
+        "あめで　ばすが　おくれました",
+        "あさ　おきられませんでした",
+        "みちが　わかりませんでした",
+        "でんしゃを　まちがえました"
+    ],
+    "correct_option": 3,
+    "transcription": {
+        "intro": "がっこうで　せんせいと　がくせいが　はなしています。がくせいは　どうして　おくれましたか。",
+        "dialogue": [
+            {
+                "speaker": "せんせい",
+                "text": "すずきさん、どうして　おくれましたか。あたまが　いたいですか。"
+            },
+            {
+                "speaker": "がくせい",
+                "text": "いいえ、げんきです。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "じゃあ　どうしてですか。"
+            },
+            {
+                "speaker": "がくせい",
+                "text": "きょうは　はじめて　でんしゃで　きましたが　のる　でんしゃを　まちがえて　ちがう　えきに　いってしまいました。"
+            },
+            {
+                "speaker": "せんせい",
+                "text": "そうですか。きをつけてくださいね。"
+            }
+        ],
+        "question": "がくせいは　どうして　おくれましたか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おくれる",
+                "tr": "gecikmek",
+                "en": "to be late"
+            },
+            {
+                "word": "まちがえる",
+                "tr": "yanlış yapmak",
+                "en": "to make a mistake"
+            },
+            {
+                "word": "はじめて",
+                "tr": "ilk kez",
+                "en": "first time"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てしまいました",
+                "tr": "maalesef ... yaptı (pişmanlık)",
+                "en": "unfortunately did (regret)"
+            },
+            {
+                "point": "どうして",
+                "tr": "neden",
+                "en": "why"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Öğretmen baş ağrısı mı (あたまがいたい) diye soruyor ama öğrenci sağlıklı olduğunu söylüyor. Asıl sebep: ilk kez trenle gelirken yanlış trene binmesi (でんしゃをまちがえた). Yağmur ve yolu bilmemek bahsedilmiyor.",
+        "en": "The teacher asks if it's a headache (あたまがいたい) but the student says he's fine. The real reason: he took the wrong train (でんしゃをまちがえた) because it was his first time commuting by train."
+    }
+}

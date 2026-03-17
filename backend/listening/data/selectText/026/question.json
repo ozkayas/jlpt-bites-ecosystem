@@ -1,0 +1,295 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ぷりんとの　じゅんび",
+            "tr": "El İlanı Hazırlığı",
+            "en": "Preparing Handouts",
+            "de": "Handzettel vorbereiten",
+            "fr": "Préparer les polycopiés",
+            "es": "Preparar los folletos",
+            "ko": "유인물 준비"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/026/audio.mp3",
+    "options": [
+        "じゅうまい",
+        "にじゅうまい",
+        "さんじゅうまい",
+        "よんじゅうまい"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "がっこうで　せんせいと　がくせいが　はなしています。がくせいは　なんまい　こぴーしますか。",
+            "dialogue": [
+                {
+                    "speaker": "せんせい",
+                    "text": "たなかさん、この　ぷりんとを　こぴーしてください。"
+                },
+                {
+                    "speaker": "がくせい",
+                    "text": "はい、なんまいですか。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "がくせいは　にじゅうごにんですが　ひとりに　いちまいずつです。"
+                },
+                {
+                    "speaker": "がくせい",
+                    "text": "にじゅうごまいですね。"
+                },
+                {
+                    "speaker": "せんせい",
+                    "text": "あ、せんせいも　ごにんいますから　せんせいのぶんも　おねがいします。"
+                },
+                {
+                    "speaker": "がくせい",
+                    "text": "わかりました。"
+                }
+            ],
+            "question": "がくせいは　なんまい　こぴーしますか。"
+        },
+        "tr": {
+            "intro": "Okulda öğretmen ve öğrenci konuşuyor. Öğrenci kaç tane kopya çekecek?",
+            "dialogue": [
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Tanaka-san, lütfen bu el ilanını fotokopi çek."
+                },
+                {
+                    "speaker": "Öğrenci",
+                    "text": "Evet, kaç tane?"
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Öğrenci sayısı yirmi beş kişi ama herkese birer tane."
+                },
+                {
+                    "speaker": "Öğrenci",
+                    "text": "Yirmi beş tane, değil mi?"
+                },
+                {
+                    "speaker": "Öğretmen",
+                    "text": "Ah, beş de öğretmen var, bu yüzden öğretmenlerin payını da rica ediyorum."
+                },
+                {
+                    "speaker": "Öğrenci",
+                    "text": "Anladım."
+                }
+            ],
+            "question": "Öğrenci kaç tane kopya çekecek?"
+        },
+        "en": {
+            "intro": "At school, a teacher and a student are talking. How many copies will the student make?",
+            "dialogue": [
+                {
+                    "speaker": "Teacher",
+                    "text": "Tanaka-san, please make copies of this handout."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Yes, how many copies?"
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "There are twenty-five students, and it's one copy for each person."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "So, twenty-five copies, right?"
+                },
+                {
+                    "speaker": "Teacher",
+                    "text": "Oh, there are also five teachers, so please make copies for the teachers too."
+                },
+                {
+                    "speaker": "Student",
+                    "text": "Understood."
+                }
+            ],
+            "question": "How many copies will the student make?"
+        },
+        "de": {
+            "intro": "In der Schule sprechen ein Lehrer und ein Schüler. Wie viele Kopien wird der Schüler machen?",
+            "dialogue": [
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Tanaka-san, bitte kopieren Sie dieses Handout."
+                },
+                {
+                    "speaker": "Schüler/in",
+                    "text": "Ja, wie viele?"
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Es sind fünfundzwanzig Schüler, und es ist jeweils ein Exemplar pro Person."
+                },
+                {
+                    "speaker": "Schüler/in",
+                    "text": "Also fünfundzwanzig Exemplare, richtig?"
+                },
+                {
+                    "speaker": "Lehrer/in",
+                    "text": "Ach, es gibt auch fünf Lehrer, also machen Sie bitte auch Kopien für die Lehrer."
+                },
+                {
+                    "speaker": "Schüler/in",
+                    "text": "Verstanden."
+                }
+            ],
+            "question": "Wie viele Kopien wird der Schüler machen?"
+        },
+        "fr": {
+            "intro": "À l'école, un professeur et un élève parlent. Combien de copies l'élève va-t-il faire ?",
+            "dialogue": [
+                {
+                    "speaker": "Professeur",
+                    "text": "Tanaka-san, veuillez copier ce polycopié."
+                },
+                {
+                    "speaker": "Étudiant/e",
+                    "text": "Oui, combien ?"
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Il y a vingt-cinq élèves, et c'est une copie pour chacun."
+                },
+                {
+                    "speaker": "Étudiant/e",
+                    "text": "Donc, vingt-cinq copies, n'est-ce pas ?"
+                },
+                {
+                    "speaker": "Professeur",
+                    "text": "Ah, il y a aussi cinq professeurs, alors s'il vous plaît, faites aussi des copies pour les professeurs."
+                },
+                {
+                    "speaker": "Étudiant/e",
+                    "text": "Compris."
+                }
+            ],
+            "question": "Combien de copies l'élève va-t-il faire ?"
+        },
+        "es": {
+            "intro": "En la escuela, un profesor y un estudiante están hablando. ¿Cuántas copias hará el estudiante?",
+            "dialogue": [
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Tanaka-san, por favor, haz copias de este folleto."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Sí, ¿cuántas?"
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Hay veinticinco estudiantes, y es una copia para cada persona."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Veinticinco copias, ¿verdad?"
+                },
+                {
+                    "speaker": "Profesor/a",
+                    "text": "Ah, también hay cinco profesores, así que por favor, haz copias también para los profesores."
+                },
+                {
+                    "speaker": "Estudiante",
+                    "text": "Entendido."
+                }
+            ],
+            "question": "¿Cuántas copias hará el estudiante?"
+        },
+        "ko": {
+            "intro": "학교에서 선생님과 학생이 이야기하고 있습니다. 학생은 몇 장 복사할까요?",
+            "dialogue": [
+                {
+                    "speaker": "선생님",
+                    "text": "타나카 씨, 이 유인물을 복사해 주세요."
+                },
+                {
+                    "speaker": "학생",
+                    "text": "네, 몇 장인가요?"
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "학생은 스물다섯 명이지만, 한 명당 한 장씩입니다."
+                },
+                {
+                    "speaker": "학생",
+                    "text": "스물다섯 장이네요."
+                },
+                {
+                    "speaker": "선생님",
+                    "text": "아, 선생님도 다섯 분 계시니까 선생님들 몫도 부탁합니다."
+                },
+                {
+                    "speaker": "학생",
+                    "text": "알겠습니다."
+                }
+            ],
+            "question": "학생은 몇 장 복사할까요?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぷりんと",
+                "reading": "ぷりんと",
+                "meanings": {
+                    "tr": "baskı/çıktı",
+                    "en": "printout/handout",
+                    "de": "Ausdruck/Handzettel",
+                    "fr": "polycopié/imprimé",
+                    "es": "folleto/impresión",
+                    "ko": "유인물/프린트"
+                }
+            },
+            {
+                "word": "こぴー",
+                "reading": "こぴー",
+                "meanings": {
+                    "tr": "fotokopi",
+                    "en": "copy",
+                    "de": "Kopie",
+                    "fr": "copie",
+                    "es": "copia",
+                    "ko": "복사"
+                }
+            },
+            {
+                "word": "ぶん",
+                "reading": "ぶん",
+                "meanings": {
+                    "tr": "... için / payı",
+                    "en": "share / portion for",
+                    "de": "Anteil / Portion für",
+                    "fr": "part / portion pour",
+                    "es": "parte / porción para",
+                    "ko": "몫 / 분량"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ずつ",
+                "meanings": {
+                    "tr": "her birine",
+                    "en": "each",
+                    "de": "jeweils / pro",
+                    "fr": "chacun / par",
+                    "es": "cada uno / por",
+                    "ko": "~씩"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "25 öğrenci + 5 öğretmen = 30 kişi. Her birine 1 kopya = 30 kopya. 25 (sadece öğrenci) yanlış hesaptır. Doğru cevap さんじゅうまい (30 adet).",
+        "en": "25 students + 5 teachers = 30 people. 1 copy each = 30 copies. 25 (students only) is a partial calculation. Correct: さんじゅうまい (30).",
+        "de": "25 Schüler + 5 Lehrer = 30 Personen. 1 Kopie pro Person = 30 Kopien. 25 (nur Schüler) ist eine unvollständige Berechnung. Richtig: さんじゅうまい (30).",
+        "fr": "25 élèves + 5 professeurs = 30 personnes. 1 copie chacun = 30 copies. 25 (élèves seulement) est un calcul partiel. Correct : さんじゅうまい (30).",
+        "es": "25 estudiantes + 5 profesores = 30 personas. 1 copia para cada uno = 30 copias. 25 (solo estudiantes) es un cálculo parcial. Correcto: さんじゅうまい (30).",
+        "ko": "학생 25명 + 선생님 5명 = 30명. 한 명당 1장씩 = 30장. 25장(학생만)은 잘못된 계산입니다. 정답: さんじゅうまい (30장)."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "おきた　じかん (Wake-up Time)",
+        "audio_url": null
+    },
+    "options": [
+        "ごじ",
+        "ろくじ",
+        "しちじ",
+        "はちじ"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　きょう　なんじに　おきましたか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "きょうは　はやいですね。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ええ、きょうは　ともだちと　あさ　くうこうへ　いきますから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "いつもは　しちじに　おきますよね。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "はい、でも　きょうは　いつもより　にじかん　はやく　おきました。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "たいへんですね。"
+            }
+        ],
+        "question": "おんなのひとは　きょう　なんじに　おきましたか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おきる",
+                "tr": "kalkmak",
+                "en": "to wake up"
+            },
+            {
+                "word": "くうこう",
+                "tr": "havaalanı",
+                "en": "airport"
+            },
+            {
+                "word": "はやい",
+                "tr": "erken",
+                "en": "early"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～より",
+                "tr": "-den daha",
+                "en": "than (comparison)"
+            },
+            {
+                "point": "～まえ",
+                "tr": "-den önce",
+                "en": "before"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın normalde saat 7'de (しちじ) kalkıyor. Bugün normalden 2 saat erken kalktı: 7 - 2 = 5. Doğru cevap ごじ (5:00).",
+        "en": "The woman usually wakes up at 7 (しちじ). Today she woke up 2 hours earlier: 7 - 2 = 5. Correct: ごじ (5:00)."
+    }
+}

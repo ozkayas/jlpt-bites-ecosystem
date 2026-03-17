@@ -1,0 +1,95 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ふゆやすみの　よてい (Winter Vacation Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "べんきょうを　します",
+        "すきーに　いきます",
+        "おんせんに　いきます",
+        "まいにち　およぎます"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おとこのひとは　ふゆやすみに　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのひと",
+                "text": "ふゆやすみは　どうしますか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ずっと　べんきょうです。でも　すきーにも　いきたいです。やまださんは？"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "かぞく　みんなで　おんせんに　いきます。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "いいですね。どこの　おんせんですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "はこねです。ちちは　まいにち　およいでいますから　おんせんの　ぷーるも　たのしみですよ。"
+            }
+        ],
+        "question": "おとこのひとは　ふゆやすみに　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ふゆやすみ",
+                "tr": "kış tatili",
+                "en": "winter vacation"
+            },
+            {
+                "word": "べんきょう",
+                "tr": "ders çalışma",
+                "en": "study"
+            },
+            {
+                "word": "すきー",
+                "tr": "kayak",
+                "en": "skiing"
+            },
+            {
+                "word": "おんせん",
+                "tr": "kaplıca",
+                "en": "hot spring"
+            },
+            {
+                "word": "およぐ",
+                "tr": "yüzmek",
+                "en": "to swim"
+            },
+            {
+                "word": "たのしみ",
+                "tr": "dört gözle beklenen şey",
+                "en": "looking forward to"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～に　いきます",
+                "tr": "bir yere gitmek amacıyla kullanılır",
+                "en": "used to indicate going to a place/for a purpose"
+            },
+            {
+                "point": "～たいです",
+                "tr": "istek belirtir (yapmak istiyorum)",
+                "en": "expresses desire (want to do something)"
+            },
+            {
+                "point": "～ています",
+                "tr": "şimdiki zaman veya süregelen durum",
+                "en": "present continuous or ongoing state"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın tüm tatil boyunca ders çalışacağını (べんきょう) ve kayağa da gitmek istediğini (すきー) söylüyor, ama bunlar erkeğin planı değil. Erkek (Yamada) ailesiyle birlikte kaplıcaya gideceğini (おんせんにいきます) açıkça belirtiyor. Babasının her gün yüzmesi (およいでいます) bir hobi detayıdır, tatil planının kendisi değildir.",
+        "en": "The woman says she will study (べんきょう) all vacation and wants to go skiing (すきー), but these are not the man's plans. The man (Yamada) explicitly states he will go to a hot spring (おんせんにいきます) with his family. His father swimming every day (およいでいます) is a hobby detail, not the vacation plan itself."
+    }
+}

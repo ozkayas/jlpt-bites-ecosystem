@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "わすれた　ふくろ (Forgotten Bag)",
+        "audio_url": null
+    },
+    "options": [
+        "ほんと　かぎ",
+        "ほんと　めがね",
+        "かぎと　めがね",
+        "ほんと　かぎと　めがね"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おみせで　おんなのひとと　おみせのひとが　はなしています。おんなのひとの　ふくろの　なかに　なにが　ありますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "すみません。きのう　ここに　ふくろを　わすれましたが。"
+            },
+            {
+                "speaker": "おみせのひと",
+                "text": "どんな　ふくろですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ちいさい　しろい　ふくろです。なかに　ほんと　めがねと　かぎが　はいっています。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "あ、かぎは　ぽけっとに　いれましたから　ほんと　めがねだけです。"
+            },
+            {
+                "speaker": "おみせのひと",
+                "text": "これですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "あ、はい。ありがとうございます。"
+            }
+        ],
+        "question": "おんなのひとの　ふくろの　なかに　なにが　ありますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ふくろ",
+                "tr": "torba/çanta",
+                "en": "bag"
+            },
+            {
+                "word": "わすれる",
+                "tr": "unutmak",
+                "en": "to forget"
+            },
+            {
+                "word": "めがね",
+                "tr": "gözlük",
+                "en": "glasses"
+            },
+            {
+                "word": "かぎ",
+                "tr": "anahtar",
+                "en": "key"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～だけ",
+                "tr": "sadece",
+                "en": "only"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın önce kitap, gözlük ve anahtar olduğunu söylüyor. Sonra anahtarın (かぎ) cebinde olduğunu hatırlayıp düzeltiyor. Torbada sadece kitap (ほん) ve gözlük (めがね) kalmıştır.",
+        "en": "The woman initially says the bag contains a book, glasses, and keys. She then corrects herself, saying the keys (かぎ) are in her pocket. Only the book (ほん) and glasses (めがね) remain in the bag."
+    }
+}

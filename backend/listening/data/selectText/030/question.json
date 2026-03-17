@@ -1,0 +1,306 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "つぎの　よやく",
+            "tr": "Sonraki Randevu",
+            "en": "Next Appointment",
+            "de": "Nächster Termin",
+            "fr": "Prochain Rendez-vous",
+            "es": "Próxima Cita",
+            "ko": "다음 예약"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/030/audio.mp3",
+    "options": [
+        "すいようび",
+        "もくようび",
+        "きんようび",
+        "どようび"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "びょういんで　いしゃと　おんなのひとが　はなしています。おんなのひとは　つぎ　いつ　びょういんへ　きますか。",
+            "dialogue": [
+                {
+                    "speaker": "いしゃ",
+                    "text": "つぎは　らいしゅう　きてください。すいようびは　どうですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "すみません、すいようびから　もくようびまで　しゅっちょうです。"
+                },
+                {
+                    "speaker": "いしゃ",
+                    "text": "じゃあ　そのつぎのひは？"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "きんようびですね。はい、だいじょうぶです。"
+                },
+                {
+                    "speaker": "いしゃ",
+                    "text": "じゃあ　ごぜんじゅうじで　いいですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "はい。"
+                }
+            ],
+            "question": "おんなのひとは　つぎ　いつ　びょういんへ　きますか。"
+        },
+        "tr": {
+            "intro": "Hastanede bir doktor ve bir kadın konuşuyor. Kadın bir sonraki sefer hastaneye ne zaman gelecek?",
+            "dialogue": [
+                {
+                    "speaker": "Doktor",
+                    "text": "Bir sonraki sefer lütfen gelecek hafta gelin. Çarşamba günü nasıl olur?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Üzgünüm, Çarşamba'dan Perşembe'ye kadar iş seyahatindeyim."
+                },
+                {
+                    "speaker": "Doktor",
+                    "text": "Peki, ondan sonraki gün nasıl?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Cuma günü, değil mi? Evet, uygun."
+                },
+                {
+                    "speaker": "Doktor",
+                    "text": "Peki, sabah saat on uygun mu?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet."
+                }
+            ],
+            "question": "Kadın bir sonraki sefer hastaneye ne zaman gelecek?"
+        },
+        "en": {
+            "intro": "At the hospital, a doctor and a woman are talking. When will the woman come to the hospital next?",
+            "dialogue": [
+                {
+                    "speaker": "Doctor",
+                    "text": "Please come next week. How about Wednesday?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Excuse me, but I'm on a business trip from Wednesday to Thursday."
+                },
+                {
+                    "speaker": "Doctor",
+                    "text": "Then, how about the day after that?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "That would be Friday, right? Yes, that's fine."
+                },
+                {
+                    "speaker": "Doctor",
+                    "text": "Then, is 10 AM okay?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Yes."
+                }
+            ],
+            "question": "When will the woman come to the hospital next?"
+        },
+        "de": {
+            "intro": "Im Krankenhaus sprechen ein Arzt und eine Frau. Wann wird die Frau das nächste Mal ins Krankenhaus kommen?",
+            "dialogue": [
+                {
+                    "speaker": "Arzt/Ärztin",
+                    "text": "Bitte kommen Sie nächste Woche. Wie wäre es mit Mittwoch?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Entschuldigung, ich bin von Mittwoch bis Donnerstag auf Geschäftsreise."
+                },
+                {
+                    "speaker": "Arzt/Ärztin",
+                    "text": "Nun, wie wäre es mit dem Tag danach?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Das wäre Freitag, richtig? Ja, das ist in Ordnung."
+                },
+                {
+                    "speaker": "Arzt/Ärztin",
+                    "text": "Ist dann 10 Uhr morgens in Ordnung?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja."
+                }
+            ],
+            "question": "Wann wird die Frau das nächste Mal ins Krankenhaus kommen?"
+        },
+        "fr": {
+            "intro": "À l'hôpital, un médecin et une femme parlent. Quand la femme viendra-t-elle à l'hôpital la prochaine fois ?",
+            "dialogue": [
+                {
+                    "speaker": "Médecin",
+                    "text": "Veuillez venir la semaine prochaine. Que diriez-vous de mercredi ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Désolée, je suis en voyage d'affaires de mercredi à jeudi."
+                },
+                {
+                    "speaker": "Médecin",
+                    "text": "Alors, le jour d'après ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Ce serait vendredi, n'est-ce pas ? Oui, c'est bon."
+                },
+                {
+                    "speaker": "Médecin",
+                    "text": "Alors, 10 heures du matin, ça vous va ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui."
+                }
+            ],
+            "question": "Quand la femme viendra-t-elle à l'hôpital la prochaine fois ?"
+        },
+        "es": {
+            "intro": "En el hospital, un médico y una mujer están hablando. ¿Cuándo vendrá la mujer al hospital la próxima vez?",
+            "dialogue": [
+                {
+                    "speaker": "Médico/a",
+                    "text": "Por favor, venga la próxima semana. ¿Qué tal el miércoles?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Disculpe, estoy de viaje de negocios de miércoles a jueves."
+                },
+                {
+                    "speaker": "Médico/a",
+                    "text": "Entonces, ¿qué tal el día siguiente?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sería viernes, ¿verdad? Sí, está bien."
+                },
+                {
+                    "speaker": "Médico/a",
+                    "text": "Entonces, ¿está bien a las 10 de la mañana?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí."
+                }
+            ],
+            "question": "¿Cuándo vendrá la mujer al hospital la próxima vez?"
+        },
+        "ko": {
+            "intro": "병원에서 의사와 여자가 이야기하고 있습니다. 여자는 다음에 언제 병원에 옵니까?",
+            "dialogue": [
+                {
+                    "speaker": "의사",
+                    "text": "다음에는 다음 주에 와주세요. 수요일은 어떠세요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "죄송합니다만, 수요일부터 목요일까지 출장입니다."
+                },
+                {
+                    "speaker": "의사",
+                    "text": "그럼, 그 다음 날은요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "금요일이네요. 네, 괜찮습니다."
+                },
+                {
+                    "speaker": "의사",
+                    "text": "그럼 오전 10시로 괜찮으세요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네."
+                }
+            ],
+            "question": "여자는 다음에 언제 병원에 옵니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅっちょう",
+                "reading": "しゅっちょう",
+                "meanings": {
+                    "tr": "iş seyahati",
+                    "en": "business trip",
+                    "de": "Geschäftsreise",
+                    "fr": "voyage d'affaires",
+                    "es": "viaje de negocios",
+                    "ko": "출장"
+                }
+            },
+            {
+                "word": "つぎ",
+                "reading": "つぎ",
+                "meanings": {
+                    "tr": "sonraki",
+                    "en": "next",
+                    "de": "nächste(r/s)",
+                    "fr": "prochain(e)",
+                    "es": "siguiente",
+                    "ko": "다음"
+                }
+            },
+            {
+                "word": "ごぜん",
+                "reading": "ごぜん",
+                "meanings": {
+                    "tr": "sabah/öğleden önce",
+                    "en": "morning/AM",
+                    "de": "Vormittag/AM",
+                    "fr": "matin/AM",
+                    "es": "mañana/AM",
+                    "ko": "오전"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～から～まで",
+                "meanings": {
+                    "tr": "-den -e kadar",
+                    "en": "from ... to ...",
+                    "de": "von ... bis ...",
+                    "fr": "de ... à ...",
+                    "es": "de ... a ...",
+                    "ko": "~부터 ~까지"
+                }
+            },
+            {
+                "point": "そのつぎのひ",
+                "meanings": {
+                    "tr": "ondan sonraki gün",
+                    "en": "the day after that",
+                    "de": "der Tag danach",
+                    "fr": "le jour d'après",
+                    "es": "el día siguiente",
+                    "ko": "그 다음 날"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Çarşamba (すいようび) ve Perşembe (もくようび) iş seyahati var. Doktor 'ondan sonraki gün' deyince Cuma (きんようび) oluyor. Kadın kabul ediyor. Doğru cevap きんようび.",
+        "en": "Wednesday (すいようび) and Thursday (もくようび) she's on a business trip. 'The day after that' is Friday (きんようび). She agrees. Correct: きんようび (Friday).",
+        "de": "Mittwoch (すいようび) und Donnerstag (もくようび) ist sie auf Geschäftsreise. 'Der Tag danach' ist Freitag (きんようび). Sie stimmt zu. Richtig: きんようび (Freitag).",
+        "fr": "Mercredi (すいようび) et jeudi (もくようび), elle est en voyage d'affaires. 'Le jour d'après' est vendredi (きんようび). Elle est d'accord. Réponse correcte : きんようび (vendredi).",
+        "es": "El miércoles (すいようび) y el jueves (もくようび) ella está de viaje de negocios. 'El día siguiente' es viernes (きんようび). Ella acepta. Correcto: きんようび (viernes).",
+        "ko": "수요일(すいようび)과 목요일(もくようび)은 출장입니다. 의사가 '그 다음 날'이라고 말하자 금요일(きんようび)이 됩니다. 여자가 동의합니다. 정답: きんようび (금요일)."
+    }
+}

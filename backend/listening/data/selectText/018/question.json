@@ -1,0 +1,251 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "りょこうの　にんずう",
+            "tr": "Seyahat Grubu Büyüklüğü",
+            "en": "Travel Group Size",
+            "de": "Reisegruppengröße",
+            "fr": "Taille du groupe de voyage",
+            "es": "Tamaño del grupo de viaje",
+            "ko": "여행 그룹 인원수"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/018/audio.mp3",
+    "options": [
+        "さんにん",
+        "よにん",
+        "ごにん",
+        "ろくにん"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "おんなのひとと　おとこのひとが　はなしています。おんなのひとは　なんにんで　りょこうに　いきましたか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "きれいな　しゃしんですね。どこですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "きょうとです。おっとと　こどもたちと　いっしょに　いきました。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "おこさんは　なんにんですか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "さんにんです。むすこが　ふたりと　むすめが　ひとりです。"
+                }
+            ],
+            "question": "おんなのひとは　なんにんで　りょこうに　いきましたか。"
+        },
+        "tr": {
+            "intro": "Bir kadın ve bir erkek konuşuyor. Kadın kaç kişiyle seyahate gitti?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Ne güzel bir fotoğraf, değil mi? Neresi burası?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Kyoto. Eşim ve çocuklarımla birlikte gittim."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Kaç çocuğunuz var?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Üç çocuk. İki oğlum ve bir kızım var."
+                }
+            ],
+            "question": "Kadın kaç kişiyle seyahate gitti?"
+        },
+        "en": {
+            "intro": "A woman and a man are talking. How many people did the woman go on the trip with?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "That's a beautiful photo, isn't it? Where is it?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "It's Kyoto. I went with my husband and children."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "How many children do you have?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Three children. Two sons and one daughter."
+                }
+            ],
+            "question": "How many people did the woman go on the trip with?"
+        },
+        "de": {
+            "intro": "Eine Frau und ein Mann unterhalten sich. Mit wie vielen Personen ist die Frau verreist?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Das ist ein schönes Foto, nicht wahr? Wo ist das?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Es ist Kyoto. Ich bin mit meinem Mann und meinen Kindern hingefahren."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Wie viele Kinder haben Sie?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Drei Kinder. Zwei Söhne und eine Tochter."
+                }
+            ],
+            "question": "Mit wie vielen Personen ist die Frau verreist?"
+        },
+        "fr": {
+            "intro": "Une femme et un homme parlent. Avec combien de personnes la femme est-elle partie en voyage ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "C'est une belle photo, n'est-ce pas ? Où est-ce ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "C'est Kyoto. J'y suis allée avec mon mari et mes enfants."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Combien d'enfants avez-vous ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Trois enfants. Deux fils et une fille."
+                }
+            ],
+            "question": "Avec combien de personnes la femme est-elle partie en voyage ?"
+        },
+        "es": {
+            "intro": "Una mujer y un hombre están hablando. ¿Con cuántas personas fue la mujer de viaje?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "Es una foto bonita, ¿verdad? ¿Dónde es?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Es Kioto. Fui con mi marido y mis hijos."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Cuántos hijos tiene?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Tres hijos. Dos hijos varones y una hija."
+                }
+            ],
+            "question": "¿Con cuántas personas fue la mujer de viaje?"
+        },
+        "ko": {
+            "intro": "여자와 남자가 이야기하고 있습니다. 여자는 몇 명과 함께 여행을 갔습니까?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "예쁜 사진이네요. 어디예요?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "교토예요. 남편과 아이들과 함께 갔어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "자녀분은 몇 명입니까?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "세 명입니다. 아들 두 명과 딸 한 명입니다."
+                }
+            ],
+            "question": "여자는 몇 명과 함께 여행을 갔습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おっと",
+                "reading": "おっと",
+                "meanings": {
+                    "tr": "koca",
+                    "en": "husband",
+                    "de": "Ehemann",
+                    "fr": "mari",
+                    "es": "marido",
+                    "ko": "남편"
+                }
+            },
+            {
+                "word": "こども",
+                "reading": "こども",
+                "meanings": {
+                    "tr": "çocuk",
+                    "en": "child/children",
+                    "de": "Kind/Kinder",
+                    "fr": "enfant/enfants",
+                    "es": "niño/niños",
+                    "ko": "아이/자녀"
+                }
+            },
+            {
+                "word": "むすこ",
+                "reading": "むすこ",
+                "meanings": {
+                    "tr": "oğul",
+                    "en": "son",
+                    "de": "Sohn",
+                    "fr": "fils",
+                    "es": "hijo (varón)",
+                    "ko": "아들"
+                }
+            },
+            {
+                "word": "むすめ",
+                "reading": "むすめ",
+                "meanings": {
+                    "tr": "kız çocuk",
+                    "en": "daughter",
+                    "de": "Tochter",
+                    "fr": "fille",
+                    "es": "hija (mujer)",
+                    "ko": "딸"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～と　いっしょに",
+                "meanings": {
+                    "tr": "... ile birlikte",
+                    "en": "together with ...",
+                    "de": "zusammen mit ...",
+                    "fr": "avec ...",
+                    "es": "junto con ...",
+                    "ko": "...와/과 함께"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın + kocası (1) + çocuklar (3: 2 oğul + 1 kız) = toplam 5 kişi. Çocuk sayısı (3) ve koca dahil (4) yanlış hesaplardır. Doğru cevap ごにん (5 kişi).",
+        "en": "Woman + husband (1) + children (3: 2 sons + 1 daughter) = 5 total. Children count (3) and husband+children (4) are partial calculations. Correct: ごにん (5 people).",
+        "de": "Frau + Ehemann (1) + Kinder (3: 2 Söhne + 1 Tochter) = insgesamt 5 Personen. Die Kinderanzahl (3) und Ehemann+Kinder (4) sind Teilergebnisse. Richtig: ごにん (5 Personen).",
+        "fr": "Femme + mari (1) + enfants (3: 2 fils + 1 fille) = 5 personnes au total. Le nombre d'enfants (3) et mari+enfants (4) sont des calculs partiels. Correct : ごにん (5 personnes).",
+        "es": "Mujer + marido (1) + hijos (3: 2 hijos varones + 1 hija) = 5 personas en total. El número de hijos (3) y marido+hijos (4) son cálculos parciales. Correcto: ごにん (5 personas).",
+        "ko": "여자 + 남편 (1) + 자녀 (3명: 아들 2명 + 딸 1명) = 총 5명. 자녀 수 (3명)와 남편 포함 (4명)은 부분적인 계산입니다. 정답: ごにん (5명)."
+    }
+}

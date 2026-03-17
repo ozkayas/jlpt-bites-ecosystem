@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "がっこうへの　いきかた (How to Get to School)",
+        "audio_url": null
+    },
+    "options": [
+        "じてんしゃで　いきました",
+        "ばすで　いきました",
+        "あるいて　いきました",
+        "たくしーで　いきました"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。おんなのがくせいは　きょう　どうやって　がっこうに　きましたか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのがくせい",
+                "text": "きょうは　ばすで　きましたか。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "いつもは　じてんしゃですが　きょうは　あめですから　ばすで　きました。"
+            },
+            {
+                "speaker": "おとこのがくせい",
+                "text": "わたしは　あるいて　きましたよ。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "あめなのに　すごいですね。"
+            }
+        ],
+        "question": "おんなのがくせいは　きょう　どうやって　がっこうに　きましたか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "じてんしゃ",
+                "tr": "bisiklet",
+                "en": "bicycle"
+            },
+            {
+                "word": "ばす",
+                "tr": "otobüs",
+                "en": "bus"
+            },
+            {
+                "word": "あるく",
+                "tr": "yürümek",
+                "en": "to walk"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ですから",
+                "tr": "... olduğu için",
+                "en": "because ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın normalde bisikletle (じてんしゃ) geliyor ama bugün yağmur yağdığı için otobüsle (ばす) gelmiş. Erkek yürüyerek gelmiş ama soru kadını soruyor. Doğru cevap otobüs.",
+        "en": "The woman usually comes by bicycle (じてんしゃ) but today came by bus (ばす) because of rain. The man walked but the question asks about the woman. Correct answer: bus."
+    }
+}

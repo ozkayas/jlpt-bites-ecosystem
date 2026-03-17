@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "ほてるの　へやの　もの",
+            "tr": "Otel Odası Eşyaları",
+            "en": "Hotel Room Items",
+            "de": "Gegenstände im Hotelzimmer",
+            "fr": "Objets dans la chambre d'hôtel",
+            "es": "Artículos de la habitación del hotel",
+            "ko": "호텔 객실 물품"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/005/audio.mp3",
+    "options": [
+        "てれび",
+        "れいぞうこ",
+        "でんわ",
+        "ぱそこん"
+    ],
+    "correct_option": 0,
+    "transcriptions": {
+        "ja": {
+            "intro": "ほてるで　おんなのひとが　おとこのひとに　はなしています。へやには　なにが　ありますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "おへやに　てれびが　あります。りもこんは　つくえの　うえです。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "れいぞうこは　へやには　ありませんが　ろびーに　あります。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "でんわも　へやには　ありません。ふろんとに　でんわが　あります。"
+                }
+            ],
+            "question": "へやには　なにが　ありますか。"
+        },
+        "tr": {
+            "intro": "Otelde bir kadın bir erkekle konuşuyor. Odada ne var?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Odada televizyon var. Uzaktan kumanda masanın üzerinde."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Buzdolabı odada yok ama lobide var."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Telefon da odada yok. Resepsiyonda telefon var."
+                }
+            ],
+            "question": "Odada ne var?"
+        },
+        "en": {
+            "intro": "At the hotel, a woman is talking to a man. What is in the room?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "There is a TV in the room. The remote control is on the desk."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "There is no refrigerator in the room, but there is one in the lobby."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "There is no phone in the room either. There is a phone at the front desk."
+                }
+            ],
+            "question": "What is in the room?"
+        },
+        "de": {
+            "intro": "Im Hotel spricht eine Frau mit einem Mann. Was gibt es im Zimmer?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Im Zimmer gibt es einen Fernseher. Die Fernbedienung ist auf dem Schreibtisch."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Es gibt keinen Kühlschrank im Zimmer, aber einen in der Lobby."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ein Telefon gibt es auch nicht im Zimmer. Es gibt ein Telefon an der Rezeption."
+                }
+            ],
+            "question": "Was gibt es im Zimmer?"
+        },
+        "fr": {
+            "intro": "À l'hôtel, une femme parle à un homme. Qu'y a-t-il dans la chambre ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Il y a une télévision dans la chambre. La télécommande est sur le bureau."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Il n'y a pas de réfrigérateur dans la chambre, mais il y en a un dans le hall."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Il n'y a pas non plus de téléphone dans la chambre. Il y a un téléphone à la réception."
+                }
+            ],
+            "question": "Qu'y a-t-il dans la chambre ?"
+        },
+        "es": {
+            "intro": "En el hotel, una mujer está hablando con un hombre. ¿Qué hay en la habitación?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Hay un televisor en la habitación. El control remoto está sobre el escritorio."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "No hay refrigerador en la habitación, pero hay uno en el vestíbulo."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Tampoco hay teléfono en la habitación. Hay un teléfono en la recepción."
+                }
+            ],
+            "question": "¿Qué hay en la habitación?"
+        },
+        "ko": {
+            "intro": "호텔에서 여자가 남자에게 이야기하고 있습니다. 방에는 무엇이 있습니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "방에 텔레비전이 있습니다. 리모컨은 책상 위에 있습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "냉장고는 방에는 없지만 로비에 있습니다."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "전화도 방에는 없습니다. 프런트에 전화가 있습니다."
+                }
+            ],
+            "question": "방에는 무엇이 있습니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ほてる",
+                "reading": "ほてる",
+                "meanings": {
+                    "tr": "otel",
+                    "en": "hotel",
+                    "de": "Hotel",
+                    "fr": "hôtel",
+                    "es": "hotel",
+                    "ko": "호텔"
+                }
+            },
+            {
+                "word": "りもこん",
+                "reading": "りもこん",
+                "meanings": {
+                    "tr": "uzaktan kumanda",
+                    "en": "remote control",
+                    "de": "Fernbedienung",
+                    "fr": "télécommande",
+                    "es": "control remoto",
+                    "ko": "리모컨"
+                }
+            },
+            {
+                "word": "ろびー",
+                "reading": "ろびー",
+                "meanings": {
+                    "tr": "lobi",
+                    "en": "lobby",
+                    "de": "Lobby",
+                    "fr": "hall (d'hôtel)",
+                    "es": "vestíbulo",
+                    "ko": "로비"
+                }
+            },
+            {
+                "word": "ふろんと",
+                "reading": "ふろんと",
+                "meanings": {
+                    "tr": "resepsiyon",
+                    "en": "front desk",
+                    "de": "Rezeption",
+                    "fr": "réception",
+                    "es": "recepción",
+                    "ko": "프런트 (데스크)"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　ありません",
+                "meanings": {
+                    "tr": "... yoktur",
+                    "en": "there is no ...",
+                    "de": "es gibt kein ...",
+                    "fr": "il n'y a pas de ...",
+                    "es": "no hay ...",
+                    "ko": "...이/가 없습니다"
+                }
+            },
+            {
+                "point": "～の　うえ",
+                "meanings": {
+                    "tr": "... üzerinde",
+                    "en": "on top of ...",
+                    "de": "auf ...",
+                    "fr": "sur ...",
+                    "es": "encima de ...",
+                    "ko": "... 위에"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Buzdolabı (れいぞうこ) lobide, telefon (でんわ) resepsiyonda, ikisi de odada yok. Odada (へやに) sadece televizyon (てれび) var. Bilgisayar (ぱそこん) hiç bahsedilmiyor.",
+        "en": "The fridge (れいぞうこ) is in the lobby, the phone (でんわ) is at the front desk — neither is in the room. Only the TV (てれび) is in the room. The PC (ぱそこん) is never mentioned.",
+        "de": "Der Kühlschrank (れいぞうこ) ist in der Lobby, das Telefon (でんわ) ist an der Rezeption – beides ist nicht im Zimmer. Nur der Fernseher (てれび) ist im Zimmer. Der PC (ぱそこん) wird überhaupt nicht erwähnt.",
+        "fr": "Le réfrigérateur (れいぞうこ) est dans le hall, le téléphone (でんわ) est à la réception – aucun des deux n'est dans la chambre. Seule la télévision (てれび) est dans la chambre. L'ordinateur (ぱそこん) n'est jamais mentionné.",
+        "es": "El refrigerador (れいぞうこ) está en el vestíbulo, el teléfono (でんわ) está en la recepción; ninguno de los dos está en la habitación. Solo el televisor (てれび) está en la habitación. La PC (ぱそこん) nunca se menciona.",
+        "ko": "냉장고(れいぞうこ)는 로비에 있고, 전화(でんわ)는 프런트에 있습니다. 둘 다 방에는 없습니다. 방(へやに)에는 텔레비전(てれび)만 있습니다. 컴퓨터(ぱそこん)는 전혀 언급되지 않았습니다."
+    }
+}

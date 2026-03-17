@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "かいものの　ひ (Shopping Day)",
+        "audio_url": null
+    },
+    "options": [
+        "どようび",
+        "にちようび",
+        "げつようび",
+        "きんようび"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。ふたりは　いつ　かいものに　いきますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "こんしゅうの　どようび　いっしょに　かいものに　いきませんか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "すみません、どようびは　あるばいとが　あります。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "にちようびは　どうですか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "にちようびは　ごぜんは　あるばいとですが　ごご　さんじに　おわります。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "じゃあ　にちようびの　ごご　いきましょう。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "はい、そうしましょう。"
+            }
+        ],
+        "question": "ふたりは　いつ　かいものに　いきますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "どようび",
+                "tr": "Cumartesi",
+                "en": "Saturday"
+            },
+            {
+                "word": "にちようび",
+                "tr": "Pazar",
+                "en": "Sunday"
+            },
+            {
+                "word": "あるばいと",
+                "tr": "yarı zamanlı iş",
+                "en": "part-time job"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ませんか",
+                "tr": "yapmaz mısınız? (teklif)",
+                "en": "won't you? (invitation)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Cumartesi (どようび) erkek çalışıyor. Pazar (にちようび) sabah işi var ama öğleden sonra 3'te bitiyor. İkisi Pazar öğleden sonra buluşmaya karar veriyor. Doğru cevap にちようび.",
+        "en": "Saturday (どようび) the man works. Sunday (にちようび) he works in the morning but finishes at 3 PM. They agree to go Sunday afternoon. Correct: にちようび."
+    }
+}

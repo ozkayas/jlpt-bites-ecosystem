@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^source /Users/suatozkaya/Documents/repos/jlpt-bites-ecosystem/venv/bin/activate && cd /Users/suatozkaya/Documents/repos/jlpt-bites-ecosystem/backend/listening/data/selectImage/listening-youtube-data && bash run\\.sh$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "やすみの　ひの　よてい (Day Off Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "ぷーるで　およぎます",
+        "うちで　えいがを　みます",
+        "こうえんを　さんぽします",
+        "としょかんで　べんきょうします"
+    ],
+    "correct_option": 2,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。ふたりは　あした　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "あした　やすみですね。いっしょに　ぷーるへ　いきませんか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "すみません。あしたは　あさ　ともだちと　てにすを　します。ちょっと　つかれますから。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "じゃあ　ぷーるじゃなくて　こうえんを　さんぽしませんか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "いいですね。そうしましょう。"
+            }
+        ],
+        "question": "ふたりは　あした　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ぷーる",
+                "tr": "havuz",
+                "en": "pool"
+            },
+            {
+                "word": "つかれる",
+                "tr": "yorulmak",
+                "en": "to get tired"
+            },
+            {
+                "word": "さんぽ",
+                "tr": "yürüyüş",
+                "en": "walk/stroll"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～じゃなくて",
+                "tr": "... değil de",
+                "en": "not ... but"
+            },
+            {
+                "point": "～ましょう",
+                "tr": "hadi yapalım",
+                "en": "let's do"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın havuza (ぷーる) gitmeyi teklif ediyor. Erkek sabah tenis oynayacağı için yorgun olacağını söylüyor. Kadın havuz yerine parkta yürüyüş (こうえんをさんぽ) önerince erkek kabul ediyor.",
+        "en": "The woman suggests going to the pool (ぷーる). The man says he'll be tired after tennis. She suggests a walk in the park (こうえんをさんぽ) instead, which he agrees to."
+    }
+}

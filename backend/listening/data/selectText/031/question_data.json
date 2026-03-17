@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "しゅうまつの　よてい (Weekend Plans)",
+        "audio_url": null
+    },
+    "options": [
+        "うみへ　いきます",
+        "やまへ　いきます",
+        "うちで　やすみます",
+        "ともだちと　てにすを　します"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとは　しゅうまつに　なにを　しますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "しゅうまつは　なにを　しますか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "かぞくと　うみへ　いきます。すずきさんは？"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "わたしは　やまへ　いきたいですが　しゅうまつは　うちで　やすみます。つかれていますから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "そうですか。わたしも　きのう　ともだちと　てにすを　して　つかれましたが　うみが　たのしみです。"
+            }
+        ],
+        "question": "おとこのひとは　しゅうまつに　なにを　しますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "しゅうまつ",
+                "tr": "hafta sonu",
+                "en": "weekend"
+            },
+            {
+                "word": "うみ",
+                "tr": "deniz",
+                "en": "sea/beach"
+            },
+            {
+                "word": "やすむ",
+                "tr": "dinlenmek",
+                "en": "to rest"
+            },
+            {
+                "word": "たのしみ",
+                "tr": "dört gözle beklemek",
+                "en": "looking forward to"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～たいです",
+                "tr": "... yapmak istemek",
+                "en": "want to do ..."
+            },
+            {
+                "point": "～ています",
+                "tr": "süregelen durum",
+                "en": "ongoing state"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın dağa (やま) gitmek istiyor ama evde dinlenecek. Erkek dün tenis oynadı ama bu hafta sonu planı değil. Erkek açıkça ailesiyle denize (うみ) gideceğini söylüyor. Doğru cevap うみへいきます.",
+        "en": "The woman wants to go to the mountains (やま) but will rest at home. The man played tennis yesterday but that's not his weekend plan. He clearly states he'll go to the beach (うみ) with his family. Correct: go to the beach."
+    }
+}

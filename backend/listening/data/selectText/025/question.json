@@ -1,0 +1,262 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "くすりの　のみかた",
+            "tr": "İlaç Kullanımı",
+            "en": "How to Take Medicine",
+            "de": "Wie man Medikamente einnimmt",
+            "fr": "Comment prendre des médicaments",
+            "es": "Cómo tomar medicamentos",
+            "ko": "약 복용법"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/025/audio.mp3",
+    "options": [
+        "しろい　くすりだけ",
+        "あおい　くすりだけ",
+        "しろいのと　あおいの",
+        "みっつ　ぜんぶ"
+    ],
+    "correct_option": 2,
+    "transcriptions": {
+        "ja": {
+            "intro": "びょういんで　おんなのひとが　おとこのひとに　はなしています。おとこのひとは　よる　どの　くすりを　のみますか。",
+            "dialogue": [
+                {
+                    "speaker": "おんなのひと",
+                    "text": "しろい　くすりは　あさと　よる　ごはんのあとに　のんでください。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あおい　くすりは　よるだけ　ねるまえに　のんでください。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "あかい　くすりは　おなかが　いたいときだけ　のんでください。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "わかりました。ありがとうございます。"
+                }
+            ],
+            "question": "おとこのひとは　よる　どの　くすりを　のみますか。"
+        },
+        "tr": {
+            "intro": "Hastanede bir kadın bir erkekle konuşuyor. Adam akşam hangi ilacı içecek?",
+            "dialogue": [
+                {
+                    "speaker": "Kadın",
+                    "text": "Beyaz ilacı sabah ve akşam yemekten sonra için lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Mavi ilacı sadece akşam yatmadan önce için lütfen."
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Kırmızı ilacı sadece karnınız ağrıdığında için lütfen."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Anladım. Teşekkür ederim."
+                }
+            ],
+            "question": "Adam akşam hangi ilacı içecek?"
+        },
+        "en": {
+            "intro": "At the hospital, a woman is talking to a man. Which medicine will the man take at night?",
+            "dialogue": [
+                {
+                    "speaker": "Woman",
+                    "text": "Please take the white medicine in the morning and at night after meals."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please take the blue medicine only at night before sleeping."
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Please take the red medicine only when your stomach hurts."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "I understand. Thank you."
+                }
+            ],
+            "question": "Which medicine will the man take at night?"
+        },
+        "de": {
+            "intro": "Im Krankenhaus spricht eine Frau mit einem Mann. Welches Medikament wird der Mann abends einnehmen?",
+            "dialogue": [
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte nehmen Sie die weiße Medizin morgens und abends nach dem Essen ein."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte nehmen Sie die blaue Medizin nur abends vor dem Schlafengehen ein."
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Bitte nehmen Sie die rote Medizin nur ein, wenn Sie Bauchschmerzen haben."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ich verstehe. Vielen Dank."
+                }
+            ],
+            "question": "Welches Medikament wird der Mann abends einnehmen?"
+        },
+        "fr": {
+            "intro": "À l'hôpital, une femme parle à un homme. Quel médicament l'homme prendra-t-il le soir ?",
+            "dialogue": [
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez prendre le médicament blanc le matin et le soir après les repas."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez prendre le médicament bleu uniquement le soir avant de dormir."
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Veuillez prendre le médicament rouge uniquement quand vous avez mal au ventre."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "J'ai compris. Merci beaucoup."
+                }
+            ],
+            "question": "Quel médicament l'homme prendra-t-il le soir ?"
+        },
+        "es": {
+            "intro": "En el hospital, una mujer está hablando con un hombre. ¿Qué medicina tomará el hombre por la noche?",
+            "dialogue": [
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, tome la medicina blanca por la mañana y por la noche después de las comidas."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, tome la medicina azul solo por la noche antes de dormir."
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Por favor, tome la medicina roja solo cuando le duela el estómago."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Entendido. Muchas gracias."
+                }
+            ],
+            "question": "¿Qué medicina tomará el hombre por la noche?"
+        },
+        "ko": {
+            "intro": "병원에서 여자가 남자에게 이야기하고 있습니다. 남자는 밤에 어떤 약을 마십니까?",
+            "dialogue": [
+                {
+                    "speaker": "여자",
+                    "text": "하얀 약은 아침과 밤 식사 후에 드세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "파란 약은 밤에만 자기 전에 드세요."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "빨간 약은 배가 아플 때만 드세요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "알겠습니다. 감사합니다."
+                }
+            ],
+            "question": "남자는 밤에 어떤 약을 마십니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "くすり",
+                "reading": "くすり",
+                "meanings": {
+                    "tr": "ilaç",
+                    "en": "medicine",
+                    "de": "Medikament",
+                    "fr": "médicament",
+                    "es": "medicina",
+                    "ko": "약"
+                }
+            },
+            {
+                "word": "しろい",
+                "reading": "しろい",
+                "meanings": {
+                    "tr": "beyaz",
+                    "en": "white",
+                    "de": "weiß",
+                    "fr": "blanc",
+                    "es": "blanco",
+                    "ko": "하얀"
+                }
+            },
+            {
+                "word": "あおい",
+                "reading": "あおい",
+                "meanings": {
+                    "tr": "mavi",
+                    "en": "blue",
+                    "de": "blau",
+                    "fr": "bleu",
+                    "es": "azul",
+                    "ko": "파란"
+                }
+            },
+            {
+                "word": "あかい",
+                "reading": "あかい",
+                "meanings": {
+                    "tr": "kırmızı",
+                    "en": "red",
+                    "de": "rot",
+                    "fr": "rouge",
+                    "es": "rojo",
+                    "ko": "빨간"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～まえに",
+                "meanings": {
+                    "tr": "-den önce",
+                    "en": "before",
+                    "de": "vor",
+                    "fr": "avant",
+                    "es": "antes de",
+                    "ko": "~전에"
+                }
+            },
+            {
+                "point": "～ときだけ",
+                "meanings": {
+                    "tr": "sadece ... olduğunda",
+                    "en": "only when ...",
+                    "de": "nur wenn ...",
+                    "fr": "seulement quand ...",
+                    "es": "solo cuando ...",
+                    "ko": "~할 때만"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Beyaz ilaç sabah ve akşam (よる dahil). Mavi ilaç sadece akşam. Kırmızı ilaç sadece karın ağrısında. Akşam: beyaz + mavi. Doğru cevap しろいのとあおいの.",
+        "en": "White medicine: morning and night (よる included). Blue medicine: night only. Red medicine: only when stomach hurts. At night: white + blue. Correct: both white and blue.",
+        "de": "Weiße Medizin: morgens und abends (よる inbegriffen). Blaue Medizin: nur abends. Rote Medizin: nur bei Bauchschmerzen. Abends: weiß + blau. Korrekt: sowohl die weiße als auch die blaue.",
+        "fr": "Médicament blanc : matin et soir (よる inclus). Médicament bleu : soir seulement. Médicament rouge : seulement quand le ventre fait mal. Le soir : blanc + bleu. Correct : le blanc et le bleu.",
+        "es": "Medicina blanca: mañana y noche (incluyendo よる). Medicina azul: solo por la noche. Medicina roja: solo cuando duele el estómago. Por la noche: blanca + azul. Correcto: la blanca y la azul.",
+        "ko": "하얀 약: 아침과 밤 (よる 포함). 파란 약: 밤에만. 빨간 약: 배가 아플 때만. 밤에: 하얀 약 + 파란 약. 정답: 하얀 약과 파란 약."
+    }
+}

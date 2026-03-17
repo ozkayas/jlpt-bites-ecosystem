@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ほてるの　へやの　もの (Hotel Room Items)",
+        "audio_url": null
+    },
+    "options": [
+        "てれび",
+        "れいぞうこ",
+        "でんわ",
+        "ぱそこん"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "ほてるで　おんなのひとが　おとこのひとに　はなしています。へやには　なにが　ありますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "おへやに　てれびが　あります。りもこんは　つくえの　うえです。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "れいぞうこは　へやには　ありませんが　ろびーに　あります。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "でんわも　へやには　ありません。ふろんとに　でんわが　あります。"
+            }
+        ],
+        "question": "へやには　なにが　ありますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "ほてる",
+                "tr": "otel",
+                "en": "hotel"
+            },
+            {
+                "word": "りもこん",
+                "tr": "uzaktan kumanda",
+                "en": "remote control"
+            },
+            {
+                "word": "ろびー",
+                "tr": "lobi",
+                "en": "lobby"
+            },
+            {
+                "word": "ふろんと",
+                "tr": "resepsiyon",
+                "en": "front desk"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～は　ありません",
+                "tr": "... yoktur",
+                "en": "there is no ..."
+            },
+            {
+                "point": "～の　うえ",
+                "tr": "... üzerinde",
+                "en": "on top of ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Buzdolabı (れいぞうこ) lobide, telefon (でんわ) resepsiyonda, ikisi de odada yok. Odada (へやに) sadece televizyon (てれび) var. Bilgisayar (ぱそこん) hiç bahsedilmiyor.",
+        "en": "The fridge (れいぞうこ) is in the lobby, the phone (でんわ) is at the front desk — neither is in the room. Only the TV (てれび) is in the room. The PC (ぱそこん) is never mentioned."
+    }
+}

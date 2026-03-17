@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ひるごはんの　ばしょ (Lunch Location)",
+        "audio_url": null
+    },
+    "options": [
+        "がくせいしょくどう",
+        "きょうしつ",
+        "こうえん",
+        "こんびに"
+    ],
+    "correct_option": 0,
+    "transcription": {
+        "intro": "だいがくで　おとこのがくせいと　おんなのがくせいが　はなしています。ふたりは　どこで　たべますか。",
+        "dialogue": [
+            {
+                "speaker": "おとこのがくせい",
+                "text": "おひる　いっしょに　たべませんか。こうえんで　たべましょうか。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "きょうは　あめですから　そとは　ちょっと。"
+            },
+            {
+                "speaker": "おとこのがくせい",
+                "text": "そうですね。じゃあ　がくせいしょくどうは　どうですか。"
+            },
+            {
+                "speaker": "おんなのがくせい",
+                "text": "いいですね。そうしましょう。"
+            }
+        ],
+        "question": "ふたりは　どこで　たべますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "がくせいしょくどう",
+                "tr": "öğrenci yemekhanesi",
+                "en": "school cafeteria"
+            },
+            {
+                "word": "あめ",
+                "tr": "yağmur",
+                "en": "rain"
+            },
+            {
+                "word": "そと",
+                "tr": "dışarı",
+                "en": "outside"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ましょうか",
+                "tr": "yapalım mı?",
+                "en": "shall we?"
+            },
+            {
+                "point": "～は　ちょっと",
+                "tr": "... biraz zor (nazik ret)",
+                "en": "... is a bit (polite refusal)"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek parkı (こうえん) teklif ediyor ama yağmur yağdığı için kadın dışarıyı reddediyor. Erkek yemekhaneyi (がくせいしょくどう) önerince kadın kabul ediyor. Doğru cevap yemekhane.",
+        "en": "The man suggests the park (こうえん) but the woman declines because of rain. He then suggests the cafeteria (がくせいしょくどう) and she agrees. Correct: cafeteria."
+    }
+}

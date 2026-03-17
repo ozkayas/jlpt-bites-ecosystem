@@ -1,0 +1,209 @@
+{
+  "batch_metadata": {
+    "level": "N5",
+    "audio_url": "http://googleusercontent.com/file_content/0"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "topic": "びょういんで　くすりの　せつめい (Medicine Instructions at the Hospital)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "びょういんで　おんなのひとと　おとこのひとが　はなしています。おとこのひとは　あさ　どのくすりを　のみますか。",
+        "dialogue": [
+          { "speaker": "おんなのひと", "text": "この　しろい　くすりは　いちにち　さんかい　ひとつずつ　ごはんを　たべてから　のんでください。" },
+          { "speaker": "おとこのひと", "text": "はい。" },
+          { "speaker": "おんなのひと", "text": "この　きいろい　くすりは　いちにち　にかい　あさと　よるに　ふたつずつ　のんでください。" },
+          { "speaker": "おとこのひと", "text": "わかりました。" },
+          { "speaker": "おんなのひと", "text": "それから　この　あかい　くすりは　ねつが　たかいとき　のんでください。" },
+          { "speaker": "おとこのひと", "text": "わかりました。ありがとうございました。" },
+          { "speaker": "おんなのひと", "text": "おだいじに。" }
+        ],
+        "question": "おとこのひとは　あさ　どのくすりを　のみますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "くすり", "tr": "ilaç", "en": "medicine" },
+          { "word": "しろい", "tr": "beyaz", "en": "white" },
+          { "word": "きいろい", "tr": "sarı", "en": "yellow" },
+          { "word": "あかい", "tr": "kırmızı", "en": "red" },
+          { "word": "ねつ", "tr": "ateş", "en": "fever" }
+        ],
+        "grammar": [
+          { "point": "～てから", "tr": "-dıktan sonra", "en": "after doing" },
+          { "point": "～とき", "tr": "-dığında", "en": "when / at the time of" }
+        ]
+      },
+      "logic": {
+        "tr": "Beyaz ilaç günde 3 kez (sabah dahil) alınır. Sarı ilaç günde 2 kez (sabah ve akşam) alınır. Kırmızı ilaç sadece ateş yüksek olduğunda alınır. Bu nedenle erkek sabah beyaz ve sarı ilaçları içmelidir.",
+        "en": "The white medicine is taken 3 times a day (including morning). The yellow medicine is taken twice a day (morning and night). The red medicine is only for when a fever is high. Therefore, the man takes the white and yellow medicines in the morning."
+      }
+    },
+    {
+      "question_number": 2,
+      "topic": "こぴーの　まいすう (Number of Copies)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "せんせいと　おとこのがくせいが　はなしています。おとこのがくせいは　なんまい　こぴーしますか。",
+        "dialogue": [
+          { "speaker": "せんせい", "text": "たなかさん、この　かみを　こぴーしてください。きょうの　ぱーてぃーで　つかいます。" },
+          { "speaker": "がくせい", "text": "わかりました。なんまい　こぴーしますか。" },
+          { "speaker": "せんせい", "text": "がくせい　みんなと　せんせい　ごにんに　にまいずつです。" },
+          { "speaker": "がくせい", "text": "がくせいは　みっつの　くらすの　みんなですね。なんにんか　わかりますか。" },
+          { "speaker": "せんせい", "text": "えっと、よんじゅうごにんです。" },
+          { "speaker": "がくせい", "text": "わかりました。" }
+        ],
+        "question": "おとこのがくせいは　なんまい　こぴーしますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "まい", "tr": "kağıt/ince nesne sayacı", "en": "counter for thin/flat objects" },
+          { "word": "こぴー", "tr": "fotokopi", "en": "copy" },
+          { "word": "ずつ", "tr": "her birine / -er -ar", "en": "each" }
+        ],
+        "grammar": [
+          { "point": "～てください", "tr": "lütfen ... yapın", "en": "please do ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Öğrenci sayısı 45, öğretmen sayısı 5'tir. Toplam 50 kişi vardır. Her kişi için 2 kopya (にまいずつ) istendiği için toplam 100 kopya yapılmalıdır.",
+        "en": "There are 45 students and 5 teachers, making 50 people in total. Since 2 copies are requested for each person (にまいずつ), 100 copies must be made."
+      }
+    },
+    {
+      "question_number": 3,
+      "topic": "がっこうに　きた　じかん (Arrival Time at School)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おんなのがくせいと　おとこのがくせいが　はなしています。おとこのがくせいは　きょう　なんじに　がっこうへ　きましたか。",
+        "dialogue": [
+          { "speaker": "おんなのがくせい", "text": "あれ、たなかさん　きょうは　はやいですね。" },
+          { "speaker": "お吐このがくせい", "text": "はい。きょうは　しけんですから。いつもより　はやく　きました。" },
+          { "speaker": "おんなのがくせい", "text": "いつもは　はちじ　よんじゅうごふん　ぐらいでしょう？" },
+          { "speaker": "おとこのがくせい", "text": "そうですね。" },
+          { "speaker": "おんなのがくせい", "text": "じゃあ　きょうは　はちじはん　ぐらいに　きましたか。" },
+          { "speaker": "おとこのがくせい", "text": "もっと　はやかったですよ。いつもの　いちじかんまえ　くらいです。" },
+          { "speaker": "おんなのがくせい", "text": "へえ、はやいですね。" }
+        ],
+        "question": "おとこのがくせいは　きょう　なんじに　がっこうへ　きましたか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "しけん", "tr": "sınav", "en": "exam" },
+          { "word": "いつも", "tr": "her zaman", "en": "always / usually" },
+          { "word": "はやい", "tr": "erken/hızlı", "en": "early / fast" }
+        ],
+        "grammar": [
+          { "point": "～より", "tr": "-den daha (kıyaslama)", "en": "than (comparison)" },
+          { "point": "～まえ", "tr": "önce", "en": "before" }
+        ]
+      },
+      "logic": {
+        "tr": "Erkek normalde 08:45'te gelmektedir. Bugün sınav olduğu için 'normalden 1 saat önce' (いつものいちじかんまえ) geldiğini söylüyor. Bu durumda 07:45'te gelmiştir. Kadının önerdiği 08:30 yanlıştır.",
+        "en": "The man usually arrives at 8:45. Today, he arrived 'one hour earlier than usual' (いつものいちじかんまえ) for an exam. This means he arrived at 7:45. The woman's suggestion of 8:30 is incorrect."
+      }
+    },
+    {
+      "question_number": 4,
+      "topic": "えいがを　みる　ひ (Movie Date)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。ふたりは　いつ　えいがを　みますか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "やまださん、こんしゅうの　どようび　えいがを　みに　いきませんか。" },
+          { "speaker": "おんなのひと", "text": "いいですね。なんじですか。" },
+          { "speaker": "お吐このひと", "text": "ごご　ろくじからです。" },
+          { "speaker": "おんなのひと", "text": "よるですか。よるは　あるばいとが　あります。" },
+          { "speaker": "おとこのひと", "text": "そうですか。じゃあ　にちようびは　どうですか。おなじ　じかんですが。" },
+          { "speaker": "おんなのひと", "text": "にちようびも　あるばいとが　ありますが、よじに　おわります。" },
+          { "speaker": "おとこのひと", "text": "じゃあ　だいじょうぶですね。よかったで。" }
+        ],
+        "question": "ふたりは　いつ　えいがを　みますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "どようび", "tr": "Cumartesi", "en": "Saturday" },
+          { "word": "にちようび", "tr": "Pazar", "en": "Sunday" },
+          { "word": "あるばいと", "tr": "yarı zamanlı iş", "en": "part-time job" }
+        ],
+        "grammar": [
+          { "point": "～に　いきませんか", "tr": "... yapmaya gidelim mi?", "en": "won't you go to do ...?" }
+        ]
+      },
+      "logic": {
+        "tr": "Cumartesi akşam 6'da kadının işi vardır. Pazar günü de işi vardır ancak saat 4'te bitmektedir. Film akşam 6'da başladığı için Pazar günü gitmeye karar verirler.",
+        "en": "The woman has a job on Saturday at 6 PM. She also works on Sunday, but her shift ends at 4 PM. Since the movie starts at 6 PM, they decide to go on Sunday."
+      }
+    },
+    {
+      "question_number": 5,
+      "topic": "たんじょうび (Birthday)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。お吐このひとの　たんじょうびは　いつですか。",
+        "dialogue": [
+          { "speaker": "おとこのひと", "text": "たなかさんの　たんじょうびは　いつですか。" },
+          { "speaker": "おんなのひと", "text": "にがつ　ふつかです。" },
+          { "speaker": "おとこのひと", "text": "あ、わたしの　たんじょうびと　ちかいです。" },
+          { "speaker": "おんなのひと", "text": "え、いつですか。" },
+          { "speaker": "おとこのひと", "text": "いつかです。" },
+          { "speaker": "おんなのひと", "text": "へえ、みっか　ちがう　だけですね。" }
+        ],
+        "question": "おとこのひとの　たんじょうびは　いつですか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "たんじょうび", "tr": "doğum günü", "en": "birthday" },
+          { "word": "ふつか", "tr": "ayın ikisi", "en": "2nd day of the month" },
+          { "word": "いつか", "tr": "ayın beşi", "en": "5th day of the month" },
+          { "word": "ちかい", "tr": "yakın", "en": "close / near" }
+        ],
+        "grammar": [
+          { "point": "～と　ちかい", "tr": "... ile yakın", "en": "close to ..." }
+        ]
+      },
+      "logic": {
+        "tr": "Kadının doğum günü 2 Şubat (ふつか). Erkek kendi doğum gününün ayın 5'i (いつか) olduğunu söyler. Kadın aradaki farkın sadece 3 gün (みっか) olduğunu teyit eder. Erkeğin doğum günü 5'idir.",
+        "en": "The woman's birthday is February 2nd (ふつか). The man says his birthday is the 5th (いつか). The woman confirms the difference is only 3 days (みっか). The man's birthday is the 5th."
+      }
+    },
+    {
+      "question_number": 6,
+      "topic": "びょういんの　よやく (Hospital Appointment)",
+      "options": [null, null, null, null],
+      "correct_option": null,
+      "transcription": {
+        "intro": "びょういんで　いしゃと　おんなのひとが　はなしています。おんなのひとは　このあと　いつ　びょういんへ　きますか。",
+        "dialogue": [
+          { "speaker": "いしゃ", "text": "じゃあ、つぎは　らいしゅう　きてください。きょうと　おなじ　げつようびは　どうですか。" },
+          { "speaker": "おんなのひと", "text": "ああ、そのひは　しごとが　ありまして。すいようびまで　ずっと　しごとです。" },
+          { "speaker": "いしゃ", "text": "そうですか。つぎのひは　だいじょうぶですか。" },
+          { "speaker": "おんなのひと", "text": "はい、だいじょうぶです。ごごのほうが　いいですが。" },
+          { "speaker": "いしゃ", "text": "いいですよ。じゃあ　にじで　いいですか。" },
+          { "speaker": "おんなのひと", "text": "はい。" }
+        ],
+        "question": "おんなのひとは　このあと　いつ　びょういんへ　きますか。"
+      },
+      "analysis": {
+        "vocabulary": [
+          { "word": "げつようび", "tr": "Pazartesi", "en": "Monday" },
+          { "word": "すいようび", "tr": "Çarşamba", "en": "Wednesday" },
+          { "word": "つぎのひ", "tr": "ertesi gün", "en": "next day" },
+          { "word": "ごご", "tr": "öğleden sonra", "en": "afternoon / PM" }
+        ],
+        "grammar": [
+          { "point": "～まで", "tr": "-e kadar", "en": "until" }
+        ]
+      },
+      "logic": {
+        "tr": "Doktor gelecek hafta Pazartesi'yi önerir. Kadın Çarşamba'ya kadar çalıştığını söyler. Doktor 'ertesi gün' (Perşembe) uygun mu diye sorar ve kadın kabul eder. Saat öğleden sonra 2 olarak belirlenir.",
+        "en": "The doctor suggests next Monday. The woman says she is busy working until Wednesday. The doctor asks if the 'next day' (Thursday) is okay, and she agrees. The time is set for 2 PM."
+      }
+    }
+  ]
+}

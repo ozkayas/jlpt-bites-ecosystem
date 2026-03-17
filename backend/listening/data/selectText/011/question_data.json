@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "かぞくの　しごと (Family's Jobs)",
+        "audio_url": null
+    },
+    "options": [
+        "びょういんで　はたらいています",
+        "がっこうで　おしえています",
+        "ぎんこうで　はたらいています",
+        "れすとらんで　はたらいています"
+    ],
+    "correct_option": 1,
+    "transcription": {
+        "intro": "おんなのひとと　おとこのひとが　はなしています。おとこのひとの　あねは　どんな　しごとを　していますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "たなかさんは　きょうだいが　いますか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "あねと　おとうとが　います。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "わたしは　ぎんこうで　はたらいています。あねは　がっこうで　えいごを　おしえています。おとうとは　びょういんで　はたらいています。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "そうですか。みんな　いそがしいですね。"
+            }
+        ],
+        "question": "おとこのひとの　あねは　どんな　しごとを　していますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "あね",
+                "tr": "abla",
+                "en": "older sister"
+            },
+            {
+                "word": "おしえる",
+                "tr": "öğretmek",
+                "en": "to teach"
+            },
+            {
+                "word": "えいご",
+                "tr": "İngilizce",
+                "en": "English"
+            },
+            {
+                "word": "ぎんこう",
+                "tr": "banka",
+                "en": "bank"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～ています",
+                "tr": "süregelen durum",
+                "en": "ongoing state / is doing"
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Erkek kendi bankada (ぎんこう), küçük kardeşi hastanede (びょういん) çalışıyor. Ablası (あね) okulda İngilizce öğretiyor (がっこうでおしえています). Soru ablayı sorduğu için doğru cevap okulda öğretmendir.",
+        "en": "The man works at a bank (ぎんこう), his younger brother at a hospital (びょういん). His older sister (あね) teaches English at a school (がっこうでおしえています). The question asks about the sister."
+    }
+}

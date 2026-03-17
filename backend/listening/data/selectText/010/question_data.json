@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": "ははの　ぷれぜんと (Mother's Present)",
+        "audio_url": null
+    },
+    "options": [
+        "はなを　かいます",
+        "ぼうしを　かいます",
+        "くつを　かいます",
+        "かばんを　かいます"
+    ],
+    "correct_option": 3,
+    "transcription": {
+        "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとは　おかあさんの　ぷれぜんとに　なにを　かいますか。",
+        "dialogue": [
+            {
+                "speaker": "おんなのひと",
+                "text": "らいしゅう　ははの　たんじょうびです。なにが　いいと　おもいますか。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "はなは　どうですか。"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "はなは　すぐ　だめに　なりますから。"
+            },
+            {
+                "speaker": "おとこのひと",
+                "text": "じゃあ　ぼうしや　くつとかは？"
+            },
+            {
+                "speaker": "おんなのひと",
+                "text": "ああ、このまえ　はは が　あたらしい　かばんが　ほしいと　いっていましたから　それにします。"
+            }
+        ],
+        "question": "おんなのひとは　おかあさんの　ぷれぜんとに　なにを　かいますか。"
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "はな",
+                "tr": "çiçek",
+                "en": "flower"
+            },
+            {
+                "word": "ぼうし",
+                "tr": "şapka",
+                "en": "hat"
+            },
+            {
+                "word": "かばん",
+                "tr": "çanta",
+                "en": "bag"
+            },
+            {
+                "word": "ほしい",
+                "tr": "istemek",
+                "en": "to want (something)"
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～にします",
+                "tr": "karar vermek",
+                "en": "to decide on"
+            },
+            {
+                "point": "～と　いっていました",
+                "tr": "... demişti",
+                "en": "was saying that ..."
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Çiçek (はな) çabuk solar. Şapka (ぼうし) ve ayakkabı (くつ) önerilir ama seçilmez. Annesinin yeni bir çanta (かばん) istediğini hatırlayan kadın çanta almaya karar veriyor.",
+        "en": "Flowers (はな) wilt quickly. Hat (ぼうし) and shoes (くつ) are suggested but not chosen. The woman remembers her mother said she wanted a new bag (かばん) and decides on that."
+    }
+}

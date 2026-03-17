@@ -1,0 +1,267 @@
+{
+    "metadata": {
+        "level": "N5",
+        "topic": {
+            "ja": "たんじょうび",
+            "tr": "Doğum Günü",
+            "en": "Birthday",
+            "de": "Geburtstag",
+            "fr": "Anniversaire",
+            "es": "Cumpleaños",
+            "ko": "생일"
+        }
+    },
+    "audio_url": "https://storage.googleapis.com/jlpt-bites.firebasestorage.app/listening/selectText/019/audio.mp3",
+    "options": [
+        "さんがつ　みっか",
+        "さんがつ　いつか",
+        "さんがつ　なのか",
+        "さんがつ　ここのか"
+    ],
+    "correct_option": 1,
+    "transcriptions": {
+        "ja": {
+            "intro": "おとこのひとと　おんなのひとが　はなしています。おんなのひとの　たんじょうびは　いつですか。",
+            "dialogue": [
+                {
+                    "speaker": "おとこのひと",
+                    "text": "きのう　きれいな　けーきが　ありましたね。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "ええ、おとといの　たんじょうびに　かぞくが　つくってくれました。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "そうですか。おととい　なんにちでしたか。"
+                },
+                {
+                    "speaker": "おんなのひと",
+                    "text": "いつかです。さんがつ　いつかです。"
+                },
+                {
+                    "speaker": "おとこのひと",
+                    "text": "へえ、もうすぐ　はるですね。"
+                }
+            ],
+            "question": "おんなのひとの　たんじょうびは　いつですか。"
+        },
+        "tr": {
+            "intro": "Bir erkek ve bir kadın konuşuyor. Kadının doğum günü ne zaman?",
+            "dialogue": [
+                {
+                    "speaker": "Erkek",
+                    "text": "Dün güzel bir pasta vardı, değil mi?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Evet, ailem evvelsi günkü doğum günüm için yaptı."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Öyle mi? Evvelsi gün ayın kaçıydı?"
+                },
+                {
+                    "speaker": "Kadın",
+                    "text": "Ayın beşiydi. 5 Mart'tı."
+                },
+                {
+                    "speaker": "Erkek",
+                    "text": "Vay, yakında bahar geliyor, değil mi?"
+                }
+            ],
+            "question": "Kadının doğum günü ne zaman?"
+        },
+        "en": {
+            "intro": "A man and a woman are talking. When is the woman's birthday?",
+            "dialogue": [
+                {
+                    "speaker": "Man",
+                    "text": "There was a beautiful cake yesterday, wasn't there?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "Yes, my family made it for my birthday the day before yesterday."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Is that so? What date was the day before yesterday?"
+                },
+                {
+                    "speaker": "Woman",
+                    "text": "It was the 5th. It was March 5th."
+                },
+                {
+                    "speaker": "Man",
+                    "text": "Oh, spring is coming soon, isn't it?"
+                }
+            ],
+            "question": "When is the woman's birthday?"
+        },
+        "de": {
+            "intro": "Ein Mann und eine Frau unterhalten sich. Wann ist der Geburtstag der Frau?",
+            "dialogue": [
+                {
+                    "speaker": "Mann",
+                    "text": "Gestern gab es einen schönen Kuchen, nicht wahr?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Ja, meine Familie hat ihn mir zum Geburtstag vorgestern gemacht."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Ach so. Welches Datum war vorgestern?"
+                },
+                {
+                    "speaker": "Frau",
+                    "text": "Es war der Fünfte. Es war der 5. März."
+                },
+                {
+                    "speaker": "Mann",
+                    "text": "Oh, bald ist Frühling, nicht wahr?"
+                }
+            ],
+            "question": "Wann ist der Geburtstag der Frau?"
+        },
+        "fr": {
+            "intro": "Un homme et une femme parlent. C'est quand l'anniversaire de la femme ?",
+            "dialogue": [
+                {
+                    "speaker": "Homme",
+                    "text": "Il y avait un beau gâteau hier, n'est-ce pas ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "Oui, ma famille l'a fait pour mon anniversaire avant-hier."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Ah bon. C'était quel jour avant-hier ?"
+                },
+                {
+                    "speaker": "Femme",
+                    "text": "C'était le 5. C'était le 5 mars."
+                },
+                {
+                    "speaker": "Homme",
+                    "text": "Oh, c'est bientôt le printemps, n'est-ce pas ?"
+                }
+            ],
+            "question": "C'est quand l'anniversaire de la femme ?"
+        },
+        "es": {
+            "intro": "Un hombre y una mujer están hablando. ¿Cuándo es el cumpleaños de la mujer?",
+            "dialogue": [
+                {
+                    "speaker": "Hombre",
+                    "text": "Ayer había un pastel bonito, ¿verdad?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Sí, mi familia lo hizo para mi cumpleaños anteayer."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "¿Ah, sí? ¿Qué fecha fue anteayer?"
+                },
+                {
+                    "speaker": "Mujer",
+                    "text": "Fue el 5. Fue el 5 de marzo."
+                },
+                {
+                    "speaker": "Hombre",
+                    "text": "Vaya, pronto es primavera, ¿verdad?"
+                }
+            ],
+            "question": "¿Cuándo es el cumpleaños de la mujer?"
+        },
+        "ko": {
+            "intro": "남자와 여자가 이야기하고 있습니다. 여자의 생일은 언제입니까?",
+            "dialogue": [
+                {
+                    "speaker": "남자",
+                    "text": "어제 예쁜 케이크가 있었죠."
+                },
+                {
+                    "speaker": "여자",
+                    "text": "네, 그저께 생일에 가족이 만들어줬어요."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "그렇습니까. 그저께는 며칠이었습니까?"
+                },
+                {
+                    "speaker": "여자",
+                    "text": "5일입니다. 3월 5일입니다."
+                },
+                {
+                    "speaker": "남자",
+                    "text": "와, 곧 봄이네요."
+                }
+            ],
+            "question": "여자의 생일은 언제입니까?"
+        }
+    },
+    "analysis": {
+        "vocabulary": [
+            {
+                "word": "おととい",
+                "reading": "おととい",
+                "meanings": {
+                    "tr": "evvelsi gün",
+                    "en": "the day before yesterday",
+                    "de": "vorgestern",
+                    "fr": "avant-hier",
+                    "es": "anteayer",
+                    "ko": "그저께"
+                }
+            },
+            {
+                "word": "いつか",
+                "reading": "いつか",
+                "meanings": {
+                    "tr": "ayın beşi",
+                    "en": "5th of the month",
+                    "de": "der Fünfte (des Monats)",
+                    "fr": "le 5 (du mois)",
+                    "es": "el 5 (del mes)",
+                    "ko": "5일"
+                }
+            },
+            {
+                "word": "けーき",
+                "reading": "けーき",
+                "meanings": {
+                    "tr": "pasta",
+                    "en": "cake",
+                    "de": "Kuchen",
+                    "fr": "gâteau",
+                    "es": "pastel",
+                    "ko": "케이크"
+                }
+            }
+        ],
+        "grammar": [
+            {
+                "point": "～てくれました",
+                "meanings": {
+                    "tr": "benim için ... yaptı",
+                    "en": "did ... for me",
+                    "de": "hat ... für mich getan/gemacht",
+                    "fr": "a fait ... pour moi",
+                    "es": "hizo ... por/para mí",
+                    "ko": "...해 주었습니다"
+                }
+            }
+        ]
+    },
+    "logic": {
+        "tr": "Kadın doğum gününün evvelsi gün (おととい) yani Mart 5'i (さんがついつか) olduğunu açıkça söylüyor. Doğru cevap 3月5日.",
+        "en": "The woman explicitly states her birthday was the day before yesterday (おととい), which is March 5th (さんがついつか). Correct answer: March 5th.",
+        "de": "Die Frau gibt explizit an, dass ihr Geburtstag vorgestern (おととい) war, also der 5. März (さんがついつか). Richtige Antwort: 5. März.",
+        "fr": "La femme indique explicitement que son anniversaire était avant-hier (おととい), c'est-à-dire le 5 mars (さんがついつか). Réponse correcte : 5 mars.",
+        "es": "La mujer declara explícitamente que su cumpleaños fue anteayer (おととい), que es el 5 de marzo (さんがついつか). Respuesta correcta: 5 de marzo.",
+        "ko": "여자는 자신의 생일이 그저께(おととい)였고, 3월 5일(さんがついつか)이라고 명확히 말합니다. 정답: 3월 5일."
+    }
+}

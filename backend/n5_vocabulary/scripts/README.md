@@ -11,6 +11,8 @@ Bu klasörde 3 script var. Her biri farklı bir işi yapar.
 | `generate_and_upload_audio.py` | TTS ses üretir, Firebase Storage'a yükler, **JSON dosyasındaki** `audioUrl` alanlarını günceller |
 | `upload_n5_vocabulary.py` | `n5_vocabulary.json` içeriğini (audioUrl'ler dahil) Firestore'a yazar |
 | `upload_vocabulary_index.py` | Flutter uygulaması için hafif bir özet doküman (`vocabulary_meta/n5_vocabulary`) yazar |
+| `upload_active_recall_pool.py` | `active_recall_pool.json`'daki checkpoint'leri `n5_active_recall_pool` Firestore collection'ına yükler |
+| `add_language_to_pool.py` | Mevcut `n5_active_recall_pool` collection'ına yeni bir UI dili ekler (update, set değil) |
 
 ---
 
@@ -62,22 +64,25 @@ python3 generate_and_upload_audio.py --force          # mevcut seslerin üzerine
 
 ### 2. `upload_n5_vocabulary.py`
 
-`n5_vocabulary.json`'daki her kelimeyi `n5_vocabulary/{word_id}` dokümanına yazar.
+Belirtilen JSON dosyasındaki her kelimeyi `n5_vocabulary/{word_id}` dokümanına yazar.
 
-**Mevcut Firestore verilerini siler mi?**
+**`--file` parametresi:** Hangi JSON dosyasının yükleneceğini seçer (varsayılan: `n5_vocabulary.json`).
+Yeni bir versiyon yüklemek için `--file n5_vocabulary_v01.json` gibi kullanılır.
 
-Hayır — ama sadece JSON'daki alanlara bakar. `set()` kullanır: JSON'daki tüm alanlar
-(audioUrl dahil) Firestore'a yazılır. JSON'da `audioUrl: null` olan bir kelime varsa
-Firestore'a da `null` olarak yazılır — bu yüzden ses scriptinin önce çalışması önemlidir.
+**`--clear` parametresi:** Yüklemeden önce koleksiyondaki tüm mevcut dokümanları siler.
+Tam sıfırlama / versiyon geçişi yapılırken kullanılır.
 
-**JSON'da bulunmayan eski Firestore dokümanları:**
-Script yalnızca JSON'daki ID'lere dokunur. JSON'da artık olmayan eski kelimeler
-Firestore'da olduğu gibi kalır — otomatik temizleme yapılmaz.
+**`--clear` olmadan davranış:** Yalnızca JSON'daki ID'lere `set()` uygular.
+JSON'da olmayan eski Firestore dokümanları olduğu gibi kalır.
+
+**Desteklenen şema (v01+):** `translations` artık `ko` (Korece) içerir; `sentences` altında `furigana` alanı mevcuttur.
 
 ```bash
-python3 upload_n5_vocabulary.py --dry-run   # önizle
-python3 upload_n5_vocabulary.py             # tümünü yükle
-python3 upload_n5_vocabulary.py --tag 動詞  # sadece fiilleri yükle
+python3 upload_n5_vocabulary.py --dry-run                          # önizle
+python3 upload_n5_vocabulary.py                                    # varsayılan dosyayı yükle
+python3 upload_n5_vocabulary.py --file n5_vocabulary_v01.json      # belirli versiyonu yükle
+python3 upload_n5_vocabulary.py --file n5_vocabulary_v01.json --clear  # sıfırla + yükle
+python3 upload_n5_vocabulary.py --tag 動詞                         # sadece fiilleri yükle
 ```
 
 ---
@@ -97,6 +102,38 @@ hafif doküman (`vocabulary_meta/n5_vocabulary`) okur. Bu script o dokümanı ol
 python3 upload_vocabulary_index.py --dry-run               # önizle
 python3 upload_vocabulary_index.py                         # n5 için yükle
 python3 upload_vocabulary_index.py --collection n4_vocabulary
+```
+
+---
+
+---
+
+### 4. `upload_active_recall_pool.py`
+
+`active_recall_pool.json`'daki her checkpoint'i `n5_active_recall_pool/{cp_id}` dokümanına yazar.
+Dosya 1.1 MB (Firestore 1 MB limiti aşıyor), bu yüzden checkpoint başına bir doküman mimarisi kullanılır (~7 KB/doküman).
+
+**Idempotent:** `set()` kullandığı için tekrar çalıştırmak güvenlidir.
+
+```bash
+python3 upload_active_recall_pool.py --dry-run                  # önizle (152 checkpoint)
+python3 upload_active_recall_pool.py --checkpoint cp_15         # tek checkpoint test
+python3 upload_active_recall_pool.py                            # tümünü yükle
+python3 upload_active_recall_pool.py --clear                    # sil + yükle
+```
+
+---
+
+### 5. `add_language_to_pool.py`
+
+Mevcut Firestore collection'ına yeni bir UI dili ekler.
+Kaynak JSON dosyasındaki yeni dil çevirilerini alıp her checkpoint dokümanına `update()` ile yazar.
+Diğer dillere dokunmaz.
+
+```bash
+python3 add_language_to_pool.py --lang pt --file active_recall_pool_pt.json --dry-run
+python3 add_language_to_pool.py --lang pt --file active_recall_pool_pt.json
+python3 add_language_to_pool.py --lang zh --file active_recall_pool.json --checkpoint cp_15
 ```
 
 ---
