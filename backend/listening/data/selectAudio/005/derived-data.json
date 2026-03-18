@@ -1,0 +1,154 @@
+{
+  "source_clip": "clip_0e0duD8_LFE_01_20m20s_23m13s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "しゃしんを　みせる",
+      "tr": "Fotoğraf göstermek",
+      "en": "Showing a photo album",
+      "de": "Ein Fotoalbum zeigen",
+      "fr": "Montrer un album photo",
+      "es": "Mostrar un álbum de fotos",
+      "ko": "사진첩 보여주기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちに　しゃしんを　みせたいです。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "これ、みせてください。" },
+        { "number": 2, "text": "これ、みてください。" },
+        { "number": 3, "text": "これ、みてもいいですか。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınıza fotoğraf göstermek istiyorsunuz. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bunu bana göster." },
+        { "number": 2, "text": "Buna bak." },
+        { "number": 3, "text": "Buna bakabilir miyim?" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You want to show your friend some photos. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "Please show me this." },
+        { "number": 2, "text": "Please look at this." },
+        { "number": 3, "text": "May I look at this?" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie möchten Ihrem Freund Fotos zeigen. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Zeig mir das bitte." },
+        { "number": 2, "text": "Schau dir das bitte an." },
+        { "number": 3, "text": "Darf ich das ansehen?" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous voulez montrer des photos à votre ami. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Montre-moi ça." },
+        { "number": 2, "text": "Regarde ça." },
+        { "number": 3, "text": "Est-ce que je peux regarder ça?" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Quieres mostrarle fotos a tu amigo. ¿Qué le dices a tu amigo?",
+      "options": [
+        { "number": 1, "text": "Muéstrame esto." },
+        { "number": 2, "text": "Mira esto." },
+        { "number": 3, "text": "¿Puedo ver esto?" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구에게 사진을 보여주고 싶습니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "이것 좀 보여주세요." },
+        { "number": 2, "text": "이것 좀 봐주세요." },
+        { "number": 3, "text": "이것 봐도 돼요?" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "みる",
+        "reading": "みる",
+        "meanings": {
+          "tr": "bakmak / görmek",
+          "en": "to look / to see",
+          "de": "schauen / sehen",
+          "fr": "regarder / voir",
+          "es": "mirar / ver",
+          "ko": "보다"
+        }
+      },
+      {
+        "word": "みせる",
+        "reading": "みせる",
+        "meanings": {
+          "tr": "göstermek",
+          "en": "to show",
+          "de": "zeigen",
+          "fr": "montrer",
+          "es": "mostrar",
+          "ko": "보여주다"
+        }
+      },
+      {
+        "word": "しゃしん",
+        "reading": "しゃしん",
+        "meanings": {
+          "tr": "fotoğraf",
+          "en": "photo / photograph",
+          "de": "Foto",
+          "fr": "photo",
+          "es": "foto",
+          "ko": "사진"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～てください",
+        "meanings": {
+          "tr": "Birisinden bir şey yapmasını rica etmek: みてください (bakın lütfen).",
+          "en": "Polite request to someone else: みてください (please look).",
+          "de": "Höfliche Bitte an jemand anderen: みてください (bitte schauen Sie).",
+          "fr": "Demande polie à quelqu'un d'autre: みてください (regardez s'il vous plaît).",
+          "es": "Petición cortés a otra persona: みてください (mire esto por favor).",
+          "ko": "상대방에게 정중하게 요청: みてください (봐주세요)."
+        }
+      },
+      {
+        "point": "～てもいいですか",
+        "meanings": {
+          "tr": "İzin istemek: みてもいいですか (bakabilir miyim?).",
+          "en": "Asking for permission: みてもいいですか (may I look?).",
+          "de": "Um Erlaubnis bitten: みてもいいですか (darf ich schauen?).",
+          "fr": "Demander la permission: みてもいいですか (est-ce que je peux regarder?).",
+          "es": "Pedir permiso: みてもいいですか (¿puedo mirar?).",
+          "ko": "허락 구하기: みてもいいですか (봐도 돼요?)."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri fotoğrafları elinde tutan ve arkadaşına göstermek isteyen kişidir, bu yüzden '2. これ、みてください' (Buna bak.) doğrudur. Seçenek 1 'みせてください' 'bana göster' anlamına gelir — yön ters çevrilmiştir, sanki fotoğraflar arkadaşın elindeymiş gibi (Yön Karışıklığı). Seçenek 3 'みてもいいですか' 'bakabilir miyim?' anlamına gelir — fotoğrafları kendisi tuttuğu halde izin istemek mantıksızdır (Yön Karışıklığı).",
+    "en": "The arrow character is holding the photos and wants to show them, so '2. これ、みてください' (Please look at this) is correct. Option 1 'みせてください' means 'please show me' — the direction is reversed, as if the friend has the photos (Direction Confusion). Option 3 'みてもいいですか' means 'may I look?' — asking permission when you're already holding the album is illogical (Direction Confusion).",
+    "de": "Der Pfeil-Charakter hält die Fotos und möchte sie zeigen, daher ist '2. これ、みてください' (Schau dir das bitte an) korrekt. Option 1 'みせてください' bedeutet 'zeig mir' — die Richtung ist umgekehrt (Richtungsverwechslung). Option 3 'みてもいいですか' bedeutet 'darf ich schauen?' — um Erlaubnis zu bitten, obwohl man das Album selbst hält, ist unlogisch (Richtungsverwechslung).",
+    "fr": "Le personnage avec la flèche tient les photos et veut les montrer, donc '2. これ、みてください' (Regarde ça) est correct. L'option 1 'みせてください' signifie 'montre-moi' — la direction est inversée (confusion de direction). L'option 3 'みてもいいですか' signifie 'est-ce que je peux regarder?' — demander la permission alors qu'on tient déjà l'album est illogique (confusion de direction).",
+    "es": "El personaje con la flecha tiene las fotos y quiere mostrarlas, por eso '2. これ、みてください' (Mira esto) es correcto. La opción 1 'みせてください' significa 'muéstrame' — la dirección está invertida (confusión de dirección). La opción 3 'みてもいいですか' significa '¿puedo ver?' — pedir permiso cuando ya tienes el álbum es ilógico (confusión de dirección).",
+    "ko": "화살표 캐릭터는 사진을 들고 친구에게 보여주려는 사람입니다. 따라서 '2. これ、みてください'(이것 좀 봐주세요)가 정답입니다. 선택지 1 'みせてください'는 '보여줘'라는 뜻으로 방향이 반대입니다(방향 혼동). 선택지 3 'みてもいいですか'는 '봐도 돼요?'라는 뜻으로 자신이 앨범을 들고 있는데 허락을 구하는 것은 어색합니다(방향 혼동)."
+  },
+  "image_prompt": "Simple monochrome line art scene indoors. A young man stands holding an open photo album toward a young woman who faces him. The man smiles and extends the album slightly toward her. The woman stands attentive, looking at the album. White background, no shading, clean JLPT exam illustration style. Do NOT include any arrows or numbered labels."
+}

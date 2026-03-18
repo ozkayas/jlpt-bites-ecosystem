@@ -1,0 +1,155 @@
+{
+  "source_clip": "clip_0e0duD8_LFE_01_20m20s_23m13s/2.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちの　いえから　かえる",
+      "tr": "Arkadaşın evinden ayrılmak",
+      "en": "Leaving a friend's house",
+      "de": "Das Haus eines Freundes verlassen",
+      "fr": "Quitter la maison d'un ami",
+      "es": "Salir de la casa de un amigo",
+      "ko": "친구 집에서 떠나기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちの　いえから　かえります。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おじゃまします。" },
+        { "number": 2, "text": "おじゃましました。" },
+        { "number": 3, "text": "またきてください。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşının evinden ayrılıyorsunuz. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Rahatsız ediyorum." },
+        { "number": 2, "text": "Rahatsız ettim, teşekkürler." },
+        { "number": 3, "text": "Lütfen tekrar gelin." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are leaving your friend's house. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "Sorry for intruding." },
+        { "number": 2, "text": "Thank you for having me." },
+        { "number": 3, "text": "Please come again." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie verlassen das Haus Ihres Freundes. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Entschuldigung für die Störung." },
+        { "number": 2, "text": "Danke für die Einladung." },
+        { "number": 3, "text": "Bitte kommen Sie wieder." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous quittez la maison de votre ami. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Excusez-moi de déranger." },
+        { "number": 2, "text": "Merci de m'avoir reçu." },
+        { "number": 3, "text": "Revenez bientôt." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Está saliendo de la casa de su amigo. ¿Qué le dice a su amigo?",
+      "options": [
+        { "number": 1, "text": "Perdone que moleste." },
+        { "number": 2, "text": "Gracias por recibirme." },
+        { "number": 3, "text": "Por favor, vuelva pronto." }
+      ],
+      "question": "¿Qué le dice a su amigo?"
+    },
+    "ko": {
+      "intro": "친구 집에서 돌아갑니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "실례합니다." },
+        { "number": 2, "text": "실례했습니다." },
+        { "number": 3, "text": "또 오세요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃまします",
+        "meanings": {
+          "tr": "rahatsız ediyorum (girerken söylenir)",
+          "en": "sorry for intruding (said when entering)",
+          "de": "Entschuldigung für die Störung (beim Eintreten)",
+          "fr": "excusez-moi de déranger (en entrant)",
+          "es": "perdone la molestia (al entrar)",
+          "ko": "실례합니다 (들어갈 때)"
+        }
+      },
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃましました",
+        "meanings": {
+          "tr": "rahatsız ettim, teşekkürler (ayrılırken söylenir)",
+          "en": "thank you for having me (said when leaving)",
+          "de": "danke für die Einladung (beim Verlassen)",
+          "fr": "merci de m'avoir reçu (en partant)",
+          "es": "gracias por recibirme (al salir)",
+          "ko": "실례했습니다 (나갈 때)"
+        }
+      },
+      {
+        "word": "また",
+        "reading": "また",
+        "meanings": {
+          "tr": "tekrar / yine",
+          "en": "again",
+          "de": "wieder",
+          "fr": "encore / à nouveau",
+          "es": "otra vez / de nuevo",
+          "ko": "또"
+        }
+      },
+      {
+        "word": "かえる",
+        "reading": "かえる",
+        "meanings": {
+          "tr": "dönmek / eve gitmek",
+          "en": "to return / to go home",
+          "de": "zurückgehen / nach Hause gehen",
+          "fr": "rentrer / retourner",
+          "es": "volver / regresar",
+          "ko": "돌아가다 / 귀가하다"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ました (過去形)",
+        "meanings": {
+          "tr": "Geçmiş zaman eki — おじゃまします (giriş) / おじゃましました (çıkış) farkını belirler.",
+          "en": "Past tense form — distinguishes entering (します) from leaving (しました).",
+          "de": "Vergangenheitsform — unterscheidet Eintreten (します) vom Verlassen (しました).",
+          "fr": "Forme passée — distingue l'entrée (します) du départ (しました).",
+          "es": "Forma pasada — distingue la entrada (します) de la salida (しました).",
+          "ko": "과거형 — 입장 시(します)와 퇴장 시(しました)의 차이를 나타냅니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri misafir olarak ayrılıyor, bu yüzden geçmiş zaman kalıbı 'おじゃましました' (rahatsız ettim, teşekkürler) doğrudur. Seçenek 1 'おじゃまします' eve girerken söylenen present tense formdur — ayrılırken değil (Bağlam Karışıklığı). Seçenek 3 'またきてください' ev sahibinin misafire söylediği 'lütfen tekrar gelin' ifadesidir, misafirin söyleyeceği bir şey değildir (Rol Karışıklığı).",
+    "en": "The arrow character is the guest who is leaving, so the past-tense form 'おじゃましました' (thank you for having me) is correct. Option 1 'おじゃまします' is the present-tense form said when entering — not leaving (Context Confusion). Option 3 'またきてください' (please come again) is what the host says to the departing guest, not what the guest says (Role Confusion).",
+    "de": "Der Pfeil-Charakter ist der Gast, der geht, daher ist die Vergangenheitsform 'おじゃましました' (danke für die Einladung) korrekt. Option 1 'おじゃまします' ist die Präsensform, die beim Eintreten gesagt wird — nicht beim Gehen (Kontextverwechslung). Option 3 'またきてください' (bitte kommen Sie wieder) sagt der Gastgeber zum Gast — nicht umgekehrt (Rollenverwechslung).",
+    "fr": "Le personnage avec la flèche est l'invité qui part, donc la forme passée 'おじゃましました' (merci de m'avoir reçu) est correcte. L'option 1 'おじゃまします' est la forme présente dite en entrant — pas en partant (confusion de contexte). L'option 3 'またきてください' (revenez bientôt) est ce que dit l'hôte à l'invité — pas l'inverse (confusion de rôles).",
+    "es": "El personaje con la flecha es el invitado que se va, por eso la forma pasada 'おじゃましました' (gracias por recibirme) es correcta. La opción 1 'おじゃまします' es la forma presente que se dice al entrar — no al salir (confusión de contexto). La opción 3 'またきてください' (por favor vuelva) es lo que dice el anfitrión al invitado — no al revés (confusión de roles).",
+    "ko": "화살표 캐릭터는 떠나는 손님입니다. 따라서 과거형 'おじゃましました'(실례했습니다)가 정답입니다. 선택지 1 'おじゃまします'는 들어갈 때 쓰는 현재형으로 나갈 때 쓰지 않습니다(상황 혼동). 선택지 3 'またきてください'(또 오세요)는 집주인이 손님에게 하는 말로, 손님이 할 말이 아닙니다(역할 혼동)."
+  },
+  "image_prompt": "Simple monochrome line art scene outside a Japanese house entrance viewed from the side. A woman wearing an apron stands at the open front door from inside the genkan, smiling and waving goodbye. Another woman with a handbag walks away from the door along the path outside, turning back and waving. The exterior of the house is visible — outer wall, step, small garden plants near the entrance. White background, no shading, clean JLPT exam illustration style. Do NOT include any arrows or numbered labels."
+}

@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "かいしゃで　ともだちに　あいました。じぶんは　さきに　かえります。なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "１　おさきに　しつれいします。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "２　いってらっしゃい。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "３　おかえりなさい。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ともだちに　なんといいますか。" }
+  ]
+}

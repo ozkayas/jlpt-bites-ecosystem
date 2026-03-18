@@ -1,3 +1,23 @@
+## 2026-03-18
+
+### selectAudio Creator + Tester Skills eklendi
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `.agents/skills/jlpt-n5-listening-select-audio-creator/SKILL.md` | YENİ | Mondai 3 発話表現 soru üretici skill — imaj analizi, 3 seçenek (1 doğru + 2 distractor), Fat JSON derived-data.json |
+| `.agents/skills/jlpt-n5-listening-select-audio-tester/SKILL.md` | YENİ | 6-pass tester: mekanik doğrulama, semantik review, TTS script, Imagen 3 imaj, Gemini TTS ses, question.json build |
+| `.agents/skills/jlpt-n5-listening-select-audio-tester/scripts/validate_derived_data.py` | YENİ | Pass 1 Python validator — 10 check, exit 0/1 |
+
+**Yapılanlar:**
+- `jlpt-n5-listening-select-audio-creator` skill yazıldı: sample_clips'ten imaj seçme, sahne analizi, 4 trap tipi (Rol/Yön/Register/Bağlam), image_prompt üretimi, 7-dil Fat JSON derived-data.json, kullanıcı onayı bekleme
+- `jlpt-n5-listening-select-audio-tester` skill yazıldı: Pass 1 (script), Pass 2 (Claude semantic), Pass 3 (TTS script — 3 seçenek aynı ses), Pass 4 (Imagen 3), Pass 5 (Gemini TTS), Pass 6 (question.json build)
+- `validate_derived_data.py` yazıldı ve 10/10 smoke test geçti
+- selectText'ten temel fark: 4 seçenek → 3 seçenek, dialogue yok → options array, image_url field eklendi, correct_option 0-2
+
+**Bağlam:** Plan doğrultusunda selectAudio modülü için creator+tester skill çifti oluşturuldu.
+
 ## 2026-03-17
 
 ### selectText — Firebase Upload ve 001 Varyasyonu

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ねだんを　きく",
+      "tr": "Fiyat sormak",
+      "en": "Asking the price",
+      "de": "Nach dem Preis fragen",
+      "fr": "Demander le prix",
+      "es": "Preguntar el precio",
+      "ko": "가격 묻기"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "みせで　かばんを　みています。てんいんに　ねだんを　ききたいです。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "これは　なんですか。" },
+        { "number": 2, "text": "これは　いくらですか。" },
+        { "number": 3, "text": "これを　ください。" }
+      ],
+      "question": "てんいんに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Mağazada bir çantaya bakıyorsunuz. Personele fiyatını sormak istiyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bu nedir?" },
+        { "number": 2, "text": "Bu kaç para?" },
+        { "number": 3, "text": "Bunu alıyorum." }
+      ],
+      "question": "Personele ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are looking at a bag in a store. You want to ask the staff the price. What do you say?",
+      "options": [
+        { "number": 1, "text": "What is this?" },
+        { "number": 2, "text": "How much is this?" },
+        { "number": 3, "text": "I'll take this." }
+      ],
+      "question": "What do you say to the staff?"
+    },
+    "de": {
+      "intro": "Sie schauen sich eine Tasche in einem Geschäft an. Sie möchten den Verkäufer nach dem Preis fragen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Was ist das?" },
+        { "number": 2, "text": "Wie viel kostet das?" },
+        { "number": 3, "text": "Ich nehme das." }
+      ],
+      "question": "Was sagen Sie dem Verkäufer?"
+    },
+    "fr": {
+      "intro": "Vous regardez un sac dans un magasin. Vous voulez demander le prix au vendeur. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Qu'est-ce que c'est?" },
+        { "number": 2, "text": "Combien ça coûte?" },
+        { "number": 3, "text": "Je prends ça." }
+      ],
+      "question": "Que dites-vous au vendeur?"
+    },
+    "es": {
+      "intro": "Estás mirando un bolso en una tienda. Quieres preguntarle el precio al vendedor. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¿Qué es esto?" },
+        { "number": 2, "text": "¿Cuánto cuesta esto?" },
+        { "number": 3, "text": "Me llevo esto." }
+      ],
+      "question": "¿Qué le dices al vendedor?"
+    },
+    "ko": {
+      "intro": "가게에서 가방을 보고 있습니다. 점원에게 가격을 묻고 싶습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "이것은 무엇입니까?" },
+        { "number": 2, "text": "이것은 얼마입니까?" },
+        { "number": 3, "text": "이것을 주세요." }
+      ],
+      "question": "점원에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "いくら",
+        "reading": "いくら",
+        "meanings": {
+          "tr": "kaç para / ne kadar",
+          "en": "how much (price)",
+          "de": "wie viel (Preis)",
+          "fr": "combien (prix)",
+          "es": "cuánto (precio)",
+          "ko": "얼마 (가격)"
+        }
+      },
+      {
+        "word": "ねだん",
+        "reading": "ねだん",
+        "meanings": {
+          "tr": "fiyat",
+          "en": "price",
+          "de": "Preis",
+          "fr": "prix",
+          "es": "precio",
+          "ko": "가격"
+        }
+      },
+      {
+        "word": "かばん",
+        "reading": "かばん",
+        "meanings": {
+          "tr": "çanta",
+          "en": "bag",
+          "de": "Tasche",
+          "fr": "sac",
+          "es": "bolso / bolsa",
+          "ko": "가방"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "これは　いくらですか",
+        "meanings": {
+          "tr": "Bir şeyin fiyatını sormak için kullanılan temel kalıp.",
+          "en": "Basic pattern for asking the price of something.",
+          "de": "Grundmuster zum Fragen nach dem Preis.",
+          "fr": "Formule de base pour demander le prix.",
+          "es": "Fórmula básica para preguntar el precio.",
+          "ko": "가격을 물어볼 때 쓰는 기본 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri fiyatı öğrenmek isteyen müşteridir, bu yüzden '2. これは　いくらですか' (Bu kaç para?) doğrudur. Seçenek 1 'なんですか' ne olduğunu sorar — çantayı elinde tutan biri onun çanta olduğunu zaten bilir (Bağlam Karışıklığı). Seçenek 3 'ください' fiyatı sormadan direkt satın almak anlamına gelir — sahne buna uymuyor (Bağlam Karışıklığı).",
+    "en": "The arrow character is a customer who wants to know the price, so '2. これは　いくらですか' (How much is this?) is correct. Option 1 'なんですか' asks what it is — someone holding a bag already knows it's a bag (Context Confusion). Option 3 'ください' means buying outright without asking the price first — inconsistent with the scene (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist ein Kunde, der den Preis erfahren möchte, daher ist '2. これは　いくらですか' korrekt. Option 1 'なんですか' fragt, was es ist — wer eine Tasche hält, weiß bereits, dass es eine Tasche ist (Kontextverwechslung). Option 3 'ください' bedeutet direkt kaufen ohne nach dem Preis zu fragen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est un client qui veut connaître le prix, donc '2. これは　いくらですか' est correct. L'option 1 'なんですか' demande ce que c'est — quelqu'un qui tient un sac sait déjà que c'est un sac (confusion de contexte). L'option 3 'ください' signifie acheter directement sans demander le prix (confusion de contexte).",
+    "es": "'2. これは　いくらですか' es correcto. La opción 1 'なんですか' pregunta qué es — quien sostiene un bolso ya sabe que es un bolso (confusión de contexto). La opción 3 'ください' significa comprar directamente sin preguntar el precio (confusión de contexto).",
+    "ko": "화살표 캐릭터는 가격을 알고 싶은 손님입니다. '2. これは　いくらですか'가 정답입니다. 선택지 1 'なんですか'는 무엇인지 묻는 것으로 가방을 들고 있는 사람은 이미 알고 있습니다(상황 혼동). 선택지 3 'ください'는 가격도 묻지 않고 바로 구매하는 말입니다(상황 혼동)."
+  }
+}

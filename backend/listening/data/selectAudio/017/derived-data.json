@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "プレゼントを　もらう",
+      "tr": "Hediye almak",
+      "en": "Receiving a gift",
+      "de": "Ein Geschenk erhalten",
+      "fr": "Recevoir un cadeau",
+      "es": "Recibir un regalo",
+      "ko": "선물 받기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちに　プレゼントを　もらいました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ありがとうございます。" },
+        { "number": 2, "text": "どうぞ。" },
+        { "number": 3, "text": "おめでとうございます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınızdan hediye aldınız. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Teşekkür ederim." },
+        { "number": 2, "text": "Buyurun / Alın." },
+        { "number": 3, "text": "Tebrikler!" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend gave you a present. What do you say?",
+      "options": [
+        { "number": 1, "text": "Thank you very much." },
+        { "number": 2, "text": "Here you go / Please take it." },
+        { "number": 3, "text": "Congratulations!" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ihr Freund hat Ihnen ein Geschenk gegeben. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Vielen Dank." },
+        { "number": 2, "text": "Bitte / Hier bitte." },
+        { "number": 3, "text": "Herzlichen Glückwunsch!" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Votre ami vous a offert un cadeau. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Merci beaucoup." },
+        { "number": 2, "text": "Je vous en prie / Tenez." },
+        { "number": 3, "text": "Félicitations!" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tu amigo te dio un regalo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Muchas gracias." },
+        { "number": 2, "text": "Aquí tienes / Toma." },
+        { "number": 3, "text": "¡Felicitaciones!" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구에게 선물을 받았습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "감사합니다." },
+        { "number": 2, "text": "여기 있어요 / 받으세요." },
+        { "number": 3, "text": "축하합니다!" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "meanings": {
+          "tr": "teşekkür ederim (resmi teşekkür ifadesi)",
+          "en": "thank you / thank you very much (polite expression of gratitude)",
+          "de": "vielen Dank (höfliche Dankesaussage)",
+          "fr": "merci beaucoup (expression de gratitude polie)",
+          "es": "muchas gracias (expresión de gratitud formal)",
+          "ko": "감사합니다 (정중한 감사 표현)"
+        }
+      },
+      {
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "meanings": {
+          "tr": "buyurun / alın / lütfen (bir şey verirken söylenir)",
+          "en": "please / here you go (said when offering or giving something)",
+          "de": "bitte / hier bitte (gesagt beim Anbieten oder Geben von etwas)",
+          "fr": "je vous en prie / tenez (dit en offrant quelque chose)",
+          "es": "aquí tienes / toma (dicho al ofrecer algo)",
+          "ko": "여기 있어요 / 받으세요 (무언가를 줄 때 하는 말)"
+        }
+      },
+      {
+        "word": "おめでとうございます",
+        "reading": "おめでとうございます",
+        "meanings": {
+          "tr": "tebrikler (kutlama ifadesi)",
+          "en": "congratulations (expression of celebration)",
+          "de": "herzlichen Glückwunsch (Glückwunschaussage)",
+          "fr": "félicitations (expression de félicitation)",
+          "es": "felicitaciones (expresión de felicitación)",
+          "ko": "축하합니다 (축하 표현)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ありがとうございます",
+        "meanings": {
+          "tr": "Birinden bir şey alındığında veya yardım görüldüğünde kullanılan temel teşekkür kalıbı.",
+          "en": "Basic thank-you expression used when receiving something or being helped.",
+          "de": "Grundlegender Dankesausdruck, der verwendet wird, wenn man etwas erhält oder Hilfe bekommt.",
+          "fr": "Expression de remerciement de base utilisée quand on reçoit quelque chose ou de l'aide.",
+          "es": "Expresión básica de agradecimiento usada al recibir algo o recibir ayuda.",
+          "ko": "무언가를 받거나 도움을 받을 때 사용하는 기본 감사 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri hediyeyi alan kişidir. '1. ありがとうございます' (Teşekkür ederim.) doğrudur — hediye alındığında söylenen en doğal ifadedir. Seçenek 2 'どうぞ' bir şeyi sunarken ya da verirken söylenir; alan kişi değil, veren kişi bu ifadeyi kullanır (Rol Karışıklığı). Seçenek 3 'おめでとうございます' kutlama ifadesidir; hediye almak bir kutlama gerektirmez (Bağlam Karışıklığı).",
+    "en": "The arrow character is the person receiving the gift. '1. ありがとうございます' (Thank you very much.) is correct — it is the most natural response when receiving a gift. Option 2 'どうぞ' is said by the person giving or offering something, not the one receiving it (Role Confusion). Option 3 'おめでとうございます' is a congratulatory expression; receiving a gift is not a celebratory occasion requiring congratulations (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist die Person, die das Geschenk erhält. '1. ありがとうございます' ist korrekt. Option 2 'どうぞ' sagt die Person, die etwas anbietet oder gibt, nicht die empfangende Person (Rollenverwechslung). Option 3 'おめでとうございます' ist ein Glückwunsch — für das Empfangen eines Geschenks unpassend (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est celui qui reçoit le cadeau. '1. ありがとうございます' est correct. L'option 2 'どうぞ' est dite par celui qui offre quelque chose, pas par celui qui reçoit (confusion de rôles). L'option 3 'おめでとうございます' est une félicitation — inappropriée pour recevoir un cadeau (confusion de contexte).",
+    "es": "'1. ありがとうございます' es correcto. La opción 2 'どうぞ' la dice quien ofrece o da algo, no quien recibe (confusión de roles). La opción 3 'おめでとうございます' es una felicitación — inapropiada al recibir un regalo (confusión de contexto).",
+    "ko": "화살표 캐릭터는 선물을 받는 사람입니다. '1. ありがとうございます'가 정답입니다. 선택지 2 'どうぞ'는 무언가를 주거나 제공하는 사람이 하는 말로, 받는 사람이 쓰는 표현이 아닙니다(역할 혼동). 선택지 3 'おめでとうございます'는 축하 표현으로 선물을 받는 상황에 맞지 않습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. On the LEFT, a young woman with simple round head holds a wrapped gift box with both hands, eyes wide with a happy surprised expression. On the RIGHT, a young man with simple round head stands with both hands open, having just handed over the gift, smiling warmly. White background, cartoon style with simple round faces, clean outlines, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

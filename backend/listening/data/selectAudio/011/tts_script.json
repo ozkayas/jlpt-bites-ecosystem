@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "ともだちと　そとに　います。みせの　まえに　きました。ともだちに　なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "１　ここで　たべましょう。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "２　ここで　たべてください。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "３　ここは　おいしいですか。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ともだちに　なんといいますか。" }
+  ]
+}

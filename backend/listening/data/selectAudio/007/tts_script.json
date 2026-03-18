@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "コーヒーが　のみたいです。みせの　ひとに　なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "１　コーヒーを　おねがいします。" },
+    { "break": "0.8s" },
+    { "voice": "Male_1", "text": "２　コーヒーは　いかがですか。" },
+    { "break": "0.8s" },
+    { "voice": "Male_1", "text": "３　コーヒーを　のみましょう。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "みせの　ひとに　なんといいますか。" }
+  ]
+}

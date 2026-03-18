@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちが　きぶんが　わるい",
+      "tr": "Arkadaş kendini iyi hissetmiyor",
+      "en": "Friend is feeling unwell",
+      "de": "Freund fühlt sich nicht wohl",
+      "fr": "L'ami ne se sent pas bien",
+      "es": "El amigo no se siente bien",
+      "ko": "친구가 몸이 안 좋을 때"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　きゅうに　くるしそうに　しています。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おだいじに。" },
+        { "number": 2, "text": "どうしましたか。" },
+        { "number": 3, "text": "おめでとうございます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınız aniden rahatsız görünüyor. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Geçmiş olsun / İyi bakın kendinize." },
+        { "number": 2, "text": "Ne oldu? / Bir şey mi oldu?" },
+        { "number": 3, "text": "Tebrikler!" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend suddenly looks like they are in pain. What do you say?",
+      "options": [
+        { "number": 1, "text": "Take care / Get well soon." },
+        { "number": 2, "text": "What's wrong? / What happened?" },
+        { "number": 3, "text": "Congratulations!" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ihr Freund sieht plötzlich krank aus. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Gute Besserung / Pass auf dich auf." },
+        { "number": 2, "text": "Was ist passiert? / Was ist los?" },
+        { "number": 3, "text": "Herzlichen Glückwunsch!" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Votre ami semble soudainement souffrir. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bon rétablissement / Prenez soin de vous." },
+        { "number": 2, "text": "Qu'est-ce qui se passe? / Ça va?" },
+        { "number": 3, "text": "Félicitations!" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tu amigo de repente parece estar sufriendo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Que te mejores / Cuídate." },
+        { "number": 2, "text": "¿Qué pasó? / ¿Estás bien?" },
+        { "number": 3, "text": "¡Felicitaciones!" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구가 갑자기 힘들어 보입니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "몸조리 잘 하세요 / 빨리 나으세요." },
+        { "number": 2, "text": "어떻게 됐어요? / 무슨 일이에요?" },
+        { "number": 3, "text": "축하합니다!" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "どうしましたか",
+        "reading": "どうしましたか",
+        "meanings": {
+          "tr": "ne oldu? / bir şey mi oldu? (biri aniden rahatsız göründüğünde sorulur)",
+          "en": "what's wrong? / what happened? (asked when someone suddenly seems unwell)",
+          "de": "was ist los? / was ist passiert? (gefragt wenn jemand plötzlich krank wirkt)",
+          "fr": "qu'est-ce qui se passe? / qu'est-il arrivé? (demandé quand quelqu'un semble mal)",
+          "es": "¿qué pasó? / ¿qué te pasa? (preguntado cuando alguien parece mal de repente)",
+          "ko": "어떻게 됐어요? / 무슨 일이에요? (누군가가 갑자기 힘들어 보일 때)"
+        }
+      },
+      {
+        "word": "おだいじに",
+        "reading": "おだいじに",
+        "meanings": {
+          "tr": "geçmiş olsun / kendine iyi bak (hasta olan birine ayrılırken söylenir)",
+          "en": "take care / get well soon (said to a sick person when parting)",
+          "de": "gute Besserung / pass auf dich auf (gesagt beim Abschied von einem Kranken)",
+          "fr": "bon rétablissement / prenez soin de vous (dit en quittant quelqu'un de malade)",
+          "es": "cuídate / que te mejores (dicho al despedirse de alguien enfermo)",
+          "ko": "몸조리 잘 하세요 (아픈 사람과 헤어질 때 하는 말)"
+        }
+      },
+      {
+        "word": "きゅうに",
+        "reading": "きゅうに",
+        "meanings": {
+          "tr": "aniden / birden",
+          "en": "suddenly / all of a sudden",
+          "de": "plötzlich / auf einmal",
+          "fr": "soudainement / tout à coup",
+          "es": "de repente / de pronto",
+          "ko": "갑자기"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "どうしましたか",
+        "meanings": {
+          "tr": "Biri aniden rahatsız ya da üzgün göründüğünde endişeyle sorulan soru kalıbı.",
+          "en": "Concerned question asked when someone suddenly appears unwell or distressed.",
+          "de": "Besorgte Frage, wenn jemand plötzlich krank oder verzweifelt wirkt.",
+          "fr": "Question inquiète posée quand quelqu'un semble soudainement mal ou en détresse.",
+          "es": "Pregunta de preocupación cuando alguien parece mal o angustiado de repente.",
+          "ko": "누군가가 갑자기 힘들어 보이거나 고통스러워 보일 때 걱정하며 묻는 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri aniden rahatsızlanan arkadaşını gören kişidir. '2. どうしましたか' (Ne oldu?) doğrudur — biri aniden acı çekiyormuş gibi göründüğünde ilk söylenen endişe sorusudur. Seçenek 1 'おだいじに' hastalığı zaten bilinen birine ayrılırken söylenir; aniden kötüleşen birine ilk tepki olarak kullanılmaz (Bağlam Karışıklığı). Seçenek 3 'おめでとうございます' kutlama ifadesidir; birinin hasta olduğu durumda hiç uygun değildir (Bağlam Karışıklığı).",
+    "en": "The arrow character is the person who sees their friend suddenly in pain. '2. どうしましたか' (What's wrong?) is correct — it is the natural concerned question when someone suddenly appears to be suffering. Option 1 'おだいじに' is said when parting from someone who is already known to be sick; it is not used as an immediate first reaction to someone suddenly falling ill (Context Confusion). Option 3 'おめでとうございます' is a celebratory expression — completely wrong when someone is sick (Context Confusion).",
+    "de": "Der Pfeil-Charakter sieht seinen Freund plötzlich leiden. '2. どうしましたか' ist korrekt. Option 1 'おだいじに' sagt man beim Abschied von jemandem, der bereits krank ist — nicht als erste Reaktion (Kontextverwechslung). Option 3 'おめでとうございます' ist ein Glückwunsch — völlig falsch (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche voit son ami souffrir soudainement. '2. どうしましたか' est correct. L'option 1 'おだいじに' se dit en quittant quelqu'un déjà malade — pas comme première réaction (confusion de contexte). L'option 3 'おめでとうございます' est une félicitation — totalement inappropriée (confusion de contexte).",
+    "es": "'2. どうしましたか' es correcto. La opción 1 'おだいじに' se dice al despedirse de alguien ya enfermo — no como primera reacción (confusión de contexto). La opción 3 'おめでとうございます' es una felicitación — completamente inapropiada (confusión de contexto).",
+    "ko": "화살표 캐릭터는 친구가 갑자기 힘들어하는 것을 보는 사람입니다. '2. どうしましたか'가 정답입니다. 선택지 1 'おだいじに'는 이미 아픈 사람과 헤어질 때 하는 말로 즉각적인 첫 반응으로는 어색합니다(상황 혼동). 선택지 3 'おめでとうございます'는 축하 인사로 전혀 맞지 않습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Outdoors or corridor. On the LEFT, a young man with simple round head is hunched over, hands on his chest or stomach, coughing or wincing in pain, with distress lines around him. On the RIGHT, a young woman with simple round head leans toward him with both hands raised in a worried gesture, mouth open, looking alarmed. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

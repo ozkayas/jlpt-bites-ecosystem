@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_ewHktqEnxTQ_01_18m12s_21m18s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "しょくじを　ていあんする",
+      "tr": "Yemek önermek",
+      "en": "Suggesting a meal",
+      "de": "Ein Essen vorschlagen",
+      "fr": "Proposer un repas",
+      "es": "Sugerir una comida",
+      "ko": "식사 제안하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちと　そとに　います。みせの　まえに　きました。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ここで　たべましょう。" },
+        { "number": 2, "text": "ここで　たべてください。" },
+        { "number": 3, "text": "ここは　おいしいですか。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınızla dışarıdasınız. Bir lokantanın önüne geldiniz. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Burada yiyelim." },
+        { "number": 2, "text": "Burada ye lütfen." },
+        { "number": 3, "text": "Burası lezzetli mi?" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are outside with a friend. You arrived in front of a restaurant. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "Let's eat here." },
+        { "number": 2, "text": "Please eat here." },
+        { "number": 3, "text": "Is this place delicious?" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie sind draußen mit einem Freund. Sie stehen vor einem Restaurant. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Lass uns hier essen." },
+        { "number": 2, "text": "Bitte essen Sie hier." },
+        { "number": 3, "text": "Ist es hier lecker?" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous êtes dehors avec un ami. Vous arrivez devant un restaurant. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Mangeons ici." },
+        { "number": 2, "text": "Mangez ici, s'il vous plaît." },
+        { "number": 3, "text": "C'est bon ici?" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Estás afuera con un amigo. Llegaste frente a un restaurante. ¿Qué le dices a tu amigo?",
+      "options": [
+        { "number": 1, "text": "Comamos aquí." },
+        { "number": 2, "text": "Come aquí, por favor." },
+        { "number": 3, "text": "¿Está rico aquí?" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구와 밖에 있습니다. 가게 앞에 왔습니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "여기서 먹읍시다." },
+        { "number": 2, "text": "여기서 먹어 주세요." },
+        { "number": 3, "text": "여기는 맛있습니까?" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "たべましょう",
+        "reading": "たべましょう",
+        "meanings": {
+          "tr": "yiyelim (birlikte önerir)",
+          "en": "let's eat (inclusive suggestion)",
+          "de": "lass uns essen",
+          "fr": "mangeons",
+          "es": "comamos",
+          "ko": "먹읍시다"
+        }
+      },
+      {
+        "word": "みせ",
+        "reading": "みせ",
+        "meanings": {
+          "tr": "dükkan / mağaza / lokanta",
+          "en": "shop / restaurant",
+          "de": "Laden / Restaurant",
+          "fr": "magasin / restaurant",
+          "es": "tienda / restaurante",
+          "ko": "가게"
+        }
+      },
+      {
+        "word": "おいしい",
+        "reading": "おいしい",
+        "meanings": {
+          "tr": "lezzetli",
+          "en": "delicious / tasty",
+          "de": "lecker",
+          "fr": "délicieux",
+          "es": "delicioso / rico",
+          "ko": "맛있다"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ましょう (勧誘)",
+        "meanings": {
+          "tr": "Birlikte bir şey yapmayı öneren kalıp: 'たべましょう' = 'yiyelim'.",
+          "en": "Pattern for suggesting doing something together: 'たべましょう' = 'let's eat'.",
+          "de": "Muster zum gemeinsamen Vorschlagen: 'たべましょう' = 'lass uns essen'.",
+          "fr": "Formule pour proposer de faire quelque chose ensemble: 'たべましょう' = 'mangeons'.",
+          "es": "Patrón para sugerir hacer algo juntos: 'たべましょう' = 'comamos'.",
+          "ko": "함께 무언가를 제안하는 표현: 'たべましょう' = '먹읍시다'."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri arkadaşına lokantaya girmeyi önermek istiyor, bu yüzden '1. ここで　たべましょう' (Burada yiyelim.) doğrudur — 'ましょう' her ikisini birden davet eden kalıptır. Seçenek 2 'たべてください' sadece karşıdakini yönlendiren bir istektir, birlikte yemek önermez (Yön Karışıklığı). Seçenek 3 'おいしいですか' lokantanın kalitesini sorar ama önermez — lokantanın önünde duran biri bu soruyu sormak yerine direkt öneride bulunur (Bağlam Karışıklığı).",
+    "en": "The arrow character wants to suggest eating at the restaurant together, so '1. ここで　たべましょう' (Let's eat here.) is correct — 'ましょう' is the inclusive suggestion form. Option 2 'たべてください' is a request directing only the other person, not a mutual suggestion (Direction Confusion). Option 3 'おいしいですか' asks about quality instead of making a suggestion — someone standing right in front of a restaurant would suggest entering, not ask if it's good (Context Confusion).",
+    "de": "Der Pfeil-Charakter möchte vorschlagen, gemeinsam im Restaurant zu essen, daher ist '1. ここで　たべましょう' korrekt. Option 2 'たべてください' ist eine Bitte nur an die andere Person (Richtungsverwechslung). Option 3 'おいしいですか' fragt nach der Qualität statt vorzuschlagen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche veut proposer de manger ensemble, donc '1. ここで　たべましょう' est correct. L'option 2 'たべてください' est une demande adressée à l'autre personne seulement (confusion de direction). L'option 3 'おいしいですか' pose une question sur la qualité au lieu de proposer (confusion de contexte).",
+    "es": "'1. ここで　たべましょう' es correcto. La opción 2 'たべてください' es una petición solo para la otra persona (confusión de dirección). La opción 3 'おいしいですか' pregunta sobre la calidad en lugar de proponer (confusión de contexto).",
+    "ko": "화살표 캐릭터는 함께 식사하자고 제안하고 싶습니다. '1. ここで　たべましょう'가 정답입니다. 선택지 2 'たべてください'는 상대방에게만 하는 부탁으로 함께하는 제안이 아닙니다(방향 혼동). 선택지 3 'おいしいですか'는 맛있냐고 묻는 것으로, 가게 앞에 있는 상황에선 바로 제안하는 게 자연스럽습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple black and white line drawing. Outside a Japanese restaurant at night. On the LEFT, a young woman with long hair stands facing slightly right with a smiling expression. On the RIGHT, a young man smiles and looks toward the restaurant entrance. The restaurant facade is visible in the background with a lantern and menu board. Clean outlines, white background, no shading, no text, no labels, JLPT textbook illustration style."
+}

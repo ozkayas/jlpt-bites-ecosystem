@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "がっこうへ　いくとき",
+      "tr": "Okula giderken",
+      "en": "Leaving for school",
+      "de": "Zur Schule gehen",
+      "fr": "Partir pour l'école",
+      "es": "Salir para la escuela",
+      "ko": "학교에 갈 때"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 2,
+  "transcriptions": {
+    "ja": {
+      "intro": "がっこうへ　いきます。おかあさんに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "いってらっしゃい。" },
+        { "number": 2, "text": "ただいま。" },
+        { "number": 3, "text": "いってきます。" }
+      ],
+      "question": "おかあさんに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Okula gidiyorsunuz. Annenize ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Güle güle." },
+        { "number": 2, "text": "Döndüm." },
+        { "number": 3, "text": "Gidiyorum." }
+      ],
+      "question": "Annenize ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are leaving for school. What do you say to your mother?",
+      "options": [
+        { "number": 1, "text": "Have a safe trip." },
+        { "number": 2, "text": "I'm home." },
+        { "number": 3, "text": "I'm off." }
+      ],
+      "question": "What do you say to your mother?"
+    },
+    "de": {
+      "intro": "Sie gehen zur Schule. Was sagen Sie zu Ihrer Mutter?",
+      "options": [
+        { "number": 1, "text": "Komm gut an." },
+        { "number": 2, "text": "Ich bin wieder da." },
+        { "number": 3, "text": "Ich gehe jetzt." }
+      ],
+      "question": "Was sagen Sie zu Ihrer Mutter?"
+    },
+    "fr": {
+      "intro": "Vous partez pour l'école. Que dites-vous à votre mère?",
+      "options": [
+        { "number": 1, "text": "Bonne route." },
+        { "number": 2, "text": "Je suis rentré." },
+        { "number": 3, "text": "Je pars." }
+      ],
+      "question": "Que dites-vous à votre mère?"
+    },
+    "es": {
+      "intro": "Vas a la escuela. ¿Qué le dices a tu madre?",
+      "options": [
+        { "number": 1, "text": "Que te vaya bien." },
+        { "number": 2, "text": "Ya llegué." },
+        { "number": 3, "text": "Me voy." }
+      ],
+      "question": "¿Qué le dices a tu madre?"
+    },
+    "ko": {
+      "intro": "학교에 갑니다. 어머니에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "다녀오세요." },
+        { "number": 2, "text": "다녀왔습니다." },
+        { "number": 3, "text": "다녀올게요." }
+      ],
+      "question": "어머니에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "いってきます",
+        "reading": "いってきます",
+        "meanings": {
+          "tr": "gidiyorum / gidip geliyorum (evden çıkarken söylenir)",
+          "en": "I'm off / I'll be back (said when leaving home)",
+          "de": "Ich gehe jetzt (beim Verlassen des Hauses)",
+          "fr": "Je pars (dit en quittant la maison)",
+          "es": "Me voy (al salir de casa)",
+          "ko": "다녀올게요 (집을 나설 때)"
+        }
+      },
+      {
+        "word": "いってらっしゃい",
+        "reading": "いってらっしゃい",
+        "meanings": {
+          "tr": "güle güle (evde kalan kişi söyler)",
+          "en": "have a safe trip (said by the person staying home)",
+          "de": "Komm gut an (von der zuhause bleibenden Person)",
+          "fr": "bonne route (dit par la personne qui reste)",
+          "es": "que te vaya bien (dicho por quien se queda)",
+          "ko": "잘 다녀오세요 (집에 있는 사람이 하는 말)"
+        }
+      },
+      {
+        "word": "ただいま",
+        "reading": "ただいま",
+        "meanings": {
+          "tr": "döndüm / eve geldim (eve dönerken söylenir)",
+          "en": "I'm home / I'm back (said when returning home)",
+          "de": "Ich bin wieder da (beim Nachhausekommen)",
+          "fr": "je suis rentré (dit en rentrant à la maison)",
+          "es": "ya llegué (al volver a casa)",
+          "ko": "다녀왔습니다 (집에 돌아올 때)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "いってきます／いってらっしゃい",
+        "meanings": {
+          "tr": "Eşleşmiş vedalaşma kalıpları: giden kişi 'いってきます', evde kalan 'いってらっしゃい' der.",
+          "en": "Paired farewell: the person leaving says 'いってきます', the person staying says 'いってらっしゃい'.",
+          "de": "Gepaarte Abschiedsformeln: die gehende Person sagt 'いってきます', die bleibende 'いってらっしゃい'.",
+          "fr": "Formules appairées: qui part dit 'いってきます', qui reste dit 'いってらっしゃい'.",
+          "es": "Expresiones en pareja: quien sale dice 'いってきます', quien se queda dice 'いってらっしゃい'.",
+          "ko": "한 쌍의 표현: 나가는 사람은 'いってきます', 집에 있는 사람은 'いってらっしゃい'."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri sırt çantalıyla evi terk eden öğrencidir, bu yüzden '3. いってきます' (Gidiyorum.) doğrudur. Seçenek 1 'いってらっしゃい' evde kalan annenin söyleyeceği kalıptır — giden kişinin değil (Rol Karışıklığı). Seçenek 2 'ただいま' eve dönerken söylenen ifadedir, eve giderken değil (Bağlam Karışıklığı).",
+    "en": "The arrow character is the student leaving home with a backpack, so '3. いってきます' (I'm off) is correct. Option 1 'いってらっしゃい' is what the mother says to the departing student — not what the student says (Role Confusion). Option 2 'ただいま' is said when returning home, not when leaving (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Schüler, der das Haus mit Rucksack verlässt, daher ist '3. いってきます' korrekt. Option 1 'いってらっしゃい' sagt die Mutter — nicht der Schüler (Rollenverwechslung). Option 2 'ただいま' sagt man beim Nachhausekommen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche part en sac à dos, donc '3. いってきます' est correct. L'option 1 'いってらっしゃい' est ce que dit la mère (confusion de rôles). L'option 2 'ただいま' se dit en rentrant (confusion de contexte).",
+    "es": "'3. いってきます' es correcto. La opción 1 'いってらっしゃい' la dice la madre (confusión de roles). La opción 2 'ただいま' se dice al volver (confusión de contexto).",
+    "ko": "화살표는 가방 멘 학생입니다. '3. いってきます'가 정답입니다. 선택지 1 'いってらっしゃい'는 어머니가 하는 말(역할 혼동), 선택지 2 'ただいま'는 돌아올 때 하는 말입니다(상황 혼동)."
+  }
+}

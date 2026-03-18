@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "びょうにんを　みまう",
+      "tr": "Hasta ziyareti",
+      "en": "Visiting a sick person",
+      "de": "Einen Kranken besuchen",
+      "fr": "Rendre visite à un malade",
+      "es": "Visitar a un enfermo",
+      "ko": "병문안하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　びょういんに　います。みまいに　いきました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "だいじょうぶですか。" },
+        { "number": 2, "text": "げんきですか。" },
+        { "number": 3, "text": "おめでとうございます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınız hastanede yatıyor. Ziyarete gittiniz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "İyi misin? /괜찮아요?" },
+        { "number": 2, "text": "Sağlıklı mısın? / Nasılsın?" },
+        { "number": 3, "text": "Tebrikler!" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend is in the hospital. You went to visit. What do you say?",
+      "options": [
+        { "number": 1, "text": "Are you okay? / Are you alright?" },
+        { "number": 2, "text": "Are you well? / How are you?" },
+        { "number": 3, "text": "Congratulations!" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ihr Freund liegt im Krankenhaus. Sie gehen ihn besuchen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Geht es dir gut? / Alles okay?" },
+        { "number": 2, "text": "Bist du gesund? / Wie geht's?" },
+        { "number": 3, "text": "Herzlichen Glückwunsch!" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Votre ami est à l'hôpital. Vous êtes allé lui rendre visite. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Ça va? / Tu vas bien?" },
+        { "number": 2, "text": "Tu es en bonne santé? / Comment vas-tu?" },
+        { "number": 3, "text": "Félicitations!" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tu amigo está en el hospital. Fuiste a visitarlo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¿Estás bien? / ¿Cómo te encuentras?" },
+        { "number": 2, "text": "¿Estás sano? / ¿Cómo estás?" },
+        { "number": 3, "text": "¡Felicitaciones!" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구가 병원에 있습니다. 병문안을 갔습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "괜찮아요? / 어때요?" },
+        { "number": 2, "text": "건강해요? / 잘 지내요?" },
+        { "number": 3, "text": "축하합니다!" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "だいじょうぶ",
+        "reading": "だいじょうぶ",
+        "meanings": {
+          "tr": "iyi / sorun yok /괜찮아 (endişe veya rahatlama ifadesi)",
+          "en": "okay / alright / fine (expressing concern or reassurance)",
+          "de": "okay / alles gut (Sorge oder Beruhigung ausdrücken)",
+          "fr": "ça va / tout va bien (exprimer inquiétude ou réassurance)",
+          "es": "bien / está bien (expresar preocupación o tranquilidad)",
+          "ko": "괜찮다 (걱정이나 안심을 표현)"
+        }
+      },
+      {
+        "word": "げんき",
+        "reading": "げんき",
+        "meanings": {
+          "tr": "sağlıklı / neşeli / enerjik",
+          "en": "healthy / energetic / fine (general wellness)",
+          "de": "gesund / munter / fit",
+          "fr": "en bonne santé / en forme",
+          "es": "sano / con energía / bien",
+          "ko": "건강하다 / 활기차다"
+        }
+      },
+      {
+        "word": "みまい",
+        "reading": "みまい",
+        "meanings": {
+          "tr": "hasta ziyareti",
+          "en": "hospital visit / visit to a sick person",
+          "de": "Krankenbesuch",
+          "fr": "visite à un malade",
+          "es": "visita a un enfermo",
+          "ko": "병문안"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "だいじょうぶですか",
+        "meanings": {
+          "tr": "Birinin durumunu soran, endişe içeren soru kalıbı. Hasta ziyaretinde çok kullanılır.",
+          "en": "Concerned question asking if someone is okay. Very common when visiting a sick person.",
+          "de": "Besorgte Frage, ob jemand okay ist. Häufig beim Krankenbesuch.",
+          "fr": "Question inquiète demandant si quelqu'un va bien. Très utilisée lors d'une visite à un malade.",
+          "es": "Pregunta de preocupación para saber si alguien está bien. Muy usada en visitas a enfermos.",
+          "ko": "상대방의 상태를 걱정하며 묻는 표현. 병문안 시 자주 사용."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri hasta bir arkadaşını ziyarete gelen kişidir. '1. だいじょうぶですか' (İyi misin?) doğrudur — endişeyi doğrudan ifade eder ve hasta ziyaretine en uygun selamlama budur. Seçenek 2 'げんきですか' günlük 'nasılsın?' selamıdır; yatakta hasta biri için 'sağlıklı mısın?' demek bağlama uymaz (Bağlam Karışıklığı). Seçenek 3 'おめでとうございます' tebrik ifadesidir — hasta birinin yanında söylenemez (Bağlam Karışıklığı).",
+    "en": "The arrow character is visiting a sick friend, so '1. だいじょうぶですか' (Are you okay?) is correct — it directly expresses concern and is the most natural greeting when visiting a sick person. Option 2 'げんきですか' is a routine 'how are you?' greeting; asking 'are you healthy?' to someone clearly ill in a hospital bed is contextually inappropriate (Context Confusion). Option 3 'おめでとうございます' means congratulations — completely wrong when visiting a sick person (Context Confusion).",
+    "de": "Der Pfeil-Charakter besucht einen kranken Freund, daher ist '1. だいじょうぶですか' korrekt. Option 2 'げんきですか' ist ein allgemeiner Gruß; 'bist du gesund?' zu jemandem im Krankenbett zu fragen ist unangemessen (Kontextverwechslung). Option 3 'おめでとうございます' bedeutet Glückwunsch — falsch für Krankenbesuch (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche rend visite à un ami malade, donc '1. だいじょうぶですか' est correct. L'option 2 'げんきですか' est une salutation habituelle; demander 'tu es en bonne santé?' à quelqu'un clairement malade est inapproprié (confusion de contexte). L'option 3 'おめでとうございます' signifie félicitations — inapproprié lors d'une visite à un malade (confusion de contexte).",
+    "es": "'1. だいじょうぶですか' es correcto. La opción 2 'げんきですか' es un saludo rutinario; preguntar '¿estás sano?' a alguien claramente enfermo en cama es inapropiado (confusión de contexto). La opción 3 'おめでとうございます' significa felicitaciones — incorrecto para una visita a un enfermo (confusión de contexto).",
+    "ko": "화살표 캐릭터는 아픈 친구를 병문안 가는 사람입니다. '1. だいじょうぶですか'가 정답입니다. 선택지 2 'げんきですか'는 일상적인 인사로, 병원 침대에 누운 사람에게 '건강해요?'라고 묻는 것은 어색합니다(상황 혼동). 선택지 3 'おめでとうございます'는 축하 인사로 병문안 상황에 맞지 않습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Hospital room. On the LEFT, a young woman with simple round head stands holding a bag, looking at the bed with a worried expression. On the RIGHT, a young girl with simple round head sits up in a hospital bed, one hand raised in a weak wave, with an IV drip stand beside the bed. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

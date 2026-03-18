@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "そとを　あるいています。ともだちに　あいました。しばらく　あっていません。なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "１　ひさしぶりですね。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "２　はじめまして。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "３　いってきます。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ともだちに　なんといいますか。" }
+  ]
+}

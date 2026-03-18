@@ -1,0 +1,155 @@
+{
+  "source_clip": "clip_0e0duD8_LFE_01_20m20s_23m13s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "いえに　きた　ともだちを　むかえる",
+      "tr": "Eve gelen arkadaşı karşılamak",
+      "en": "Welcoming a friend at the door",
+      "de": "Einen Freund an der Tür begrüßen",
+      "fr": "Accueillir un ami à la porte",
+      "es": "Dar la bienvenida a un amigo en la puerta",
+      "ko": "집에 온 친구를 맞이하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　いえに　きました。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "どうぞ、はいってください。" },
+        { "number": 2, "text": "おじゃまします。" },
+        { "number": 3, "text": "いってきます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Bir arkadaşınız evinize geldi. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Buyrun, lütfen girin." },
+        { "number": 2, "text": "Rahatsız ediyorum." },
+        { "number": 3, "text": "Gidiyorum, hoşça kalın." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "A friend has come to your home. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "Please, come in." },
+        { "number": 2, "text": "Sorry for intruding." },
+        { "number": 3, "text": "I'm heading out, see you." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ein Freund ist zu Ihnen nach Hause gekommen. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Bitte, kommen Sie herein." },
+        { "number": 2, "text": "Entschuldigung für die Störung." },
+        { "number": 3, "text": "Ich gehe jetzt, tschüss." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Un ami est venu chez vous. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Je vous en prie, entrez." },
+        { "number": 2, "text": "Excusez-moi de déranger." },
+        { "number": 3, "text": "Je pars, à bientôt." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Un amigo ha venido a su casa. ¿Qué le dice a su amigo?",
+      "options": [
+        { "number": 1, "text": "Por favor, pase." },
+        { "number": 2, "text": "Perdone que moleste." },
+        { "number": 3, "text": "Me voy, hasta luego." }
+      ],
+      "question": "¿Qué le dice a su amigo?"
+    },
+    "ko": {
+      "intro": "친구가 집에 왔습니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "어서 들어오세요." },
+        { "number": 2, "text": "실례합니다." },
+        { "number": 3, "text": "다녀올게요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "meanings": {
+          "tr": "buyrun / lütfen",
+          "en": "please / go ahead",
+          "de": "bitte / hier entlang",
+          "fr": "je vous en prie / allez-y",
+          "es": "por favor / adelante",
+          "ko": "어서 / 부디"
+        }
+      },
+      {
+        "word": "はいる",
+        "reading": "はいる",
+        "meanings": {
+          "tr": "girmek",
+          "en": "to enter / to come in",
+          "de": "eintreten / hereinkommen",
+          "fr": "entrer",
+          "es": "entrar",
+          "ko": "들어오다"
+        }
+      },
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃまします",
+        "meanings": {
+          "tr": "rahatsız ediyorum / izninizle giriyorum",
+          "en": "sorry for intruding / excuse me for coming in",
+          "de": "Entschuldigung für die Störung",
+          "fr": "excusez-moi de déranger",
+          "es": "perdone la molestia / con permiso",
+          "ko": "실례합니다 (남의 집에 들어갈 때)"
+        }
+      },
+      {
+        "word": "いってきます",
+        "reading": "いってきます",
+        "meanings": {
+          "tr": "gidiyorum (eve döneceğim)",
+          "en": "I'm heading out (and will be back)",
+          "de": "ich gehe jetzt (und komme wieder)",
+          "fr": "je pars (et je reviens)",
+          "es": "me voy (y vuelvo)",
+          "ko": "다녀오겠습니다"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "どうぞ ～てください",
+        "meanings": {
+          "tr": "Birine bir şey yapmasını kibarca davet etmek için kullanılır.",
+          "en": "Used to politely invite someone to do something.",
+          "de": "Wird verwendet, um jemanden höflich einzuladen, etwas zu tun.",
+          "fr": "Utilisé pour inviter poliment quelqu'un à faire quelque chose.",
+          "es": "Se usa para invitar amablemente a alguien a hacer algo.",
+          "ko": "누군가에게 정중히 ~해 달라고 권유할 때 사용합니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ev sahibidir; arkadaşını içeri davet etmesi gerekir, bu yüzden '1. どうぞ、はいってください' doğrudur. '2. おじゃまします' ziyaretçinin söylediği bir ifadedir — ev sahibinin değil (Rol Karışıklığı). '3. いってきます' kapıda söylenir ama evden çıkarken kullanılır, karşılarken değil (Bağlam Karışıklığı).",
+    "en": "The arrow character is the host; they need to invite the friend inside, so '1. どうぞ、はいってください' (Please come in) is correct. '2. おじゃまします' is what the visitor says upon entering — not the host (Role Confusion). '3. いってきます' is said at the door but when leaving, not when welcoming someone in (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Gastgeber; er muss den Freund hereinbitten, daher ist '1. どうぞ、はいってください' richtig. '2. おじゃまします' sagt der Gast beim Eintreten — nicht der Gastgeber (Rollenverwechslung). '3. いってきます' wird an der Tür gesagt, aber beim Weggehen, nicht beim Empfangen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'hôte ; il doit inviter son ami à entrer, donc '1. どうぞ、はいってください' est correct. '2. おじゃまします' est dit par le visiteur en entrant — pas par l'hôte (confusion de rôles). '3. いってきます' se dit à la porte mais en partant, pas en accueillant quelqu'un (confusion de contexte).",
+    "es": "El personaje con la flecha es el anfitrión; necesita invitar al amigo a entrar, por eso '1. どうぞ、はいってください' es correcto. '2. おじゃまします' lo dice el visitante al entrar — no el anfitrión (confusión de roles). '3. いってきます' se dice en la puerta pero al salir, no al recibir a alguien (confusión de contexto).",
+    "ko": "화살표 캐릭터는 집주인입니다. 친구를 안으로 초대해야 하므로 '1. どうぞ、はいってください'가 정답입니다. '2. おじゃまします'는 방문객이 들어올 때 하는 말로, 집주인이 하는 말이 아닙니다 (역할 혼동). '3. いってきます'는 문 앞에서 하는 말이지만 나갈 때 쓰는 표현으로, 손님을 맞이할 때는 쓰지 않습니다 (상황 혼동)."
+  },
+  "image_prompt": "Simple monochrome line art scene of a Japanese apartment entrance viewed from the side. The front door is open. The young male resident stands INSIDE on the genkan floor (raised interior level, visible shoe rack behind him), leaning forward slightly and gesturing welcomingly toward the outside. The male visitor stands OUTSIDE on the concrete step/landing in front of the door, holding a shopping bag. The open door clearly separates the indoor genkan area (higher floor level, shoe rack) from the outdoor step (lower level, exterior wall visible). White background, no shading, clean JLPT exam illustration style. Do NOT include any arrows or numbered labels."
+}

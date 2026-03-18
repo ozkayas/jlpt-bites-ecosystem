@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "しゅくだいを　わすれました。せんせいに　なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Male_1", "text": "１　ありがとうございます。" },
+    { "break": "0.8s" },
+    { "voice": "Male_1", "text": "２　よろしく　おねがいします。" },
+    { "break": "0.8s" },
+    { "voice": "Male_1", "text": "３　もうしわけありません。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "せんせいに　なんといいますか。" }
+  ]
+}

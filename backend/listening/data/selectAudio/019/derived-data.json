@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/3.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ひとの　いえに　あがる",
+      "tr": "Birisinin evine girmek",
+      "en": "Entering someone's home",
+      "de": "Das Haus von jemandem betreten",
+      "fr": "Entrer chez quelqu'un",
+      "es": "Entrar a la casa de alguien",
+      "ko": "남의 집에 들어가기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちの　いえに　あそびに　きました。ともだちが　ドアを　あけました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おじゃまします。" },
+        { "number": 2, "text": "いってらっしゃい。" },
+        { "number": 3, "text": "おかえりなさい。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınızın evine ziyarete geldiniz. Arkadaşınız kapıyı açtı. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Rahatsız ediyorum / İzninizle giriyorum." },
+        { "number": 2, "text": "Güle güle / İyi yolculuklar." },
+        { "number": 3, "text": "Hoş geldiniz / İyi ki döndünüz." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You came to visit your friend's house. Your friend opened the door. What do you say?",
+      "options": [
+        { "number": 1, "text": "Excuse me for intruding / Pardon the intrusion." },
+        { "number": 2, "text": "Have a good trip / Take care." },
+        { "number": 3, "text": "Welcome back." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie sind zum Besuch bei Ihrem Freund gekommen. Ihr Freund öffnete die Tür. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Entschuldigung für die Störung / Ich komme rein." },
+        { "number": 2, "text": "Gute Reise / Pass auf dich auf." },
+        { "number": 3, "text": "Willkommen zurück." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous êtes venu rendre visite à votre ami. Votre ami a ouvert la porte. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Excusez-moi de vous déranger / Je rentre." },
+        { "number": 2, "text": "Bon voyage / À bientôt." },
+        { "number": 3, "text": "Bienvenue / Bon retour." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Fuiste a visitar la casa de tu amigo. Tu amigo abrió la puerta. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Con permiso / Perdón por molestar." },
+        { "number": 2, "text": "Buen viaje / Cuídate." },
+        { "number": 3, "text": "Bienvenido de vuelta." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구 집에 놀러 왔습니다. 친구가 문을 열었습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "실례합니다 / 방해해서 죄송합니다." },
+        { "number": 2, "text": "잘 다녀오세요 / 다녀오세요." },
+        { "number": 3, "text": "어서 오세요 / 잘 다녀오셨어요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃまします",
+        "meanings": {
+          "tr": "rahatsız ediyorum / izninizle giriyorum (birisinin evine girerken söylenir)",
+          "en": "pardon the intrusion / excuse me for intruding (said when entering someone's home)",
+          "de": "entschuldigung für die Störung (beim Betreten des Hauses eines anderen gesagt)",
+          "fr": "excusez-moi de vous déranger (dit en entrant chez quelqu'un)",
+          "es": "perdón por molestar / con permiso (dicho al entrar a casa de alguien)",
+          "ko": "실례합니다 / 방해해서 죄송합니다 (남의 집에 들어갈 때 하는 말)"
+        }
+      },
+      {
+        "word": "いってらっしゃい",
+        "reading": "いってらっしゃい",
+        "meanings": {
+          "tr": "güle güle / iyi yolculuklar (giden birine uğurlarken söylenir)",
+          "en": "have a good trip / take care (said to someone who is leaving)",
+          "de": "gute Reise / pass auf dich auf (gesagt zu jemandem, der weggeht)",
+          "fr": "bon voyage / prenez soin de vous (dit à quelqu'un qui part)",
+          "es": "buen viaje / cuídate (dicho a alguien que se va)",
+          "ko": "잘 다녀오세요 (떠나는 사람에게 하는 말)"
+        }
+      },
+      {
+        "word": "おかえりなさい",
+        "reading": "おかえりなさい",
+        "meanings": {
+          "tr": "hoş geldiniz / güle güle gitmediniz (geri dönen birine söylenir)",
+          "en": "welcome back (said to someone who has returned)",
+          "de": "willkommen zurück (gesagt zu jemandem, der zurückgekehrt ist)",
+          "fr": "bon retour / bienvenue (dit à quelqu'un qui revient)",
+          "es": "bienvenido de vuelta (dicho a alguien que regresó)",
+          "ko": "어서 오세요 / 잘 다녀오셨어요 (돌아온 사람에게 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "おじゃまします (訪問)",
+        "meanings": {
+          "tr": "Birinin evine girerken kapıda söylenen kibarca ifade. Misafir olarak girildiğini belirtir.",
+          "en": "Polite phrase said at the door when entering someone's home as a guest.",
+          "de": "Höfliche Aussage an der Tür beim Betreten des Hauses als Gast.",
+          "fr": "Expression polie dite à la porte en entrant chez quelqu'un en tant qu'invité.",
+          "es": "Frase cortés dicha en la puerta al entrar a casa de alguien como invitado.",
+          "ko": "손님으로 남의 집에 들어갈 때 문 앞에서 하는 정중한 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri arkadaşının evine giren misafirdir. '1. おじゃまします' (Rahatsız ediyorum / İzninizle giriyorum.) doğrudur — birinin evine girerken kapıda söylenen standart ifadedir. Seçenek 2 'いってらっしゃい' giden birine uğurlarken söylenir; eve yeni gelen misafir bunu söyleyemez (Bağlam Karışıklığı). Seçenek 3 'おかえりなさい' geri dönen birine söylenir; misafir olarak gelen biri bunu söyleyemez (Bağlam Karışıklığı).",
+    "en": "The arrow character is the guest entering a friend's home. '1. おじゃまします' (Pardon the intrusion.) is correct — it is the standard phrase said at the door when entering someone's home. Option 2 'いってらっしゃい' is said to someone who is leaving; a guest arriving cannot say this (Context Confusion). Option 3 'おかえりなさい' is said to someone who has returned home; a visiting guest cannot say this (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Gast, der das Haus eines Freundes betritt. '1. おじゃまします' ist korrekt. Option 2 'いってらっしゃい' sagt man zu jemandem, der weggeht — ein ankommender Gast kann das nicht sagen (Kontextverwechslung). Option 3 'おかえりなさい' sagt man zu jemandem, der zurückgekehrt ist (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'invité qui entre chez un ami. '1. おじゃまします' est correct. L'option 2 'いってらっしゃい' se dit à quelqu'un qui part — un invité qui arrive ne peut pas dire cela (confusion de contexte). L'option 3 'おかえりなさい' se dit à quelqu'un qui rentre — un invité ne peut pas dire cela (confusion de contexte).",
+    "es": "'1. おじゃまします' es correcto. La opción 2 'いってらっしゃい' se dice a alguien que se va — un invitado que llega no puede decirlo (confusión de contexto). La opción 3 'おかえりなさい' se dice a alguien que regresa — un invitado no puede decirlo (confusión de contexto).",
+    "ko": "화살표 캐릭터는 친구 집에 들어가는 손님입니다. '1. おじゃまします'가 정답입니다. 선택지 2 'いってらっしゃい'는 떠나는 사람에게 하는 말로 도착한 손님이 쓸 수 없습니다(상황 혼동). 선택지 3 'おかえりなさい'는 돌아온 사람에게 하는 말로 손님이 쓸 수 없습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Front door of a house. On the LEFT, a young man with simple round head stands inside the doorway, one hand on the door frame, smiling and welcoming. On the RIGHT, a young woman with simple round head stands outside holding a small bag, bowing her head slightly in a polite greeting as she steps inside. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

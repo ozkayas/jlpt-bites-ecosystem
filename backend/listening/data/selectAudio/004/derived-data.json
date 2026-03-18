@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_0e0duD8_LFE_01_20m20s_23m13s/3.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ぐあいが　わるそうな　ひとに　こえを　かける",
+      "tr": "Hasta görünen birine sormak",
+      "en": "Checking on someone who looks unwell",
+      "de": "Jemanden fragen, dem es nicht gut geht",
+      "fr": "S'enquérir de quelqu'un qui ne semble pas bien",
+      "es": "Preguntar a alguien que parece estar mal",
+      "ko": "아파 보이는 사람에게 말 걸기"
+    }
+  },
+  "correct_option": 2,
+  "transcriptions": {
+    "ja": {
+      "intro": "おとこのひとが　きぶんが　わるそうです。おんなのひとは　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "だいじょうぶです。" },
+        { "number": 2, "text": "おだいじに。" },
+        { "number": 3, "text": "だいじょうぶですか。" }
+      ],
+      "question": "おんなのひとは　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Erkek öğrenci hasta görünüyor. Kız öğrenci ne söyler?",
+      "options": [
+        { "number": 1, "text": "İyiyim." },
+        { "number": 2, "text": "Geçmiş olsun." },
+        { "number": 3, "text": "İyi misin?" }
+      ],
+      "question": "Kız öğrenci ne söyler?"
+    },
+    "en": {
+      "intro": "The male student looks unwell. What does the female student say?",
+      "options": [
+        { "number": 1, "text": "I'm fine." },
+        { "number": 2, "text": "Get well soon." },
+        { "number": 3, "text": "Are you okay?" }
+      ],
+      "question": "What does the female student say?"
+    },
+    "de": {
+      "intro": "Der männliche Student sieht krank aus. Was sagt die Studentin?",
+      "options": [
+        { "number": 1, "text": "Mir geht es gut." },
+        { "number": 2, "text": "Gute Besserung." },
+        { "number": 3, "text": "Geht es dir gut?" }
+      ],
+      "question": "Was sagt die Studentin?"
+    },
+    "fr": {
+      "intro": "L'étudiant a l'air malade. Que dit l'étudiante?",
+      "options": [
+        { "number": 1, "text": "Je vais bien." },
+        { "number": 2, "text": "Bon rétablissement." },
+        { "number": 3, "text": "Tu vas bien?" }
+      ],
+      "question": "Que dit l'étudiante?"
+    },
+    "es": {
+      "intro": "El estudiante parece estar mal. ¿Qué dice la estudiante?",
+      "options": [
+        { "number": 1, "text": "Estoy bien." },
+        { "number": 2, "text": "Que te mejores." },
+        { "number": 3, "text": "¿Estás bien?" }
+      ],
+      "question": "¿Qué dice la estudiante?"
+    },
+    "ko": {
+      "intro": "남학생이 몸이 안 좋아 보입니다. 여학생은 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "괜찮아요." },
+        { "number": 2, "text": "몸조심하세요." },
+        { "number": 3, "text": "괜찮아요?" }
+      ],
+      "question": "여학생은 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "だいじょうぶ",
+        "reading": "だいじょうぶ",
+        "meanings": {
+          "tr": "iyi / sorun yok",
+          "en": "okay / fine / alright",
+          "de": "in Ordnung / gut",
+          "fr": "ça va / bien",
+          "es": "bien / está bien",
+          "ko": "괜찮다 / 좋다"
+        }
+      },
+      {
+        "word": "おだいじに",
+        "reading": "おだいじに",
+        "meanings": {
+          "tr": "geçmiş olsun (ayrılırken söylenir)",
+          "en": "get well soon / take care (said when parting)",
+          "de": "gute Besserung (beim Abschied gesagt)",
+          "fr": "bon rétablissement (dit en partant)",
+          "es": "que te mejores (al despedirse)",
+          "ko": "몸조심하세요 (헤어질 때)"
+        }
+      },
+      {
+        "word": "きぶん",
+        "reading": "きぶん",
+        "meanings": {
+          "tr": "his / duygu durumu",
+          "en": "feeling / mood",
+          "de": "Gefühl / Stimmung",
+          "fr": "humeur / sentiment",
+          "es": "sentimiento / estado de ánimo",
+          "ko": "기분"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ですか (疑問文)",
+        "meanings": {
+          "tr": "Soru eki — だいじょうぶです (İyiyim) → だいじょうぶですか (İyi misin?)",
+          "en": "Question marker — だいじょうぶです (I'm fine) → だいじょうぶですか (Are you fine?)",
+          "de": "Fragewort — unterscheidet Aussage (です) von Frage (ですか).",
+          "fr": "Marqueur interrogatif — distingue affirmation (です) de question (ですか).",
+          "es": "Marcador de pregunta — distingue afirmación (です) de pregunta (ですか).",
+          "ko": "의문문 어미 — です(괜찮아요)와 ですか(괜찮아요?)의 차이."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri endişeli kız öğrencidir ve hasta görünen arkadaşına sormalıdır, bu yüzden '3. だいじょうぶですか' (İyi misin?) doğrudur. Seçenek 1 'だいじょうぶです' soruya verilen cevaptır — hasta olan erkek öğrencinin söyleyeceği sözdür, soran kişinin değil (Rol Karışıklığı). Seçenek 2 'おだいじに' hasta olduğunu zaten bildiğiniz birinden ayrılırken söylenir, henüz fark ettiğiniz anda değil (Bağlam Karışıklığı).",
+    "en": "The arrow character is the concerned female student who needs to ask about her friend, so '3. だいじょうぶですか' (Are you okay?) is correct. Option 1 'だいじょうぶです' is the reply to that question — it's what the unwell male student would say if asked, not what the concerned person says (Role Confusion). Option 2 'おだいじに' (Get well soon) is said when parting from someone already known to be sick, not when first noticing they look unwell (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist die besorgte Studentin, daher ist '3. だいじょうぶですか' (Geht es dir gut?) korrekt. Option 1 'だいじょうぶです' ist die Antwort — das würde der kranke Student sagen (Rollenverwechslung). Option 2 'おだいじに' sagt man beim Abschied von jemandem, der bereits krank ist (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'étudiante inquiète, donc '3. だいじょうぶですか' (Tu vas bien?) est correct. L'option 1 'だいじょうぶです' est la réponse — c'est ce que dirait l'étudiant malade (confusion de rôles). L'option 2 'おだいじに' se dit en quittant quelqu'un déjà malade (confusion de contexte).",
+    "es": "El personaje con la flecha es la estudiante preocupada, por eso '3. だいじょうぶですか' (¿Estás bien?) es correcto. La opción 1 'だいじょうぶです' es la respuesta — es lo que diría el estudiante enfermo (confusión de roles). La opción 2 'おだいじに' se dice al despedirse de alguien ya enfermo (confusión de contexto).",
+    "ko": "화살표 캐릭터는 걱정하는 여학생입니다. 따라서 '3. だいじょうぶですか'(괜찮아요?)가 정답입니다. 선택지 1 'だいじょうぶです'는 질문에 대한 대답으로 아픈 남학생이 할 말입니다(역할 혼동). 선택지 2 'おだいじに'는 이미 아픈 것을 알고 헤어질 때 하는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple monochrome line art scene inside a Japanese school lecture hall with tiered steps. A female student stands on the steps holding a book, leaning slightly toward a male student with a concerned expression and one hand raised (palm out). The male student sits at a desk on a lower step, head resting on one hand, eyes half-closed, looking tired and unwell, with a textbook on the desk. White background, no shading, clean JLPT exam illustration style. Do NOT include any arrows or numbered labels."
+}

@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/2.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ひさしぶりに　あう",
+      "tr": "Uzun süredir görülmemiş biriyle karşılaşmak",
+      "en": "Running into someone after a long time",
+      "de": "Jemanden nach langer Zeit treffen",
+      "fr": "Rencontrer quelqu'un après longtemps",
+      "es": "Encontrarse con alguien después de mucho tiempo",
+      "ko": "오랜만에 만나기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "そとを　あるいています。ともだちに　あいました。しばらく　あっていません。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ひさしぶりですね。" },
+        { "number": 2, "text": "はじめまして。" },
+        { "number": 3, "text": "いってきます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Dışarıda yürüyorsunuz. Bir arkadaşınızla karşılaştınız. Bir süredir görüşmediniz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Çok oldu, görüşmemeli!" },
+        { "number": 2, "text": "Tanıştığımıza memnun oldum." },
+        { "number": 3, "text": "Gidiyorum, görüşürüz." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are walking outside. You ran into a friend. You haven't seen them in a while. What do you say?",
+      "options": [
+        { "number": 1, "text": "Long time no see!" },
+        { "number": 2, "text": "Nice to meet you." },
+        { "number": 3, "text": "I'm heading out, see you!" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie gehen draußen spazieren. Sie treffen einen Freund. Sie haben sich lange nicht gesehen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Lange nicht gesehen!" },
+        { "number": 2, "text": "Schön, Sie kennenzulernen." },
+        { "number": 3, "text": "Ich gehe jetzt, tschüss!" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous vous promenez dehors. Vous tombez sur un ami. Vous ne vous êtes pas vus depuis longtemps. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Ça fait longtemps!" },
+        { "number": 2, "text": "Ravi de vous rencontrer." },
+        { "number": 3, "text": "Je pars, à bientôt!" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Estás caminando afuera. Te encontraste con un amigo. No se han visto en mucho tiempo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¡Cuánto tiempo sin verte!" },
+        { "number": 2, "text": "Encantado de conocerte." },
+        { "number": 3, "text": "Me voy, ¡hasta luego!" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "밖에서 걷고 있습니다. 친구를 만났습니다. 한동안 보지 못했습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "오랜만이에요." },
+        { "number": 2, "text": "처음 뵙겠습니다." },
+        { "number": 3, "text": "다녀올게요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ひさしぶり",
+        "reading": "ひさしぶり",
+        "meanings": {
+          "tr": "uzun zaman sonra / çok oldu",
+          "en": "long time no see / after a long time",
+          "de": "lange nicht gesehen / nach langer Zeit",
+          "fr": "longtemps / ça fait un moment",
+          "es": "mucho tiempo / hace tiempo",
+          "ko": "오랜만"
+        }
+      },
+      {
+        "word": "はじめまして",
+        "reading": "はじめまして",
+        "meanings": {
+          "tr": "tanıştığımıza memnun oldum (ilk tanışmada söylenir)",
+          "en": "nice to meet you (said when meeting someone for the first time)",
+          "de": "schön, Sie kennenzulernen (bei der ersten Begegnung)",
+          "fr": "enchanté (dit lors d'une première rencontre)",
+          "es": "encantado de conocerte (al conocer a alguien por primera vez)",
+          "ko": "처음 뵙겠습니다 (처음 만날 때 하는 말)"
+        }
+      },
+      {
+        "word": "しばらく",
+        "reading": "しばらく",
+        "meanings": {
+          "tr": "bir süre / bir müddet",
+          "en": "for a while / some time",
+          "de": "eine Weile / eine Zeit lang",
+          "fr": "un moment / depuis un certain temps",
+          "es": "un rato / un tiempo",
+          "ko": "잠시 / 한동안"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ひさしぶりですね",
+        "meanings": {
+          "tr": "Bir süredir görülmemiş birine rastlanıldığında kullanılan selamlama kalıbı.",
+          "en": "Greeting used when meeting someone you haven't seen for a while.",
+          "de": "Begrüßung für jemanden, den man seit einer Weile nicht gesehen hat.",
+          "fr": "Salutation utilisée quand on revoit quelqu'un après un certain temps.",
+          "es": "Saludo usado cuando encuentras a alguien que no has visto en un tiempo.",
+          "ko": "한동안 보지 못한 사람을 만났을 때 쓰는 인사 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri bir süredir görmediği arkadaşına sokakta rastlıyor, bu yüzden '1. ひさしぶりですね' (Çok oldu!) doğrudur. Seçenek 2 'はじめまして' ilk kez tanışırken söylenir — oysa ikisi zaten tanışıyor (Bağlam Karışıklığı). Seçenek 3 'いってきます' evden çıkarken söylenir, sokakta birisiyle karşılaşıldığında değil (Bağlam Karışıklığı).",
+    "en": "The arrow character runs into a friend they haven't seen in a while, so '1. ひさしぶりですね' (Long time no see!) is correct. Option 2 'はじめまして' is said when meeting someone for the first time — but they already know each other (Context Confusion). Option 3 'いってきます' is said when leaving home — not when running into someone on the street (Context Confusion).",
+    "de": "Der Pfeil-Charakter trifft einen Freund, den er seit einer Weile nicht gesehen hat, daher ist '1. ひさしぶりですね' korrekt. Option 2 'はじめまして' sagt man bei der ersten Begegnung — sie kennen sich aber bereits (Kontextverwechslung). Option 3 'いってきます' sagt man beim Verlassen des Hauses (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche rencontre un ami qu'il n'a pas vu depuis longtemps, donc '1. ひさしぶりですね' est correct. L'option 2 'はじめまして' se dit lors d'une première rencontre — or ils se connaissent déjà (confusion de contexte). L'option 3 'いってきます' se dit en quittant la maison (confusion de contexte).",
+    "es": "'1. ひさしぶりですね' es correcto. La opción 2 'はじめまして' se dice al conocer a alguien por primera vez — pero ya se conocen (confusión de contexto). La opción 3 'いってきます' se dice al salir de casa (confusión de contexto).",
+    "ko": "화살표 캐릭터는 한동안 못 본 친구를 만납니다. '1. ひさしぶりですね'가 정답입니다. 선택지 2 'はじめまして'는 처음 만날 때 하는 말로 이미 아는 사이에는 맞지 않습니다(상황 혼동). 선택지 3 'いってきます'는 집을 나설 때 하는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Outdoors on a street. On the LEFT, a young woman with simple round head wearing a backpack and carrying shopping bags in both hands. On the RIGHT, a young woman with simple round head in a skirt, walking toward the left woman with a surprised and happy expression, raising one hand in greeting. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

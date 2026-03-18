@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ペンを　かりる",
+      "tr": "Kalem ödünç almak",
+      "en": "Borrowing a pen",
+      "de": "Einen Stift ausleihen",
+      "fr": "Emprunter un stylo",
+      "es": "Pedir prestado un bolígrafo",
+      "ko": "펜 빌리기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "じゅぎょうちゅうに　ペンが　ありません。となりの　ひとに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ペンを　かしてください。" },
+        { "number": 2, "text": "ペンを　かしましょうか。" },
+        { "number": 3, "text": "ペンを　かえしてください。" }
+      ],
+      "question": "となりの　ひとに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Ders sırasında kaleminiz yok. Yanınızdaki kişiye ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Kalemini ödünç verir misin? / Kalemi bana verir misin?" },
+        { "number": 2, "text": "Kalemini ödünç vereyim mi?" },
+        { "number": 3, "text": "Kalemi geri verir misin?" }
+      ],
+      "question": "Yanınızdaki kişiye ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You don't have a pen during class. What do you say to the person next to you?",
+      "options": [
+        { "number": 1, "text": "Please lend me your pen." },
+        { "number": 2, "text": "Shall I lend you a pen?" },
+        { "number": 3, "text": "Please return the pen." }
+      ],
+      "question": "What do you say to the person next to you?"
+    },
+    "de": {
+      "intro": "Sie haben im Unterricht keinen Stift. Was sagen Sie zur Person neben Ihnen?",
+      "options": [
+        { "number": 1, "text": "Bitte leih mir deinen Stift." },
+        { "number": 2, "text": "Soll ich dir einen Stift leihen?" },
+        { "number": 3, "text": "Bitte gib den Stift zurück." }
+      ],
+      "question": "Was sagen Sie zur Person neben Ihnen?"
+    },
+    "fr": {
+      "intro": "Vous n'avez pas de stylo pendant le cours. Que dites-vous à la personne à côté de vous?",
+      "options": [
+        { "number": 1, "text": "Prête-moi ton stylo, s'il te plaît." },
+        { "number": 2, "text": "Veux-tu que je te prête un stylo?" },
+        { "number": 3, "text": "Rends-moi le stylo, s'il te plaît." }
+      ],
+      "question": "Que dites-vous à la personne à côté de vous?"
+    },
+    "es": {
+      "intro": "No tienes bolígrafo durante la clase. ¿Qué le dices a la persona de al lado?",
+      "options": [
+        { "number": 1, "text": "Por favor, préstame tu bolígrafo." },
+        { "number": 2, "text": "¿Te presto un bolígrafo?" },
+        { "number": 3, "text": "Por favor, devuelve el bolígrafo." }
+      ],
+      "question": "¿Qué le dices a la persona de al lado?"
+    },
+    "ko": {
+      "intro": "수업 중에 펜이 없습니다. 옆 사람에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "펜을 빌려주세요." },
+        { "number": 2, "text": "펜을 빌려드릴까요?" },
+        { "number": 3, "text": "펜을 돌려주세요." }
+      ],
+      "question": "옆 사람에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "かしてください",
+        "reading": "かしてください",
+        "meanings": {
+          "tr": "lütfen ödünç ver / lütfen ver (bir şey istemek için kullanılır)",
+          "en": "please lend me / please let me borrow (used to request borrowing something)",
+          "de": "bitte leih mir (wird verwendet, um etwas auszuleihen)",
+          "fr": "prête-moi s'il te plaît (utilisé pour emprunter quelque chose)",
+          "es": "por favor préstame (se usa para pedir prestado algo)",
+          "ko": "빌려주세요 (무언가를 빌릴 때 사용)"
+        }
+      },
+      {
+        "word": "かしましょうか",
+        "reading": "かしましょうか",
+        "meanings": {
+          "tr": "ödünç vereyim mi? (karşıdakine teklif ederken söylenir)",
+          "en": "shall I lend you? (used when offering to lend something)",
+          "de": "soll ich leihen? (wird verwendet, wenn man anbietet, etwas zu leihen)",
+          "fr": "veux-tu que je te prête? (utilisé pour offrir de prêter quelque chose)",
+          "es": "¿te presto? (se usa al ofrecer prestar algo)",
+          "ko": "빌려드릴까요? (상대방에게 빌려주겠다고 제안할 때)"
+        }
+      },
+      {
+        "word": "かえしてください",
+        "reading": "かえしてください",
+        "meanings": {
+          "tr": "lütfen geri ver / iade et (ödünç verilen bir şeyi geri isterken söylenir)",
+          "en": "please return / please give back (used to ask for something back)",
+          "de": "bitte gib zurück (wird verwendet, um etwas zurückzufordern)",
+          "fr": "rends-le s'il te plaît (utilisé pour demander quelque chose en retour)",
+          "es": "por favor devuelve (se usa para pedir que devuelvan algo)",
+          "ko": "돌려주세요 (빌려준 것을 돌려달라고 할 때)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～て　ください",
+        "meanings": {
+          "tr": "Birinden bir şey yapmasını kibarca istemek için kullanılan kalıp.",
+          "en": "Pattern used to politely request someone to do something.",
+          "de": "Muster, das verwendet wird, um jemanden höflich um etwas zu bitten.",
+          "fr": "Structure utilisée pour demander poliment à quelqu'un de faire quelque chose.",
+          "es": "Patrón usado para pedir amablemente a alguien que haga algo.",
+          "ko": "누군가에게 정중하게 부탁할 때 사용하는 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ders sırasında kalemi olmayan öğrencidir. '1. ペンを　かしてください' (Kalemi ödünç ver lütfen) doğrudur — borçlanan kişinin kullandığı kalıptır. Seçenek 2 'ペンを　かしましょうか' tam tersine teklif kalıbıdır; yani kalem sahibinin söyleyeceği ifadedir, isteyen kişinin değil (Rol Karışıklığı). Seçenek 3 'ペンを　かえしてください' ödünç verilen bir kalemi geri istemek için söylenir; kalem henüz ödünç alınmamışken bu ifade kullanılamaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is the student who doesn't have a pen during class. '1. ペンを　かしてください' (Please lend me your pen) is correct — it is the borrower's request. Option 2 'ペンを　かしましょうか' is an offer to lend; it is the pen owner's line, not the person asking to borrow (Role Confusion). Option 3 'ペンを　かえしてください' means 'please return the pen' — said when asking for a pen back after lending it, which is the opposite situation (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Schüler, der keinen Stift hat. '1. ペンを　かしてください' ist korrekt. Option 2 'ペンを　かしましょうか' ist ein Angebot zum Verleihen — das sagt die Person mit dem Stift, nicht die Person, die ihn braucht (Rollenverwechslung). Option 3 'ペンを　かえしてください' bedeutet 'gib den Stift zurück' — falsch, weil der Stift noch nicht verliehen wurde (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'élève qui n'a pas de stylo. '1. ペンを　かしてください' est correct. L'option 2 'ペンを　かしましょうか' est une offre de prêt — c'est ce que dirait la personne qui a un stylo (confusion de rôles). L'option 3 'ペンを　かえしてください' signifie 'rends le stylo' — la situation inverse (confusion de contexte).",
+    "es": "'1. ペンを　かしてください' es correcto. La opción 2 'ペンを　かしましょうか' es una oferta de préstamo — la dice quien tiene el bolígrafo, no quien lo necesita (confusión de roles). La opción 3 'ペンを　かえしてください' significa 'devuelve el bolígrafo' — la situación opuesta (confusión de contexto).",
+    "ko": "화살표 캐릭터는 수업 중 펜이 없는 학생입니다. '1. ペンを　かしてください'가 정답입니다. 선택지 2 'ペンを　かしましょうか'는 빌려주겠다는 제안으로, 펜을 가진 사람이 하는 말입니다(역할 혼동). 선택지 3 'ペンを　かえしてください'는 빌려준 펜을 돌려달라고 하는 말로, 상황이 반대입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Classroom scene. On the LEFT, a young man with simple round head sits at a desk, raising one hand and looking to the right with a slightly embarrassed expression. A thought bubble above him shows a pen. On the RIGHT, a young woman with simple round head sits at a desk looking at him. A teacher with simple round head stands in the background at the board. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

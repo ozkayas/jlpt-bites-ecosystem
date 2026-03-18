@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_ewHktqEnxTQ_01_18m12s_21m18s/2.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "やくそくを　キャンセルする",
+      "tr": "Randevuyu iptal etmek",
+      "en": "Cancelling a plan",
+      "de": "Eine Verabredung absagen",
+      "fr": "Annuler un rendez-vous",
+      "es": "Cancelar una cita",
+      "ko": "약속 취소하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちと　あう　やくそくが　あります。でも、きょう　びょうきです。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "きょう、いけません。ごめんなさい。" },
+        { "number": 2, "text": "きょう、きてください。" },
+        { "number": 3, "text": "きょう、いきます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınızla buluşma randevunuz var. Ama bugün hastasınız. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bugün gelemeyeceğim. Özür dilerim." },
+        { "number": 2, "text": "Bugün gel lütfen." },
+        { "number": 3, "text": "Bugün gideceğim." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You have plans to meet your friend. But today you are sick. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "I can't make it today. I'm sorry." },
+        { "number": 2, "text": "Please come today." },
+        { "number": 3, "text": "I'll go today." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie haben eine Verabredung mit einem Freund. Aber heute sind Sie krank. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Ich kann heute nicht kommen. Es tut mir leid." },
+        { "number": 2, "text": "Bitte kommen Sie heute." },
+        { "number": 3, "text": "Ich komme heute." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous avez rendez-vous avec un ami. Mais aujourd'hui vous êtes malade. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Je ne peux pas venir aujourd'hui. Désolé." },
+        { "number": 2, "text": "Venez aujourd'hui s'il vous plaît." },
+        { "number": 3, "text": "J'y vais aujourd'hui." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tienes planes para reunirte con tu amigo. Pero hoy estás enfermo. ¿Qué le dices a tu amigo?",
+      "options": [
+        { "number": 1, "text": "Hoy no puedo ir. Lo siento." },
+        { "number": 2, "text": "Ven hoy, por favor." },
+        { "number": 3, "text": "Hoy iré." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구와 만날 약속이 있습니다. 하지만 오늘 아픕니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "오늘 못 가요. 미안해요." },
+        { "number": 2, "text": "오늘 와주세요." },
+        { "number": 3, "text": "오늘 갈게요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "いけません",
+        "reading": "いけません",
+        "meanings": {
+          "tr": "gidemiyorum / olmaz",
+          "en": "cannot go / it won't work",
+          "de": "kann nicht gehen / geht nicht",
+          "fr": "je ne peux pas y aller",
+          "es": "no puedo ir",
+          "ko": "갈 수 없어요"
+        }
+      },
+      {
+        "word": "やくそく",
+        "reading": "やくそく",
+        "meanings": {
+          "tr": "randevu / söz / buluşma",
+          "en": "promise / appointment / plan",
+          "de": "Verabredung / Versprechen",
+          "fr": "rendez-vous / promesse",
+          "es": "cita / promesa / plan",
+          "ko": "약속"
+        }
+      },
+      {
+        "word": "びょうき",
+        "reading": "びょうき",
+        "meanings": {
+          "tr": "hastalık / hasta olmak",
+          "en": "illness / being sick",
+          "de": "Krankheit / krank sein",
+          "fr": "maladie / être malade",
+          "es": "enfermedad / estar enfermo",
+          "ko": "병 / 아프다"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～ません (否定形)",
+        "meanings": {
+          "tr": "Olumsuz kibarca: いきます (gidiyorum) → いけません (gidemiyorum).",
+          "en": "Polite negative: いきます (I'll go) → いけません (I can't go).",
+          "de": "Höfliche Verneinung: いきます (ich gehe) → いけません (ich kann nicht gehen).",
+          "fr": "Forme négative polie: いきます (j'y vais) → いけません (je ne peux pas y aller).",
+          "es": "Negativa cortés: いきます (voy) → いけません (no puedo ir).",
+          "ko": "정중한 부정형: いきます(가요) → いけません(갈 수 없어요)."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri hasta olduğu için arkadaşıyla buluşamayacak olan kişidir, bu yüzden '1. きょう、いけません。ごめんなさい。' (Bugün gelemeyeceğim. Özür dilerim.) doğrudur. Seçenek 2 'きてください' arkadaşı kendine davet etmektir — iptal mesajı değil, tamamen farklı bir niyet (Rol Karışıklığı). Seçenek 3 'いきます' 'gidiyorum' anlamına gelir — hasta olduğu halde gideceğini söylemek durumla çelişir (Bağlam Karışıklığı).",
+    "en": "The arrow character is sick and cannot meet her friend, so '1. きょう、いけません。ごめんなさい。' (I can't make it today. I'm sorry.) is correct. Option 2 'きてください' means 'please come' — she would be inviting the friend to her place instead of cancelling (Role Confusion). Option 3 'いきます' means 'I'll go' — saying she will go when she is sick contradicts the situation (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist krank und kann die Verabredung nicht einhalten, daher ist '1. きょう、いけません。ごめんなさい。' korrekt. Option 2 'きてください' bedeutet 'bitte kommen Sie' — sie würde den Freund einladen statt absagen (Rollenverwechslung). Option 3 'いきます' bedeutet 'ich gehe' — krank zu sein und trotzdem zu gehen widerspricht der Situation (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est malade et ne peut pas retrouver son ami, donc '1. きょう、いけません。ごめんなさい。' est correct. L'option 2 'きてください' signifie 'venez' — elle inviterait l'ami au lieu d'annuler (confusion de rôles). L'option 3 'いきます' signifie 'j'y vais' — dire qu'on va y aller alors qu'on est malade contredit la situation (confusion de contexte).",
+    "es": "'1. きょう、いけません。ごめんなさい。' es correcto. La opción 2 'きてください' significa 'ven' — invitaría al amigo en lugar de cancelar (confusión de roles). La opción 3 'いきます' significa 'iré' — decir que irá estando enferma contradice la situación (confusión de contexto).",
+    "ko": "화살표 캐릭터는 아파서 친구를 만날 수 없습니다. '1. きょう、いけません。ごめんなさい。'가 정답입니다. 선택지 2 'きてください'는 친구를 자기 집으로 초대하는 말로 취소와 다릅니다(역할 혼동). 선택지 3 'いきます'는 '갈게요'라는 뜻으로 아픈 상황과 모순됩니다(상황 혼동)."
+  },
+  "image_prompt": "Simple monochrome line art. A young woman lies in bed, propping herself up slightly, holding a phone to her ear. She looks tired and unwell. A thought bubble shows a young man talking on the phone, smiling. White background, no shading, clean JLPT exam illustration style. Do NOT include any arrows or numbered labels."
+}

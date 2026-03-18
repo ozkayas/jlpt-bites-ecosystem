@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "さきに　かえる",
+      "tr": "Önce ayrılmak",
+      "en": "Leaving first",
+      "de": "Als Erster gehen",
+      "fr": "Partir en premier",
+      "es": "Salir primero",
+      "ko": "먼저 자리를 뜨기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "かいしゃで　ともだちに　あいました。じぶんは　さきに　かえります。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おさきに　しつれいします。" },
+        { "number": 2, "text": "いってらっしゃい。" },
+        { "number": 3, "text": "おかえりなさい。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "İş yerinde arkadaşınızla karşılaştınız. Siz önce ayrılıyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Sizden önce çıkıyorum, iyi günler." },
+        { "number": 2, "text": "Güle güle / İyi yolculuklar." },
+        { "number": 3, "text": "Hoş geldiniz / Buyurun." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You met a friend at work. You are leaving first. What do you say?",
+      "options": [
+        { "number": 1, "text": "I'll be leaving before you. Excuse me." },
+        { "number": 2, "text": "Take care / Have a safe trip." },
+        { "number": 3, "text": "Welcome back." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie haben einen Freund auf der Arbeit getroffen. Sie gehen zuerst. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Ich gehe schon vor. Entschuldigung." },
+        { "number": 2, "text": "Auf Wiedersehen / Gute Reise." },
+        { "number": 3, "text": "Willkommen zurück." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous avez rencontré un ami au travail. Vous partez en premier. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Je pars avant vous. Excusez-moi." },
+        { "number": 2, "text": "Au revoir / Bon voyage." },
+        { "number": 3, "text": "Bienvenue / Bon retour." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Te encontraste con un amigo en el trabajo. Tú te vas primero. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Me voy antes que tú. Con permiso." },
+        { "number": 2, "text": "Hasta luego / Buen viaje." },
+        { "number": 3, "text": "Bienvenido de vuelta." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "회사에서 친구를 만났습니다. 자신이 먼저 돌아갑니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "먼저 실례합니다." },
+        { "number": 2, "text": "다녀오세요." },
+        { "number": 3, "text": "어서 오세요 / 잘 다녀오셨어요." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おさきに",
+        "reading": "おさきに",
+        "meanings": {
+          "tr": "sizden önce / önce (kibar)",
+          "en": "before you / ahead of you (polite)",
+          "de": "vor Ihnen / zuerst (höflich)",
+          "fr": "avant vous (poli)",
+          "es": "antes que tú (cortés)",
+          "ko": "먼저 (정중)"
+        }
+      },
+      {
+        "word": "しつれいします",
+        "reading": "しつれいします",
+        "meanings": {
+          "tr": "af edersiniz / izin alarak ayrılmak",
+          "en": "excuse me / I'll take my leave",
+          "de": "entschuldigung / ich verabschiede mich",
+          "fr": "excusez-moi / je prends congé",
+          "es": "con permiso / me despido",
+          "ko": "실례합니다 / 먼저 가겠습니다"
+        }
+      },
+      {
+        "word": "いってらっしゃい",
+        "reading": "いってらっしゃい",
+        "meanings": {
+          "tr": "güle güle (gidene söylenir, kalan kişi söyler)",
+          "en": "take care / see you later (said by the person staying, to the person leaving)",
+          "de": "auf Wiedersehen (gesagt von der bleibenden Person)",
+          "fr": "au revoir (dit par la personne qui reste)",
+          "es": "hasta luego (dicho por quien se queda)",
+          "ko": "다녀오세요 (남는 사람이 떠나는 사람에게)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "おさきに　しつれいします",
+        "meanings": {
+          "tr": "Birinden önce ayrılırken kullanılan kibarca kalıp.",
+          "en": "Polite phrase used when leaving before someone else.",
+          "de": "Höfliche Redewendung, wenn man vor jemand anderem geht.",
+          "fr": "Expression polie utilisée quand on part avant quelqu'un d'autre.",
+          "es": "Frase cortés usada cuando uno se va antes que otro.",
+          "ko": "다른 사람보다 먼저 자리를 뜰 때 쓰는 정중한 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri iş yerinden önce ayrılan kişidir, bu yüzden '1. おさきに　しつれいします' (Sizden önce çıkıyorum.) doğrudur. Seçenek 2 'いってらっしゃい' kalanın gidene söylediği ifadedir — ok karakteri giden kişi olduğu için bunu söyleyemez (Rol Karışıklığı). Seçenek 3 'おかえりなさい' eve ya da bir yere dönen birine söylenir — işten ayrılırken değil (Bağlam Karışıklığı).",
+    "en": "The arrow character is leaving work first, so '1. おさきに　しつれいします' (I'll be leaving before you.) is correct. Option 2 'いってらっしゃい' is said by the person staying to the person leaving — the arrow character is the one leaving, so they cannot say this (Role Confusion). Option 3 'おかえりなさい' is said to someone returning home or coming back — not when someone is leaving (Context Confusion).",
+    "de": "Der Pfeil-Charakter verlässt die Arbeit zuerst, daher ist '1. おさきに　しつれいします' korrekt. Option 2 'いってらっしゃい' sagt die bleibende Person zur gehenden Person (Rollenverwechslung). Option 3 'おかえりなさい' sagt man zu jemandem, der zurückkommt (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche quitte le travail en premier, donc '1. おさきに　しつれいします' est correct. L'option 2 'いってらっしゃい' est dite par la personne qui reste à celle qui part (confusion de rôles). L'option 3 'おかえりなさい' se dit à quelqu'un qui revient (confusion de contexte).",
+    "es": "'1. おさきに　しつれいします' es correcto. La opción 2 'いってらっしゃい' la dice quien se queda a quien se va (confusión de roles). La opción 3 'おかえりなさい' se dice a alguien que regresa (confusión de contexto).",
+    "ko": "화살표 캐릭터는 먼저 직장을 떠나는 사람입니다. '1. おさきに　しつれいします'가 정답입니다. 선택지 2 'いってらっしゃい'는 남는 사람이 떠나는 사람에게 하는 말입니다(역할 혼동). 선택지 3 'おかえりなさい'는 돌아오는 사람에게 하는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Office building corridor. On the LEFT, a young woman with simple round head wearing a business suit and carrying a shoulder bag, raising one hand in a polite farewell gesture. On the RIGHT, a young woman with simple round head in casual clothes smiles back at her. A wall panel visible in the background. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

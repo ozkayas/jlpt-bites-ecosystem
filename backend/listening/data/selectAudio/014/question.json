@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "へやに　はいる",
+      "tr": "Odaya girmek",
+      "en": "Entering a room",
+      "de": "Ein Zimmer betreten",
+      "fr": "Entrer dans une pièce",
+      "es": "Entrar a una habitación",
+      "ko": "방에 들어가기"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "せんせいの　へやに　はいります。せんせいは　つくえに　います。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "しつれいします。" },
+        { "number": 2, "text": "どうぞ。" },
+        { "number": 3, "text": "おかえりなさい。" }
+      ],
+      "question": "せんせいに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Öğretmeninizin odasına giriyorsunuz. Öğretmen masasının başında oturuyor. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "İzin alarak giriyorum. / Rahatsız ediyorum." },
+        { "number": 2, "text": "Buyurun / Lütfen girin." },
+        { "number": 3, "text": "Hoş geldiniz / Güle güle gitmediniz." }
+      ],
+      "question": "Öğretmeninize ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are entering your teacher's room. The teacher is sitting at the desk. What do you say?",
+      "options": [
+        { "number": 1, "text": "Excuse me / I'm coming in." },
+        { "number": 2, "text": "Please go ahead / Come in." },
+        { "number": 3, "text": "Welcome back." }
+      ],
+      "question": "What do you say to your teacher?"
+    },
+    "de": {
+      "intro": "Sie betreten das Zimmer Ihres Lehrers. Der Lehrer sitzt am Schreibtisch. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Entschuldigung / Ich komme rein." },
+        { "number": 2, "text": "Bitte / Kommen Sie herein." },
+        { "number": 3, "text": "Willkommen zurück." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Lehrer?"
+    },
+    "fr": {
+      "intro": "Vous entrez dans la salle de votre professeur. Le professeur est assis à son bureau. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Excusez-moi / Je rentre." },
+        { "number": 2, "text": "Je vous en prie / Entrez." },
+        { "number": 3, "text": "Bienvenue / Bon retour." }
+      ],
+      "question": "Que dites-vous à votre professeur?"
+    },
+    "es": {
+      "intro": "Estás entrando al cuarto de tu profesor. El profesor está sentado en su escritorio. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Con permiso / Paso." },
+        { "number": 2, "text": "Adelante / Pase." },
+        { "number": 3, "text": "Bienvenido de vuelta." }
+      ],
+      "question": "¿Qué le dices a tu profesor?"
+    },
+    "ko": {
+      "intro": "선생님의 방에 들어갑니다. 선생님은 책상에 앉아 있습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "실례합니다." },
+        { "number": 2, "text": "어서 오세요 / 들어오세요." },
+        { "number": 3, "text": "어서 오세요 / 잘 다녀오셨어요." }
+      ],
+      "question": "선생님에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "しつれいします",
+        "reading": "しつれいします",
+        "meanings": {
+          "tr": "izin alarak giriyorum / rahatsız ediyorum (resmi bir yere girerken söylenir)",
+          "en": "excuse me / I'm coming in (said when entering a formal space)",
+          "de": "entschuldigung / ich komme herein (beim Betreten eines formellen Raumes)",
+          "fr": "excusez-moi / je rentre (dit en entrant dans un espace formel)",
+          "es": "con permiso / paso (dicho al entrar a un espacio formal)",
+          "ko": "실례합니다 (격식 있는 공간에 들어갈 때)"
+        }
+      },
+      {
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "meanings": {
+          "tr": "buyurun / lütfen (içerideki kişi dışarıdakine söyler)",
+          "en": "please / go ahead (said by the person inside to invite someone in)",
+          "de": "bitte / herein (gesagt von der Person drinnen)",
+          "fr": "je vous en prie / entrez (dit par la personne à l'intérieur)",
+          "es": "adelante / pase (dicho por la persona de adentro)",
+          "ko": "어서 오세요 / 들어오세요 (안에 있는 사람이 말함)"
+        }
+      },
+      {
+        "word": "おかえりなさい",
+        "reading": "おかえりなさい",
+        "meanings": {
+          "tr": "hoş geldiniz / güle güle gitmediniz (geri dönen birine söylenir)",
+          "en": "welcome back (said to someone who has returned)",
+          "de": "willkommen zurück (gesagt zu jemandem, der zurückgekehrt ist)",
+          "fr": "bon retour / bienvenue (dit à quelqu'un qui revient)",
+          "es": "bienvenido de vuelta (dicho a alguien que regresó)",
+          "ko": "어서 오세요 / 잘 다녀오셨어요 (돌아온 사람에게)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "しつれいします (入室)",
+        "meanings": {
+          "tr": "Öğretmen odası veya ofis gibi resmi bir alana girerken söylenen kibarca ifade.",
+          "en": "Polite phrase said when entering a formal space such as a teacher's room or office.",
+          "de": "Höfliche Aussage beim Betreten eines formellen Raumes wie ein Lehrerzimmer oder Büro.",
+          "fr": "Expression polie dite en entrant dans un espace formel comme la salle d'un professeur.",
+          "es": "Frase cortés dicha al entrar a un espacio formal como la sala de un profesor.",
+          "ko": "선생님 방이나 사무실 같은 격식 있는 공간에 들어갈 때 하는 정중한 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri öğretmenin odasına giren kişidir, bu yüzden '1. しつれいします' (İzin alarak giriyorum.) doğrudur. Seçenek 2 'どうぞ' içerideki kişinin — yani öğretmenin — söyleyeceği ifadedir; dışarıdaki öğrenci söyleyemez (Rol Karışıklığı). Seçenek 3 'おかえりなさい' bir yerden dönen birine söylenir; ilk kez odaya giren biri söylemez (Bağlam Karışıklığı).",
+    "en": "The arrow character is the student entering the teacher's room, so '1. しつれいします' (Excuse me / I'm coming in.) is correct. Option 2 'どうぞ' is what the person inside — the teacher — would say to invite someone in; the visitor at the door cannot say this (Role Confusion). Option 3 'おかえりなさい' is said to someone who has returned; it is not said when entering a room for the first time (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Schüler, der das Zimmer des Lehrers betritt, daher ist '1. しつれいします' korrekt. Option 2 'どうぞ' sagt die Person drinnen — der Lehrer — um jemanden hereinzubitten (Rollenverwechslung). Option 3 'おかえりなさい' sagt man zu jemandem, der zurückgekehrt ist (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'élève qui entre dans la salle du professeur, donc '1. しつれいします' est correct. L'option 2 'どうぞ' est dite par la personne à l'intérieur — le professeur — pour inviter quelqu'un à entrer (confusion de rôles). L'option 3 'おかえりなさい' se dit à quelqu'un qui revient (confusion de contexte).",
+    "es": "'1. しつれいします' es correcto. La opción 2 'どうぞ' la dice la persona de adentro — el profesor — para invitar a entrar (confusión de roles). La opción 3 'おかえりなさい' se dice a alguien que regresa (confusión de contexto).",
+    "ko": "화살표 캐릭터는 선생님 방에 들어가는 학생입니다. '1. しつれいします'가 정답입니다. 선택지 2 'どうぞ'는 안에 있는 선생님이 들어오라고 할 때 쓰는 말입니다(역할 혼동). 선택지 3 'おかえりなさい'는 돌아온 사람에게 하는 말입니다(상황 혼동)."
+  }
+}

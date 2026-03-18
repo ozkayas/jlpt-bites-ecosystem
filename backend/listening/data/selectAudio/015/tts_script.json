@@ -1,0 +1,13 @@
+{
+  "tts_script": [
+    { "voice": "Intro_Voice", "text": "ともだちが　びょういんに　います。みまいに　いきました。なんといいますか。" },
+    { "break": "1s" },
+    { "voice": "Female_1", "text": "１　だいじょうぶですか。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "２　げんきですか。" },
+    { "break": "0.8s" },
+    { "voice": "Female_1", "text": "３　おめでとうございます。" },
+    { "break": "1s" },
+    { "voice": "Intro_Voice", "text": "ともだちに　なんといいますか。" }
+  ]
+}

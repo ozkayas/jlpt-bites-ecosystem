@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "のみものを　ちゅうもんする",
+      "tr": "İçecek sipariş etmek",
+      "en": "Ordering a drink",
+      "de": "Ein Getränk bestellen",
+      "fr": "Commander une boisson",
+      "es": "Pedir una bebida",
+      "ko": "음료 주문하기"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "コーヒーが　のみたいです。みせの　ひとに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "コーヒーを　おねがいします。" },
+        { "number": 2, "text": "コーヒーは　いかがですか。" },
+        { "number": 3, "text": "コーヒーを　のみましょう。" }
+      ],
+      "question": "みせの　ひとに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Kahve içmek istiyorsunuz. Görevliye ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bir kahve lütfen." },
+        { "number": 2, "text": "Kahve ister misiniz?" },
+        { "number": 3, "text": "Kahve içelim." }
+      ],
+      "question": "Görevliye ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You want to drink coffee. What do you say to the staff?",
+      "options": [
+        { "number": 1, "text": "A coffee, please." },
+        { "number": 2, "text": "Would you like coffee?" },
+        { "number": 3, "text": "Let's drink coffee." }
+      ],
+      "question": "What do you say to the staff?"
+    },
+    "de": {
+      "intro": "Sie möchten Kaffee trinken. Was sagen Sie zum Personal?",
+      "options": [
+        { "number": 1, "text": "Einen Kaffee bitte." },
+        { "number": 2, "text": "Möchten Sie Kaffee?" },
+        { "number": 3, "text": "Lass uns Kaffee trinken." }
+      ],
+      "question": "Was sagen Sie zum Personal?"
+    },
+    "fr": {
+      "intro": "Vous voulez boire un café. Que dites-vous au serveur?",
+      "options": [
+        { "number": 1, "text": "Un café, s'il vous plaît." },
+        { "number": 2, "text": "Vous voulez du café?" },
+        { "number": 3, "text": "Buvons un café." }
+      ],
+      "question": "Que dites-vous au serveur?"
+    },
+    "es": {
+      "intro": "Quieres beber café. ¿Qué le dices al camarero?",
+      "options": [
+        { "number": 1, "text": "Un café, por favor." },
+        { "number": 2, "text": "¿Le apetece un café?" },
+        { "number": 3, "text": "Tomemos café." }
+      ],
+      "question": "¿Qué le dices al camarero?"
+    },
+    "ko": {
+      "intro": "커피를 마시고 싶습니다. 직원에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "커피 주세요." },
+        { "number": 2, "text": "커피는 어떠세요?" },
+        { "number": 3, "text": "커피를 마십시다." }
+      ],
+      "question": "직원에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おねがいします",
+        "reading": "おねがいします",
+        "meanings": {
+          "tr": "lütfen / sipariş kalıbı",
+          "en": "please / may I have",
+          "de": "bitte",
+          "fr": "s'il vous plaît",
+          "es": "por favor",
+          "ko": "부탁합니다"
+        }
+      },
+      {
+        "word": "いかがですか",
+        "reading": "いかがですか",
+        "meanings": {
+          "tr": "nasıl / ister misiniz? (teklif kalıbı)",
+          "en": "how about / would you like? (offer pattern)",
+          "de": "wie wäre es / möchten Sie? (Angebotsform)",
+          "fr": "comment allez-vous / voulez-vous? (formule d'offre)",
+          "es": "¿qué tal / le apetece? (fórmula de oferta)",
+          "ko": "어떠세요? (권유 표현)"
+        }
+      },
+      {
+        "word": "のむ",
+        "reading": "のむ",
+        "meanings": {
+          "tr": "içmek",
+          "en": "to drink",
+          "de": "trinken",
+          "fr": "boire",
+          "es": "beber / tomar",
+          "ko": "마시다"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～を おねがいします",
+        "meanings": {
+          "tr": "Bir şeyi sipariş ederken kullanılan kalıp: コーヒーを おねがいします (Kahve lütfen).",
+          "en": "Pattern for ordering something: コーヒーを おねがいします (A coffee, please).",
+          "de": "Muster zum Bestellen: コーヒーを おねがいします (Einen Kaffee bitte).",
+          "fr": "Formule pour commander: コーヒーを おねがいします (Un café s'il vous plaît).",
+          "es": "Fórmula para pedir algo: コーヒーを おねがいします (Un café por favor).",
+          "ko": "무언가를 주문할 때 쓰는 표현: コーヒーを おねがいします (커피 주세요)."
+        }
+      },
+      {
+        "point": "～ましょう",
+        "meanings": {
+          "tr": "Birlikte bir şey yapmayı teklif etmek: のみましょう (içelim) — karşılıklı eylem.",
+          "en": "Suggesting a joint action: のみましょう (let's drink) — inclusive of both speakers.",
+          "de": "Gemeinsame Handlung vorschlagen: のみましょう (lass uns trinken).",
+          "fr": "Proposer une action commune: のみましょう (buvons).",
+          "es": "Proponer una acción conjunta: のみましょう (tomemos).",
+          "ko": "함께 하는 행동 제안: のみましょう (마십시다)."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri kahve sipariş etmek isteyen müşteridir, bu yüzden '1. コーヒーを　おねがいします' (Bir kahve lütfen) doğrudur. Seçenek 2 'いかがですか' garsonun müşteriye kahve teklif ettiği kalıptır — müşterinin sipariş kalıbı değil (Rol Karışıklığı). Seçenek 3 'のみましょう' 'birlikte içelim' anlamına gelir ve garsonla ortak bir eylem önerir, bu bağlamda anlamsızdır (Yön Karışıklığı).",
+    "en": "The arrow character is the customer who wants to order coffee, so '1. コーヒーを　おねがいします' (A coffee, please) is correct. Option 2 'いかがですか' is the staff's offer pattern — not the customer's order (Role Confusion). Option 3 'のみましょう' means 'let's drink together' and implies a joint action with the staff, which makes no sense in this context (Direction Confusion).",
+    "de": "Der Pfeil-Charakter ist der Kunde, der Kaffee bestellen möchte, daher ist '1. コーヒーを　おねがいします' korrekt. Option 2 'いかがですか' ist das Angebotsmuster des Personals (Rollenverwechslung). Option 3 'のみましょう' bedeutet 'lass uns zusammen trinken' (Richtungsverwechslung).",
+    "fr": "Le personnage avec la flèche est le client qui veut commander un café, donc '1. コーヒーを　おねがいします' est correct. L'option 2 'いかがですか' est la formule d'offre du serveur (confusion de rôles). L'option 3 'のみましょう' signifie 'buvons ensemble' (confusion de direction).",
+    "es": "'1. コーヒーを　おねがいします' es correcto. La opción 2 'いかがですか' es la fórmula del camarero (confusión de roles). La opción 3 'のみましょう' significa 'tomemos juntos' (confusión de dirección).",
+    "ko": "화살표 캐릭터는 커피를 주문하려는 손님입니다. '1. コーヒーを　おねがいします'가 정답입니다. 선택지 2 'いかがですか'는 직원이 손님에게 권유하는 표현(역할 혼동). 선택지 3 'のみましょう'는 '함께 마십시다'로 함께하는 행동 제안입니다(방향 혼동)."
+  }
+}
