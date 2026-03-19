@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_sY7L5cfCWno_01_21m56s_24m41s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "うちに　かえる",
+      "tr": "Eve dönmek",
+      "en": "Returning home",
+      "de": "Nach Hause kommen",
+      "fr": "Rentrer à la maison",
+      "es": "Regresar a casa",
+      "ko": "집에 돌아오기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "がっこうから　かえりました。うちに　はいります。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ただいま。" },
+        { "number": 2, "text": "いってきます。" },
+        { "number": 3, "text": "おじゃまします。" }
+      ],
+      "question": "うちの　ひとに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Okuldan döndünüz. Eve giriyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Geldim / Döndüm." },
+        { "number": 2, "text": "Gidiyorum / Çıkıyorum." },
+        { "number": 3, "text": "Rahatsız ediyorum / İzninizle giriyorum." }
+      ],
+      "question": "Evdeki kişilere ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You came back from school. You are entering your home. What do you say?",
+      "options": [
+        { "number": 1, "text": "I'm home / I'm back." },
+        { "number": 2, "text": "I'm off / I'm leaving." },
+        { "number": 3, "text": "Excuse me for intruding / Pardon the intrusion." }
+      ],
+      "question": "What do you say to the people at home?"
+    },
+    "de": {
+      "intro": "Sie sind von der Schule zurückgekehrt. Sie treten in Ihr Haus ein. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Ich bin zurück / Ich bin zu Hause." },
+        { "number": 2, "text": "Ich gehe jetzt / Tschüss." },
+        { "number": 3, "text": "Entschuldigung für die Störung / Ich komme rein." }
+      ],
+      "question": "Was sagen Sie zu den Leuten zu Hause?"
+    },
+    "fr": {
+      "intro": "Vous êtes rentré de l'école. Vous entrez chez vous. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Je suis rentré / Me voilà." },
+        { "number": 2, "text": "Je pars / À tout à l'heure." },
+        { "number": 3, "text": "Excusez-moi de vous déranger / Je rentre." }
+      ],
+      "question": "Que dites-vous aux personnes à la maison?"
+    },
+    "es": {
+      "intro": "Volviste de la escuela. Estás entrando a tu casa. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Ya llegué / Estoy en casa." },
+        { "number": 2, "text": "Me voy / Hasta luego." },
+        { "number": 3, "text": "Con permiso / Perdón por molestar." }
+      ],
+      "question": "¿Qué le dices a la gente en casa?"
+    },
+    "ko": {
+      "intro": "학교에서 돌아왔습니다. 집에 들어갑니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "다녀왔습니다 / 왔어요." },
+        { "number": 2, "text": "다녀오겠습니다 / 갔다 올게요." },
+        { "number": 3, "text": "실례합니다 / 방해해서 죄송합니다." }
+      ],
+      "question": "집에 있는 사람들에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ただいま",
+        "reading": "ただいま",
+        "meanings": {
+          "tr": "geldim / döndüm (kendi evine dönerken söylenir)",
+          "en": "I'm home / I'm back (said when returning to one's own home)",
+          "de": "ich bin zurück / ich bin zu Hause (beim Betreten des eigenen Hauses gesagt)",
+          "fr": "je suis rentré / me voilà (dit en rentrant chez soi)",
+          "es": "ya llegué / estoy en casa (dicho al regresar al propio hogar)",
+          "ko": "다녀왔습니다 (자기 집에 돌아올 때 하는 말)"
+        }
+      },
+      {
+        "word": "いってきます",
+        "reading": "いってきます",
+        "meanings": {
+          "tr": "gidiyorum / çıkıyorum (evden ayrılırken söylenir)",
+          "en": "I'm off / I'm leaving (said when leaving home)",
+          "de": "ich gehe jetzt (beim Verlassen des Hauses gesagt)",
+          "fr": "je pars (dit en quittant la maison)",
+          "es": "me voy (dicho al salir de casa)",
+          "ko": "다녀오겠습니다 (집을 나설 때 하는 말)"
+        }
+      },
+      {
+        "word": "おじゃまします",
+        "reading": "おじゃまします",
+        "meanings": {
+          "tr": "rahatsız ediyorum / izninizle giriyorum (başkasının evine girerken söylenir)",
+          "en": "pardon the intrusion (said when entering someone else's home)",
+          "de": "entschuldigung für die Störung (beim Betreten des Hauses eines anderen gesagt)",
+          "fr": "excusez-moi de vous déranger (dit en entrant chez quelqu'un d'autre)",
+          "es": "con permiso (dicho al entrar a casa de otra persona)",
+          "ko": "실례합니다 (남의 집에 들어갈 때 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ただいま (帰宅)",
+        "meanings": {
+          "tr": "Kendi evine dönerken kapıda söylenen standart ifade.",
+          "en": "Standard phrase said at the door when returning to one's own home.",
+          "de": "Standardaussage beim Betreten des eigenen Hauses.",
+          "fr": "Expression standard dite en rentrant chez soi.",
+          "es": "Expresión estándar al regresar al propio hogar.",
+          "ko": "자기 집에 돌아올 때 문에서 하는 표준 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri okuldan eve dönen kişidir. '1. ただいま' (Geldim.) doğrudur — kendi evine dönerken kapıda söylenen standart ifadedir. Seçenek 2 'いってきます' evden çıkarken söylenir; eve girerken kullanılmaz (Bağlam Karışıklığı). Seçenek 3 'おじゃまします' başkasının evine misafir olarak girerken söylenir; kendi evine dönerken bu ifade kullanılmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is the person returning home from school. '1. ただいま' (I'm home.) is correct — it is the standard phrase said at the door when returning to one's own home. Option 2 'いってきます' is said when leaving home, not when entering (Context Confusion). Option 3 'おじゃまします' is said when entering someone else's home as a guest; it is not used when returning to one's own home (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist die Person, die von der Schule nach Hause zurückkommt. '1. ただいま' ist korrekt. Option 2 'いってきます' sagt man beim Verlassen des Hauses — nicht beim Eintreten (Kontextverwechslung). Option 3 'おじゃまします' sagt man beim Betreten eines fremden Hauses — nicht des eigenen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche rentre de l'école. '1. ただいま' est correct. L'option 2 'いってきます' se dit en quittant la maison — pas en entrant (confusion de contexte). L'option 3 'おじゃまします' se dit en entrant chez quelqu'un d'autre — pas chez soi (confusion de contexte).",
+    "es": "'1. ただいま' es correcto. La opción 2 'いってきます' se dice al salir de casa — no al entrar (confusión de contexto). La opción 3 'おじゃまします' se dice al entrar a casa ajena — no a la propia (confusión de contexto).",
+    "ko": "화살표 캐릭터는 학교에서 집으로 돌아오는 사람입니다. '1. ただいま'가 정답입니다. 선택지 2 'いってきます'는 집을 나설 때 하는 말이지 들어올 때 하는 말이 아닙니다(상황 혼동). 선택지 3 'おじゃまします'는 남의 집에 들어갈 때 하는 말이지 자기 집에 돌아올 때 하는 말이 아닙니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Indoor home setting with a table and two chairs. On the LEFT side of the scene, an older man with simple round head sits at the table with a cup. In the CENTER-RIGHT, a woman with simple round head sits at the table. In the DOORWAY on the right side, a young person with simple round head stands at the open door, just having entered, holding a school bag, looking toward the people at the table. A clock is visible on the wall. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

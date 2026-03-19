@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_TYn4OgknPDc_01_21m21s_24m40s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "しょくどうで　せきに　すわって　いいか　きく",
+      "tr": "Yemekhanede oturabilir miyim diye sormak",
+      "en": "Asking if a seat is available in the cafeteria",
+      "de": "In der Kantine nach einem freien Platz fragen",
+      "fr": "Demander si une place est libre à la cantine",
+      "es": "Preguntar si un asiento está libre en la cafetería",
+      "ko": "식당에서 자리에 앉아도 되는지 묻기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "しょくどうです。ここに　すわりたいです。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ここ、いいですか。" },
+        { "number": 2, "text": "ここ、すわりませんか。" },
+        { "number": 3, "text": "ここ、すわりましょうか。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Yemekhandesiniz. Buraya oturmak istiyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Burası uygun mu? / Burada oturabilir miyim?" },
+        { "number": 2, "text": "Buraya oturmaz mısınız?" },
+        { "number": 3, "text": "Buraya oturalım mı?" }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are at the cafeteria. You want to sit here. What do you say?",
+      "options": [
+        { "number": 1, "text": "Is this seat taken? / Is this okay?" },
+        { "number": 2, "text": "Won't you sit here?" },
+        { "number": 3, "text": "Shall we sit here?" }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie sind in der Kantine. Sie möchten hier sitzen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Ist hier noch frei? / Ist das in Ordnung?" },
+        { "number": 2, "text": "Würden Sie nicht hier sitzen?" },
+        { "number": 3, "text": "Sollen wir hier sitzen?" }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous êtes à la cantine. Vous voulez vous asseoir ici. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "C'est libre ici? / Puis-je m'asseoir ici?" },
+        { "number": 2, "text": "Vous ne vous asseyez pas ici?" },
+        { "number": 3, "text": "On s'assoit ici?" }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Estás en la cafetería. Quieres sentarte aquí. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¿Está ocupado aquí? / ¿Está bien si me siento?" },
+        { "number": 2, "text": "¿No te sientas aquí?" },
+        { "number": 3, "text": "¿Nos sentamos aquí?" }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "식당에 있습니다. 여기에 앉고 싶습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "여기, 괜찮습니까?" },
+        { "number": 2, "text": "여기에 앉지 않을래요?" },
+        { "number": 3, "text": "여기에 앉을까요?" }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "いいですか",
+        "reading": "いいですか",
+        "meanings": {
+          "tr": "uygun mu? / olur mu? / iyi mi? (izin istemek için kullanılan kısa ve nazik soru)",
+          "en": "is it okay? / may I? (short polite question used to ask permission)",
+          "de": "ist es in Ordnung? / darf ich? (kurze höfliche Frage für Erlaubnis)",
+          "fr": "c'est d'accord? / puis-je? (courte question polie pour demander la permission)",
+          "es": "¿está bien? / ¿puedo? (pregunta corta y cortés para pedir permiso)",
+          "ko": "괜찮습니까? / 돼요? (허락을 구하는 짧고 정중한 질문)"
+        }
+      },
+      {
+        "word": "すわります",
+        "reading": "すわります",
+        "meanings": {
+          "tr": "oturmak (sandalye veya yere oturma eylemi)",
+          "en": "to sit (action of sitting on a chair or floor)",
+          "de": "sitzen / sich setzen",
+          "fr": "s'asseoir",
+          "es": "sentarse",
+          "ko": "앉다 (의자나 바닥에 앉는 동작)"
+        }
+      },
+      {
+        "word": "しょくどう",
+        "reading": "しょくどう",
+        "meanings": {
+          "tr": "yemekhane / kafeterya / restoranvari yemek yeri",
+          "en": "cafeteria / dining hall / canteen",
+          "de": "Kantine / Mensa / Speisesaal",
+          "fr": "cantine / réfectoire / cafétéria",
+          "es": "cafetería / comedor / cantina",
+          "ko": "식당 / 구내식당"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ここ、いいですか (場所の許可確認)",
+        "meanings": {
+          "tr": "Bir yerin (özellikle sandalye, koltuk) uygun olup olmadığını sormak için kullanılan kısa ve doğal ifade.",
+          "en": "Short natural expression to ask if a place (especially a seat) is available or okay to use.",
+          "de": "Kurzer natürlicher Ausdruck, um zu fragen, ob ein Platz frei ist.",
+          "fr": "Expression courte et naturelle pour demander si une place est disponible.",
+          "es": "Expresión corta y natural para preguntar si un lugar está disponible.",
+          "ko": "자리가 비어 있는지 확인할 때 쓰는 짧고 자연스러운 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri boş sandalyeye oturmak için izin isteyen kişidir. '1. ここ、いいですか' (Burası uygun mu?) doğrudur — sandalyeye oturmadan önce izin istemek için kullanılan doğal ve kısa ifadedir. Seçenek 2 'ここ、すわりませんか' karşıdaki kişiyi buraya oturmaya davet eder; oysa ok karakteri kendisi oturmak istemektedir (Yön Karışıklığı). Seçenek 3 'ここ、すわりましょうか' 'birlikte oturalım mı?' anlamına gelir; yabancı birine böyle denmez (Yön Karışıklığı).",
+    "en": "The arrow character wants to sit in an available seat and is asking for permission. '1. ここ、いいですか' is correct — short natural expression to ask if a seat is free. Option 2 'ここ、すわりませんか' invites the other person to sit here — wrong direction (Direction Confusion). Option 3 'ここ、すわりましょうか' means 'shall we sit here together' — inappropriate for a stranger (Direction Confusion).",
+    "de": "'1. ここ、いいですか' ist korrekt. Option 2 'ここ、すわりませんか' lädt die andere Person ein, sich zu setzen (Richtungsverwechslung). Option 3 'ここ、すわりましょうか' bedeutet 'setzen wir uns zusammen' — unangemessen für Fremde (Richtungsverwechslung).",
+    "fr": "'1. ここ、いいですか' est correct. L'option 2 'ここ、すわりませんか' invite l'autre personne à s'asseoir (confusion de direction). L'option 3 'ここ、すわりましょうか' signifie 'on s'assoit ensemble' — inapproprié pour un inconnu (confusion de direction).",
+    "es": "'1. ここ、いいですか' es correcto. La opción 2 'ここ、すわりませんか' invita a la otra persona a sentarse (confusión de dirección). La opción 3 'ここ、すわりましょうか' significa 'nos sentamos juntos' — inapropiado para un extraño (confusión de dirección).",
+    "ko": "'1. ここ、いいですか'가 정답입니다. 선택지 2 'ここ、すわりませんか'는 상대방에게 앉도록 권유하는 말입니다(방향 혼동). 선택지 3 'ここ、すわりましょうか'는 '함께 앉을까요?'라는 뜻으로 낯선 사람에게 쓰기 어색합니다(방향 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A school or workplace cafeteria. On the LEFT, a young woman with simple round head stands holding a tray with food, looking at a table where another young man with simple round head is seated eating. There is an empty chair at the table. She gestures toward the empty seat with a questioning expression. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

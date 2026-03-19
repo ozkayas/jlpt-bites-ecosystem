@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "タクシーに　のる",
+      "tr": "Taksiye binmek",
+      "en": "Taking a taxi",
+      "de": "Ein Taxi nehmen",
+      "fr": "Prendre un taxi",
+      "es": "Tomar un taxi",
+      "ko": "택시 타기"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "タクシーに　のりました。えきに　いきたいです。うんてんしゅに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "えきまで　いきましょうか。" },
+        { "number": 2, "text": "えきまで　おねがいします。" },
+        { "number": 3, "text": "えきに　つきましたか。" }
+      ],
+      "question": "うんてんしゅに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Taksiye bindınız. İstasyona gitmek istiyorsunuz. Şoföre ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "İstasyona gidelim mi?" },
+        { "number": 2, "text": "İstasyona kadar lütfen." },
+        { "number": 3, "text": "İstasyona ulaştınız mı?" }
+      ],
+      "question": "Şoföre ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You got in a taxi. You want to go to the station. What do you say to the driver?",
+      "options": [
+        { "number": 1, "text": "Shall we go to the station?" },
+        { "number": 2, "text": "To the station, please." },
+        { "number": 3, "text": "Have we arrived at the station?" }
+      ],
+      "question": "What do you say to the driver?"
+    },
+    "de": {
+      "intro": "Sie sind in ein Taxi eingestiegen. Sie möchten zum Bahnhof. Was sagen Sie zum Fahrer?",
+      "options": [
+        { "number": 1, "text": "Sollen wir zum Bahnhof fahren?" },
+        { "number": 2, "text": "Zum Bahnhof bitte." },
+        { "number": 3, "text": "Sind wir am Bahnhof angekommen?" }
+      ],
+      "question": "Was sagen Sie zum Fahrer?"
+    },
+    "fr": {
+      "intro": "Vous êtes monté dans un taxi. Vous voulez aller à la gare. Que dites-vous au chauffeur?",
+      "options": [
+        { "number": 1, "text": "On va à la gare?" },
+        { "number": 2, "text": "À la gare, s'il vous plaît." },
+        { "number": 3, "text": "Sommes-nous arrivés à la gare?" }
+      ],
+      "question": "Que dites-vous au chauffeur?"
+    },
+    "es": {
+      "intro": "Subiste a un taxi. Quieres ir a la estación. ¿Qué le dices al conductor?",
+      "options": [
+        { "number": 1, "text": "¿Vamos a la estación?" },
+        { "number": 2, "text": "A la estación, por favor." },
+        { "number": 3, "text": "¿Hemos llegado a la estación?" }
+      ],
+      "question": "¿Qué le dices al conductor?"
+    },
+    "ko": {
+      "intro": "택시를 탔습니다. 역에 가고 싶습니다. 운전사에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "역까지 갈까요?" },
+        { "number": 2, "text": "역까지 부탁합니다." },
+        { "number": 3, "text": "역에 도착했습니까?" }
+      ],
+      "question": "운전사에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おねがいします",
+        "reading": "おねがいします",
+        "meanings": {
+          "tr": "lütfen / rica ederim (talep kalıbı, özellikle hizmet alırken)",
+          "en": "please / I request (request pattern, especially when using a service)",
+          "de": "bitte (Anfragemuster, besonders bei der Nutzung eines Dienstes)",
+          "fr": "s'il vous plaît (formule de demande, surtout en utilisant un service)",
+          "es": "por favor (patrón de solicitud, especialmente al usar un servicio)",
+          "ko": "부탁합니다 (서비스 이용 시 요청 표현)"
+        }
+      },
+      {
+        "word": "うんてんしゅ",
+        "reading": "うんてんしゅ",
+        "meanings": {
+          "tr": "şoför / sürücü",
+          "en": "driver / chauffeur",
+          "de": "Fahrer / Chauffeur",
+          "fr": "chauffeur / conducteur",
+          "es": "conductor / chofer",
+          "ko": "운전사 / 기사"
+        }
+      },
+      {
+        "word": "～まで",
+        "reading": "～まで",
+        "meanings": {
+          "tr": "～e kadar (bir yere kadar gidişi belirtir)",
+          "en": "until / to (indicates going to a certain place)",
+          "de": "bis (gibt an, bis wohin man fährt)",
+          "fr": "jusqu'à (indique jusqu'où on va)",
+          "es": "hasta (indica adónde se va)",
+          "ko": "～까지 (목적지를 나타냄)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～まで　おねがいします",
+        "meanings": {
+          "tr": "Taksiye binerken gidilecek yeri belirtmek için kullanılan kalıp.",
+          "en": "Pattern used in a taxi to indicate the destination.",
+          "de": "Muster im Taxi, um das Ziel anzugeben.",
+          "fr": "Structure utilisée dans un taxi pour indiquer la destination.",
+          "es": "Patrón usado en un taxi para indicar el destino.",
+          "ko": "택시에서 목적지를 말할 때 사용하는 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri taksiye yeni binen yolcudur ve şoföre nereye gideceğini söylemesi gerekmektedir. '2. えきまで　おねがいします' (İstasyona kadar lütfen.) doğrudur — taksiye binince gidilecek yeri belirten standart kalıptır. Seçenek 1 'えきまで　いきましょうか' yolcunun şoföre 'gidelim mi?' diye sorması anlamına gelir; bu ifade şoförün rolüne aittir (Rol Karışıklığı). Seçenek 3 'えきに　つきましたか' yolculuk bitmeden önce 'vardık mı?' diye sormaktır; araca yeni binildiğinde bu soru anlamsızdır (Bağlam Karışıklığı).",
+    "en": "The arrow character is the passenger who just got in the taxi and needs to tell the driver the destination. '2. えきまで　おねがいします' (To the station, please.) is correct — it is the standard pattern for telling a taxi driver where to go. Option 1 'えきまで　いきましょうか' means 'Shall we go to the station?' — this is the driver's line, not the passenger's (Role Confusion). Option 3 'えきに　つきましたか' means 'Have we arrived at the station?' — asking this immediately after getting in makes no sense (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Fahrgast, der gerade ins Taxi gestiegen ist. '2. えきまで　おねがいします' ist korrekt. Option 1 'えきまで　いきましょうか' bedeutet 'Sollen wir zum Bahnhof fahren?' — das sagt der Fahrer, nicht der Fahrgast (Rollenverwechslung). Option 3 'えきに　つきましたか' bedeutet 'Sind wir angekommen?' — direkt nach dem Einsteigen sinnlos (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est le passager qui vient de monter dans le taxi. '2. えきまで　おねがいします' est correct. L'option 1 'えきまで　いきましょうか' signifie 'On va à la gare?' — c'est le chauffeur qui dirait cela (confusion de rôles). L'option 3 'えきに　つきましたか' signifie 'Sommes-nous arrivés?' — absurde juste après être monté (confusion de contexte).",
+    "es": "'2. えきまで　おねがいします' es correcto. La opción 1 'えきまで　いきましょうか' significa '¿Vamos a la estación?' — eso lo diría el conductor (confusión de roles). La opción 3 'えきに　つきましたか' significa '¿Llegamos?' — absurdo justo al subir (confusión de contexto).",
+    "ko": "화살표 캐릭터는 택시에 막 탄 승객입니다. '2. えきまで　おねがいします'가 정답입니다. 선택지 1 'えきまで　いきましょうか'는 '역까지 갈까요?'로 운전사가 하는 말입니다(역할 혼동). 선택지 3 'えきに　つきましたか'는 '역에 도착했나요?'로 방금 탄 상황에서 할 수 없는 말입니다(상황 혼동)."
+  }
+}

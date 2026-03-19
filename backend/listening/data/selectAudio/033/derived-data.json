@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_sY7L5cfCWno_01_21m56s_24m41s/3.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "でんしゃで　じかんを　きく",
+      "tr": "Trende süre sormak",
+      "en": "Asking how long on the train",
+      "de": "Im Zug nach der Fahrtdauer fragen",
+      "fr": "Demander la durée en train",
+      "es": "Preguntar cuánto tiempo en tren",
+      "ko": "전철에서 시간 묻기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "でんしゃに　のります。とうきょうまで　なんぷんで　いくか　ききたいです。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "どのぐらい　かかりますか。" },
+        { "number": 2, "text": "いくらですか。" },
+        { "number": 3, "text": "いま　なんじですか。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Trene biniyorsunuz. Tokyo'ya kaç dakikada gideceğinizi öğrenmek istiyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Ne kadar sürer?" },
+        { "number": 2, "text": "Ne kadar tutar?" },
+        { "number": 3, "text": "Şu an saat kaç?" }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are getting on a train. You want to know how many minutes it takes to get to Tokyo. What do you say?",
+      "options": [
+        { "number": 1, "text": "How long does it take?" },
+        { "number": 2, "text": "How much does it cost?" },
+        { "number": 3, "text": "What time is it now?" }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie steigen in den Zug. Sie möchten wissen, wie viele Minuten es bis Tokyo dauert. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Wie lange dauert es?" },
+        { "number": 2, "text": "Wie viel kostet es?" },
+        { "number": 3, "text": "Wie spät ist es jetzt?" }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous montez dans le train. Vous voulez savoir combien de minutes il faut pour aller à Tokyo. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Combien de temps faut-il?" },
+        { "number": 2, "text": "Combien ça coûte?" },
+        { "number": 3, "text": "Quelle heure est-il maintenant?" }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Vas a subir al tren. Quieres saber cuántos minutos tarda en llegar a Tokyo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¿Cuánto tiempo tarda?" },
+        { "number": 2, "text": "¿Cuánto cuesta?" },
+        { "number": 3, "text": "¿Qué hora es ahora?" }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "전철을 탑니다. 도쿄까지 몇 분이나 걸리는지 알고 싶습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "어느 정도 걸립니까?" },
+        { "number": 2, "text": "얼마입니까?" },
+        { "number": 3, "text": "지금 몇 시입니까?" }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "どのぐらい",
+        "reading": "どのぐらい",
+        "meanings": {
+          "tr": "ne kadar (süre, miktar veya mesafe sorularında kullanılır)",
+          "en": "how long / how much / how far (used for duration, quantity, or distance)",
+          "de": "wie lange / wie viel / wie weit (für Dauer, Menge oder Strecke)",
+          "fr": "combien / à quelle distance (utilisé pour la durée, la quantité ou la distance)",
+          "es": "cuánto / cuánto tiempo (para duración, cantidad o distancia)",
+          "ko": "어느 정도 / 얼마나 (기간, 양, 거리를 물을 때 사용)"
+        }
+      },
+      {
+        "word": "かかります",
+        "reading": "かかります",
+        "meanings": {
+          "tr": "sürer / tutrar (zaman veya para harcandığında kullanılır)",
+          "en": "it takes / it costs (used for time or money spent)",
+          "de": "dauert / kostet (für Zeit- oder Geldaufwand)",
+          "fr": "ça prend / ça coûte (utilisé pour le temps ou l'argent)",
+          "es": "tarda / cuesta (para tiempo o dinero)",
+          "ko": "걸립니다 / 듭니다 (시간이나 돈이 소요될 때 사용)"
+        }
+      },
+      {
+        "word": "いくら",
+        "reading": "いくら",
+        "meanings": {
+          "tr": "ne kadar (fiyat sorusu — süre sorusuyla karıştırılır)",
+          "en": "how much (price question — confused with duration question)",
+          "de": "wie viel (Preisfrage — oft mit Dauerfrage verwechselt)",
+          "fr": "combien (question de prix — confondu avec la durée)",
+          "es": "cuánto (pregunta de precio — confundido con duración)",
+          "ko": "얼마 (가격 질문 — 시간 질문과 혼동하기 쉬움)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "どのぐらい　かかりますか",
+        "meanings": {
+          "tr": "Bir yere gitmek için ne kadar zaman veya para gerektiğini soran standart kalıp.",
+          "en": "Standard pattern to ask how long or how much something takes or costs.",
+          "de": "Standardmuster zum Fragen nach Dauer oder Kosten.",
+          "fr": "Expression standard pour demander la durée ou le coût de quelque chose.",
+          "es": "Patrón estándar para preguntar cuánto tiempo o dinero requiere algo.",
+          "ko": "무언가에 시간이나 돈이 얼마나 걸리는지 묻는 표준 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri trende süre öğrenmek isteyen yolcudur. '1. どのぐらいかかりますか' (Ne kadar sürer?) doğrudur — süre sormak için kullanılan standart kalıptır. Seçenek 2 'いくらですか' fiyat sorusudur; bilet zaten alınmış, süre soruluyor (Bağlam Karışıklığı). Seçenek 3 'いまなんじですか' şu anki saati sorar; Tokyo'ya varış süresiyle ilgisi yoktur (Bağlam Karışıklığı).",
+    "en": "The arrow character is a passenger wanting to know the travel time. '1. どのぐらいかかりますか' is correct — standard pattern for asking duration. Option 2 'いくらですか' asks about price — the ticket is already purchased (Context Confusion). Option 3 'いまなんじですか' asks the current time, not the travel duration (Context Confusion).",
+    "de": "'1. どのぐらいかかりますか' ist korrekt. Option 2 'いくらですか' fragt nach dem Preis (Kontextverwechslung). Option 3 'いまなんじですか' fragt nach der aktuellen Uhrzeit, nicht der Fahrtdauer (Kontextverwechslung).",
+    "fr": "'1. どのぐらいかかりますか' est correct. L'option 2 'いくらですか' demande le prix (confusion de contexte). L'option 3 'いまなんじですか' demande l'heure actuelle, pas la durée du trajet (confusion de contexte).",
+    "es": "'1. どのぐらいかかりますか' es correcto. La opción 2 'いくらですか' pregunta el precio (confusión de contexto). La opción 3 'いまなんじですか' pregunta la hora actual, no la duración del viaje (confusión de contexto).",
+    "ko": "'1. どのぐらいかかりますか'가 정답입니다. 선택지 2 'いくらですか'는 가격을 묻는 표현입니다(상황 혼동). 선택지 3 'いまなんじですか'는 현재 시각을 묻는 것으로 이동 시간과 관련이 없습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Inside a train carriage. A young woman with simple round head sits in a seat holding a small bag, looking up at a male station staff member with simple round head standing in the aisle wearing a uniform. She is asking him something with an inquiring expression. Train windows visible in the background. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

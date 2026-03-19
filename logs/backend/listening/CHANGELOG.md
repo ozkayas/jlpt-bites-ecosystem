@@ -1,3 +1,49 @@
+## 2026-03-19
+
+### selectAudio 021–039 toplu derived-data.json üretimi ve pipeline tamamlama
+
+**Değiştirilen / Eklenen Dosyalar:**
+
+| Dosya | Aksiyon | Açıklama |
+|-------|---------|----------|
+| `backend/listening/data/selectAudio/021/derived-data.json` | DEĞİŞTİRİLDİ | どうしましたか — doğru seçenek ve distractor güncellendi |
+| `backend/listening/data/selectAudio/021/tts_script.json` | YENİ | Female_1 sesi, güncellenmiş seçenekler |
+| `backend/listening/data/selectAudio/021/audio.mp3` | YENİ | Gemini TTS 22.8s |
+| `backend/listening/data/selectAudio/021/question.json` | YENİ | Final Fat JSON |
+| `backend/listening/data/selectAudio/017/audio.mp3` | YENİ | Gemini TTS 22.0s |
+| `backend/listening/data/selectAudio/017/question.json` | YENİ | Final Fat JSON |
+| `backend/listening/data/selectAudio/022/derived-data.json` | YENİ | ただいま — eve dönen çocuk |
+| `backend/listening/data/selectAudio/022/tts_script.json` | YENİ | Male_1 sesi |
+| `backend/listening/data/selectAudio/022/audio.mp3` | YENİ | Gemini TTS 23.2s |
+| `backend/listening/data/selectAudio/022/question.json` | YENİ | Final Fat JSON |
+| `backend/listening/data/selectAudio/023/derived-data.json` | YENİ | おやすみなさい — telefonda yatmadan önce |
+| `backend/listening/data/selectAudio/024/derived-data.json` | YENİ | ごちそうさまでした — öğretmen yemeği ödedi |
+| `backend/listening/data/selectAudio/025/derived-data.json` | YENİ | この靴をください — ayakkabı satın alma |
+| `backend/listening/data/selectAudio/026/derived-data.json` | YENİ | これ、どうぞ — hediye verme |
+| `backend/listening/data/selectAudio/027/derived-data.json` | YENİ | お大事に — hasta arkadaşın yanında |
+| `backend/listening/data/selectAudio/028/derived-data.json` | YENİ | はじめまして — ilk tanışma |
+| `backend/listening/data/selectAudio/029/derived-data.json` | YENİ | おめでとうございます — arkadaşın düğünü |
+| `backend/listening/data/selectAudio/030/derived-data.json` | YENİ | いま、なんじ？ — saat sorma |
+| `backend/listening/data/selectAudio/031/derived-data.json` | YENİ | きょうとまでいちまいください — bilet satın alma |
+| `backend/listening/data/selectAudio/032/derived-data.json` | YENİ | スプーンはありませんか — kaşık isteme |
+| `backend/listening/data/selectAudio/033/derived-data.json` | YENİ | どのぐらいかかりますか — trende süre sorma |
+| `backend/listening/data/selectAudio/034/derived-data.json` | YENİ | ちかくのえきまでおねがいします — taksiye binerken hedef bildirme |
+| `backend/listening/data/selectAudio/035/derived-data.json` | YENİ | こんばんは — gece komşuyla selamlaşma |
+| `backend/listening/data/selectAudio/036/derived-data.json` | YENİ | ひとつもちましょうか — arkadaşın yükünü taşıma teklifi |
+| `backend/listening/data/selectAudio/037/derived-data.json` | YENİ | やまだです。よろしくおねがいします — ilk tanışmada özkenditanıtma |
+| `backend/listening/data/selectAudio/038/derived-data.json` | YENİ | ここ、いいですか — yemekhanede oturabilir miyim |
+| `backend/listening/data/selectAudio/039/derived-data.json` | YENİ | そこのしおをとってください — masadan tuz isteme |
+
+**Yapılanlar:**
+- 7 sample_clip'teki tüm transcript.json dosyaları okundu (35 soru, 27 tekil doğru yanıt cümlesi)
+- Mevcut 002–022 sorularıyla karşılaştırıldı: 17 eksik ifade belirlendi
+- 023–039 arası 17 yeni derived-data.json yazıldı — transcript'teki birebir senaryolar kullanıldı
+- 021, 017, 022 için pipeline tamamlandı: tts_script.json + audio.mp3 + question.json
+- Her dosyada: 7 dil (ja/tr/en/de/fr/es/ko), 3 seçenek, vocabulary + grammar analizi, 6 dil logic açıklaması, image_prompt
+- Trap tipleri: Rol Karışıklığı, Yön Karışıklığı, Register Karışıklığı, Bağlam Karışıklığı
+
+**Bağlam:** Kullanıcı 023–039 için kendi imajlarını üretecek (sample_clip klonları). Sonraki adım: tts_script.json → audio.mp3 → question.json pipeline'ı 023–039 için koşturmak.
+
 ## 2026-03-18
 
 ### selectAudio Creator + Tester Skills eklendi

@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちに　プレゼントを　あげる",
+      "tr": "Arkadaşa hediye vermek",
+      "en": "Giving a present to a friend",
+      "de": "Einem Freund ein Geschenk geben",
+      "fr": "Offrir un cadeau à un ami",
+      "es": "Dar un regalo a un amigo",
+      "ko": "친구에게 선물 주기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちに　プレゼントを　あげます。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "これ、どうぞ。" },
+        { "number": 2, "text": "これ、どうも。" },
+        { "number": 3, "text": "これ、どうでしたか。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınıza hediye veriyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Buyurun / Al bakalım." },
+        { "number": 2, "text": "Teşekkürler / Sağ ol." },
+        { "number": 3, "text": "Bu nasıldı? / Bu ne oldu?" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are giving your friend a present. What do you say?",
+      "options": [
+        { "number": 1, "text": "Here you go / Please take this." },
+        { "number": 2, "text": "Thanks / Thank you." },
+        { "number": 3, "text": "How was this? / What happened with this?" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie geben Ihrem Freund ein Geschenk. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Hier, bitte schön." },
+        { "number": 2, "text": "Danke / Dankeschön." },
+        { "number": 3, "text": "Wie war das? / Was ist damit passiert?" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous offrez un cadeau à votre ami. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Tiens, voilà pour toi." },
+        { "number": 2, "text": "Merci." },
+        { "number": 3, "text": "Comment c'était? / Qu'est-il arrivé?" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Le estás dando un regalo a tu amigo. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Toma / Aquí tienes." },
+        { "number": 2, "text": "Gracias." },
+        { "number": 3, "text": "¿Cómo estuvo esto? / ¿Qué pasó con esto?" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구에게 선물을 줍니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "자, 여기 있어요 / 받으세요." },
+        { "number": 2, "text": "고마워요 / 감사해요." },
+        { "number": 3, "text": "이거 어땠어요? / 이게 어떻게 됐어요?" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "どうぞ",
+        "reading": "どうぞ",
+        "meanings": {
+          "tr": "buyurun / alın / lütfen (bir şey verirken ya da teklif ederken söylenir)",
+          "en": "here you go / please (said when offering or giving something)",
+          "de": "bitte sehr / hier (gesagt beim Anbieten oder Geben von etwas)",
+          "fr": "tenez / je vous en prie (dit en offrant ou donnant quelque chose)",
+          "es": "toma / aquí tienes (dicho al ofrecer o dar algo)",
+          "ko": "자, 받으세요 (무언가를 주거나 권할 때 하는 말)"
+        }
+      },
+      {
+        "word": "どうも",
+        "reading": "どうも",
+        "meanings": {
+          "tr": "teşekkürler / sağ ol (gayri resmi teşekkür — veren değil, alan kişi söyler)",
+          "en": "thanks (informal gratitude — said by the receiver, not the giver)",
+          "de": "danke (informeller Dank — gesagt vom Empfänger, nicht vom Geber)",
+          "fr": "merci (gratitude informelle — dit par celui qui reçoit, pas celui qui donne)",
+          "es": "gracias (gratitud informal — dicho por quien recibe, no por quien da)",
+          "ko": "고마워요 (비공식 감사 표현 — 받는 사람이 하는 말, 주는 사람이 아님)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "これ、どうぞ (手渡し)",
+        "meanings": {
+          "tr": "Bir şeyi verirken söylenen kısa ve nazik kalıp. 'Al bakalım / Buyur' anlamında.",
+          "en": "Short polite phrase said when handing something over. Means 'here you go'.",
+          "de": "Kurze höfliche Aussage beim Überreichen von etwas. Bedeutet 'bitte sehr'.",
+          "fr": "Expression courte et polie en tendant quelque chose. Signifie 'tenez'.",
+          "es": "Frase corta y cortés al entregar algo. Significa 'toma / aquí tienes'.",
+          "ko": "무언가를 건넬 때 쓰는 짧고 정중한 표현. '자, 받으세요' 의미."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri arkadaşına hediye veren kişidir. '1. これ、どうぞ' (Buyurun / Al bakalım.) doğrudur — bir şey verirken kullanılan standart, kibar ifadedir. Seçenek 2 'これ、どうも' teşekkür ifadesidir; veren değil, alan kişi söyler (Rol Karışıklığı). Seçenek 3 'これ、どうでしたか' 'bu nasıldı?' anlamında bir sorudur; hediye verirken kullanılmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is giving a present to a friend. '1. これ、どうぞ' is correct — said when handing something over. Option 2 'これ、どうも' is a thank-you — said by the receiver, not the giver (Role Confusion). Option 3 'これ、どうでしたか' means 'how was this?' — not used when giving a gift (Context Confusion).",
+    "de": "'1. これ、どうぞ' ist korrekt. Option 2 'これ、どうも' ist ein Dank — gesagt vom Empfänger (Rollenverwechslung). Option 3 'これ、どうでしたか' bedeutet 'wie war das?' (Kontextverwechslung).",
+    "fr": "'1. これ、どうぞ' est correct. L'option 2 'これ、どうも' est un remerciement — dit par celui qui reçoit (confusion de rôles). L'option 3 'これ、どうでしたか' signifie 'comment était-ce?' (confusion de contexte).",
+    "es": "'1. これ、どうぞ' es correcto. La opción 2 'これ、どうも' es un agradecimiento — dicho por quien recibe (confusión de roles). La opción 3 'これ、どうでしたか' significa '¿cómo estuvo?' (confusión de contexto).",
+    "ko": "'1. これ、どうぞ'가 정답입니다. 선택지 2 'これ、どうも'는 감사 표현으로 받는 사람이 하는 말입니다(역할 혼동). 선택지 3 'これ、どうでしたか'는 '이게 어떠셨어요?'라는 질문으로 선물을 줄 때 쓸 수 없습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A young woman with simple round head holds a wrapped gift box with a ribbon in both hands, arms extended forward, offering it to a young man on the RIGHT. The man with simple round head has both hands open to receive the gift, smiling with a happy surprised expression. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "せんせいに　あやまる",
+      "tr": "Öğretmenden özür dilemek",
+      "en": "Apologizing to a teacher",
+      "de": "Beim Lehrer entschuldigen",
+      "fr": "S'excuser auprès d'un professeur",
+      "es": "Disculparse con un profesor",
+      "ko": "선생님께 사과하기"
+    }
+  },
+  "audio_url": null,
+  "image_url": null,
+  "correct_option": 2,
+  "transcriptions": {
+    "ja": {
+      "intro": "しゅくだいを　わすれました。せんせいに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ありがとうございます。" },
+        { "number": 2, "text": "よろしく　おねがいします。" },
+        { "number": 3, "text": "もうしわけありません。" }
+      ],
+      "question": "せんせいに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Ödevinizi unuttunuz. Öğretmeninize ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Teşekkür ederim." },
+        { "number": 2, "text": "Lütfen iyi ilgilenin / İyi günler." },
+        { "number": 3, "text": "Çok özür dilerim." }
+      ],
+      "question": "Öğretmeninize ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You forgot your homework. What do you say to your teacher?",
+      "options": [
+        { "number": 1, "text": "Thank you very much." },
+        { "number": 2, "text": "I look forward to your help / Best regards." },
+        { "number": 3, "text": "I am terribly sorry." }
+      ],
+      "question": "What do you say to your teacher?"
+    },
+    "de": {
+      "intro": "Sie haben Ihre Hausaufgaben vergessen. Was sagen Sie zu Ihrem Lehrer?",
+      "options": [
+        { "number": 1, "text": "Vielen Dank." },
+        { "number": 2, "text": "Ich freue mich auf Ihre Hilfe." },
+        { "number": 3, "text": "Es tut mir sehr leid." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Lehrer?"
+    },
+    "fr": {
+      "intro": "Vous avez oublié vos devoirs. Que dites-vous à votre professeur?",
+      "options": [
+        { "number": 1, "text": "Merci beaucoup." },
+        { "number": 2, "text": "Je compte sur vous / Bien cordialement." },
+        { "number": 3, "text": "Je suis vraiment désolé(e)." }
+      ],
+      "question": "Que dites-vous à votre professeur?"
+    },
+    "es": {
+      "intro": "Olvidaste tu tarea. ¿Qué le dices a tu profesor?",
+      "options": [
+        { "number": 1, "text": "Muchas gracias." },
+        { "number": 2, "text": "Cuento con usted / Con su ayuda." },
+        { "number": 3, "text": "Lo siento mucho." }
+      ],
+      "question": "¿Qué le dices a tu profesor?"
+    },
+    "ko": {
+      "intro": "숙제를 잊었습니다. 선생님에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "감사합니다." },
+        { "number": 2, "text": "잘 부탁드립니다." },
+        { "number": 3, "text": "정말 죄송합니다." }
+      ],
+      "question": "선생님에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "もうしわけありません",
+        "reading": "もうしわけありません",
+        "meanings": {
+          "tr": "çok özür dilerim / özrüm yok (çok resmi özür ifadesi, üstlere karşı)",
+          "en": "I am terribly sorry / I have no excuse (very formal apology, used with superiors)",
+          "de": "es tut mir sehr leid / ich habe keine Entschuldigung (sehr formelle Entschuldigung)",
+          "fr": "je suis vraiment désolé / je n'ai pas d'excuse (excuse très formelle, avec les supérieurs)",
+          "es": "lo siento mucho / no tengo excusa (disculpa muy formal, con superiores)",
+          "ko": "정말 죄송합니다 / 변명의 여지가 없습니다 (매우 격식 있는 사과 표현)"
+        }
+      },
+      {
+        "word": "ありがとうございます",
+        "reading": "ありがとうございます",
+        "meanings": {
+          "tr": "teşekkür ederim (teşekkür ifadesi — özür değil)",
+          "en": "thank you (expression of gratitude — not an apology)",
+          "de": "vielen Dank (Dankesausdruck — keine Entschuldigung)",
+          "fr": "merci beaucoup (expression de gratitude — pas une excuse)",
+          "es": "muchas gracias (expresión de gratitud — no una disculpa)",
+          "ko": "감사합니다 (감사 표현 — 사과가 아님)"
+        }
+      },
+      {
+        "word": "よろしく　おねがいします",
+        "reading": "よろしく　おねがいします",
+        "meanings": {
+          "tr": "iyi ilgilenin / lütfen yardımcı olun (yeni tanışmalarda ya da iş başlarken söylenir)",
+          "en": "please take care of me / nice to meet you (said when meeting someone or starting something new)",
+          "de": "bitte kümmern Sie sich gut um mich (gesagt bei Neuvorstellungen oder Arbeitsbeginn)",
+          "fr": "je compte sur vous (dit lors de nouvelles rencontres ou au début d'un travail)",
+          "es": "espero su ayuda / encantado (dicho al conocerse o al comenzar algo nuevo)",
+          "ko": "잘 부탁드립니다 (처음 만나거나 새로 시작할 때 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "もうしわけありません",
+        "meanings": {
+          "tr": "Öğretmen, patron gibi üst konumdaki birine karşı kullanılan çok resmi özür ifadesi.",
+          "en": "Very formal apology used toward superiors such as a teacher or boss.",
+          "de": "Sehr formelle Entschuldigung gegenüber Vorgesetzten wie Lehrern oder Chefs.",
+          "fr": "Excuse très formelle utilisée envers des supérieurs comme un professeur ou un patron.",
+          "es": "Disculpa muy formal usada con superiores como un profesor o jefe.",
+          "ko": "선생님이나 상사 같은 윗사람에게 사용하는 매우 격식 있는 사과 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ödevini unuttuğu için öğretmeninden özür dileyen öğrencidir. '3. もうしわけありません' (Çok özür dilerim.) doğrudur — öğretmen gibi üst konumdaki birine yapılan resmi özrü ifade eder. Seçenek 1 'ありがとうございます' teşekkür ifadesidir; özür gereken durumda teşekkür edilmez (Bağlam Karışıklığı). Seçenek 2 'よろしく　おねがいします' yeni tanışmalarda ya da iş başlarken söylenir; hata yapıldığında bu ifade kullanılmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is the student apologizing to the teacher for forgetting homework. '3. もうしわけありません' (I am terribly sorry.) is correct — it is the formal apology used toward a superior like a teacher. Option 1 'ありがとうございます' is an expression of gratitude; you do not thank someone when you need to apologize (Context Confusion). Option 2 'よろしく　おねがいします' is said when meeting someone or starting something new; it is not used when making a mistake (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist der Schüler, der sich beim Lehrer für vergessene Hausaufgaben entschuldigt. '3. もうしわけありません' ist korrekt. Option 1 'ありがとうございます' ist ein Dankesausdruck (Kontextverwechslung). Option 2 'よろしく　おねがいします' sagt man bei Neuvorstellungen (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche est l'élève qui s'excuse auprès du professeur. '3. もうしわけありません' est correct. L'option 1 'ありがとうございます' est une gratitude (confusion de contexte). L'option 2 'よろしく　おねがいします' se dit lors de nouvelles rencontres (confusion de contexte).",
+    "es": "'3. もうしわけありません' es correcto. La opción 1 'ありがとうございます' es gratitud (confusión de contexto). La opción 2 'よろしく　おねがいします' se dice al conocerse (confusión de contexto).",
+    "ko": "화살표 캐릭터는 숙제를 잊어서 선생님께 사과하는 학생입니다. '3. もうしわけありません'이 정답입니다. 선택지 1 'ありがとうございます'는 감사 표현입니다(상황 혼동). 선택지 2 'よろしく　おねがいします'는 처음 만날 때 하는 말입니다(상황 혼동)."
+  }
+}

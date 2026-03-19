@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "夜、隣の部屋の人に会いました。",
+      "options": [
+        { "number": 1, "text": "おやすみなさい" },
+        { "number": 2, "text": "こんばんは" },
+        { "number": 3, "text": "お疲れ様でした" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "友達が荷物をたくさん持っています。一つ持ちたいです。",
+      "options": [
+        { "number": 1, "text": "一つ持ちませんか？" },
+        { "number": 2, "text": "一つ持ちましょうか。" },
+        { "number": 3, "text": "一つ持ってください。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "先生の部屋に入ります。",
+      "options": [
+        { "number": 1, "text": "失礼します" },
+        { "number": 2, "text": "こんにちは" },
+        { "number": 3, "text": "お邪魔します" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "病気の友達のお見舞いに言って帰ります。",
+      "options": [
+        { "number": 1, "text": "さようなら" },
+        { "number": 2, "text": "お大事に" },
+        { "number": 3, "text": "大丈夫ですか？" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "隣の人にペンを借りたいです。",
+      "options": [
+        { "number": 1, "text": "すみません、ペンを貸してください。" },
+        { "number": 2, "text": "すみません、ペンを借りましょうか。" },
+        { "number": 3, "text": "すみません、ペンを貸しませんか。" }
+      ],
+      "question": "何と言いますか？"
+    }
+  ]
+}

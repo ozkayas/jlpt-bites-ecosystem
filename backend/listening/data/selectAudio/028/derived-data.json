@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "はじめて　あう　ひとに　あいさつ",
+      "tr": "İlk kez tanışma selamı",
+      "en": "Greeting someone for the first time",
+      "de": "Jemanden zum ersten Mal begrüßen",
+      "fr": "Saluer quelqu'un pour la première fois",
+      "es": "Saludar a alguien por primera vez",
+      "ko": "처음 만나는 사람에게 인사하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "はじめて　あう　ひとに　あいさつを　します。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "はじめてです。" },
+        { "number": 2, "text": "はじめまして。" },
+        { "number": 3, "text": "はじめますね。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "İlk kez buluştuğunuz birine selam veriyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bu ilk kez / İlk kez görüşüyoruz." },
+        { "number": 2, "text": "Memnun oldum / Tanıştığımıza sevindim." },
+        { "number": 3, "text": "Başlıyoruz / Hadi başlayalım." }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are greeting someone you are meeting for the first time. What do you say?",
+      "options": [
+        { "number": 1, "text": "It's the first time / This is my first time." },
+        { "number": 2, "text": "Nice to meet you / How do you do." },
+        { "number": 3, "text": "Let's begin / We're starting." }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie begrüßen jemanden, den Sie zum ersten Mal treffen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Es ist das erste Mal." },
+        { "number": 2, "text": "Freut mich, Sie kennenzulernen." },
+        { "number": 3, "text": "Fangen wir an." }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous saluez quelqu'un que vous rencontrez pour la première fois. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "C'est la première fois." },
+        { "number": 2, "text": "Enchanté(e) / Ravi de vous rencontrer." },
+        { "number": 3, "text": "On commence." }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Saludas a alguien que conoces por primera vez. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Es la primera vez." },
+        { "number": 2, "text": "Mucho gusto / Encantado de conocerle." },
+        { "number": 3, "text": "Empezamos." }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "처음 만나는 사람에게 인사를 합니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "처음이에요 / 첫 번째예요." },
+        { "number": 2, "text": "처음 뵙겠습니다 / 만나서 반갑습니다." },
+        { "number": 3, "text": "시작하겠습니다." }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "はじめまして",
+        "reading": "はじめまして",
+        "meanings": {
+          "tr": "memnun oldum / tanıştığımıza sevindim (ilk tanışmada söylenen standart selam)",
+          "en": "nice to meet you / how do you do (standard greeting at a first meeting)",
+          "de": "freut mich, Sie kennenzulernen (Standardgruß beim ersten Treffen)",
+          "fr": "enchanté(e) (salutation standard lors d'une première rencontre)",
+          "es": "mucho gusto / encantado (saludo estándar en un primer encuentro)",
+          "ko": "처음 뵙겠습니다 (처음 만날 때의 표준 인사말)"
+        }
+      },
+      {
+        "word": "はじめて",
+        "reading": "はじめて",
+        "meanings": {
+          "tr": "ilk kez / ilk defa (zaman ya da sıra bildiren sıfat — selam ifadesi değil)",
+          "en": "for the first time (adverb of time/order — not a greeting expression)",
+          "de": "zum ersten Mal (Zeitadverb — kein Begrüßungsausdruck)",
+          "fr": "pour la première fois (adverbe de temps — pas une expression de salutation)",
+          "es": "por primera vez (adverbio de tiempo — no es una expresión de saludo)",
+          "ko": "처음으로 (시간/순서 부사 — 인사 표현이 아님)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "はじめまして (初対面の挨拶)",
+        "meanings": {
+          "tr": "İlk tanışmada kullanılan ve sonrasında genellikle 'よろしくおねがいします' ile takip edilen standart kalıp.",
+          "en": "Standard first-meeting greeting, usually followed by よろしくおねがいします.",
+          "de": "Standardmäßiger Erstbegegnungsgruß, meist gefolgt von よろしくおねがいします.",
+          "fr": "Salutation standard de première rencontre, généralement suivie de よろしくおねがいします.",
+          "es": "Saludo estándar de primer encuentro, generalmente seguido de よろしくおねがいします.",
+          "ko": "처음 만날 때 쓰는 표준 인사말로 보통 뒤에 よろしくおねがいします가 따라옵니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ilk kez birini tanıyan kişidir. '2. はじめまして' (Memnun oldum.) doğrudur — ilk tanışmada söylenen standart ifadedir. Seçenek 1 'はじめてです' 'ilk kez' anlamında bir zaman ifadesidir; selam kalıbı değildir (Bağlam Karışıklığı). Seçenek 3 'はじめますね' 'başlıyoruz' anlamındadır; tanışma selamıyla ilgisi yoktur (Bağlam Karışıklığı).",
+    "en": "The arrow character is meeting someone for the first time. '2. はじめまして' is correct — standard first-meeting greeting. Option 1 'はじめてです' means 'it's the first time' — not a greeting formula (Context Confusion). Option 3 'はじめますね' means 'let's begin' — unrelated to introductions (Context Confusion).",
+    "de": "'2. はじめまして' ist korrekt. Option 1 'はじめてです' bedeutet 'es ist das erste Mal' — keine Begrüßungsformel (Kontextverwechslung). Option 3 'はじめますね' bedeutet 'fangen wir an' (Kontextverwechslung).",
+    "fr": "'2. はじめまして' est correct. L'option 1 'はじめてです' signifie 'c'est la première fois' — pas une formule de salutation (confusion de contexte). L'option 3 'はじめますね' signifie 'on commence' (confusion de contexte).",
+    "es": "'2. はじめまして' es correcto. La opción 1 'はじめてです' significa 'es la primera vez' — no es una fórmula de saludo (confusión de contexto). La opción 3 'はじめますね' significa 'empezamos' (confusión de contexto).",
+    "ko": "'2. はじめまして'가 정답입니다. 선택지 1 'はじめてです'는 '처음이에요'라는 시간 표현으로 인사 공식이 아닙니다(상황 혼동). 선택지 3 'はじめますね'는 '시작합니다'라는 뜻으로 소개와 관련이 없습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Two business people with simple round heads facing each other. The person on the LEFT bows slightly with a polite smile. The person on the RIGHT also bows slightly, smiling back. Both wear formal clothes. The scene conveys a first meeting or introduction. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

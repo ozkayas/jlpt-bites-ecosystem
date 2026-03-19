@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "喫茶店でコーヒーを飲みたいです。",
+      "options": [
+        { "number": 1, "text": "コーヒーをお願いします。" },
+        { "number": 2, "text": "コーヒーはいかがですか。" },
+        { "number": 3, "text": "コーヒーを飲みましょう。" }
+      ],
+      "question": "店の人に何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "電話で友達と話しています。もう寝ます。",
+      "options": [
+        { "number": 1, "text": "お帰りなさい。" },
+        { "number": 2, "text": "おやすみなさい。" },
+        { "number": 3, "text": "ごめんなさい。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "客に料理を出します。",
+      "options": [
+        { "number": 1, "text": "ごちそうさまでした。" },
+        { "number": 2, "text": "はい、どうぞ。" },
+        { "number": 3, "text": "すみません。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "靴を買います。",
+      "options": [
+        { "number": 1, "text": "この靴をください。" },
+        { "number": 2, "text": "この靴を買いたいです。" },
+        { "number": 3, "text": "この靴はいいです。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "先生と食事をしました。先生がお金を払いました。",
+      "options": [
+        { "number": 1, "text": "いただきます。" },
+        { "number": 2, "text": "よろしくお願いします。" },
+        { "number": 3, "text": "ごちそうさまでした。" }
+      ],
+      "question": "何と言いますか？"
+    }
+  ]
+}

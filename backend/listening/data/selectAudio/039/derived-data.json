@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_TYn4OgknPDc_01_21m21s_24m40s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちに　しおを　とって　もらう",
+      "tr": "Arkadaştan tuzu almalarını istemek",
+      "en": "Asking a friend to pass the salt",
+      "de": "Einen Freund bitten, das Salz zu reichen",
+      "fr": "Demander à un ami de passer le sel",
+      "es": "Pedir a un amigo que pase la sal",
+      "ko": "친구에게 소금을 건네달라고 하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "しょくどうで　ともだちと　たべています。しおが　ほしいです。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "すみません、そこの　しおを　とってください。" },
+        { "number": 2, "text": "すみません、そこの　しおを　つかいましょうか。" },
+        { "number": 3, "text": "すみません、この　しおを　あげますか。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Yemekhanede arkadaşınızla yemek yiyorsunuz. Tuzu istiyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Affedersiniz, şuradaki tuzu alır mısınız lütfen?" },
+        { "number": 2, "text": "Affedersiniz, şuradaki tuzu kullanalım mı?" },
+        { "number": 3, "text": "Affedersiniz, bu tuzu verir misiniz?" }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are eating with a friend at the cafeteria. You want the salt. What do you say?",
+      "options": [
+        { "number": 1, "text": "Excuse me, could you pass me the salt over there, please?" },
+        { "number": 2, "text": "Excuse me, shall we use that salt over there?" },
+        { "number": 3, "text": "Excuse me, will you give me this salt?" }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie essen mit einem Freund in der Kantine. Sie möchten das Salz. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Entschuldigung, könnten Sie mir bitte das Salz dort reichen?" },
+        { "number": 2, "text": "Entschuldigung, sollen wir das Salz dort benutzen?" },
+        { "number": 3, "text": "Entschuldigung, geben Sie mir dieses Salz?" }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous mangez avec un ami à la cantine. Vous voulez du sel. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Excusez-moi, pourriez-vous me passer le sel là-bas s'il vous plaît?" },
+        { "number": 2, "text": "Excusez-moi, on utilise ce sel là-bas?" },
+        { "number": 3, "text": "Excusez-moi, vous me donnez ce sel?" }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Estás comiendo con un amigo en la cafetería. Quieres la sal. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Disculpa, ¿me puedes pasar esa sal de allá, por favor?" },
+        { "number": 2, "text": "Disculpa, ¿usamos esa sal de allá?" },
+        { "number": 3, "text": "Disculpa, ¿me das esta sal?" }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "식당에서 친구와 먹고 있습니다. 소금이 갖고 싶습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "저기, 거기 소금 좀 집어주세요." },
+        { "number": 2, "text": "저기, 거기 소금 쓸까요?" },
+        { "number": 3, "text": "저기, 이 소금 줄까요?" }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "とってください",
+        "reading": "とってください",
+        "meanings": {
+          "tr": "alıverin / uzatın lütfen (bir şeyi alıp vermesini istemek — sofradan bir şey uzatırken kullanılır)",
+          "en": "please pick up / please pass (asking someone to get something and give it to you — used for passing items at the table)",
+          "de": "nehmen Sie bitte / reichen Sie bitte (jemanden bitten, etwas zu nehmen und zu geben)",
+          "fr": "prenez s'il vous plaît / passez-moi (demander à quelqu'un de prendre et donner quelque chose)",
+          "es": "toma y pásame por favor (pedir a alguien que tome algo y te lo dé)",
+          "ko": "집어주세요 / 건네주세요 (무언가를 집어서 건네달라고 요청 — 식탁에서 물건을 건네달라고 할 때 사용)"
+        }
+      },
+      {
+        "word": "しお",
+        "reading": "しお",
+        "meanings": {
+          "tr": "tuz",
+          "en": "salt",
+          "de": "Salz",
+          "fr": "sel",
+          "es": "sal",
+          "ko": "소금"
+        }
+      },
+      {
+        "word": "つかいましょうか",
+        "reading": "つかいましょうか",
+        "meanings": {
+          "tr": "kullanalım mı? (birlikte bir şeyi kullanmayı önermek — talep değil, teklif)",
+          "en": "shall we use? (proposing to use something together — not a request to pass)",
+          "de": "sollen wir benutzen? (vorschlagen, gemeinsam etwas zu benutzen — keine Bitte)",
+          "fr": "on utilise? (proposer d'utiliser quelque chose ensemble — pas une demande)",
+          "es": "¿usamos? (proponer usar algo juntos — no es una petición)",
+          "ko": "쓸까요? (함께 무언가를 사용하자고 제안 — 건네달라는 요청이 아님)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～を　とってください (依頼)",
+        "meanings": {
+          "tr": "Yakındaki birinden bir şeyi alıp uzatmasını istemek için kullanılan kibar istek kalıbı.",
+          "en": "Polite request pattern asking someone nearby to pick up and pass something.",
+          "de": "Höfliches Bittmuster, jemanden in der Nähe zu bitten, etwas zu nehmen und zu reichen.",
+          "fr": "Structure de demande polie pour demander à quelqu'un de prendre et passer quelque chose.",
+          "es": "Patrón de solicitud cortés para pedir a alguien que tome y pase algo.",
+          "ko": "근처에 있는 사람에게 무언가를 집어서 건네달라고 하는 정중한 요청 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri sofradan tuzu isteyen kişidir. '1. すみません、そこのしおをとってください' (Şuradaki tuzu alır mısınız?) doğrudur — sofradan bir şeyin uzatılması istenirken kullanılan standart talep kalıbıdır. Seçenek 2 'そこのしおをつかいましょうか' 'o tuzu birlikte kullanalım mı?' anlamında bir tekliftir; talep değildir (Yön Karışıklığı). Seçenek 3 'このしおをあげますか' bu tuzu karşıdakine vermeyi teklif eder; oysa ok karakteri tuzu almak istemekte, vermek değil (Rol Karışıklığı).",
+    "en": "The arrow character wants the salt passed to them. '1. すみません、そこのしおをとってください' is correct — standard request for someone to pass an item at the table. Option 2 'そこのしおをつかいましょうか' proposes using the salt together — not a request to pass it (Direction Confusion). Option 3 'このしおをあげますか' offers to give the salt to the other person — the arrow character wants to receive it, not give it (Role Confusion).",
+    "de": "'1. すみません、そこのしおをとってください' ist korrekt. Option 2 'そこのしおをつかいましょうか' schlägt vor, das Salz gemeinsam zu benutzen (Richtungsverwechslung). Option 3 'このしおをあげますか' bietet an, das Salz zu geben — der Charakter möchte es empfangen (Rollenverwechslung).",
+    "fr": "'1. すみません、そこのしおをとってください' est correct. L'option 2 'そこのしおをつかいましょうか' propose d'utiliser le sel ensemble (confusion de direction). L'option 3 'このしおをあげますか' propose de donner le sel — le personnage veut le recevoir (confusion de rôles).",
+    "es": "'1. すみません、そこのしおをとってください' es correcto. La opción 2 'そこのしおをつかいましょうか' propone usar la sal juntos (confusión de dirección). La opción 3 'このしおをあげますか' ofrece dar la sal — el personaje quiere recibirla (confusión de roles).",
+    "ko": "'1. すみません、そこのしおをとってください'가 정답입니다. 선택지 2 'そこのしおをつかいましょうか'는 함께 소금을 쓰자는 제안으로 건네달라는 요청이 아닙니다(방향 혼동). 선택지 3 'このしおをあげますか'는 소금을 상대방에게 주겠다는 제안으로 화살표 캐릭터는 받고 싶은 것이지 주고 싶은 것이 아닙니다(역할 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A cafeteria dining table. On the LEFT, a young man with simple round head sits eating his meal and looks toward the salt shaker at the other end of the table. On the RIGHT, a young woman with simple round head sits eating, with the salt shaker nearby in front of her. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

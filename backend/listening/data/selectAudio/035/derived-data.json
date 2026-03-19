@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "よるに　となりの　ひとに　あいさつ",
+      "tr": "Gece komşuyla selamlaşmak",
+      "en": "Greeting a neighbor in the evening",
+      "de": "Den Nachbarn am Abend grüßen",
+      "fr": "Saluer un voisin le soir",
+      "es": "Saludar a un vecino por la noche",
+      "ko": "밤에 이웃에게 인사하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "よる、となりの　へやの　ひとに　あいました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おやすみなさい。" },
+        { "number": 2, "text": "こんばんは。" },
+        { "number": 3, "text": "おつかれさまでした。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Gece, yan odadaki komşunuzla karşılaştınız. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "İyi geceler." },
+        { "number": 2, "text": "İyi akşamlar." },
+        { "number": 3, "text": "Emeklerinize sağlık / İyi çalışmalar." }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "At night, you met the person in the next room. What do you say?",
+      "options": [
+        { "number": 1, "text": "Good night." },
+        { "number": 2, "text": "Good evening." },
+        { "number": 3, "text": "Good work today / You've worked hard." }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Abends begegnen Sie dem Nachbarn im nächsten Zimmer. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Gute Nacht." },
+        { "number": 2, "text": "Guten Abend." },
+        { "number": 3, "text": "Sie haben heute hart gearbeitet." }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Le soir, vous rencontrez la personne dans la chambre voisine. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bonne nuit." },
+        { "number": 2, "text": "Bonsoir." },
+        { "number": 3, "text": "Vous avez bien travaillé aujourd'hui." }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Por la noche te encuentras con el vecino del cuarto de al lado. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Buenas noches. (para despedirse)" },
+        { "number": 2, "text": "Buenas noches. (saludo al encontrarse)" },
+        { "number": 3, "text": "Ha trabajado mucho hoy." }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "밤에 옆방 사람을 만났습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "안녕히 주무세요." },
+        { "number": 2, "text": "안녕하세요. (저녁 인사)" },
+        { "number": 3, "text": "수고하셨습니다." }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "こんばんは",
+        "reading": "こんばんは",
+        "meanings": {
+          "tr": "iyi akşamlar (akşam karşılaşmalarda söylenen selamlama — yatmak üzere değil, birini görünce söylenir)",
+          "en": "good evening (greeting said when meeting someone in the evening — not when going to sleep)",
+          "de": "guten Abend (Begrüßung am Abend — nicht beim Schlafengehen)",
+          "fr": "bonsoir (salutation du soir — pas quand on va se coucher)",
+          "es": "buenas noches (saludo al encontrarse por la noche — no al acostarse)",
+          "ko": "안녕하세요 (저녁 인사 — 잠자리에 들 때가 아니라 누군가를 만날 때 하는 말)"
+        }
+      },
+      {
+        "word": "おやすみなさい",
+        "reading": "おやすみなさい",
+        "meanings": {
+          "tr": "iyi geceler (yatmadan önce söylenir — birini karşılarken değil, ayrılırken, uyumak üzereyken kullanılır)",
+          "en": "good night (said before sleeping — used when parting for sleep, not when meeting someone)",
+          "de": "gute Nacht (vor dem Schlafengehen — beim Abschied für die Nacht, nicht bei einer Begegnung)",
+          "fr": "bonne nuit (dit avant de dormir — utilisé en se couchant, pas en rencontrant quelqu'un)",
+          "es": "buenas noches (dicho antes de dormir — al despedirse para dormir, no al saludar)",
+          "ko": "안녕히 주무세요 (자기 전에 하는 말 — 누군가를 만날 때가 아니라 헤어질 때 사용)"
+        }
+      },
+      {
+        "word": "おつかれさまでした",
+        "reading": "おつかれさまでした",
+        "meanings": {
+          "tr": "emeklerinize sağlık / iyi çalışmalar (iş arkadaşlarına veya iş yerinde söylenen vedalaşma ifadesi — komşuya söylenmez)",
+          "en": "good work / you've worked hard (workplace farewell expression — not used with neighbors)",
+          "de": "danke für Ihre Arbeit (Abschiedsformel am Arbeitsplatz — nicht für Nachbarn)",
+          "fr": "merci pour votre travail (expression d'adieu au travail — pas pour les voisins)",
+          "es": "buen trabajo (expresión de despedida en el trabajo — no se usa con vecinos)",
+          "ko": "수고하셨습니다 (직장에서 하는 작별 인사 — 이웃에게는 사용하지 않음)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "こんばんは (夜の挨拶)",
+        "meanings": {
+          "tr": "Akşam vakti birine ilk kez rastlandığında kullanılan standart selamlama ifadesi.",
+          "en": "Standard greeting used when meeting someone for the first time in the evening.",
+          "de": "Standardgruß beim ersten Treffen am Abend.",
+          "fr": "Salutation standard lors d'une première rencontre le soir.",
+          "es": "Saludo estándar al encontrarse con alguien por primera vez en la noche.",
+          "ko": "저녁에 처음 누군가를 만날 때 쓰는 표준 인사말."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri gece bir komşuyla karşılaşan kişidir. '2. こんばんは' (İyi akşamlar.) doğrudur — birini akşam vakti gördüğünüzde söylenen standart selamlama ifadesidir. Seçenek 1 'おやすみなさい' yatmadan önce söylenir; karşılaşma selamı değildir (Bağlam Karışıklığı). Seçenek 3 'おつかれさまでした' iş ortamındaki bir veda ifadesidir; ev komşusuyla karşılaşmada kullanılmaz (Register Karışıklığı).",
+    "en": "The arrow character is meeting a neighbor at night. '2. こんばんは' is correct — standard evening greeting when meeting someone. Option 1 'おやすみなさい' is said before sleeping, not when meeting someone (Context Confusion). Option 3 'おつかれさまでした' is a workplace farewell expression — inappropriate for a neighbor encounter (Register Confusion).",
+    "de": "'2. こんばんは' ist korrekt. Option 1 'おやすみなさい' sagt man vor dem Schlafen (Kontextverwechslung). Option 3 'おつかれさまでした' ist eine Abschiedsformel am Arbeitsplatz (Registerverwechslung).",
+    "fr": "'2. こんばんは' est correct. L'option 1 'おやすみなさい' se dit avant de dormir (confusion de contexte). L'option 3 'おつかれさまでした' est une formule d'adieu au travail (confusion de registre).",
+    "es": "'2. こんばんは' es correcto. La opción 1 'おやすみなさい' se dice antes de dormir (confusión de contexto). La opción 3 'おつかれさまでした' es una despedida de trabajo (confusión de registro).",
+    "ko": "'2. こんばんは'가 정답입니다. 선택지 1 'おやすみなさい'는 자기 전에 하는 말입니다(상황 혼동). 선택지 3 'おつかれさまでした'는 직장에서 하는 작별 인사 표현입니다(격식 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A dormitory or apartment hallway at night. On the LEFT, a young woman with simple round head stands outside her room door smiling. On the RIGHT, a young man with simple round head stands outside the next door, looking at her and smiling back. Both hold small everyday items. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

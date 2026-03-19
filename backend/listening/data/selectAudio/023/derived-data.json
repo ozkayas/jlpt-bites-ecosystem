@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_ewHktqEnxTQ_01_18m12s_21m18s/2.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "でんわで　おやすみを　いう",
+      "tr": "Telefonda iyi geceler demek",
+      "en": "Saying goodnight on the phone",
+      "de": "Gute Nacht am Telefon sagen",
+      "fr": "Dire bonne nuit au téléphone",
+      "es": "Decir buenas noches por teléfono",
+      "ko": "전화로 잘 자라고 인사하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "でんわで　ともだちと　はなしています。もう　ねます。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おかえりなさい。" },
+        { "number": 2, "text": "おやすみなさい。" },
+        { "number": 3, "text": "ごめんなさい。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Telefonla arkadaşınızla konuşuyorsunuz. Artık uyuyacaksınız. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Hoş geldiniz / İyi ki döndünüz." },
+        { "number": 2, "text": "İyi geceler." },
+        { "number": 3, "text": "Özür dilerim." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are talking with your friend on the phone. You are about to go to sleep. What do you say?",
+      "options": [
+        { "number": 1, "text": "Welcome back." },
+        { "number": 2, "text": "Good night." },
+        { "number": 3, "text": "I'm sorry." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie telefonieren mit Ihrem Freund. Sie gehen jetzt schlafen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Willkommen zurück." },
+        { "number": 2, "text": "Gute Nacht." },
+        { "number": 3, "text": "Es tut mir leid." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous parlez avec votre ami au téléphone. Vous allez vous coucher. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bon retour." },
+        { "number": 2, "text": "Bonne nuit." },
+        { "number": 3, "text": "Je suis désolé(e)." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Estás hablando con tu amigo por teléfono. Ya te vas a dormir. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Bienvenido de vuelta." },
+        { "number": 2, "text": "Buenas noches." },
+        { "number": 3, "text": "Lo siento." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "전화로 친구와 이야기하고 있습니다. 이제 잘 것입니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "어서 오세요 / 잘 다녀오셨어요." },
+        { "number": 2, "text": "잘 자요 / 안녕히 주무세요." },
+        { "number": 3, "text": "미안해요 / 죄송합니다." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おやすみなさい",
+        "reading": "おやすみなさい",
+        "meanings": {
+          "tr": "iyi geceler (uyumaya giderken ya da geceye vedalaşırken söylenir)",
+          "en": "good night (said when going to sleep or parting at night)",
+          "de": "gute Nacht (gesagt beim Schlafen gehen oder beim abendlichen Abschied)",
+          "fr": "bonne nuit (dit en allant dormir ou en se quittant le soir)",
+          "es": "buenas noches (dicho al irse a dormir o despedirse de noche)",
+          "ko": "잘 자요 / 안녕히 주무세요 (잠자리에 들거나 밤에 헤어질 때 하는 말)"
+        }
+      },
+      {
+        "word": "おかえりなさい",
+        "reading": "おかえりなさい",
+        "meanings": {
+          "tr": "hoş geldiniz / güle güle gitmediniz (eve dönen birine söylenir)",
+          "en": "welcome back (said to someone who has returned home)",
+          "de": "willkommen zurück (gesagt zu jemandem, der nach Hause zurückgekehrt ist)",
+          "fr": "bon retour (dit à quelqu'un qui rentre chez lui)",
+          "es": "bienvenido de vuelta (dicho a alguien que regresa a casa)",
+          "ko": "어서 오세요 (집에 돌아온 사람에게 하는 말)"
+        }
+      },
+      {
+        "word": "ごめんなさい",
+        "reading": "ごめんなさい",
+        "meanings": {
+          "tr": "özür dilerim / üzgünüm (birini incittiğinde ya da hata yapıldığında söylenir)",
+          "en": "I'm sorry (said when you have hurt someone or made a mistake)",
+          "de": "es tut mir leid (gesagt wenn man jemanden verletzt oder einen Fehler gemacht hat)",
+          "fr": "je suis désolé(e) (dit quand on a blessé quelqu'un ou fait une erreur)",
+          "es": "lo siento (dicho cuando se lastima a alguien o se comete un error)",
+          "ko": "미안해요 (누군가를 다치게 하거나 실수했을 때 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "おやすみなさい (就寝の挨拶)",
+        "meanings": {
+          "tr": "Uyumaya gitmeden önce söylenen standart gece selamı. Telefonda da kullanılır.",
+          "en": "Standard goodnight greeting said before sleeping, also used on the phone.",
+          "de": "Standardmäßiger Gutenachtgruß vor dem Schlafen, auch am Telefon verwendet.",
+          "fr": "Salutation de bonne nuit standard avant de dormir, aussi utilisée au téléphone.",
+          "es": "Saludo estándar de buenas noches antes de dormir, también usado por teléfono.",
+          "ko": "잠자리에 들기 전에 하는 표준적인 인사말. 전화에서도 사용됩니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri uyumak üzere olan telefondaki kişidir. '2. おやすみなさい' (İyi geceler.) doğrudur — geceye vedalaşırken ve uyumaya giderken söylenen standart ifadedir. Seçenek 1 'おかえりなさい' eve dönen birine söylenir; telefonda uyumadan önce kullanılmaz (Bağlam Karışıklığı). Seçenek 3 'ごめんなさい' bir özür ifadesidir; uyumadan önce söylenmez (Bağlam Karışıklığı).",
+    "en": "The arrow character is the person on the phone who is about to sleep. '2. おやすみなさい' (Good night.) is correct — it is the standard farewell said when going to sleep. Option 1 'おかえりなさい' is said to someone returning home — not used before sleeping on the phone (Context Confusion). Option 3 'ごめんなさい' is an apology — not said when going to bed (Context Confusion).",
+    "de": "Der Pfeil-Charakter ist die Person am Telefon, die schlafen gehen will. '2. おやすみなさい' ist korrekt. Option 1 'おかえりなさい' sagt man zu jemandem, der nach Hause kommt (Kontextverwechslung). Option 3 'ごめんなさい' ist eine Entschuldigung (Kontextverwechslung).",
+    "fr": "Le personnage avec la flèche va se coucher pendant l'appel téléphonique. '2. おやすみなさい' est correct. L'option 1 'おかえりなさい' se dit à quelqu'un qui rentre (confusion de contexte). L'option 3 'ごめんなさい' est une excuse (confusion de contexte).",
+    "es": "'2. おやすみなさい' es correcto. La opción 1 'おかえりなさい' se dice a alguien que regresa (confusión de contexto). La opción 3 'ごめんなさい' es una disculpa (confusión de contexto).",
+    "ko": "화살표 캐릭터는 전화 중에 자려는 사람입니다. '2. おやすみなさい'가 정답입니다. 선택지 1 'おかえりなさい'는 집에 돌아온 사람에게 하는 말입니다(상황 혼동). 선택지 3 'ごめんなさい'는 사과 표현입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A young woman with simple round head sits on a bed, holding a phone to her ear, eyes drooping sleepily, mouth open as if speaking. A thought bubble shows a friend's face on the other end of the call. The room has a pillow and blanket visible. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

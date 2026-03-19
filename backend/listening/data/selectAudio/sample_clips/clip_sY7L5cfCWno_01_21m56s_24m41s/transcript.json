@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "寝ます。ほかの人に何と言いますか？",
+      "options": [
+        { "number": 1, "text": "お疲れ様" },
+        { "number": 2, "text": "おやすみなさい" },
+        { "number": 3, "text": "また明日" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "学校へ出かけます。家族に何と言いますか？",
+      "options": [
+        { "number": 1, "text": "失礼します" },
+        { "number": 2, "text": "今行きます" },
+        { "number": 3, "text": "行ってきます" }
+      ],
+      "question": "家族に何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "電車に乗ります。東京まで何分で行くか聞きたいです。",
+      "options": [
+        { "number": 1, "text": "どのぐらいかかりますか？" },
+        { "number": 2, "text": "いくらですか？" },
+        { "number": 3, "text": "今何時ですか？" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "タクシーの中です。どこへ行きたいか言います。",
+      "options": [
+        { "number": 1, "text": "近くの駅までお願いします。" },
+        { "number": 2, "text": "近くの駅まで行きます。" },
+        { "number": 3, "text": "近くの駅まで来てください。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "喫茶店にいます。コーヒーを飲みたいです。",
+      "options": [
+        { "number": 1, "text": "コーヒーをお願いします。" },
+        { "number": 2, "text": "コーヒーをとってください。" },
+        { "number": 3, "text": "コーヒーがあります。" }
+      ],
+      "question": "何と言いますか？"
+    }
+  ]
+}

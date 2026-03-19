@@ -1,5 +1,4 @@
 {
-  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/5.png",
   "metadata": {
     "level": "N5",
     "topic": {
@@ -12,6 +11,8 @@
       "ko": "친구가 몸이 안 좋을 때"
     }
   },
+  "audio_url": null,
+  "image_url": null,
   "correct_option": 0,
   "transcriptions": {
     "ja": {
@@ -150,6 +151,5 @@
     "fr": "Le personnage avec la flèche voit son ami souffrir soudainement. '1. どうしましたか' est correct. L'option 2 'おめでとうございます' est une félicitation — totalement inappropriée (confusion de contexte). L'option 3 'いってらっしゃい' se dit à quelqu'un qui part — pas à quelqu'un qui souffre (confusion de contexte).",
     "es": "'1. どうしましたか' es correcto. La opción 2 'おめでとうございます' es una felicitación — completamente inapropiada en esta situación (confusión de contexto). La opción 3 'いってらっしゃい' se dice a alguien que se va — no a alguien que sufre (confusión de contexto).",
     "ko": "화살표 캐릭터는 친구가 갑자기 힘들어하는 것을 보는 사람입니다. '1. どうしましたか'가 정답입니다. 선택지 2 'おめでとうございます'는 축하 인사로 아픈 상황에서는 전혀 맞지 않습니다(상황 혼동). 선택지 3 'いってらっしゃい'는 떠나는 사람에게 하는 말이므로 힘든 친구에게 사용할 수 없습니다(상황 혼동)."
-  },
-  "image_prompt": "Simple manga-style line drawing, black and white. Outdoors or corridor. On the LEFT, a young man with simple round head is hunched over, hands on his chest or stomach, coughing or wincing in pain, with distress lines around him. On the RIGHT, a young woman with simple round head leans toward him with both hands raised in a worried gesture, mouth open, looking alarmed. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+  }
 }

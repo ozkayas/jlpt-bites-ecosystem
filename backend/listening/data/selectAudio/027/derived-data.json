@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_f9xIi2z5RVk_01_20m50s_23m36s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "かぜの　ともだちを　みまう",
+      "tr": "Hasta arkadaşı ziyaret etmek",
+      "en": "Visiting a sick friend",
+      "de": "Einen kranken Freund besuchen",
+      "fr": "Rendre visite à un ami malade",
+      "es": "Visitar a un amigo enfermo",
+      "ko": "아픈 친구 문병하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　かぜを　ひきました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "おつかれさまです。" },
+        { "number": 2, "text": "おだいじに。" },
+        { "number": 3, "text": "おげんきで。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınız soğuk algınlığına yakalandı. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Sizi yorgun görüyorum / Elinize sağlık." },
+        { "number": 2, "text": "Geçmiş olsun / Kendine iyi bak." },
+        { "number": 3, "text": "Sağlıklı kal / Kendine iyi bak. (ayrılırken)" }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend caught a cold. What do you say?",
+      "options": [
+        { "number": 1, "text": "Good work / You must be tired." },
+        { "number": 2, "text": "Get well soon / Take care of yourself." },
+        { "number": 3, "text": "Stay healthy / Take care. (farewell)" }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ihr Freund hat sich erkältet. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Gute Arbeit / Sie müssen müde sein." },
+        { "number": 2, "text": "Gute Besserung / Pass auf dich auf." },
+        { "number": 3, "text": "Bleib gesund / Mach's gut. (beim Abschied)" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Votre ami a attrapé un rhume. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bon travail / Vous devez être fatigué." },
+        { "number": 2, "text": "Bon rétablissement / Prenez soin de vous." },
+        { "number": 3, "text": "Restez en bonne santé. (à la séparation)" }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tu amigo se resfrio. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Buen trabajo / Debes estar cansado." },
+        { "number": 2, "text": "Que te mejores / Cuídate." },
+        { "number": 3, "text": "Mantente sano / Cuídate. (al despedirse)" }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구가 감기에 걸렸습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "수고하셨습니다 / 고생하셨어요." },
+        { "number": 2, "text": "몸조리 잘 하세요 / 빨리 나으세요." },
+        { "number": 3, "text": "건강하세요. (헤어질 때)" }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おだいじに",
+        "reading": "おだいじに",
+        "meanings": {
+          "tr": "geçmiş olsun / kendine iyi bak (hasta olan birine söylenir)",
+          "en": "get well soon / take care of yourself (said to a sick person)",
+          "de": "gute Besserung / pass auf dich auf (gesagt zu einem kranken Menschen)",
+          "fr": "bon rétablissement / prenez soin de vous (dit à quelqu'un de malade)",
+          "es": "que te mejores / cuídate (dicho a alguien enfermo)",
+          "ko": "몸조리 잘 하세요 (아픈 사람에게 하는 말)"
+        }
+      },
+      {
+        "word": "おつかれさまです",
+        "reading": "おつかれさまです",
+        "meanings": {
+          "tr": "elinize sağlık / sizi yorgun görüyorum (iş ya da çalışma sonrası söylenir — hastalıkla ilgili değil)",
+          "en": "good work / you must be tired (said after work or effort — not for illness)",
+          "de": "gute Arbeit / Sie müssen müde sein (nach Arbeit gesagt — nicht für Krankheit)",
+          "fr": "bon travail / vous devez être fatigué (dit après le travail — pas pour la maladie)",
+          "es": "buen trabajo / debes estar cansado (dicho después del trabajo — no para enfermedad)",
+          "ko": "수고하셨습니다 (일이나 노력 후에 하는 말 — 병과는 관련 없음)"
+        }
+      },
+      {
+        "word": "おげんきで",
+        "reading": "おげんきで",
+        "meanings": {
+          "tr": "sağlıklı kal / kendine iyi bak (uzun süre görüşülmeyecek birinden ayrılırken söylenir)",
+          "en": "take care / stay well (said when parting for a long time)",
+          "de": "pass auf dich auf / bleib gesund (gesagt beim langen Abschied)",
+          "fr": "portez-vous bien (dit en se quittant pour longtemps)",
+          "es": "cuídate / mantente sano (dicho al despedirse por mucho tiempo)",
+          "ko": "건강하세요 (오래 못 볼 때 헤어지면서 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "おだいじに (病気見舞い)",
+        "meanings": {
+          "tr": "Hasta olan birine sempati ve iyileşme dileği ifade eden kalıp.",
+          "en": "Expression of sympathy and well-wishing toward someone who is sick.",
+          "de": "Ausdruck für Mitgefühl und Genesungswünsche an einen Kranken.",
+          "fr": "Expression de sympathie et de souhaits de guérison envers quelqu'un de malade.",
+          "es": "Expresión de simpatía y deseos de recuperación hacia alguien enfermo.",
+          "ko": "아픈 사람에게 공감과 쾌유를 바라는 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri hasta arkadaşını gören kişidir. '2. おだいじに' (Geçmiş olsun.) doğrudur — hasta olan birine sempati ifadesi olarak söylenen standart kalıptır. Seçenek 1 'おつかれさまです' iş ya da çalışma sonrası söylenir; hastalıkla ilgili değildir (Bağlam Karışıklığı). Seçenek 3 'おげんきで' uzun süre görüşülmeyecek birinden ayrılırken söylenir; hasta ziyaretinde kullanılmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character sees their sick friend. '2. おだいじに' is correct — standard sympathy expression for someone who is ill. Option 1 'おつかれさまです' is said after work/effort — unrelated to illness (Context Confusion). Option 3 'おげんきで' is said at a long farewell — not during a sick visit (Context Confusion).",
+    "de": "'2. おだいじに' ist korrekt. Option 1 'おつかれさまです' sagt man nach der Arbeit (Kontextverwechslung). Option 3 'おげんきで' sagt man beim langen Abschied (Kontextverwechslung).",
+    "fr": "'2. おだいじに' est correct. L'option 1 'おつかれさまです' se dit après le travail (confusion de contexte). L'option 3 'おげんきで' se dit lors d'un long au revoir (confusion de contexte).",
+    "es": "'2. おだいじに' es correcto. La opción 1 'おつかれさまです' se dice después del trabajo (confusión de contexto). La opción 3 'おげんきで' se dice en una larga despedida (confusión de contexto).",
+    "ko": "'2. おだいじに'가 정답입니다. 선택지 1 'おつかれさまです'는 일 후에 하는 말입니다(상황 혼동). 선택지 3 'おげんきで'는 오래 못 볼 때 헤어지면서 하는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. On the LEFT, a young man with simple round head is hunched over, holding his chest, looking unwell with sweat drops and distress marks around him. On the RIGHT, a young woman with simple round head leans toward him with a worried expression, one hand raised in concern. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

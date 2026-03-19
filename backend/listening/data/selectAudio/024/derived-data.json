@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_ewHktqEnxTQ_01_18m12s_21m18s/5.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "せんせいに　ごちそうに　なる",
+      "tr": "Öğretmen tarafından ikram edilmek",
+      "en": "Being treated to a meal by a teacher",
+      "de": "Vom Lehrer zum Essen eingeladen werden",
+      "fr": "Être invité à manger par un professeur",
+      "es": "Ser invitado a comer por un profesor",
+      "ko": "선생님께 식사를 대접받기"
+    }
+  },
+  "correct_option": 2,
+  "transcriptions": {
+    "ja": {
+      "intro": "せんせいと　しょくじを　しました。せんせいが　おかねを　はらいました。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "いただきます。" },
+        { "number": 2, "text": "よろしく　おねがいします。" },
+        { "number": 3, "text": "ごちそうさまでした。" }
+      ],
+      "question": "せんせいに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Öğretmeninizle yemek yediniz. Öğretmeniniz ödedi. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Afiyet olsun / Ellerinize sağlık. (yemekten önce)" },
+        { "number": 2, "text": "Lütfen iyi ilgilenin / Teşekkürler." },
+        { "number": 3, "text": "Çok teşekkürler, çok güzeldi. (yemekten sonra)" }
+      ],
+      "question": "Öğretmeninize ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You had a meal with your teacher. Your teacher paid. What do you say?",
+      "options": [
+        { "number": 1, "text": "Let's eat / Thank you for the food. (before eating)" },
+        { "number": 2, "text": "Thank you / I look forward to your help." },
+        { "number": 3, "text": "Thank you for the meal / It was delicious. (after eating)" }
+      ],
+      "question": "What do you say to your teacher?"
+    },
+    "de": {
+      "intro": "Sie haben mit Ihrem Lehrer gegessen. Ihr Lehrer hat bezahlt. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Guten Appetit / Danke für das Essen. (vor dem Essen)" },
+        { "number": 2, "text": "Vielen Dank / Ich freue mich auf Ihre Hilfe." },
+        { "number": 3, "text": "Danke für das Essen / Es war köstlich. (nach dem Essen)" }
+      ],
+      "question": "Was sagen Sie zu Ihrem Lehrer?"
+    },
+    "fr": {
+      "intro": "Vous avez mangé avec votre professeur. Votre professeur a payé. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bon appétit / Merci pour le repas. (avant de manger)" },
+        { "number": 2, "text": "Merci / Je compte sur vous." },
+        { "number": 3, "text": "Merci pour ce repas / C'était délicieux. (après avoir mangé)" }
+      ],
+      "question": "Que dites-vous à votre professeur?"
+    },
+    "es": {
+      "intro": "Comiste con tu profesor. Tu profesor pagó. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¡Buen provecho! / Gracias por la comida. (antes de comer)" },
+        { "number": 2, "text": "Muchas gracias / Cuento con usted." },
+        { "number": 3, "text": "Gracias por la comida / Estaba delicioso. (después de comer)" }
+      ],
+      "question": "¿Qué le dices a tu profesor?"
+    },
+    "ko": {
+      "intro": "선생님과 식사를 했습니다. 선생님이 돈을 냈습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "잘 먹겠습니다. (먹기 전)" },
+        { "number": 2, "text": "잘 부탁드립니다." },
+        { "number": 3, "text": "잘 먹었습니다. (먹은 후)" }
+      ],
+      "question": "선생님에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ごちそうさまでした",
+        "reading": "ごちそうさまでした",
+        "meanings": {
+          "tr": "çok teşekkürler, ellerinize sağlık (yemekten sonra, özellikle biri ikram ettiyse söylenir)",
+          "en": "thank you for the meal / it was delicious (said after eating, especially when treated)",
+          "de": "danke für das Essen (gesagt nach dem Essen, besonders wenn jemand eingeladen hat)",
+          "fr": "merci pour ce repas (dit après avoir mangé, surtout quand quelqu'un a payé)",
+          "es": "gracias por la comida (dicho después de comer, especialmente cuando alguien invitó)",
+          "ko": "잘 먹었습니다 (식사 후, 특히 누군가가 대접해 줬을 때 하는 말)"
+        }
+      },
+      {
+        "word": "いただきます",
+        "reading": "いただきます",
+        "meanings": {
+          "tr": "afiyet olsun / ellerinize sağlık (yemekten ÖNCE söylenir)",
+          "en": "let's eat / thank you for the food (said BEFORE eating)",
+          "de": "guten Appetit / danke (gesagt VOR dem Essen)",
+          "fr": "bon appétit (dit AVANT de manger)",
+          "es": "buen provecho (dicho ANTES de comer)",
+          "ko": "잘 먹겠습니다 (먹기 전에 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ごちそうさまでした vs いただきます",
+        "meanings": {
+          "tr": "いただきます yemekten ÖNCE, ごちそうさまでした yemekten SONRA söylenir. İkisini karıştırmak yaygın bir hatadır.",
+          "en": "いただきます is said BEFORE eating, ごちそうさまでした AFTER. Mixing them up is a common mistake.",
+          "de": "いただきます wird VOR dem Essen gesagt, ごちそうさまでした DANACH.",
+          "fr": "いただきます se dit AVANT de manger, ごちそうさまでした APRÈS.",
+          "es": "いただきます se dice ANTES de comer, ごちそうさまでした DESPUÉS.",
+          "ko": "いただきます는 먹기 전, ごちそうさまでした는 먹은 후에 합니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri yemekten sonra öğretmenine teşekkür etmesi gereken kişidir. '3. ごちそうさまでした' (Çok teşekkürler, ellerinize sağlık.) doğrudur — yemekten sonra, özellikle biri ikram ettiyse söylenen standart ifadedir. Seçenek 1 'いただきます' yemekten ÖNCE söylenir; yemek bitmişken kullanılmaz (Register Karışıklığı). Seçenek 2 'よろしくおねがいします' yeni tanışmalarda ya da iş başlarken söylenir; yemek teşekkürü için değildir (Bağlam Karışıklığı).",
+    "en": "The arrow character must thank the teacher after the meal. '3. ごちそうさまでした' is correct — said after eating, especially when treated. Option 1 'いただきます' is said BEFORE eating — wrong timing (Register Confusion). Option 2 'よろしくおねがいします' is used for introductions or starting something new — not for thanking after a meal (Context Confusion).",
+    "de": "'3. ごちそうさまでした' ist korrekt. Option 1 'いただきます' sagt man VOR dem Essen (Registerverwechslung). Option 2 'よろしくおねがいします' sagt man bei Vorstellungen (Kontextverwechslung).",
+    "fr": "'3. ごちそうさまでした' est correct. L'option 1 'いただきます' se dit AVANT de manger (confusion de registre). L'option 2 'よろしくおねがいします' se dit aux présentations (confusion de contexte).",
+    "es": "'3. ごちそうさまでした' es correcto. La opción 1 'いただきます' se dice ANTES de comer (confusión de registro). La opción 2 'よろしくおねがいします' se dice en presentaciones (confusión de contexto).",
+    "ko": "'3. ごちそうさまでした'가 정답입니다. 선택지 1 'いただきます'는 먹기 전에 하는 말입니다(격식 혼동). 선택지 2 'よろしくおねがいします'는 처음 만남이나 새로운 시작에 하는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Outside a restaurant. On the LEFT, a young woman with simple round head bows deeply with both hands together, grateful expression. On the RIGHT, an older man with simple round head and glasses smiles warmly, one hand raised slightly. A restaurant sign is visible in the background. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

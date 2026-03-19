@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_YBAJDQ_zDJg_01_19m21s_22m32s/2.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちの　にもつを　もとうと　する",
+      "tr": "Arkadaşın yükünü taşımayı teklif etmek",
+      "en": "Offering to carry a friend's bag",
+      "de": "Anbieten, das Gepäck eines Freundes zu tragen",
+      "fr": "Proposer de porter le bagage d'un ami",
+      "es": "Ofrecerse a llevar la bolsa de un amigo",
+      "ko": "친구의 짐을 들어주겠다고 제안하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　にもつを　たくさん　もっています。ひとつ　もちたいです。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ひとつ　もちませんか。" },
+        { "number": 2, "text": "ひとつ　もちましょうか。" },
+        { "number": 3, "text": "ひとつ　もってください。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınızın çok fazla bagajı var. Bir tanesini taşımak istiyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bir tanesini taşımaz mısın?" },
+        { "number": 2, "text": "Bir tanesini taşıyayım mı?" },
+        { "number": 3, "text": "Bir tanesini taşıyın lütfen." }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend is carrying a lot of luggage. You want to carry one of the bags. What do you say?",
+      "options": [
+        { "number": 1, "text": "Won't you carry one?" },
+        { "number": 2, "text": "Shall I carry one?" },
+        { "number": 3, "text": "Please carry one." }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Ihr Freund hat viel Gepäck. Sie möchten ein Stück tragen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Würden Sie nicht eines tragen?" },
+        { "number": 2, "text": "Soll ich eines tragen?" },
+        { "number": 3, "text": "Tragen Sie bitte eines." }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Votre ami a beaucoup de bagages. Vous voulez en porter un. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Vous n'en porteriez pas un?" },
+        { "number": 2, "text": "Je vous en porte un?" },
+        { "number": 3, "text": "Portez-en un s'il vous plaît." }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Tu amigo lleva mucho equipaje. Quieres llevar una bolsa. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "¿No llevas uno?" },
+        { "number": 2, "text": "¿Te llevo uno?" },
+        { "number": 3, "text": "Lleva uno por favor." }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "친구가 짐을 많이 들고 있습니다. 하나를 들고 싶습니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "하나 들지 않을래요?" },
+        { "number": 2, "text": "하나 들어드릴까요?" },
+        { "number": 3, "text": "하나 들어 주세요." }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "～ましょうか",
+        "reading": "～ましょうか",
+        "meanings": {
+          "tr": "～yayım mı? (konuşan kişinin bir şeyi yapmayı teklif etmesi — yardım teklifi için kullanılır)",
+          "en": "shall I ~? (speaker offers to do something — used for offering help)",
+          "de": "soll ich ~? (Sprecher bietet etwas an — für Hilfsangebote verwendet)",
+          "fr": "je ~ ? (le locuteur propose de faire quelque chose — pour offrir de l'aide)",
+          "es": "¿te ~ yo? (el hablante ofrece hacer algo — para ofrecer ayuda)",
+          "ko": "～할까요? (말하는 사람이 무언가를 해주겠다는 제안 — 도움을 제안할 때 사용)"
+        }
+      },
+      {
+        "word": "～ませんか",
+        "reading": "～ませんか",
+        "meanings": {
+          "tr": "～mez misiniz? (karşıdaki kişiyi bir şeyi yapmaya davet etmek — teklif değil, davet)",
+          "en": "won't you ~? (inviting the other person to do something — invitation, not an offer)",
+          "de": "würden Sie nicht ~? (jemanden einladen, etwas zu tun — Einladung, kein Angebot)",
+          "fr": "vous ne ~ pas? (inviter l'autre personne à faire quelque chose — invitation, pas une offre)",
+          "es": "¿no ~? (invitar a la otra persona a hacer algo — invitación, no oferta)",
+          "ko": "～지 않을래요? (상대방에게 무언가를 하도록 권유 — 제안이 아닌 권유)"
+        }
+      },
+      {
+        "word": "にもつ",
+        "reading": "にもつ",
+        "meanings": {
+          "tr": "bagaj / yük / eşya",
+          "en": "luggage / baggage / load",
+          "de": "Gepäck / Last",
+          "fr": "bagage / charge",
+          "es": "equipaje / carga",
+          "ko": "짐 / 수하물"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "ひとつ　もちましょうか (申し出)",
+        "meanings": {
+          "tr": "Konuşan kişi yardım teklif etmektedir. '～ましょうか' yapısı 'ben yapayım mı?' anlamında teklif ifade eder.",
+          "en": "The speaker is offering to help. The '～ましょうか' pattern expresses 'shall I do ~?' as an offer.",
+          "de": "Der Sprecher bietet Hilfe an. '～ましょうか' bedeutet 'soll ich ~?' als Angebot.",
+          "fr": "Le locuteur propose de l'aide. '～ましょうか' exprime 'je ~ ?' comme une offre.",
+          "es": "El hablante ofrece ayuda. '～ましょうか' expresa '¿te ~ yo?' como una oferta.",
+          "ko": "말하는 사람이 도움을 제안하고 있습니다. '～ましょうか'는 '제가 ~ 할까요?'라는 제안을 나타냅니다."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri çok fazla bagajı olan arkadaşına yardım etmek isteyen kişidir. '2. ひとつもちましょうか' (Bir tanesini taşıyayım mı?) doğrudur — '～ましょうか' yapısı konuşan kişinin bir şeyi yapmasını teklif etmek için kullanılır. Seçenek 1 'ひとつもちませんか' arkadaşı bir şeyi taşımaya davet eder; zaten ağır yükü olan birine böyle söylenmez (Yön Karışıklığı). Seçenek 3 'ひとつもってください' arkadaştan bir şeyi taşımasını ister; oysa ok karakteri taşımayı teklif etmektedir (Rol Karışıklığı).",
+    "en": "The arrow character wants to help a friend carrying heavy bags. '2. ひとつもちましょうか' is correct — '～ましょうか' is used to offer to do something yourself. Option 1 'ひとつもちませんか' invites the friend to carry something — wrong direction for someone already overloaded (Direction Confusion). Option 3 'ひとつもってください' asks the friend to carry one — the arrow character wants to carry it, not the friend (Role Confusion).",
+    "de": "'2. ひとつもちましょうか' ist korrekt. Option 1 'ひとつもちませんか' lädt den Freund ein, etwas zu tragen (Richtungsverwechslung). Option 3 'ひとつもってください' bittet den Freund, etwas zu tragen (Rollenverwechslung).",
+    "fr": "'2. ひとつもちましょうか' est correct. L'option 1 'ひとつもちませんか' invite l'ami à porter quelque chose (confusion de direction). L'option 3 'ひとつもってください' demande à l'ami de porter (confusion de rôles).",
+    "es": "'2. ひとつもちましょうか' es correcto. La opción 1 'ひとつもちませんか' invita al amigo a cargar algo (confusión de dirección). La opción 3 'ひとつもってください' le pide al amigo que cargue (confusión de roles).",
+    "ko": "'2. ひとつもちましょうか'가 정답입니다. 선택지 1 'ひとつもちませんか'는 친구에게 뭔가를 들도록 권유하는 말입니다(방향 혼동). 선택지 3 'ひとつもってください'는 친구에게 들어달라는 요청으로, 화살표 캐릭터가 들어주겠다는 것과 방향이 반대입니다(역할 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. On the LEFT, a young woman with simple round head stands holding three large bags and a backpack, looking a bit tired. On the RIGHT, a young man with simple round head stands facing her with a helpful expression, reaching out slightly toward one of the bags. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

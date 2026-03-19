@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_CQ82yk3BC6c_01_20m07s_22m51s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "じかんを　きく",
+      "tr": "Saat sormak",
+      "en": "Asking for the time",
+      "de": "Nach der Uhrzeit fragen",
+      "fr": "Demander l'heure",
+      "es": "Preguntar la hora",
+      "ko": "시간 묻기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "とけいを　わすれました。いまの　じかんが　しりたいです。ともだちに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "いま、なんじ？" },
+        { "number": 2, "text": "いま、じかんが　ある？" },
+        { "number": 3, "text": "いま、じゅうじだよ。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Saatinizi unuttunuz. Şu anki zamanı öğrenmek istiyorsunuz. Arkadaşınıza ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Şu an saat kaç?" },
+        { "number": 2, "text": "Şu an zamanın var mı? / Müsait misin?" },
+        { "number": 3, "text": "Şu an saat on." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You forgot your watch. You want to know the current time. What do you say to your friend?",
+      "options": [
+        { "number": 1, "text": "What time is it now?" },
+        { "number": 2, "text": "Do you have time now? / Are you free?" },
+        { "number": 3, "text": "It's ten o'clock now." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Sie haben Ihre Uhr vergessen. Sie möchten wissen, wie spät es ist. Was sagen Sie zu Ihrem Freund?",
+      "options": [
+        { "number": 1, "text": "Wie spät ist es jetzt?" },
+        { "number": 2, "text": "Hast du jetzt Zeit? / Bist du frei?" },
+        { "number": 3, "text": "Es ist jetzt zehn Uhr." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Vous avez oublié votre montre. Vous voulez savoir l'heure. Que dites-vous à votre ami?",
+      "options": [
+        { "number": 1, "text": "Quelle heure est-il maintenant?" },
+        { "number": 2, "text": "Tu as le temps maintenant? / Tu es libre?" },
+        { "number": 3, "text": "Il est dix heures maintenant." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Olvidaste tu reloj. Quieres saber la hora actual. ¿Qué le dices a tu amigo?",
+      "options": [
+        { "number": 1, "text": "¿Qué hora es ahora?" },
+        { "number": 2, "text": "¿Tienes tiempo ahora? / ¿Estás libre?" },
+        { "number": 3, "text": "Son las diez ahora." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "시계를 잊었습니다. 지금 시간을 알고 싶습니다. 친구에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "지금 몇 시야?" },
+        { "number": 2, "text": "지금 시간 있어? / 한가해?" },
+        { "number": 3, "text": "지금 열 시야." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "なんじ",
+        "reading": "なんじ",
+        "meanings": {
+          "tr": "saat kaç (saat sormak için kullanılan soru kalıbı)",
+          "en": "what time (question word for asking the time)",
+          "de": "wie viel Uhr (Fragewort für die Uhrzeit)",
+          "fr": "quelle heure (mot interrogatif pour l'heure)",
+          "es": "qué hora (palabra interrogativa para preguntar la hora)",
+          "ko": "몇 시 (시간을 묻는 의문사)"
+        }
+      },
+      {
+        "word": "じかん",
+        "reading": "じかん",
+        "meanings": {
+          "tr": "zaman / vakit — 'じかんがある' = müsait olmak (saat sormakla karıştırılır)",
+          "en": "time — 'じかんがある' = to have free time (often confused with asking the clock time)",
+          "de": "Zeit — 'じかんがある' = Zeit haben (oft mit der Uhrzeit verwechselt)",
+          "fr": "temps — 'じかんがある' = avoir du temps libre (souvent confondu avec l'heure)",
+          "es": "tiempo — 'じかんがある' = tener tiempo libre (a menudo confundido con la hora)",
+          "ko": "시간 — 'じかんがある' = 시간이 있다 (시계 시간과 혼동하기 쉬움)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "今、何時？ (時間を聞く)",
+        "meanings": {
+          "tr": "Günlük Japoncada saati sormak için kullanılan kısa ve doğal ifade.",
+          "en": "Short natural expression used in everyday Japanese to ask the clock time.",
+          "de": "Kurzer natürlicher Ausdruck im Alltagsjapanisch zum Fragen der Uhrzeit.",
+          "fr": "Expression courte et naturelle en japonais quotidien pour demander l'heure.",
+          "es": "Expresión corta y natural en japonés cotidiano para preguntar la hora.",
+          "ko": "일상 일본어에서 시계 시간을 묻는 짧고 자연스러운 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri saatini unutan ve saati öğrenmek isteyen kişidir. '1. いま、なんじ？' (Şu an saat kaç?) doğrudur — arkadaşa saati sormak için kullanılan doğal ifadedir. Seçenek 2 'いま、じかんがある？' 'müsait misin?' anlamında olup saati değil, uygunluğu sorar (Bağlam Karışıklığı). Seçenek 3 'いま、じゅうじだよ' saati söyler; hâlbuki ok karakteri saati bilmemekte ve sormaktadır (Rol Karışıklığı).",
+    "en": "The arrow character forgot their watch and wants to know the time. '1. いま、なんじ？' is correct — asking the clock time. Option 2 'いま、じかんがある？' asks if someone is free, not the time (Context Confusion). Option 3 'いま、じゅうじだよ' states the time — but the arrow character doesn't know the time and needs to ask (Role Confusion).",
+    "de": "'1. いま、なんじ？' ist korrekt. Option 2 'いま、じかんがある？' fragt nach Verfügbarkeit, nicht nach der Uhrzeit (Kontextverwechslung). Option 3 gibt die Uhrzeit an — der Charakter kennt sie aber nicht (Rollenverwechslung).",
+    "fr": "'1. いま、なんじ？' est correct. L'option 2 demande si quelqu'un est libre, pas l'heure (confusion de contexte). L'option 3 indique l'heure — mais le personnage ne la connaît pas (confusion de rôles).",
+    "es": "'1. いま、なんじ？' es correcto. La opción 2 pregunta si alguien está libre, no la hora (confusión de contexto). La opción 3 dice la hora — pero el personaje no la sabe (confusión de roles).",
+    "ko": "'1. いま、なんじ？'가 정답입니다. 선택지 2 'いま、じかんがある？'는 시간이 있는지를 묻는 것으로 시계 시간을 묻는 것이 아닙니다(상황 혼동). 선택지 3은 시간을 알려주는 말인데 화살표 캐릭터는 시간을 모르기 때문에 물어봐야 합니다(역할 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Two young people with simple round heads standing at a bus stop. The person on the LEFT looks at their wrist where there is no watch, looking puzzled. The person on the RIGHT checks their wristwatch. A bus stop sign is visible on the right side. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_ewHktqEnxTQ_01_18m12s_21m18s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "くつを　かう",
+      "tr": "Ayakkabı satın almak",
+      "en": "Buying shoes",
+      "de": "Schuhe kaufen",
+      "fr": "Acheter des chaussures",
+      "es": "Comprar zapatos",
+      "ko": "신발 사기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "くつを　かいたいです。みせの　ひとに　なんといいますか。",
+      "options": [
+        { "number": 1, "text": "この　くつを　ください。" },
+        { "number": 2, "text": "この　くつを　かいたいです。" },
+        { "number": 3, "text": "この　くつは　いいです。" }
+      ],
+      "question": "みせの　ひとに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Ayakkabı almak istiyorsunuz. Mağaza görevlisine ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Bu ayakkabıyı istiyorum / Bunu alacağım." },
+        { "number": 2, "text": "Bu ayakkabıyı satın almak istiyorum." },
+        { "number": 3, "text": "Bu ayakkabılar güzel / Bu ayakkabılar iyi." }
+      ],
+      "question": "Mağaza görevlisine ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You want to buy shoes. What do you say to the store staff?",
+      "options": [
+        { "number": 1, "text": "I'll take these shoes / Give me these shoes please." },
+        { "number": 2, "text": "I want to buy these shoes." },
+        { "number": 3, "text": "These shoes are nice / These shoes are good." }
+      ],
+      "question": "What do you say to the store staff?"
+    },
+    "de": {
+      "intro": "Sie möchten Schuhe kaufen. Was sagen Sie dem Verkäufer?",
+      "options": [
+        { "number": 1, "text": "Ich nehme diese Schuhe bitte." },
+        { "number": 2, "text": "Ich möchte diese Schuhe kaufen." },
+        { "number": 3, "text": "Diese Schuhe sind schön / gut." }
+      ],
+      "question": "Was sagen Sie dem Verkäufer?"
+    },
+    "fr": {
+      "intro": "Vous voulez acheter des chaussures. Que dites-vous au vendeur?",
+      "options": [
+        { "number": 1, "text": "Je prends ces chaussures s'il vous plaît." },
+        { "number": 2, "text": "Je voudrais acheter ces chaussures." },
+        { "number": 3, "text": "Ces chaussures sont jolies / bien." }
+      ],
+      "question": "Que dites-vous au vendeur?"
+    },
+    "es": {
+      "intro": "Quieres comprar zapatos. ¿Qué le dices al empleado?",
+      "options": [
+        { "number": 1, "text": "Me llevo estos zapatos / Deme estos zapatos." },
+        { "number": 2, "text": "Quiero comprar estos zapatos." },
+        { "number": 3, "text": "Estos zapatos son bonitos / buenos." }
+      ],
+      "question": "¿Qué le dices al empleado?"
+    },
+    "ko": {
+      "intro": "신발을 사고 싶습니다. 가게 직원에게 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "이 신발 주세요." },
+        { "number": 2, "text": "이 신발을 사고 싶습니다." },
+        { "number": 3, "text": "이 신발은 좋네요 / 예쁘네요." }
+      ],
+      "question": "가게 직원에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "ください",
+        "reading": "ください",
+        "meanings": {
+          "tr": "lütfen verin / istiyorum (mağazada sipariş veya satın alma kalıbı)",
+          "en": "please give me / I'll take it (purchase/order pattern at a shop)",
+          "de": "bitte geben Sie mir (Kauf-/Bestellmuster im Laden)",
+          "fr": "donnez-moi s'il vous plaît (formule d'achat en magasin)",
+          "es": "deme / quiero (fórmula de compra en una tienda)",
+          "ko": "주세요 (가게에서 구매/주문할 때 쓰는 표현)"
+        }
+      },
+      {
+        "word": "～たいです",
+        "reading": "～たいです",
+        "meanings": {
+          "tr": "～mek istiyorum (istek ifadesi — doğrudan satın alma talebi değil)",
+          "en": "I want to ~ (expression of desire — not a direct purchase request)",
+          "de": "ich möchte ~ (Wunschausdruck — keine direkte Kaufanfrage)",
+          "fr": "je veux ~ (expression de désir — pas une demande d'achat directe)",
+          "es": "quiero ~ (expresión de deseo — no una solicitud de compra directa)",
+          "ko": "～고 싶다 (희망 표현 — 직접적인 구매 요청이 아님)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "この～をください",
+        "meanings": {
+          "tr": "Mağazada bir ürünü satın almak için kullanılan doğrudan ve kibar kalıp.",
+          "en": "Direct and polite pattern used in a shop to purchase an item.",
+          "de": "Direktes und höfliches Muster zum Kauf eines Artikels im Laden.",
+          "fr": "Expression directe et polie pour acheter un article en magasin.",
+          "es": "Patrón directo y cortés para comprar un artículo en una tienda.",
+          "ko": "가게에서 물건을 구매할 때 쓰는 직접적이고 정중한 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ayakkabı almak isteyen müşteridir. '1. この靴をください' (Bu ayakkabıyı istiyorum.) doğrudur — mağazada ürün satın almak için kullanılan standart, doğrudan kalıptır. Seçenek 2 'この靴を買いたいです' istek ifadesidir ama doğrudan satın alma talebinde bulunmaz; satıcıya söylendiğinde yetersiz kalır (Yön Karışıklığı). Seçenek 3 'この靴はいいです' ürünü beğendiğini ifade eder ama satın alma talebinde bulunmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is the customer who wants to buy shoes. '1. この靴をください' is correct — it is the standard direct purchase pattern. Option 2 'この靴を買いたいです' expresses desire but is not a direct purchase request (Direction Confusion). Option 3 'この靴はいいです' means the shoes are nice but does not request to buy them (Context Confusion).",
+    "de": "'1. この靴をください' ist korrekt. Option 2 'この靴を買いたいです' drückt Wunsch aus, ist aber keine direkte Kaufanfrage (Richtungsverwechslung). Option 3 'この靴はいいです' lobt die Schuhe, kauft sie aber nicht (Kontextverwechslung).",
+    "fr": "'1. この靴をください' est correct. L'option 2 exprime un désir sans demande directe (confusion de direction). L'option 3 dit que les chaussures sont belles sans les acheter (confusion de contexte).",
+    "es": "'1. この靴をください' es correcto. La opción 2 expresa deseo sin solicitud directa (confusión de dirección). La opción 3 dice que los zapatos son bonitos sin comprarlos (confusión de contexto).",
+    "ko": "'1. この靴をください'가 정답입니다. 선택지 2는 희망을 나타내지만 직접적인 구매 요청이 아닙니다(방향 혼동). 선택지 3은 신발이 좋다고 말하지만 사달라는 요청이 아닙니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Inside a shoe store with shelves of shoes in the background. On the LEFT, a young woman with simple round head holds a shoe and looks at a male store staff member on the RIGHT. The staff member with simple round head wears an apron and smiles helpfully. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

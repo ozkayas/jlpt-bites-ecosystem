@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_CQ82yk3BC6c_01_20m07s_22m51s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "バスの　きっぷを　かう",
+      "tr": "Otobüs bileti almak",
+      "en": "Buying a bus ticket",
+      "de": "Ein Busticket kaufen",
+      "fr": "Acheter un billet de bus",
+      "es": "Comprar un boleto de autobús",
+      "ko": "버스 표 사기"
+    }
+  },
+  "correct_option": 2,
+  "transcriptions": {
+    "ja": {
+      "intro": "バスで　きょうとに　いきます。きっぷを　かいます。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "きょうとに　バスで　いってください。" },
+        { "number": 2, "text": "きょうとで　きっぷを　かってください。" },
+        { "number": 3, "text": "きょうとまで　いちまい　ください。" }
+      ],
+      "question": "みせの　ひとに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Otobüsle Kyoto'ya gidiyorsunuz. Bilet alacaksınız. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Kyoto'ya otobüsle gidin lütfen." },
+        { "number": 2, "text": "Kyoto'da bilet alın lütfen." },
+        { "number": 3, "text": "Kyoto'ya kadar bir bilet lütfen." }
+      ],
+      "question": "Gişe görevlisine ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are going to Kyoto by bus. You will buy a ticket. What do you say?",
+      "options": [
+        { "number": 1, "text": "Please go to Kyoto by bus." },
+        { "number": 2, "text": "Please buy a ticket in Kyoto." },
+        { "number": 3, "text": "One ticket to Kyoto, please." }
+      ],
+      "question": "What do you say to the ticket counter staff?"
+    },
+    "de": {
+      "intro": "Sie fahren mit dem Bus nach Kyoto. Sie kaufen ein Ticket. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Bitte fahren Sie mit dem Bus nach Kyoto." },
+        { "number": 2, "text": "Bitte kaufen Sie ein Ticket in Kyoto." },
+        { "number": 3, "text": "Einmal nach Kyoto bitte." }
+      ],
+      "question": "Was sagen Sie am Schalter?"
+    },
+    "fr": {
+      "intro": "Vous allez à Kyoto en bus. Vous achetez un billet. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Allez à Kyoto en bus s'il vous plaît." },
+        { "number": 2, "text": "Achetez un billet à Kyoto s'il vous plaît." },
+        { "number": 3, "text": "Un billet pour Kyoto s'il vous plaît." }
+      ],
+      "question": "Que dites-vous au guichet?"
+    },
+    "es": {
+      "intro": "Vas a Kyoto en autobús. Vas a comprar un boleto. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Por favor vaya a Kyoto en autobús." },
+        { "number": 2, "text": "Por favor compre un boleto en Kyoto." },
+        { "number": 3, "text": "Un boleto a Kyoto, por favor." }
+      ],
+      "question": "¿Qué le dices al empleado de la taquilla?"
+    },
+    "ko": {
+      "intro": "버스로 교토에 갑니다. 표를 삽니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "교토에 버스로 가 주세요." },
+        { "number": 2, "text": "교토에서 표를 사 주세요." },
+        { "number": 3, "text": "교토까지 한 장 주세요." }
+      ],
+      "question": "매표소 직원에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "～まで",
+        "reading": "～まで",
+        "meanings": {
+          "tr": "～e kadar (bilet alırken hedef yeri belirtmek için kullanılır)",
+          "en": "to ~ / until ~ (used to indicate the destination when buying a ticket)",
+          "de": "bis ~ (zur Angabe des Ziels beim Ticketkauf verwendet)",
+          "fr": "jusqu'à ~ (utilisé pour indiquer la destination lors de l'achat d'un billet)",
+          "es": "hasta ~ (usado para indicar el destino al comprar un boleto)",
+          "ko": "～까지 (표를 살 때 목적지를 나타낼 때 사용)"
+        }
+      },
+      {
+        "word": "いちまい",
+        "reading": "いちまい",
+        "meanings": {
+          "tr": "bir tane / bir adet (bilet, kağıt gibi düz nesneleri saymak için kullanılan sayı sistemi)",
+          "en": "one (flat counter for tickets, paper, and other flat objects)",
+          "de": "eines (Zählwort für flache Gegenstände wie Tickets)",
+          "fr": "un (compteur pour les objets plats comme les billets)",
+          "es": "uno (contador para objetos planos como boletos)",
+          "ko": "한 장 (표, 종이 등 납작한 물건을 세는 수량 단위)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～まで　いちまい　ください",
+        "meanings": {
+          "tr": "Bilet gişesinde bilet satın alırken kullanılan standart kalıp.",
+          "en": "Standard pattern used when buying a ticket at a ticket counter.",
+          "de": "Standardmuster beim Ticketkauf am Schalter.",
+          "fr": "Expression standard lors de l'achat d'un billet au guichet.",
+          "es": "Patrón estándar al comprar un boleto en la taquilla.",
+          "ko": "매표소에서 표를 살 때 쓰는 표준 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri bilet almak isteyen yolcudur. '3. きょうとまでいちまいください' (Kyoto'ya kadar bir bilet lütfen.) doğrudur — bilet gişesinde bilet satın alırken söylenen standart kalıptır. Seçenek 1 'きょうとにバスでいってください' gişe görevlisine 'Kyoto'ya gidin' demek olur; müşterinin söylemesi saçmadır (Rol Karışıklığı). Seçenek 2 'きょうとできっぷをかってください' 'Kyoto'da bilet alın' demek olur; zaten bileti almak üzere olan biri bunu söyleyemez (Bağlam Karışıklığı).",
+    "en": "The arrow character is the passenger buying a ticket. '3. きょうとまでいちまいください' is correct — standard ticket purchase pattern. Option 1 'きょうとにバスでいってください' tells the staff to go to Kyoto — absurd for a customer (Role Confusion). Option 2 'きょうとできっぷをかってください' means 'buy a ticket in Kyoto' — said by someone already buying one (Context Confusion).",
+    "de": "'3. きょうとまでいちまいください' ist korrekt. Option 1 sagt dem Personal, nach Kyoto zu fahren (Rollenverwechslung). Option 2 bedeutet 'kaufen Sie ein Ticket in Kyoto' (Kontextverwechslung).",
+    "fr": "'3. きょうとまでいちまいください' est correct. L'option 1 dit au personnel d'aller à Kyoto (confusion de rôles). L'option 2 signifie 'achetez un billet à Kyoto' (confusion de contexte).",
+    "es": "'3. きょうとまでいちまいください' es correcto. La opción 1 le dice al personal que vaya a Kyoto (confusión de roles). La opción 2 significa 'compre un boleto en Kyoto' (confusión de contexto).",
+    "ko": "'3. きょうとまでいちまいください'가 정답입니다. 선택지 1은 직원에게 교토로 가라고 하는 말입니다(역할 혼동). 선택지 2는 '교토에서 표를 사 주세요'라는 뜻으로 표를 사러 온 사람이 할 수 없는 말입니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A ticket counter with a bus poster on the wall behind it. On the RIGHT, a male counter staff member with simple round head sits behind the counter smiling. On the LEFT, a young woman with simple round head stands at the counter holding a bag, speaking to the staff member. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

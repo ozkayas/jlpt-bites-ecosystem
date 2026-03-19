@@ -1,0 +1,131 @@
+{
+  "source_clip": "clip_CQ82yk3BC6c_01_20m07s_22m51s/3.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "ともだちの　けっこんを　いわう",
+      "tr": "Arkadaşın düğününü kutlamak",
+      "en": "Celebrating a friend's wedding",
+      "de": "Die Hochzeit eines Freundes feiern",
+      "fr": "Féliciter un ami pour son mariage",
+      "es": "Felicitar a un amigo por su boda",
+      "ko": "친구의 결혼을 축하하기"
+    }
+  },
+  "correct_option": 1,
+  "transcriptions": {
+    "ja": {
+      "intro": "ともだちが　けっこんします。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "いらっしゃい。" },
+        { "number": 2, "text": "おめでとうございます。" },
+        { "number": 3, "text": "ありがとうございます。" }
+      ],
+      "question": "ともだちに　なんといいますか。"
+    },
+    "tr": {
+      "intro": "Arkadaşınız evleniyor. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Hoş geldiniz / Buyurun." },
+        { "number": 2, "text": "Tebrikler / Hayırlı olsun." },
+        { "number": 3, "text": "Teşekkür ederim." }
+      ],
+      "question": "Arkadaşınıza ne söylersiniz?"
+    },
+    "en": {
+      "intro": "Your friend is getting married. What do you say?",
+      "options": [
+        { "number": 1, "text": "Welcome / Come in." },
+        { "number": 2, "text": "Congratulations!" },
+        { "number": 3, "text": "Thank you very much." }
+      ],
+      "question": "What do you say to your friend?"
+    },
+    "de": {
+      "intro": "Ihr Freund heiratet. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Herzlich willkommen / Bitte eintreten." },
+        { "number": 2, "text": "Herzlichen Glückwunsch!" },
+        { "number": 3, "text": "Vielen Dank." }
+      ],
+      "question": "Was sagen Sie zu Ihrem Freund?"
+    },
+    "fr": {
+      "intro": "Votre ami se marie. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Bienvenue / Entrez." },
+        { "number": 2, "text": "Félicitations!" },
+        { "number": 3, "text": "Merci beaucoup." }
+      ],
+      "question": "Que dites-vous à votre ami?"
+    },
+    "es": {
+      "intro": "Tu amigo se va a casar. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Bienvenido / Pase." },
+        { "number": 2, "text": "¡Felicitaciones!" },
+        { "number": 3, "text": "Muchas gracias." }
+      ],
+      "question": "¿Qué le dices a tu amigo?"
+    },
+    "ko": {
+      "intro": "친구가 결혼합니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "어서 오세요 / 오세요." },
+        { "number": 2, "text": "축하합니다!" },
+        { "number": 3, "text": "감사합니다." }
+      ],
+      "question": "친구에게 뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おめでとうございます",
+        "reading": "おめでとうございます",
+        "meanings": {
+          "tr": "tebrikler / hayırlı olsun (düğün, doğum günü, mezuniyet gibi özel anlarda söylenir)",
+          "en": "congratulations (said on special occasions like weddings, birthdays, graduations)",
+          "de": "herzlichen Glückwunsch (gesagt bei besonderen Anlässen wie Hochzeiten, Geburtstagen)",
+          "fr": "félicitations (dit lors d'occasions spéciales comme mariages, anniversaires)",
+          "es": "felicitaciones (dicho en ocasiones especiales como bodas, cumpleaños)",
+          "ko": "축하합니다 (결혼, 생일, 졸업 등 특별한 자리에서 하는 말)"
+        }
+      },
+      {
+        "word": "いらっしゃい",
+        "reading": "いらっしゃい",
+        "meanings": {
+          "tr": "hoş geldiniz / buyurun (birini karşılarken ya da mağazaya müşteri geldiğinde söylenir)",
+          "en": "welcome / come in (said when welcoming someone or greeting a customer)",
+          "de": "willkommen / bitte eintreten (gesagt beim Empfangen von jemandem)",
+          "fr": "bienvenue (dit en accueillant quelqu'un)",
+          "es": "bienvenido (dicho al recibir a alguien)",
+          "ko": "어서 오세요 (손님을 맞이하거나 누군가를 환영할 때 하는 말)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "おめでとうございます (お祝い)",
+        "meanings": {
+          "tr": "Kutlama gerektiren durumlarda kullanılan resmi tebrik ifadesi.",
+          "en": "Formal congratulatory expression used in situations that call for celebration.",
+          "de": "Formeller Glückwunschausdruck für Feieranlässe.",
+          "fr": "Expression formelle de félicitations pour les occasions de célébration.",
+          "es": "Expresión formal de felicitación para ocasiones de celebración.",
+          "ko": "축하가 필요한 상황에서 쓰는 공식적인 축하 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri evlenen arkadaşını kutlayan kişidir. '2. おめでとうございます' (Tebrikler!) doğrudur — düğün gibi kutlama gerektiren anlarda söylenen standart ifadedir. Seçenek 1 'いらっしゃい' birini karşılarken söylenir; kutlama ifadesi değildir (Bağlam Karışıklığı). Seçenek 3 'ありがとうございます' teşekkür ifadesidir; biri evlendiğinde teşekkür edilmez, tebrik edilir (Bağlam Karışıklığı).",
+    "en": "The arrow character is congratulating a friend getting married. '2. おめでとうございます' is correct — standard congratulatory expression. Option 1 'いらっしゃい' is said when welcoming someone — not a congratulation (Context Confusion). Option 3 'ありがとうございます' is gratitude — you congratulate, not thank, someone getting married (Context Confusion).",
+    "de": "'2. おめでとうございます' ist korrekt. Option 1 'いらっしゃい' begrüßt jemanden — kein Glückwunsch (Kontextverwechslung). Option 3 'ありがとうございます' ist Dankbarkeit — man gratuliert, dankt nicht (Kontextverwechslung).",
+    "fr": "'2. おめでとうございます' est correct. L'option 1 'いらっしゃい' accueille quelqu'un (confusion de contexte). L'option 3 'ありがとうございます' est de la gratitude — on félicite, on ne remercie pas (confusion de contexte).",
+    "es": "'2. おめでとうございます' es correcto. La opción 1 'いらっしゃい' da la bienvenida (confusión de contexto). La opción 3 'ありがとうございます' es gratitud — se felicita, no se agradece (confusión de contexto).",
+    "ko": "'2. おめでとうございます'가 정답입니다. 선택지 1 'いらっしゃい'는 손님을 맞이할 때 하는 말입니다(상황 혼동). 선택지 3 'ありがとうございます'는 감사 표현으로 결혼할 때는 축하를 하지 감사하지 않습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. A wedding reception scene. On the LEFT, a woman with simple round head holds a bouquet of flowers and faces a bride and groom on the RIGHT. The bride wears a wedding dress and the groom a suit, both with simple round heads, smiling happily. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

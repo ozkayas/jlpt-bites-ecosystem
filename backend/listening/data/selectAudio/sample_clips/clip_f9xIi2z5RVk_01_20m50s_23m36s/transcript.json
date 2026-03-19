@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "友達にプレゼントをあげます。",
+      "options": [
+        { "number": 1, "text": "これ、どうぞ。" },
+        { "number": 2, "text": "これ、どうも。" },
+        { "number": 3, "text": "これ、どうでしたか？" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "タクシーに乗っています。駅に行きたいです。",
+      "options": [
+        { "number": 1, "text": "駅までお願いします。" },
+        { "number": 2, "text": "駅まで行きませんか。" },
+        { "number": 3, "text": "駅が欲しいです。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "先生の部屋に入ります。",
+      "options": [
+        { "number": 1, "text": "失礼です。" },
+        { "number": 2, "text": "失礼でした。" },
+        { "number": 3, "text": "失礼します。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "初めて会う人に挨拶をします。",
+      "options": [
+        { "number": 1, "text": "初めてです。" },
+        { "number": 2, "text": "初めまして。" },
+        { "number": 3, "text": "始めますね。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "友達が風邪をひきました。",
+      "options": [
+        { "number": 1, "text": "お疲れ様です。" },
+        { "number": 2, "text": "お大事に。" },
+        { "number": 3, "text": "お元気で。" }
+      ],
+      "question": "何と言いますか？"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_TYn4OgknPDc_01_21m21s_24m40s/1.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "はじめて　あう　ひとに　じこしょうかい",
+      "tr": "İlk kez tanışırken kendini tanıtmak",
+      "en": "Introducing yourself when meeting someone for the first time",
+      "de": "Sich vorstellen beim ersten Treffen",
+      "fr": "Se présenter lors d'une première rencontre",
+      "es": "Presentarse al conocer a alguien por primera vez",
+      "ko": "처음 만나는 사람에게 자기소개하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "はじめて　あう　ひとに　あいさつを　します。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "やまだです。よろしく　おねがいします。" },
+        { "number": 2, "text": "やまだです。どういたしまして。" },
+        { "number": 3, "text": "やまだです。こちらこそ。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "İlk kez buluştuğunuz birine selam veriyorsunuz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "Yamada'yım. Memnun oldum / İyi ilişkiler dilerim." },
+        { "number": 2, "text": "Yamada'yım. Rica ederim." },
+        { "number": 3, "text": "Yamada'yım. Ben de." }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are greeting someone you are meeting for the first time. What do you say?",
+      "options": [
+        { "number": 1, "text": "I'm Yamada. Nice to meet you." },
+        { "number": 2, "text": "I'm Yamada. You're welcome." },
+        { "number": 3, "text": "I'm Yamada. Same here / Me too." }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie begrüßen jemanden, den Sie zum ersten Mal treffen. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Ich bin Yamada. Freut mich, Sie kennenzulernen." },
+        { "number": 2, "text": "Ich bin Yamada. Bitte sehr / Gern geschehen." },
+        { "number": 3, "text": "Ich bin Yamada. Ich auch / Ganz meinerseits." }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous saluez quelqu'un que vous rencontrez pour la première fois. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "Je suis Yamada. Enchanté(e)." },
+        { "number": 2, "text": "Je suis Yamada. De rien." },
+        { "number": 3, "text": "Je suis Yamada. Moi aussi / C'est moi." }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Saludas a alguien que conoces por primera vez. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "Soy Yamada. Mucho gusto." },
+        { "number": 2, "text": "Soy Yamada. De nada." },
+        { "number": 3, "text": "Soy Yamada. Igualmente." }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "처음 만나는 사람에게 인사를 합니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "야마다입니다. 잘 부탁드립니다." },
+        { "number": 2, "text": "야마다입니다. 천만에요." },
+        { "number": 3, "text": "야마다입니다. 저야말로요." }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "よろしくおねがいします",
+        "reading": "よろしくおねがいします",
+        "meanings": {
+          "tr": "memnun oldum / iyi ilişkiler dilerim (tanışmada söylenen standart kalıp — teşekkür yanıtı değil)",
+          "en": "nice to meet you / I look forward to working with you (standard expression at introduction — not a response to thanks)",
+          "de": "freut mich (Standardausdruck bei der Vorstellung — keine Antwort auf Dankbarkeit)",
+          "fr": "enchanté / ravi de faire votre connaissance (expression standard lors d'une présentation)",
+          "es": "mucho gusto / encantado (expresión estándar al presentarse — no es respuesta a gracias)",
+          "ko": "잘 부탁드립니다 (소개할 때 쓰는 표준 표현 — 감사에 대한 응답이 아님)"
+        }
+      },
+      {
+        "word": "どういたしまして",
+        "reading": "どういたしまして",
+        "meanings": {
+          "tr": "rica ederim (teşekküre karşı verilen yanıt — tanışma ifadesi değil)",
+          "en": "you're welcome (response to thanks — not an introduction expression)",
+          "de": "bitte sehr / gern geschehen (Antwort auf Dankbarkeit — kein Begrüßungsausdruck)",
+          "fr": "de rien / avec plaisir (réponse aux remerciements — pas une expression d'introduction)",
+          "es": "de nada (respuesta a un agradecimiento — no es expresión de presentación)",
+          "ko": "천만에요 (감사에 대한 응답 — 소개 표현이 아님)"
+        }
+      },
+      {
+        "word": "こちらこそ",
+        "reading": "こちらこそ",
+        "meanings": {
+          "tr": "ben de / asıl ben (karşılıklı duygulara yanıt verirken kullanılır — ilk tanışmada değil, yanıt olarak söylenir)",
+          "en": "same here / me too (used to reciprocate feelings — said in response, not to open an introduction)",
+          "de": "ich auch / ganz meinerseits (zur Erwiderung — nicht für die erste Vorstellung)",
+          "fr": "moi aussi / de mon côté aussi (pour réciproquer — pas pour ouvrir une présentation)",
+          "es": "igualmente / yo también (para corresponder — no para abrir una presentación)",
+          "ko": "저야말로요 (상대방의 감정에 화답할 때 사용 — 처음 소개를 시작할 때 쓰지 않음)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "[名前]です。よろしくおねがいします。(自己紹介)",
+        "meanings": {
+          "tr": "Japonca'da standart tanışma kalıbı: isim + 'です' + 'よろしくおねがいします'.",
+          "en": "Standard Japanese introduction pattern: name + 'です' + 'よろしくおねがいします'.",
+          "de": "Standardmuster für Vorstellungen auf Japanisch: Name + 'です' + 'よろしくおねがいします'.",
+          "fr": "Modèle standard de présentation en japonais: nom + 'です' + 'よろしくおねがいします'.",
+          "es": "Patrón estándar de presentación en japonés: nombre + 'です' + 'よろしくおねがいします'.",
+          "ko": "일본어 표준 자기소개 패턴: 이름 + 'です' + 'よろしくおねがいします'."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri ilk kez birini tanıyan ve kendini tanıtmaktadır. '1. やまだです。よろしくおねがいします' doğrudur — Japonca'da tanışmada söylenen standart kalıptır. Seçenek 2 'どういたしまして' teşekküre verilen yanıttır; henüz kimse teşekkür etmemiştir (Bağlam Karışıklığı). Seçenek 3 'こちらこそ' karşılıklı bir duyguya yanıt verirken söylenir; tanışmayı başlatmak için kullanılmaz (Bağlam Karışıklığı).",
+    "en": "The arrow character is introducing themselves to someone for the first time. '1. やまだです。よろしくおねがいします' is correct — standard Japanese introduction pattern. Option 2 'どういたしまして' responds to thanks — no one has said thank you yet (Context Confusion). Option 3 'こちらこそ' reciprocates a feeling — it cannot open an introduction (Context Confusion).",
+    "de": "'1. やまだです。よろしくおねがいします' ist korrekt. Option 2 'どういたしまして' antwortet auf Dankbarkeit (Kontextverwechslung). Option 3 'こちらこそ' erwidert ein Gefühl — kann keine Vorstellung einleiten (Kontextverwechslung).",
+    "fr": "'1. やまだです。よろしくおねがいします' est correct. L'option 2 'どういたしまして' répond à des remerciements (confusion de contexte). L'option 3 'こちらこそ' réciproque un sentiment — ne peut pas ouvrir une présentation (confusion de contexte).",
+    "es": "'1. やまだです。よろしくおねがいします' es correcto. La opción 2 'どういたしまして' responde a un agradecimiento (confusión de contexto). La opción 3 'こちらこそ' corresponde un sentimiento — no puede abrir una presentación (confusión de contexto).",
+    "ko": "'1. やまだです。よろしくおねがいします'가 정답입니다. 선택지 2 'どういたしまして'는 감사에 대한 응답으로 아직 아무도 감사를 표하지 않았습니다(상황 혼동). 선택지 3 'こちらこそ'는 상대방의 감정에 화답하는 말로 소개를 시작할 때 사용할 수 없습니다(상황 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Two people facing each other for a first meeting. On the LEFT, a young man with simple round head bows slightly with a polite smile, introducing himself. On the RIGHT, a young woman with simple round head stands smiling, ready to respond. Both wear neat everyday clothes. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

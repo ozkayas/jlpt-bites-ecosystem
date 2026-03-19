@@ -1,0 +1,143 @@
+{
+  "source_clip": "clip_sY7L5cfCWno_01_21m56s_24m41s/4.png",
+  "metadata": {
+    "level": "N5",
+    "topic": {
+      "ja": "タクシーで　めざす　ばしょを　つたえる",
+      "tr": "Taksiye binip gidilecek yeri söylemek",
+      "en": "Telling the taxi driver where to go",
+      "de": "Dem Taxifahrer das Ziel nennen",
+      "fr": "Indiquer la destination au chauffeur de taxi",
+      "es": "Decirle al taxista el destino",
+      "ko": "택시에서 목적지 말하기"
+    }
+  },
+  "correct_option": 0,
+  "transcriptions": {
+    "ja": {
+      "intro": "タクシーの　なかです。どこへ　いきたいか　いいます。なんといいますか。",
+      "options": [
+        { "number": 1, "text": "ちかくの　えきまで　おねがいします。" },
+        { "number": 2, "text": "ちかくの　えきまで　いきます。" },
+        { "number": 3, "text": "ちかくの　えきまで　きてください。" }
+      ],
+      "question": "なんといいますか。"
+    },
+    "tr": {
+      "intro": "Taksisindesiniz. Nereye gitmek istediğinizi söyleyeceksiniz. Ne söylersiniz?",
+      "options": [
+        { "number": 1, "text": "En yakın istasyona kadar lütfen." },
+        { "number": 2, "text": "En yakın istasyona gidiyorum." },
+        { "number": 3, "text": "En yakın istasyona kadar gelin lütfen." }
+      ],
+      "question": "Ne söylersiniz?"
+    },
+    "en": {
+      "intro": "You are inside a taxi. You will tell the driver where you want to go. What do you say?",
+      "options": [
+        { "number": 1, "text": "To the nearest station, please." },
+        { "number": 2, "text": "I'm going to the nearest station." },
+        { "number": 3, "text": "Please come to the nearest station." }
+      ],
+      "question": "What do you say?"
+    },
+    "de": {
+      "intro": "Sie sitzen im Taxi. Sie sagen dem Fahrer, wohin Sie möchten. Was sagen Sie?",
+      "options": [
+        { "number": 1, "text": "Zum nächsten Bahnhof bitte." },
+        { "number": 2, "text": "Ich fahre zum nächsten Bahnhof." },
+        { "number": 3, "text": "Kommen Sie bitte zum nächsten Bahnhof." }
+      ],
+      "question": "Was sagen Sie?"
+    },
+    "fr": {
+      "intro": "Vous êtes dans un taxi. Vous dites au chauffeur où vous voulez aller. Que dites-vous?",
+      "options": [
+        { "number": 1, "text": "À la gare la plus proche, s'il vous plaît." },
+        { "number": 2, "text": "Je vais à la gare la plus proche." },
+        { "number": 3, "text": "Venez à la gare la plus proche, s'il vous plaît." }
+      ],
+      "question": "Que dites-vous?"
+    },
+    "es": {
+      "intro": "Estás dentro de un taxi. Vas a decirle al conductor adónde quieres ir. ¿Qué dices?",
+      "options": [
+        { "number": 1, "text": "A la estación más cercana, por favor." },
+        { "number": 2, "text": "Voy a la estación más cercana." },
+        { "number": 3, "text": "Venga a la estación más cercana, por favor." }
+      ],
+      "question": "¿Qué dices?"
+    },
+    "ko": {
+      "intro": "택시 안에 있습니다. 어디에 가고 싶은지 말합니다. 뭐라고 말합니까?",
+      "options": [
+        { "number": 1, "text": "가까운 역까지 부탁합니다." },
+        { "number": 2, "text": "가까운 역까지 갑니다." },
+        { "number": 3, "text": "가까운 역까지 와 주세요." }
+      ],
+      "question": "뭐라고 말합니까?"
+    }
+  },
+  "analysis": {
+    "vocabulary": [
+      {
+        "word": "おねがいします",
+        "reading": "おねがいします",
+        "meanings": {
+          "tr": "lütfen / rica ederim (bir şey talep ederken — taksiye binerken hedef bildirmede kullanılır)",
+          "en": "please / I ask you (used when making a request — standard when giving a taxi destination)",
+          "de": "bitte (beim Bitten oder Anweisen — Standard bei Taxizieleingabe)",
+          "fr": "s'il vous plaît (pour faire une demande — standard pour indiquer une destination en taxi)",
+          "es": "por favor (al hacer una solicitud — estándar para indicar destino en taxi)",
+          "ko": "부탁합니다 (요청할 때 — 택시에서 목적지를 알릴 때 사용하는 표준 표현)"
+        }
+      },
+      {
+        "word": "ちかく",
+        "reading": "ちかく",
+        "meanings": {
+          "tr": "yakın / yakındaki (mesafe bildiren sıfat)",
+          "en": "near / nearby (adjective indicating proximity)",
+          "de": "nah / nahe gelegen (Adjektiv für Nähe)",
+          "fr": "proche / à proximité (adjectif indiquant la proximité)",
+          "es": "cerca / cercano (adjetivo que indica proximidad)",
+          "ko": "가까운 / 근처의 (가까움을 나타내는 형용사)"
+        }
+      },
+      {
+        "word": "えき",
+        "reading": "えき",
+        "meanings": {
+          "tr": "istasyon / tren / metro istasyonu",
+          "en": "station (train / subway station)",
+          "de": "Bahnhof / Station",
+          "fr": "gare / station",
+          "es": "estación (de tren / metro)",
+          "ko": "역 (기차역 / 지하철역)"
+        }
+      }
+    ],
+    "grammar": [
+      {
+        "point": "～まで　おねがいします",
+        "meanings": {
+          "tr": "Taksiye binerken veya ulaşım araçlarında gidilecek yeri bildirirken kullanılan standart kalıp.",
+          "en": "Standard pattern used to give a destination when riding a taxi or other transport.",
+          "de": "Standardmuster zur Angabe des Ziels in einem Taxi oder Transportmittel.",
+          "fr": "Expression standard pour indiquer une destination dans un taxi ou transport.",
+          "es": "Patrón estándar para indicar un destino en un taxi u otro transporte.",
+          "ko": "택시나 교통수단을 탈 때 목적지를 알리는 표준 표현."
+        }
+      }
+    ]
+  },
+  "logic": {
+    "tr": "Ok karakteri taksiye binen ve nereye gideceğini söylemek isteyen yolcudur. '1. ちかくのえきまでおねがいします' (En yakın istasyona kadar lütfen.) doğrudur — taksiye binildiğinde hedef bildirmek için kullanılan standart talep kalıbıdır. Seçenek 2 'ちかくのえきまでいきます' sadece bir durum bildirimi yapar, talep değildir (Yön Karışıklığı). Seçenek 3 'ちかくのえきまできてください' sürücüden istasyona 'gelmesini' ister — oysa sürücü zaten orada ve yolcu onu istasyona 'götürmesini' istemektedir (Rol Karışıklığı).",
+    "en": "The arrow character is a passenger who needs to tell the taxi driver their destination. '1. ちかくのえきまでおねがいします' is correct — standard request pattern for giving a taxi destination. Option 2 'ちかくのえきまでいきます' makes a statement, not a request (Direction Confusion). Option 3 'ちかくのえきまできてください' asks the driver to 'come' to the station — the driver is already there and should 'take' the passenger (Role Confusion).",
+    "de": "'1. ちかくのえきまでおねがいします' ist korrekt. Option 2 macht eine Aussage, keine Bitte (Richtungsverwechslung). Option 3 'きてください' bittet den Fahrer zu 'kommen' — falsche Richtung (Rollenverwechslung).",
+    "fr": "'1. ちかくのえきまでおねがいします' est correct. L'option 2 fait une déclaration, pas une demande (confusion de direction). L'option 3 'きてください' demande au chauffeur de 'venir' — mauvaise direction (confusion de rôles).",
+    "es": "'1. ちかくのえきまでおねがいします' es correcto. La opción 2 hace una declaración, no una petición (confusión de dirección). La opción 3 'きてください' le pide al conductor que 'venga' — dirección equivocada (confusión de roles).",
+    "ko": "'1. ちかくのえきまでおねがいします'가 정답입니다. 선택지 2는 요청이 아닌 상태를 말하는 표현입니다(방향 혼동). 선택지 3 'きてください'는 기사에게 '와 달라'고 하는 말로 방향이 틀립니다(역할 혼동)."
+  },
+  "image_prompt": "Simple manga-style line drawing, black and white. Inside a taxi. A young man with simple round head sits in the back seat leaning slightly forward, speaking to the driver. A male taxi driver with simple round head sits in the front seat turned slightly to listen. A taxi meter is visible on the dashboard. Cartoon style with simple round faces, clean outlines, white background, no shading, no color, no text, no arrows. Same style as JLPT N5 textbook manga illustrations."
+}

@@ -2,11 +2,11 @@
   "tts_script": [
     { "voice": "Intro_Voice", "text": "ともだちが　きゅうに　くるしそうに　しています。なんといいますか。" },
     { "break": "1s" },
-    { "voice": "Female_1", "text": "１　おだいじに。" },
+    { "voice": "Female_1", "text": "１　どうしましたか。" },
     { "break": "0.8s" },
-    { "voice": "Female_1", "text": "２　どうしましたか。" },
+    { "voice": "Female_1", "text": "２　おめでとうございます。" },
     { "break": "0.8s" },
-    { "voice": "Female_1", "text": "３　おめでとうございます。" },
+    { "voice": "Female_1", "text": "３　いってらっしゃい。" },
     { "break": "1s" },
     { "voice": "Intro_Voice", "text": "ともだちに　なんといいますか。" }
   ]

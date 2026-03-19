@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "時計を忘れました。今の時間が知りたいです。",
+      "options": [
+        { "number": 1, "text": "今、何時？" },
+        { "number": 2, "text": "今、時間がある？" },
+        { "number": 3, "text": "今、10時だよ。" }
+      ],
+      "question": "友達に何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "先生の部屋に入ります。",
+      "options": [
+        { "number": 1, "text": "また明日。" },
+        { "number": 2, "text": "失礼します。" },
+        { "number": 3, "text": "どうぞ。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "友達が結婚します。",
+      "options": [
+        { "number": 1, "text": "いらっしゃい。" },
+        { "number": 2, "text": "おめでとう。" },
+        { "number": 3, "text": "ありがとう。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "バスで京都に行きます。切符を買います。",
+      "options": [
+        { "number": 1, "text": "京都にバスで行ってください。" },
+        { "number": 2, "text": "京都で切符を買ってください。" },
+        { "number": 3, "text": "京都まで1枚ください。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "スプーンで食べたいです。",
+      "options": [
+        { "number": 1, "text": "スプーンはいかがですか？" },
+        { "number": 2, "text": "スプーンはありませんか？" },
+        { "number": 3, "text": "スプーンで食べましょうか？" }
+      ],
+      "question": "店の人に何と言いますか？"
+    }
+  ]
+}

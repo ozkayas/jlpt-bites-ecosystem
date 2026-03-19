@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "intro": "友達が家へ遊びに来ました。",
+      "options": [
+        { "number": 1, "text": "どうぞ入ってください。" },
+        { "number": 2, "text": "どうぞ来てください。" },
+        { "number": 3, "text": "どうぞ行ってください。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 2,
+      "intro": "朝、学校へ行きます。",
+      "options": [
+        { "number": 1, "text": "さようなら。" },
+        { "number": 2, "text": "行ってきます。" },
+        { "number": 3, "text": "お疲れ様です。" }
+      ],
+      "question": "家の人に何と言いますか？"
+    },
+    {
+      "number": 3,
+      "intro": "友達が元気がありません。",
+      "options": [
+        { "number": 1, "text": "どうしましょうか。" },
+        { "number": 2, "text": "どうしましたか。" },
+        { "number": 3, "text": "どうしますか。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 4,
+      "intro": "友達に旅行の写真を見せたいです。",
+      "options": [
+        { "number": 1, "text": "これ、見ないでください。" },
+        { "number": 2, "text": "これ、見せてください。" },
+        { "number": 3, "text": "これ、見てください。" }
+      ],
+      "question": "何と言いますか？"
+    },
+    {
+      "number": 5,
+      "intro": "学校から家へ帰りました。",
+      "options": [
+        { "number": 1, "text": "ただいま。" },
+        { "number": 2, "text": "いらっしゃい。" },
+        { "number": 3, "text": "お帰りなさい。" }
+      ],
+      "question": "家の人に何と言いますか？"
+    }
+  ]
+}
